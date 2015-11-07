@@ -1,3 +1,222 @@
 @charset "UTF-8";
 @import 'compass';
 @import 'compass/reset';
+$img-path: "../images/";
+$black: #111;
+$whitebg: #f5f5f5;
+$white: #fff;
+$margin-t80: 80px;
+$top-buffer: 30px;
+$gray-text: #666;
+$lighter-gray: #999;
+
+html {
+  font-size: 14px;
+}
+body {
+  word-wrap: break-word;
+  color: #222;
+}
+h1,
+h2,
+h3 {
+  color: $white;
+}
+
+h3 {
+  font-size: 3rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
+h1 {
+  font-size: 7rem;
+}
+.small-heading {
+  font-size: 2rem;
+}
+.align-center {
+  text-align: center;
+}
+.container-center {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1000px;
+}
+.large-heading {
+  font-size: 5rem;
+}
+.font-bold {
+  font-weight: bold;
+}
+.worksimg {
+  width: 100%;
+  height: auto;
+}
+p {
+  font-size: 1.5rem;
+  line-height: 1.8;
+}
+.align-right {
+  text-align: right;
+}
+.small-text {
+  font-size: 1rem;
+}
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
+}
+.white-text {
+  color: $white;
+}
+.gray-text {
+  color: $gray-text;
+}
+.lighter-gray {
+  color: $lighter-gray;
+}
+.black-text {
+  color: $black;
+}
+.whitebg {
+  background-color: $whitebg;
+}
+
+.blackbg {
+  background-color: $black;
+}
+
+.purewhitebg {
+  background-color: #fff;
+}
+.companyname {
+  height: 100%;
+  line-height: 70px;
+  letter-spacing: 1px;
+}
+.blackbar {
+  transition-duration: 0.2s;
+  background-color: #111;
+}
+.box50 {
+  width: 50%;
+}
+.offset-50 {
+  margin-left: 50%;
+}
+.condensed-bold {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  letter-spacing: .5px;
+}
+.condensed-normal {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: normal;
+}
+.top-buffer {
+  margin-top: $top-buffer;
+}
+
+.bottom-buffer {
+  margin-bottom: $top-buffer
+}
+
+.top-buffer-pudding {
+  padding-top: $top-buffer;
+}
+
+.bottom-buffer-pudding {
+  padding-bottom: $top-buffer;
+}
+.margin-t80 {
+  margin-top: $margin-t80;
+}
+.width1000 {
+  width: 1000px;
+  margin: 0 auto;
+}
+.section-padding80 {
+  padding: 80px 0;
+}
+.section-padding100 {
+  padding: 100px 0;
+}
+.keyvisual {
+  background-image: url("#{$img-path}keyvisual-pc.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+.kv-table {
+  display: table;
+  margin: 0 auto;
+  max-width: 1000px;
+  width: 100%;
+}
+.kv-table-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+.ghostbtn {
+  background: transparent;
+  border: 2px solid $white;
+  &:hover {
+    background: $white;
+    transition-duration: 0.2s;
+    span {
+      color: $black;
+      transition-duration: 0.2s;
+    }
+  }
+}
+.section-table {
+  @extend .kv-table;
+}
+.s-table-cell {
+  @extend .kv-table-cell;
+}
+.whatwedo {
+  background-image: url("#{$img-path}whatwedo.jpg");
+  background-size: 100% auto;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+.culture {
+  @extend .whatwedo;
+  background-image: url("#{$img-path}culture.jpg");
+}
+.parent-relative {
+  position: relative;
+}
+.child-absolute {
+  position: absolute;
+  top: -17px;
+  left: 20px;
+}
+.tagred {
+  background: #d26d6d;
+  width: 100px;
+  text-align: center;
+  padding: 10px 0;
+  letter-spacing: .5px;
+}
+.tagblue {
+  @extend .tagred;
+  background: #4373b1;
+
+}
+.taggreen {
+  @extend .tagred;
+  background: #55ad56;
+}
+.contact-recruit {
+  @extend .keyvisual;
+  background-image: url("#{$img-path}contact-recruit.jpg");
+
+}

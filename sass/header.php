@@ -26,34 +26,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <script src="<?php bloginfo('template_url');?>/js/jquery-1.11.3.min.js"></script>
-<script src="<?php bloginfo('template_directory'); ?>/js/owl.carousel.min.js"></script>
-	<link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/owl.carousel.min.css">
-<link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/owl.theme.default.min.css">
 <link rel="stylesheet" href="<?php bloginfo('stylesheet_url');?>">
-<script>
-  $(document).ready(function(){
-
-$('.owl-carousel').owlCarousel({
-    loop:true,
-    margin:30,
-		nav:true,
-    navText: [
-      "<i class='fa fa-chevron-left' style='padding:0 2px'></i>",
-      "<i class='fa fa-chevron-right' style='padding:0 2px'></i>"
-      ],
-		slideBy:2,
-		dots:true,
-    responsive:{
-        0:{
-            items:2
-        },
-        600:{
-            items:2
-        },
-    }
-})
-  });
-</script>
 	<?php wp_head();?>
 </head>
 <body <?php body_class(); ?>>

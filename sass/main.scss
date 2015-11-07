@@ -1,2 +1,5 @@
 @charset "UTF-8";
-@import "top", "nav", "footer";
+@import "top";
+@import "nav";
+@import "base";
+@import "footer";

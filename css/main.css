@@ -53,3 +53,322 @@ a img {
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
 }
+
+html {
+  font-size: 14px;
+}
+
+body {
+  word-wrap: break-word;
+  color: #222;
+}
+
+h1,
+h2,
+h3 {
+  color: #fff;
+}
+
+h3 {
+  font-size: 3rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-size: 7rem;
+}
+
+.small-heading {
+  font-size: 2rem;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.container-center {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1000px;
+}
+
+.large-heading {
+  font-size: 5rem;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.worksimg {
+  width: 100%;
+  height: auto;
+}
+
+p {
+  font-size: 1.5rem;
+  line-height: 1.8;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.small-text {
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.gray-text {
+  color: #666;
+}
+
+.lighter-gray {
+  color: #999;
+}
+
+.black-text {
+  color: #111;
+}
+
+.whitebg {
+  background-color: #f5f5f5;
+}
+
+.blackbg {
+  background-color: #111;
+}
+
+.purewhitebg {
+  background-color: #fff;
+}
+
+.companyname {
+  height: 100%;
+  line-height: 70px;
+  letter-spacing: 1px;
+}
+
+.blackbar {
+  transition-duration: 0.2s;
+  background-color: #111;
+}
+
+.box50 {
+  width: 50%;
+}
+
+.offset-50 {
+  margin-left: 50%;
+}
+
+.condensed-bold {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  letter-spacing: .5px;
+}
+
+.condensed-normal, .topmenu ul li a, .footernav ul li a {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: normal;
+}
+
+.top-buffer {
+  margin-top: 30px;
+}
+
+.bottom-buffer {
+  margin-bottom: 30px;
+}
+
+.top-buffer-pudding {
+  padding-top: 30px;
+}
+
+.bottom-buffer-pudding {
+  padding-bottom: 30px;
+}
+
+.margin-t80 {
+  margin-top: 80px;
+}
+
+.width1000 {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.section-padding80 {
+  padding: 80px 0;
+}
+
+.section-padding100 {
+  padding: 100px 0;
+}
+
+.keyvisual, .contact-recruit {
+  background-image: url("../images/keyvisual-pc.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+
+.kv-table, .section-table {
+  display: table;
+  margin: 0 auto;
+  max-width: 1000px;
+  width: 100%;
+}
+
+.kv-table-cell, .s-table-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.ghostbtn {
+  background: transparent;
+  border: 2px solid #fff;
+}
+.ghostbtn:hover {
+  background: #fff;
+  transition-duration: 0.2s;
+}
+.ghostbtn:hover span {
+  color: #111;
+  transition-duration: 0.2s;
+}
+
+.whatwedo, .culture {
+  background-image: url("../images/whatwedo.jpg");
+  background-size: 100% auto;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.culture {
+  background-image: url("../images/culture.jpg");
+}
+
+.parent-relative {
+  position: relative;
+}
+
+.child-absolute {
+  position: absolute;
+  top: -17px;
+  left: 20px;
+}
+
+.tagred, .tagblue, .taggreen {
+  background: #d26d6d;
+  width: 100px;
+  text-align: center;
+  padding: 10px 0;
+  letter-spacing: .5px;
+}
+
+.tagblue {
+  background: #4373b1;
+}
+
+.taggreen {
+  background: #55ad56;
+}
+
+.contact-recruit {
+  background-image: url("../images/contact-recruit.jpg");
+}
+
+.menuwrapper, .menuwrapper-lower {
+  width: 100%;
+  height: 70px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  transition-duration: 0.3s;
+  transition-property: background-color;
+  transition-timing-function: ease;
+}
+
+.menuwrapper-lower {
+  background-color: #111;
+}
+
+.topmenu {
+  width: 100%;
+  max-width: 1000px;
+  height: 70px;
+  margin: 0 auto;
+}
+.topmenu ul {
+  width: 50%;
+  float: right;
+}
+.topmenu ul li {
+  float: left;
+  width: 16.66667%;
+}
+.topmenu ul li a {
+  display: block;
+  text-align: center;
+  line-height: 70px;
+  color: #fff;
+  font-size: 1.2rem;
+  letter-spacing: 0.5px;
+}
+
+.contents-wrapper {
+  padding-top: 70px;
+}
+
+.lower-top {
+  height: 400px;
+  overflow: hidden;
+}
+.lower-top img {
+  width: 100%;
+  height: 400px;
+}
+
+.darktheme {
+  background-color: #282727;
+}
+
+.footernav {
+  width: 100%;
+  max-width: 1000px;
+  height: 70px;
+  margin: 0 auto;
+}
+.footernav ul {
+  width: 100%;
+  margin: 0 auto;
+}
+.footernav ul li {
+  float: left;
+  width: 16.66667%;
+}
+.footernav ul li a {
+  display: block;
+  text-align: center;
+  line-height: 70px;
+  color: #fff;
+  font-size: 1.2rem;
+  letter-spacing: 0.5px;
+}

@@ -1,2 +1,26 @@
 @charset "UTF-8";
 @import 'compass';
+
+.footernav {
+  width: 100%;
+  max-width: 1000px;
+  height: 70px;
+  margin: 0 auto;
+  ul {
+    width: 100%;
+    margin: 0 auto;
+    li {
+      float: left;
+      width: (100%/6);
+      a {
+        display: block;
+        text-align: center;
+        line-height: 70px;
+        color: $white;
+        font-size: 1.2rem;
+        @extend .condensed-normal;
+        letter-spacing: 0.5px;
+      }
+    }
+  }
+}

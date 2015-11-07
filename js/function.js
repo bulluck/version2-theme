@@ -1,4 +1,21 @@
-$("#keyvisual").bgswitcher({
-  images: ["./wp-content/themes/ATOGAMA/images/slide1.jpg", "./wp-content/themes/ATOGAMA/images/slide2.jpg", "./wp-content/themes/ATOGAMA/images/slide3.jpg", "./wp-content/themes/ATOGAMA/images/slide4.jpg", "./wp-content/themes/ATOGAMA/images/slide5.jpg"],
+$(document).ready(function () {
+  hsize = $(window).height();
+  $(".js-height").css("height", hsize + "px");
+});
+$(window).resize(function () {
+  hsize = $(window).height();
+  $(".js-height").css("height", hsize + "px");
+});
+
+$(window).scroll(function () {
+  var nav = $("#menuwrapper");
+  if ($("#change-menu-bg")[0]){
+  var distance = $("#change-menu-bg").offset().top - $(window).scrollTop();
+  if(distance < 75) {
+    nav.addClass('blackbar');
+  } else {
+    nav.removeClass('blackbar');
+  }
+  }
 
 });
