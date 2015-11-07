@@ -22,11 +22,10 @@
   height: 70px;
   margin: 0 auto;
   ul {
-    width: 50%;
     float: right;
     li {
       float: left;
-      width: (100%/6);
+      margin-left: 30px;
       a {
         display: block;
         text-align: center;

@@ -317,12 +317,11 @@ a:hover {
   margin: 0 auto;
 }
 .topmenu ul {
-  width: 50%;
   float: right;
 }
 .topmenu ul li {
   float: left;
-  width: 16.66667%;
+  margin-left: 30px;
 }
 .topmenu ul li a {
   display: block;
