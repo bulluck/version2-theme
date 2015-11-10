@@ -10,7 +10,7 @@
             マーケティングとテクノロジーで新たな価値を提供します。
           </h4>
           <p class="small-text top-buffer-pudding">
-            ブラックは、マーケティングとテクノロジーによる、想像を越える新たな価値を提供することで、皆様のビジネスに貢献できると信じています。「受注率にコミットする」サイト/ランディングページをご提案します。
+            ブラックは、マーケティングとテクノロジーにおいて差別化を図っています。そして、想像を越える新たな価値を提供することで、皆様のビジネスに貢献できると信じています。この「受注率にコミットする」サイト/ランディングページをご提案します。
           </p>
           <div class="align-center bottom-buffer-pudding top-buffer-pudding">
             <a class="top-buffer btn btn-default btn-lg" href="<?php echo site_url('/contact/');?>">
