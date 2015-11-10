@@ -54,13 +54,13 @@
         <div class="row">
 
           <h2 class="condensed-bold black-text large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            Of the level difference.
+            Overwhelming quality and performance.
           </h2>
         </div>
         <div class="row">
 
         <h3 class="black-text top-buffer font-bold small-heading col-xs-12 col-sm-8  col-md-8 col-lg-8">
-          品質の違い。
+          圧倒的な品質と実績。
         </h3>
         </div>
     </div>
