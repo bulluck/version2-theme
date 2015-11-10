@@ -3,10 +3,10 @@
     <div class="container-center">
       <div class="container-fluid">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod...
+         In marketing and technology of power create the world beyond your imagination.
         </p>
         <p class="gray-text">
-          ダミーテキストダミーテキストダミーテキストダミーテキスト
+          マーケティングとテクノロジーであなたの想像を越える世界を創る。
         </p>
       </div>
     </div>
@@ -22,17 +22,17 @@
         </div>
         <div class="row">
         <h2 class="condensed-bold large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-          Lorem ipsum<br>dolor
+          Marketing and Technology.
         </h2>
         </div>
         <div class="row">
         <h3 class="margin-t80 font-bold small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-          ダミーテキストダミーテキストダミーテキストダミーテキスト
+          「受注率にコミットする」サイト/LP制作。
         </h3>
         </div>
         <div class="row">
         <p class="white-text top-buffer small-text col-xs-12 col-sm-8 col-md-8 col-lg-8">
-          ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+          コンサルティングファームからスピンアウトした経営コンサルタントが、「受注率にコミット」したサイト/ランディングページを設計します。マーケティングを極めた宮川(CEO)と、テクノロジーを極めた関根(CTO)が監修するサイトは受注率が一桁違います。
         </p>
         </div>
         <a class="top-buffer btn ghostbtn" href="./service/">
@@ -54,13 +54,13 @@
         <div class="row">
 
           <h2 class="condensed-bold black-text large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            Lorem ipsum dolor
+            Of the level difference.
           </h2>
         </div>
         <div class="row">
 
         <h3 class="black-text top-buffer font-bold small-heading col-xs-12 col-sm-8  col-md-8 col-lg-8">
-          ダミーテキストダミーテキスト
+          品質の違い。
         </h3>
         </div>
     </div>
@@ -94,17 +94,17 @@
         </div>
         <div class="row">
           <h2 class="condensed-bold large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8 col-sm-push-4 col-md-push-4 col-lg-push-4">
-            Lorem ipsum dolor
+            As a result, not the process.
           </h2>
         </div>
         <div class="row">
           <h3 class="margin-t80 font-bold small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8 col-sm-push-4 col-md-push-4 col-lg-push-4">
-            ダミーテキストダミーテキストダミーテキストダミーテキスト
+            結果のみを追求する。
           </h3>
         </div>
         <div class="row">
           <p class="white-text top-buffer small-text col-xs-12 col-sm-8 col-md-8 col-lg-8 col-sm-push-4 col-md-push-4 col-lg-push-4">
-            ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+            ブラックが、ビジネスを遂行する上で、最優先にするべきことは結果と顧客の利益の追求です。ビジネスの成功は、顧客への貢献の結果より得られるものであり、これは世界に数多ある成功企業を見れば自明であることがわかります。
           </p>
         </div>
         <a class="top-buffer btn ghostbtn" href="<?php echo site_url('/about-us/');?>">
@@ -128,12 +128,12 @@
           </div>
           <div class="row">
             <h2 class="condensed-bold black-text large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              Lorem ipsum
+              Bulluck anytime.
             </h2>
           </div>
           <div class="row">
             <h3 class="black-text top-buffer font-bold small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              ダミーテキストダミーテキスト
+              いつでもブラック。
             </h3>
           </div>
         </div>
