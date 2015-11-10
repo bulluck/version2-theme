@@ -50,7 +50,7 @@
       </div>
       <div class="col-xs-4 col-lg-4">
         <p class="small-text black-text">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        サイト制作/ランディングページ制作/アプリ開発/経営コンサルティング/プリシパルインベストメント
         </p>
       </div>
     </div>
