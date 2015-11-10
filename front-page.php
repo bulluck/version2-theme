@@ -133,7 +133,7 @@
           </div>
           <div class="row">
             <h3 class="black-text top-buffer font-bold small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              いつでもブラック。
+              いつでもブラックな情報を。
             </h3>
           </div>
         </div>
