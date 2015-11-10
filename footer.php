@@ -45,7 +45,7 @@
     <div class="row">
       <div class="col-xs-6 col-lg-6">
         <span class="small-heading condensed-bold">
-          Bulluck
+          Bulluck Co., Ltd.
         </span>
       </div>
       <div class="col-xs-4 col-lg-4">

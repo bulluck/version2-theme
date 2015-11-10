@@ -45,7 +45,7 @@
 
 		<nav class="topmenu col-xs-6 col-sm-12 col-md-12 col-lg-12">
 			<a href="<?php echo site_url();?>">
-		 		<span class="white-text companyname condensed-bold small-heading">Bulluck</span>
+		 		<span class="white-text companyname condensed-bold small-heading">Bulluck Co., Ltd.</span>
 			</a>
 			<?php
 			wp_nav_menu(
