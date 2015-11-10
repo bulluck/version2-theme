@@ -1,6 +1,21 @@
 @charset "UTF-8";
 @import 'compass';
 $darktheme: #282727;
+
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+    visibility: hidden;
+  }
+}
+
+.clearfix {
+  @include clearfix;
+}
+
 .contents-wrapper {
   padding-top: 70px;
 }
@@ -17,10 +32,14 @@ $darktheme: #282727;
 }
 .contact-form {
   margin: 0 auto;
+  width: 100%;
+  max-width: 800px;
+
   tr {
     th {
       padding: 10px;
       @extend .font-bold;
+      width: 40%;
       .require {
         border-radius: 5px;
         background-color: #c64242;
@@ -37,10 +56,14 @@ $darktheme: #282727;
     td {
       padding: 10px;
       border-style: none;
+      width: 60%;
+      .form-group {
+        margin-bottom: 0;
+      }
       input {
         border-radius: 3px;
         border-style: none;
-        background-color: #f2f2f2;
+        background-color: #f0f0f0;
         padding-right: 10px;
         padding-left: 10px;
         width: 100%;
@@ -52,7 +75,7 @@ $darktheme: #282727;
       textarea {
         border-radius: 3px;
         border-style: none;
-        background-color: #f2f2f2;
+        background-color: #f0f0f0;
         padding-right: 10px;
         padding-left: 10px;
         width: 100%;
@@ -94,4 +117,43 @@ div.wpcf7 img.ajax-loader {
   background-color: #faf2e0;
   border-radius: 3px;
 
+}
+
+.align-center {
+  .form-group {
+    display: inline-block;
+  }
+  label {
+    display: inline;
+    .wpcf7-acceptance {
+      margin-top: 0;
+    }
+  }
+}
+
+@media only screen and (max-width:1024px) {
+  .contents-wrapper {
+    padding-top: 90px;
+  }
+  .owl-nav {
+    display: none;
+  }
+}
+
+@media only screen and (max-width:600px) {
+  .contents-wrapper {
+    padding-top: 20px;
+  }
+  .contact-form {
+    tr td {
+      display: block;
+      width: 100%;
+    }
+    tr th {
+      display: block;
+      background: #111;
+      width: 100%;
+      color: #fff;
+    }
+  }
 }

@@ -15,20 +15,11 @@
 				   </time>
 
 				</div>
-				<div class="viewcnt">
-				<img class="viewsicon" alt="" src="<?php bloginfo('template_url');?>/images/views.png">
-						<span class="viewspan"><?php if (function_exists('wpp_get_views')) {
-    echo wpp_get_views(get_the_ID());
-} ?> views</span>
-				</div>
 		   </section>
 		   <?php if (has_tag()) :?>
 			   <?php
                the_tags('<div class="tags">', '</div><div class="tags">', '</div>');
                ?>
-		   <p class="tagname">
-			タグ：
-		   </p>
 	   <?php endif;  ?>
 	   </div>
 </article>

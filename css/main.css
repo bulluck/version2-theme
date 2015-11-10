@@ -1,3 +1,4 @@
+@charset "UTF-8";
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -61,6 +62,8 @@ html {
 body {
   word-wrap: break-word;
   color: #222;
+  background: #f5f5f5;
+  font-family: '游ゴシック', 'Yu Gothic', YuGothic, 'Modern', sans-serif;
 }
 
 h1,
@@ -78,7 +81,7 @@ h4 {
 }
 
 h1 {
-  font-size: 7rem;
+  font-size: 6rem;
 }
 
 .small-heading {
@@ -93,6 +96,13 @@ h1 {
   margin: 0 auto;
   width: 100%;
   max-width: 1000px;
+}
+.container-center:after {
+  content: "";
+  display: block;
+  clear: both;
+  height: 0;
+  visibility: hidden;
 }
 
 .large-heading {
@@ -157,7 +167,6 @@ a:hover {
 }
 
 .companyname {
-  height: 100%;
   line-height: 70px;
   letter-spacing: 1px;
 }
@@ -176,13 +185,13 @@ a:hover {
 }
 
 .condensed-bold {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'arial narrow',sans-serif;
   font-weight: bold;
   letter-spacing: .5px;
 }
 
 .condensed-normal, .topmenu ul li a, .footernav ul li a {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'arial narrow', sans-serif;
   font-weight: normal;
 }
 
@@ -219,7 +228,7 @@ a:hover {
   padding: 100px 0;
 }
 
-.keyvisual, .contact-recruit {
+.keyvisual, .whatwedo, .culture, .contact-recruit {
   background-image: url("../images/keyvisual-pc.jpg");
   background-position: center center;
   background-repeat: no-repeat;
@@ -255,9 +264,6 @@ a:hover {
 
 .whatwedo, .culture {
   background-image: url("../images/whatwedo.jpg");
-  background-size: 100% auto;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
 }
 
 .culture {
@@ -294,8 +300,49 @@ a:hover {
   background-image: url("../images/contact-recruit.jpg");
 }
 
+@media only screen and (max-width: 1024px) {
+  html {
+    font-size: 12px;
+  }
+
+  h1 {
+    font-size: 4.5rem;
+  }
+
+  p {
+    line-height: 1.5;
+    font-size: 1.2rem;
+  }
+
+  .large-heading {
+    font-size: 4rem;
+  }
+
+  .small-heading {
+    font-size: 1.5rem;
+  }
+
+  .section-padding100 {
+    padding: 50px 0;
+  }
+
+  .section-padding80 {
+    padding: 30px 0;
+  }
+
+  .top-buffer, div.wpcf7 img.ajax-loader {
+    margin-top: 10px;
+  }
+
+  .top-buffer-pudding {
+    padding-top: 10px;
+  }
+
+  .margin-t80 {
+    margin-top: 30px;
+  }
+}
 .menuwrapper, .menuwrapper-lower {
-  width: 100%;
   height: 70px;
   position: fixed;
   left: 0;
@@ -311,8 +358,6 @@ a:hover {
 }
 
 .topmenu {
-  width: 100%;
-  max-width: 1000px;
   height: 70px;
   margin: 0 auto;
 }
@@ -330,6 +375,35 @@ a:hover {
   color: #fff;
   font-size: 1.2rem;
   letter-spacing: 0.5px;
+}
+
+.navbar-toggle {
+  position: fixed;
+  top: 10px;
+  right: 60px;
+}
+
+@media only screen and (max-width: 600px) {
+  .topmenu {
+    display: inline-block;
+    top: -10px;
+    left: 0;
+    position: fixed;
+    z-index: 999999;
+  }
+
+  .menuwrapper, .menuwrapper-lower,
+  .menuwrapper-lower {
+    height: auto;
+    position: inherit;
+  }
+}
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+  height: 0;
+  visibility: hidden;
 }
 
 .contents-wrapper {
@@ -351,9 +425,12 @@ a:hover {
 
 .contact-form {
   margin: 0 auto;
+  width: 100%;
+  max-width: 800px;
 }
 .contact-form tr th {
   padding: 10px;
+  width: 40%;
 }
 .contact-form tr th .require {
   border-radius: 5px;
@@ -370,11 +447,15 @@ a:hover {
 .contact-form tr td {
   padding: 10px;
   border-style: none;
+  width: 60%;
+}
+.contact-form tr td .form-group {
+  margin-bottom: 0;
 }
 .contact-form tr td input {
   border-radius: 3px;
   border-style: none;
-  background-color: #f2f2f2;
+  background-color: #f0f0f0;
   padding-right: 10px;
   padding-left: 10px;
   width: 100%;
@@ -386,7 +467,7 @@ a:hover {
 .contact-form tr td textarea {
   border-radius: 3px;
   border-style: none;
-  background-color: #f2f2f2;
+  background-color: #f0f0f0;
   padding-right: 10px;
   padding-left: 10px;
   width: 100%;
@@ -423,6 +504,41 @@ div.wpcf7 img.ajax-loader {
   border-radius: 3px;
 }
 
+.align-center .form-group {
+  display: inline-block;
+}
+.align-center label {
+  display: inline;
+}
+.align-center label .wpcf7-acceptance {
+  margin-top: 0;
+}
+
+@media only screen and (max-width: 1024px) {
+  .contents-wrapper {
+    padding-top: 90px;
+  }
+
+  .owl-nav {
+    display: none;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .contents-wrapper {
+    padding-top: 20px;
+  }
+
+  .contact-form tr td {
+    display: block;
+    width: 100%;
+  }
+  .contact-form tr th {
+    display: block;
+    background: #111;
+    width: 100%;
+    color: #fff;
+  }
+}
 .footernav {
   width: 100%;
   max-width: 1000px;
@@ -435,7 +551,7 @@ div.wpcf7 img.ajax-loader {
 }
 .footernav ul li {
   float: left;
-  width: 16.66667%;
+  width: 25%;
 }
 .footernav ul li a {
   display: block;
@@ -444,4 +560,13 @@ div.wpcf7 img.ajax-loader {
   color: #fff;
   font-size: 1.2rem;
   letter-spacing: 0.5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .footernav {
+    height: 50px;
+  }
+  .footernav ul li a {
+    line-height: 50px;
+  }
 }

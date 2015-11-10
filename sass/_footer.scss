@@ -11,7 +11,7 @@
     margin: 0 auto;
     li {
       float: left;
-      width: (100%/6);
+      width: (100%/4);
       a {
         display: block;
         text-align: center;
@@ -23,4 +23,15 @@
       }
     }
   }
+}
+
+@media only screen and (max-width:600px) {
+  .footernav {
+    height: 50px;
+
+    ul li a {
+      line-height: 50px;
+    }
+  }
+
 }
