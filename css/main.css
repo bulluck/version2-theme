@@ -208,11 +208,11 @@ a:hover {
   margin-bottom: 30px;
 }
 
-.top-buffer-pudding {
+.top-buffer-padding {
   padding-top: 30px;
 }
 
-.bottom-buffer-pudding {
+.bottom-buffer-padding {
   padding-bottom: 30px;
 }
 
@@ -491,9 +491,9 @@ a:hover {
   }
 }
 .clearfix:after {
-  content: "";
-  display: block;
   clear: both;
+  content: '';
+  display: block;
   height: 0;
   visibility: hidden;
 }
@@ -507,8 +507,8 @@ a:hover {
   overflow: hidden;
 }
 .lower-top img {
-  width: 100%;
   height: 400px;
+  width: 100%;
 }
 
 .darktheme {
@@ -517,28 +517,28 @@ a:hover {
 
 .contact-form {
   margin: 0 auto;
-  width: 100%;
   max-width: 800px;
+  width: 100%;
 }
 .contact-form tr th {
   padding: 10px;
   width: 40%;
 }
 .contact-form tr th .require {
-  border-radius: 5px;
   background-color: #c64242;
+  border-radius: 5px;
+  color: #fff;
   float: right;
-  color: white;
-  padding: 3px 5px;
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-weight: normal;
-  margin-top: -2px;
-  margin-left: 10px;
   letter-spacing: 1px;
+  margin-left: 10px;
+  margin-top: -2px;
+  padding: 3px 5px;
 }
 .contact-form tr td {
-  padding: 10px;
   border-style: none;
+  padding: 10px;
   width: 60%;
 }
 .contact-form tr td .form-group {
@@ -552,20 +552,18 @@ a:hover {
   padding-left: 10px;
   width: 100%;
   height: 30px;
-  border: none;
+  border: 0;
   line-height: 150%;
-  box-sizing: border-box;
 }
 .contact-form tr td textarea {
-  border-radius: 3px;
   border-style: none;
+  border-radius: 3px;
   background-color: #f0f0f0;
   padding-right: 10px;
   padding-left: 10px;
   width: 100%;
-  border: none;
+  border: 0;
   line-height: 150%;
-  box-sizing: border-box;
 }
 
 .agreespan {
@@ -582,10 +580,9 @@ div.wpcf7 img.ajax-loader {
   padding-left: 10px;
   width: 100%;
   height: 30px;
-  border: 1px solid red;
+  border: 1px solid #ff0000;
   border-radius: 3px;
   line-height: 30px;
-  box-sizing: border-box;
   margin-top: 5px;
 }
 

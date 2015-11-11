@@ -1,18 +1,18 @@
 <?php if (!is_page('contact') and !is_page('privacy-policy')):?>
 <section class="section-padding100 contact-recruit">
-  <div class="container-center">
+  <div class="container-c-narrow">
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <div class="col-xs-12 col-sm-12 col-lg-12 purewhitebg">
-          <h3 class="condensed-bold black-text top-buffer-pudding">CONTACT US</h3>
-          <h4 class="gray-text top-buffer-pudding font-bold">
+          <h3 class="condensed-bold black-text top-buffer-padding">CONTACT US</h3>
+          <h4 class="gray-text top-buffer-padding font-bold">
             マーケティングとテクノロジーで新たな価値を提供します。
           </h4>
-          <p class="small-text top-buffer-pudding">
+          <p class="small-text top-buffer-padding">
             ブラックは、マーケティングとテクノロジーにおいて差別化を図っています。そして、想像を越える新たな価値を提供することで、皆様のビジネスに貢献できると信じています。この「受注率にコミットする」サイト/ランディングページをご提案します。
           </p>
-          <div class="align-center bottom-buffer-pudding top-buffer-pudding">
+          <div class="align-center bottom-buffer-padding top-buffer-padding">
             <a class="top-buffer btn btn-default btn-lg" href="<?php echo site_url('/contact/');?>">
               <span class="small-text font-bold">
                 <i class="fa fa-envelope-o" style="padding-right:30px"></i>Bulluckに連絡する<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
@@ -68,4 +68,3 @@
 <?php wp_footer();?>
 </body>
 </html>
-

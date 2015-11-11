@@ -147,9 +147,9 @@
             <img class="worksimg" alt="works1" src="http://placehold.jp/3d4070/ffffff/320x200.jpg">
 
           </div>
-          <div class="top-buffer-pudding col-lg-12 purewhitebg parent-relative bottom-buffer-pudding">
+          <div class="top-buffer-padding col-lg-12 purewhitebg parent-relative bottom-buffer-padding">
             <span class="tagred white-text condensed-bold child-absolute">Marketing</span>
-            <h4 class="font-bold top-buffer-pudding">ダミーテキストダミーテキスト</h4>
+            <h4 class="font-bold top-buffer-padding">ダミーテキストダミーテキスト</h4>
             <p class="top-buffer small-text">
               ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
             </p>
@@ -160,9 +160,9 @@
             <img class="worksimg" alt="works1" src="http://placehold.jp/3d4070/ffffff/320x200.jpg">
 
           </div>
-          <div class="top-buffer-pudding col-lg-12 purewhitebg bottom-buffer-pudding">
+          <div class="top-buffer-padding col-lg-12 purewhitebg bottom-buffer-padding">
             <span class="tagblue white-text condensed-bold child-absolute">Technology</span>
-            <h4 class="font-bold top-buffer-pudding">ダミーテキストダミーテキスト</h4>
+            <h4 class="font-bold top-buffer-padding">ダミーテキストダミーテキスト</h4>
             <p class="top-buffer small-text">
               ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
             </p>
@@ -173,10 +173,10 @@
             <img class="worksimg" alt="works1" src="http://placehold.jp/3d4070/ffffff/320x200.jpg">
 
           </div>
-          <div class="top-buffer-pudding col-xs-12 col-lg-12 purewhitebg bottom-buffer-pudding">
+          <div class="top-buffer-padding col-xs-12 col-lg-12 purewhitebg bottom-buffer-padding">
             <span class="taggreen white-text condensed-bold child-absolute">Life</span>
 
-            <h4 class="font-bold top-buffer-pudding">ダミーテキストダミーテキスト</h4>
+            <h4 class="font-bold top-buffer-padding">ダミーテキストダミーテキスト</h4>
             <p class="top-buffer small-text">
               ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
             </p>
