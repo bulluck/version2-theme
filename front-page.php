@@ -84,34 +84,36 @@
   </section>
   <section class="culture">
     <div class="section-table js-height">
-      <div class="s-table-cell section-padding100 align-right">
+      <div class="s-table-cell section-padding100">
         <div class="container-fluid">
 
         <div class="row">
-          <p class="condensed-bold lighter-gray col-xs-12 col-sm-8 col-md-8 col-lg-8 col-sm-push-4 col-md-push-4 col-lg-push-4">
+          <p class="condensed-bold lighter-gray col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
             CULTURE
           </p>
         </div>
         <div class="row">
-          <h2 class="condensed-bold large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8 col-sm-push-4 col-md-push-4 col-lg-push-4">
+          <h2 class="condensed-bold large-heading col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
             As a result, not the process.
           </h2>
         </div>
         <div class="row">
-          <h3 class="margin-t80 font-bold small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8 col-sm-push-4 col-md-push-4 col-lg-push-4">
+          <h3 class="margin-t80 font-bold small-heading col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
             結果のみを追求する。
           </h3>
         </div>
         <div class="row">
-          <p class="white-text top-buffer small-text col-xs-12 col-sm-8 col-md-8 col-lg-8 col-sm-push-4 col-md-push-4 col-lg-push-4">
+          <p class="white-text top-buffer small-text col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
             ブラックが、ビジネスを遂行する上で、最優先にするべきことは結果と顧客の利益の追求です。ビジネスの成功は、顧客への貢献の結果より得られるものであり、これは世界に数多ある成功企業を見れば自明であることがわかります。
           </p>
         </div>
-        <a class="top-buffer btn ghostbtn" href="<?php echo site_url('/about-us/');?>">
-          <span class="white-text">
-            Bulluckをもっと知る<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
-          </span>
-        </a>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
+          <a class="top-buffer btn ghostbtn" href="<?php echo site_url('/about-us/');?>">
+            <span class="white-text">
+              Bulluckをもっと知る<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
+            </span>
+          </a>
+        </div>
 
         </div>
       </div>
