@@ -19,9 +19,22 @@
   margin: 0 auto;
   ul {
     float: right;
+    .current-menu-item {
+      position: relative;
+      &::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 3px;
+        background: #fff;
+      }
+    }
     li {
       float: left;
       margin-left: 30px;
+
       a {
         display: block;
         text-align: center;
@@ -34,11 +47,85 @@
     }
   }
 }
+.topmenu ul > li {
+  position: relative;
+  &::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: scaleY(0);
+    background-color: transparent;
+    transition: all .2s ease;
+    border-bottom: 3px solid #fff;
+    opacity: 0;
+    z-index: -1;
+  }
+  &:hover {
+    &::before {
+      transform: scaleY(1);
+      opacity: 1;
+    }
+  }
+}
+
+.topmenu ul li .sub-menu {
+  visibility: hidden;
+  position: absolute;
+  top: 100%;
+  width: 200px;
+  background: rgba(0, 0, 0, .5);
+  transition: .2s;
+  transition-delay: .2s;
+  li {
+    float: none;
+    height: 40px;
+    margin-left: 0;
+    border-top: 1px solid #fff;
+    &:first-child {
+      border-top-style: none;
+    }
+    &:hover {
+      background: #000;
+    }
+    a {
+      font-size: 1rem;
+      padding-left: 10px;
+      line-height: 40px;
+      text-align: left;
+    }
+  }
+}
+.topmenu li:hover .sub-menu {
+  visibility: visible;
+  opacity: 1;
+}
 .navbar-toggle {
   position: fixed;
   top: 10px;
   right: 60px;
 }
+
+
+.child-menu {
+  float: right;
+  .current-menu-item {
+    border-bottom: 3px solid #111;
+  }
+  li {
+    float: left;
+    margin-left: 30px;
+    height: 28px;
+    a {
+      color: #111;
+      line-height: 28px;
+    }
+  }
+
+}
+
 @media only screen and (max-width:600px) {
   .topmenu {
     display: inline-block;
@@ -51,5 +138,9 @@
   .menuwrapper-lower {
     height: auto;
     position: inherit;
+  }
+
+  .sub-menu {
+    visibility: visible;
   }
 }

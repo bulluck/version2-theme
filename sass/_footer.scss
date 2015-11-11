@@ -12,6 +12,9 @@
     li {
       float: left;
       width: (100%/4);
+      .sub-menu {
+        display: none;
+      }
       a {
         display: block;
         text-align: center;
