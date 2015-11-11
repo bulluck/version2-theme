@@ -88,21 +88,7 @@
 	</div>
 
 	<?php if(is_front_page()):?>
-<<<<<<< HEAD
-		<div class="keyvisual section-padding100 js-height">
-			<div class="kv-table">
-				<div class="container-fluid kv-table-cell">
-					<div class="row">
-						<h1 class="condensed-bold top-buffer-pudding top-buffer col-xs-12 col-sm-12 col-md-12 col-lg-12">Lorem ipsum dolor</h1>
-					</div>
-					<div class="row">
-						<h2 class="condensed-bold top-buffer small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</h2>
-					</div>
-					<div class="top-buffer row">
-						<p class="white-text col-xs-12 col-sm-12 col-md-12 col-lg-12">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-						</p>
-					</div>
+
 	<div class="keyvisual section-padding100 js-height">
 		<div class="kv-table">
 			<div class="container-fluid kv-table-cell">
@@ -116,7 +102,6 @@
 					<p class="white-text col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						ブラックは、皆様の事業をより理想に近づけるために、マーケティングとテクノロジーを通じて新しい価値を提供する株式会社です。クライアントをリードし、費用対効果をひとつづつ改善していくことで、日本全体のポテンシャルを世界水準に引き上げます。
 					</p>
->>>>>>> miyagawa2
 				</div>
 			</div>
 		</div>
