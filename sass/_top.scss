@@ -262,6 +262,20 @@ a {
   }
 }
 
+#engineering {
+  background-image: url('#{$img-path}engineering.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+#consulting {
+  background-image: url('#{$img-path}consulting.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
 @media only screen and (max-width:1024px) {
   html {
     font-size: 12px;
