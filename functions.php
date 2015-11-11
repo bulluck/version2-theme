@@ -65,6 +65,14 @@ add_image_size('pickup_thumbnail', 302, 123, true);
 remove_filter('the_content', 'wpautop');// 記事の自動整形を無効にする
 remove_filter('the_excerpt', 'wpautop');// 抜粋の自動整形を無効にする
 
+function is_parent_slug()
+{
+    global $post;
+    if ($post->post_parent) {
+        $post_data = get_post($post->post_parent);
+        return $post_data->post_name;
+    }
+}
 
 // Child Pages ShortcodeのCSSのURLを変更します。
 function change_child_pages_shortcode_css()
