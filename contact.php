@@ -1,5 +1,5 @@
 <section class="margin-t80">
-  <div class="container-center">
+  <div class="container-c-narrow">
     <div class="container-fluid">
       <div class="row">
         <p class="top-buffer small-text col-xs-12">

@@ -64,17 +64,17 @@
     </div>
     </div>
     <div class="container-fluid">
-      <div class="row top-buffer">
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 top-buffer">
             <img class="worksimg" alt="works1" src="http://placehold.jp/3d4070/ffffff/277x141.jpg">
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 top-buffer">
           <img class="worksimg" alt="works1" src="http://placehold.jp/3d4070/ffffff/277x141.jpg">
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 top-buffer">
           <img class="worksimg" alt="works1" src="http://placehold.jp/3d4070/ffffff/277x141.jpg">
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 top-buffer">
           <img class="worksimg" alt="works1" src="http://placehold.jp/3d4070/ffffff/277x141.jpg">
         </div>
       </div>
