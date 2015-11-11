@@ -7,10 +7,10 @@
         <div class="col-xs-12 col-sm-12 col-lg-12 purewhitebg">
           <h3 class="condensed-bold black-text top-buffer-pudding">CONTACT US</h3>
           <h4 class="gray-text top-buffer-pudding font-bold">
-            ダミーテキストダミーテキスト
+            マーケティングとテクノロジーで新たな価値を提供します。
           </h4>
           <p class="small-text top-buffer-pudding">
-            ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+            ブラックは、マーケティングとテクノロジーにおいて差別化を図っています。そして、想像を越える新たな価値を提供することで、皆様のビジネスに貢献できると信じています。この「受注率にコミットする」サイト/ランディングページをご提案します。
           </p>
           <div class="align-center bottom-buffer-pudding top-buffer-pudding">
             <a class="top-buffer btn btn-default btn-lg" href="<?php echo site_url('/contact/');?>">
@@ -45,12 +45,12 @@
     <div class="row">
       <div class="col-xs-6 col-lg-6">
         <span class="small-heading condensed-bold">
-          Bulluck
+          Bulluck Co., Ltd.
         </span>
       </div>
       <div class="col-xs-4 col-lg-4">
         <p class="small-text black-text">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        サイト制作/ランディングページ制作/アプリ開発/経営コンサルティング/プリシパルインベストメント
         </p>
       </div>
     </div>
@@ -68,3 +68,4 @@
 <?php wp_footer();?>
 </body>
 </html>
+
