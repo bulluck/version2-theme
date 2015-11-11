@@ -1,14 +1,12 @@
 <?php get_header();?>
   <section class="section-padding80" id="change-menu-bg">
     <div class="container-center">
-      <div class="container-fluid">
-        <p>
-         In marketing and technology of power create the world beyond your imagination.
+        <p class="condensed-normal align-center">
+          Create the World <span class="font-bold">beyond Your Imagination</span> by Marketing and Technology.
         </p>
-        <p class="gray-text">
+        <p class="gray-text align-center">
           マーケティングとテクノロジーであなたの想像を越える世界を創る。
         </p>
-      </div>
     </div>
 
   </section>
@@ -36,7 +34,7 @@
         </p>
         </div>
         <a class="top-buffer btn ghostbtn" href="./service/">
-          <span class="white-text">
+          <span class="white-text font-bold">
             サービス一覧<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
           </span>
         </a>
@@ -54,7 +52,7 @@
         <div class="row">
 
           <h2 class="condensed-bold black-text large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            Overwhelming quality and performance.
+            Overwhelming Quality and Performance.
           </h2>
         </div>
         <div class="row">
@@ -94,7 +92,7 @@
         </div>
         <div class="row">
           <h2 class="condensed-bold large-heading col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
-            As a result, not the process.
+            Only Results.
           </h2>
         </div>
         <div class="row">
@@ -109,7 +107,7 @@
         </div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
           <a class="top-buffer btn ghostbtn" href="<?php echo site_url('/about-us/');?>">
-            <span class="white-text">
+            <span class="white-text font-bold">
               Bulluckをもっと知る<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
             </span>
           </a>
@@ -130,7 +128,7 @@
           </div>
           <div class="row">
             <h2 class="condensed-bold black-text large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              Bulluck anytime.
+              Bulluck Anytime.
             </h2>
           </div>
           <div class="row">
@@ -186,8 +184,8 @@
         </div>
       </div>
       <div class="align-center">
-        <a class="top-buffer btn btn-default btn-lg" href="/service/">
-          <span class="small-text font-bold">
+        <a class="top-buffer btn btn-normal btn-lg" href="/service/">
+          <span class="small-text">
             もっと記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
           </span>
         </a>

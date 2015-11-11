@@ -246,6 +246,21 @@ a {
   background-image: url("#{$img-path}contact-recruit.jpg");
 
 }
+.btn {
+  border-radius: 0;
+}
+.btn-normal {
+  background: #201f1f;
+  color: #fff;
+  border-radius: 0;
+  transition: all .2s ease;
+  &:hover {
+    background: $white;
+    color: $black;
+    border: 1px solid $black;
+    font-weight: bold;
+  }
+}
 
 @media only screen and (max-width:1024px) {
   html {

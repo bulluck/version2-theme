@@ -305,6 +305,23 @@ a:hover {
   background-image: url("../images/contact-recruit.jpg");
 }
 
+.btn {
+  border-radius: 0;
+}
+
+.btn-normal {
+  background: #201f1f;
+  color: #fff;
+  border-radius: 0;
+  transition: all .2s ease;
+}
+.btn-normal:hover {
+  background: #fff;
+  color: #111;
+  border: 1px solid #111;
+  font-weight: bold;
+}
+
 @media only screen and (max-width: 1024px) {
   html {
     font-size: 12px;

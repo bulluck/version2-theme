@@ -98,7 +98,7 @@
 				<div class="row">
 					<h2 class="condensed-bold top-buffer small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">BullでLuckな世界をつくる。</h2>
 				</div>
-				<div class="top-buffer row">
+				<div class="margin-t80 row">
 					<p class="white-text col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						ブラックは、皆様の事業をより理想に近づけるために、マーケティングとテクノロジーを通じて新しい価値を提供する株式会社です。クライアントをリードし、費用対効果をひとつづつ改善していくことで、日本全体のポテンシャルを世界水準に引き上げます。
 					</p>

@@ -13,9 +13,9 @@
             ブラックは、マーケティングとテクノロジーにおいて差別化を図っています。そして、想像を越える新たな価値を提供することで、皆様のビジネスに貢献できると信じています。この「受注率にコミットする」サイト/ランディングページをご提案します。
           </p>
           <div class="align-center bottom-buffer-padding top-buffer-padding">
-            <a class="top-buffer btn btn-default btn-lg" href="<?php echo site_url('/contact/');?>">
-              <span class="small-text font-bold">
-                <i class="fa fa-envelope-o" style="padding-right:30px"></i>Bulluckに連絡する<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
+            <a class="top-buffer btn btn-normal btn-lg" href="<?php echo site_url('/contact/');?>">
+              <span class="small-text">
+                <i class="fa fa-envelope-o" style="padding-right:15px"></i>Bulluckに連絡する<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
               </span>
             </a>
           </div>
@@ -56,7 +56,7 @@
     </div>
     <div class="row top-buffer">
       <div class="col-xs-12 col-lg-12 align-center">
-        <span class="small-text">Copyright &copy; 2015, Bulluck.Co.,Ltd. All Rights Reserved.</span>
+        <span class="small-text condensed-normal">Copyright &copy; 2015, Bulluck.Co.,Ltd. All Rights Reserved.</span>
       </div>
     </div>
   </div>
