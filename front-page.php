@@ -149,10 +149,10 @@
           </div>
           <div class="top-buffer-padding col-lg-12 purewhitebg parent-relative bottom-buffer-padding">
             <span class="tagred white-text condensed-bold child-absolute">Marketing</span>
-            <h4 class="font-bold top-buffer-padding">ダミーテキストダミーテキスト</h4>
+            <h4 class="font-bold top-buffer-padding">マーケティングに関する情報</h4>
             <p class="top-buffer small-text">
-              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
-            </p>
+              マーケティングに関する最新情報、テクニックなどのキュレーション、また、ブラックでまとめた記事などを配信しております。
+              </p>
           </div>
         </div>
         <div class="col-xs-12 col-sm-4 col-lg-4">
@@ -162,9 +162,9 @@
           </div>
           <div class="top-buffer-padding col-lg-12 purewhitebg bottom-buffer-padding">
             <span class="tagblue white-text condensed-bold child-absolute">Technology</span>
-            <h4 class="font-bold top-buffer-padding">ダミーテキストダミーテキスト</h4>
+            <h4 class="font-bold top-buffer-padding">テクノロジーに関する情報</h4>
             <p class="top-buffer small-text">
-              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              プログラミングや技術に関する最新情報、ギーク向けのテクニカルな記事、また、ブラックでまとめた記事などを配信しております。
             </p>
           </div>
         </div>
@@ -174,11 +174,11 @@
 
           </div>
           <div class="top-buffer-padding col-xs-12 col-lg-12 purewhitebg bottom-buffer-padding">
-            <span class="taggreen white-text condensed-bold child-absolute">Life</span>
+            <span class="taggreen white-text condensed-bold child-absolute">Business trends</span>
 
-            <h4 class="font-bold top-buffer-padding">ダミーテキストダミーテキスト</h4>
+            <h4 class="font-bold top-buffer-padding"></h4>
             <p class="top-buffer small-text">
-              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ビジネス活動を行う上で重要な最新情報、今後のトレンドを予測、また、ブラックでまとめた記事などを配信しております。
             </p>
           </div>
         </div>
