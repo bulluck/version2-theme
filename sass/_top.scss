@@ -276,6 +276,20 @@ a {
   background-position: center center;
 }
 
+.xs-t-buffer {
+  margin-top: 0;
+}
+.xs-b-buffer {
+  margin-bottom: 0;
+}
+
+.xs-t-buf-padding {
+  padding-top: 0;
+}
+.xs-b-buf-padding {
+  padding-bottom: 0;
+}
+
 @media only screen and (max-width:1024px) {
   html {
     font-size: 12px;
@@ -323,4 +337,20 @@ a {
     margin-top: 30px;
   }
 
+}
+
+@media only screen and (max-width:768px) {
+  .xs-t-buffer {
+    margin-top: 10px
+  }
+  .xs-b-buffer {
+    margin-bottom: 10px;
+  }
+
+  .xs-t-buf-padding {
+    padding-top: 10px;
+  }
+  .xs-b-buf-padding {
+    padding-bottom: 10px;
+  }
 }

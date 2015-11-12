@@ -336,6 +336,22 @@ a:hover {
   background-position: center center;
 }
 
+.xs-t-buffer {
+  margin-top: 0;
+}
+
+.xs-b-buffer {
+  margin-bottom: 0;
+}
+
+.xs-t-buf-padding {
+  padding-top: 0;
+}
+
+.xs-b-buf-padding {
+  padding-bottom: 0;
+}
+
 @media only screen and (max-width: 1024px) {
   html {
     font-size: 12px;
@@ -384,6 +400,23 @@ a:hover {
 
   .margin-t80 {
     margin-top: 30px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .xs-t-buffer {
+    margin-top: 10px;
+  }
+
+  .xs-b-buffer {
+    margin-bottom: 10px;
+  }
+
+  .xs-t-buf-padding {
+    padding-top: 10px;
+  }
+
+  .xs-b-buf-padding {
+    padding-bottom: 10px;
   }
 }
 .menuwrapper, .menuwrapper-lower {
@@ -692,15 +725,29 @@ div.wpcf7 img.ajax-loader {
   text-align: center;
   line-height: 70px;
   color: #fff;
-  font-size: 1.2rem;
-  letter-spacing: 0.5px;
+  font-size: 1rem;
 }
 
 @media only screen and (max-width: 600px) {
   .footernav {
-    height: 50px;
+    height: auto;
+  }
+  .footernav ul {
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .footernav ul li {
+    height: 40px;
+    float: none;
+    width: 90%;
+    margin: 0 auto;
+    border-top: 1px solid #666;
+  }
+  .footernav ul li:first-child {
+    border-top: 0;
   }
   .footernav ul li a {
-    line-height: 50px;
+    line-height: 40px;
   }
 }
