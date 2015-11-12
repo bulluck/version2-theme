@@ -2,7 +2,7 @@
   <section class="section-padding80" id="change-menu-bg">
     <div class="container-center">
         <p class="condensed-normal align-center">
-          Create the World <span class="font-bold">beyond Your Imagination</span> by Marketing and Technology.
+          Create the world <span class="font-bold">beyond your imagination</span> by marketing and technology.
         </p>
         <p class="gray-text align-center">
           マーケティングとテクノロジーであなたの想像を超える世界を創る。
@@ -20,7 +20,7 @@
         </div>
         <div class="row">
         <h2 class="condensed-bold large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-          Marketing and Technology.
+          Marketing and technology.
         </h2>
         </div>
         <div class="row">
@@ -52,7 +52,7 @@
         <div class="row">
 
           <h2 class="condensed-bold black-text large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            Overwhelming Quality and Performance.
+            Overwhelming quality and performance.
           </h2>
         </div>
         <div class="row">
@@ -92,7 +92,7 @@
         </div>
         <div class="row">
           <h2 class="condensed-bold large-heading col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
-            Only Results.
+            Only results.
           </h2>
         </div>
         <div class="row">
@@ -128,7 +128,7 @@
           </div>
           <div class="row">
             <h2 class="condensed-bold black-text large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              Bulluck Anytime.
+              Bulluck anytime.
             </h2>
           </div>
           <div class="row">
