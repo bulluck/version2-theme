@@ -174,9 +174,9 @@
 
           </div>
           <div class="top-buffer-padding col-xs-12 col-lg-12 purewhitebg bottom-buffer-padding">
-            <span class="taggreen white-text condensed-bold child-absolute">Business trends</span>
+            <span class="taggreen white-text condensed-bold child-absolute">Trends</span>
 
-            <h4 class="font-bold top-buffer-padding"></h4>
+            <h4 class="font-bold top-buffer-padding">ビジネストレンドに関する情報</h4>
             <p class="top-buffer small-text">
               ビジネス活動を行う上で重要な最新情報、今後のトレンドを予測、また、ブラックでまとめた記事などを配信しております。
             </p>
