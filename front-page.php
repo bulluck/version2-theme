@@ -5,7 +5,7 @@
           Create the World <span class="font-bold">beyond Your Imagination</span> by Marketing and Technology.
         </p>
         <p class="gray-text align-center">
-          マーケティングとテクノロジーであなたの想像を越える世界を創る。
+          マーケティングとテクノロジーであなたの想像を超える世界を創る。
         </p>
     </div>
 
