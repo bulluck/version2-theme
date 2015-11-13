@@ -56,8 +56,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -69,7 +67,7 @@ body {
   word-wrap: break-word;
   color: #222;
   background: #f5f5f5;
-  font-family: '游ゴシック', 'Yu Gothic', YuGothic, 'Modern', sans-serif;
+  font-family: '游ゴシック', YuGothic, sans-serif;
 }
 
 h1,
@@ -177,7 +175,8 @@ a:hover {
 }
 
 .blackbar {
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
   background-color: #111;
 }
 
@@ -190,13 +189,12 @@ a:hover {
 }
 
 .condensed-bold {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto Condensed','游ゴシック', YuGothic, sans-serif;
   font-weight: 700;
-  letter-spacing: .5px;
 }
 
 .condensed-normal, .topmenu ul li a, .footernav ul li a {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto Condensed','游ゴシック', YuGothic, sans-serif;
   font-weight: 300;
 }
 
@@ -260,11 +258,13 @@ a:hover {
 }
 .ghostbtn:hover {
   background: #fff;
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
 }
 .ghostbtn:hover span {
   color: #111;
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
 }
 
 .whatwedo, .culture {
@@ -313,7 +313,8 @@ a:hover {
   background: #201f1f;
   color: #fff;
   border-radius: 0;
-  transition: all .2s ease;
+  -webkit-transition: all .2s ease;
+          transition: all .2s ease;
 }
 .btn-normal:hover {
   background: #fff;
@@ -425,9 +426,12 @@ a:hover {
   left: 0;
   right: 0;
   z-index: 10;
-  transition-duration: 0.3s;
-  transition-property: background-color;
-  transition-timing-function: ease;
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+  -webkit-transition-property: background-color;
+          transition-property: background-color;
+  -webkit-transition-timing-function: ease;
+          transition-timing-function: ease;
 }
 
 .menuwrapper-lower {
@@ -467,15 +471,20 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  transform: scaleY(0);
+  -webkit-transform: scaleY(0);
+      -ms-transform: scaleY(0);
+          transform: scaleY(0);
   background-color: transparent;
-  transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+          transition: all 0.2s ease;
   border-bottom: 3px solid #fff;
   opacity: 0;
   z-index: -1;
 }
 .topmenu ul > li:hover::before {
-  transform: scaleY(1);
+  -webkit-transform: scaleY(1);
+      -ms-transform: scaleY(1);
+          transform: scaleY(1);
   opacity: 1;
 }
 
@@ -485,8 +494,10 @@ a:hover {
   top: 100%;
   width: 200px;
   background: rgba(0, 0, 0, 0.5);
-  transition: 0.2s;
-  transition-delay: 0.2s;
+  -webkit-transition: 0.2s;
+          transition: 0.2s;
+  -webkit-transition-delay: 0.2s;
+          transition-delay: 0.2s;
 }
 .topmenu ul li .sub-menu li {
   float: none;
@@ -579,11 +590,11 @@ a:hover {
 }
 
 .lower-top {
-  height: 300px;
+  height: 400px;
   overflow: hidden;
 }
 .lower-top img {
-  height: 300px;
+  height: 400px;
   width: 100%;
 }
 
