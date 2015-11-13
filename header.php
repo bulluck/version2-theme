@@ -55,55 +55,52 @@
 </head>
 
 <body <?php body_class(); ?>>
-	<div class="container-center">
-		<div class="container-fluid">
-			<div class="row">
-				<?php if(is_front_page()):?>
-					<div class="menuwrapper" id="menuwrapper">
-						<?php else:?>
-							<div class="menuwrapper-lower" id="menuwrapper-lower">
-								<?php endif;?>
-									<div class="container-center">
-
-										<nav class="topmenu col-xs-6 col-sm-12 col-md-12 col-lg-12">
-											<a href="<?php echo site_url();?>">
-												<span class="white-text companyname condensed-bold small-heading">Bulluck</span>
-											</a>
-											<?php
-			wp_nav_menu(
-				array(
-				'container'  => '',
-				'container_class' => '',
-				'theme_location' => 'place_global'
-				)
-				)
-			;?>
-										</nav>
-									</div>
-
-							</div>
-					</div>
-			</div>
-		</div>
-	</div>
-
 	<?php if(is_front_page()):?>
+		<div class="menuwrapper" id="menuwrapper">
+			<?php else:?>
+				<div class="menuwrapper-lower" id="menuwrapper-lower">
+					<?php endif;?>
+						<div class="container-center">
+							<div class="container-fluid">
+								<div class="row">
+									<nav class="topmenu col-xs-6 col-sm-12 col-md-12 col-lg-12">
+										<a href="<?php echo site_url();?>">
+											<span class="white-text companyname condensed-bold small-heading">Bulluck</span>
+										</a>
+										<?php
+														wp_nav_menu(
+															array(
+															'container'  => '',
+															'container_class' => '',
+															'theme_location' => 'place_global'
+															)
+															)
+														;?>
+									</nav>
+								</div>
+							</div>
+						</div>
 
-	<div class="keyvisual section-padding100 js-height">
-		<div class="kv-table">
-			<div class="container-fluid kv-table-cell">
-				<div class="row">
-					<h1 class="condensed-bold top-buffer-pudding top-buffer col-xs-12 col-sm-12 col-md-12 col-lg-12">Let's Bulluck.</h1>
 				</div>
-				<div class="row">
-					<h2 class="condensed-bold top-buffer small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">BullでLuckな世界をつくる。</h2>
-				</div>
-				<div class="margin-t80 row">
-					<p class="white-text col-xs-12 col-sm-12 col-md-12 col-lg-12">
-						ブラックは、皆様の事業をより理想に近づけるために、マーケティングとテクノロジーを通じて新しい価値を提供する株式会社です。クライアントをリードし、費用対効果をひとつづつ改善していくことで、日本全体のポテンシャルを世界水準に引き上げます。
-					</p>
+		</div>
+
+		<?php if(is_front_page()):?>
+
+			<div class="keyvisual section-padding100 js-height">
+				<div class="kv-table">
+					<div class="container-fluid kv-table-cell">
+						<div class="row">
+							<h1 class="condensed-bold top-buffer-pudding top-buffer col-xs-12 col-sm-12 col-md-12 col-lg-12">Let's Bulluck.</h1>
+						</div>
+						<div class="row">
+							<h2 class="condensed-bold top-buffer small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">BullでLuckな世界をつくる。</h2>
+						</div>
+						<div class="margin-t80 row">
+							<p class="white-text col-xs-12 col-sm-12 col-md-12 col-lg-12">
+								ブラックは、皆様の事業をより理想に近づけるために、マーケティングとテクノロジーを通じて新しい価値を提供する株式会社です。クライアントをリードし、費用対効果をひとつづつ改善していくことで、日本全体のポテンシャルを世界水準に引き上げます。
+							</p>
+						</div>
+					</div>
 				</div>
 			</div>
-		</div>
-	</div>
-		<?php endif;?>
+			<?php endif;?>

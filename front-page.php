@@ -24,7 +24,7 @@
         </h2>
         </div>
         <div class="row">
-        <h3 class="margin-t80 font-bold small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
+        <h3 class="top-buffer font-bold small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
           「受注率にコミットする」サイト/LP制作。
         </h3>
         </div>
@@ -56,10 +56,9 @@
           </h2>
         </div>
         <div class="row">
-
-        <h3 class="black-text top-buffer font-bold small-heading col-xs-12 col-sm-8  col-md-8 col-lg-8">
-          圧倒的な品質と実績。
-        </h3>
+          <h3 class="black-text top-buffer font-bold small-heading col-xs-12 col-sm-8  col-md-8 col-lg-8">
+            圧倒的な品質と実績。
+          </h3>
         </div>
     </div>
     </div>
@@ -96,7 +95,7 @@
           </h2>
         </div>
         <div class="row">
-          <h3 class="margin-t80 font-bold small-heading col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
+          <h3 class="top-buffer font-bold small-heading col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
             結果のみを追求する。
           </h3>
         </div>

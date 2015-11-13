@@ -5,7 +5,7 @@
   <div class="container-center">
   <div class="container-fluid">
     <div class="row">
-      <span class="condensed-bold gray-text small-heading col-xs-12 col-sm-6">
+      <span class="condensed-bold lighter-gray small-heading col-xs-12 col-sm-6">
         MISSION
       </span>
     </div>
@@ -27,15 +27,15 @@
   </div>
   </div>
 </section>
-<section class="section-padding100">
+<section class="section-padding80">
   <div class="container-center">
     <div class="container-fluid">
     <div class="row">
-    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <img class="worksimg" src="http://placehold.jp/3d4070/ffffff/420x250.jpg" alt="" />
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-9 col-lg-9">
-      <span class="gray-text condensed-bold small-heading">
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+      <span class="lighter-gray condensed-bold small-heading">
         LOREM IPSUM
       </span>
       <h2 class="small-heading black-text font-bold top-buffer">
@@ -47,11 +47,11 @@
     </div>
     </div>
     <div class="row margin-t80">
-    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <img class="worksimg" src="http://placehold.jp/3d4070/ffffff/420x250.jpg" alt="" />
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-9">
-      <span class="gray-text condensed-bold small-heading">
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+      <span class="lighter-gray condensed-bold small-heading">
         LOREM IPSUM
       </span>
       <h2 class="small-heading black-text font-bold top-buffer">
@@ -63,11 +63,11 @@
     </div>
     </div>
     <div class="row margin-t80">
-    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <img class="worksimg" src="http://placehold.jp/3d4070/ffffff/420x250.jpg" alt="" />
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-9 col-lg-9">
-      <span class="gray-text condensed-bold small-heading">
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+      <span class="lighter-gray condensed-bold small-heading">
         LOREM IPSUM
       </span>
       <h2 class="small-heading black-text font-bold top-buffer">
@@ -79,11 +79,11 @@
     </div>
     </div>
     <div class="row margin-t80">
-    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <img class="worksimg" src="http://placehold.jp/3d4070/ffffff/420x250.jpg" alt="" />
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-9 col-lg-9">
-      <span class="gray-text condensed-bold small-heading">
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+      <span class="lighter-gray condensed-bold small-heading">
         LOREM IPSUM
       </span>
       <h2 class="small-heading black-text font-bold top-buffer">
@@ -95,11 +95,11 @@
     </div>
     </div>
     <div class="row margin-t80">
-    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <img class="worksimg" src="http://placehold.jp/3d4070/ffffff/420x250.jpg" alt="" />
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-9 col-lg-9">
-      <span class="gray-text condensed-bold small-heading">
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+      <span class="lighter-gray condensed-bold small-heading">
         LOREM IPSUM
       </span>
       <h2 class="small-heading black-text font-bold top-buffer">
@@ -139,7 +139,7 @@
   </div>
   <div class="container-fluid">
     <div class="row">
-      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 top-buffer">
+      <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 top-buffer">
           <img class="worksimg" alt="works1" src="http://placehold.jp/3d4070/ffffff/277x141.jpg">
       </div>
       <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 top-buffer">

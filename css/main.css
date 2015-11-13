@@ -591,6 +591,14 @@ a:hover {
   background-color: #282727;
 }
 
+.right-buffer {
+  margin-right: 10px;
+}
+
+.right-buffer-padding {
+  padding-right: 10px;
+}
+
 .contact-form {
   margin: 0 auto;
   max-width: 800px;
@@ -715,7 +723,7 @@ div.wpcf7 img.ajax-loader {
 }
 .footernav ul li {
   float: left;
-  width: 20%;
+  width: 25%;
 }
 .footernav ul li .sub-menu {
   display: none;
