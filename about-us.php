@@ -1,5 +1,5 @@
 <div class="lower-top">
-<img alt="About US Top" src="../wp-content/themes/version2-theme/images/keyvisual-pc.jpg">
+  <img alt="About US Top" src="../wp-content/themes/version2-theme/images/keyvisual-pc.jpg">
 </div>
 <section class="section-padding100">
   <div class="container-center">

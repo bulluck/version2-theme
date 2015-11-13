@@ -262,6 +262,34 @@ a {
   }
 }
 
+#engineering {
+  background-image: url('#{$img-path}engineering.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+#consulting {
+  background-image: url('#{$img-path}consulting.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.xs-t-buffer {
+  margin-top: 0;
+}
+.xs-b-buffer {
+  margin-bottom: 0;
+}
+
+.xs-t-buf-padding {
+  padding-top: 0;
+}
+.xs-b-buf-padding {
+  padding-bottom: 0;
+}
+
 @media only screen and (max-width:1024px) {
   html {
     font-size: 12px;
@@ -295,11 +323,34 @@ a {
   .top-buffer {
     margin-top: 10px;
   }
-  .top-buffer-pudding {
+  .top-buffer-padding {
     padding-top: 10px;
   }
+  .bottom-buffer {
+    margin-bottom: 10px;
+  }
+  .bottom-buffer-padding {
+    padding-bottom: 10px;
+  }
+
   .margin-t80 {
     margin-top: 30px;
   }
 
+}
+
+@media only screen and (max-width:768px) {
+  .xs-t-buffer {
+    margin-top: 10px
+  }
+  .xs-b-buffer {
+    margin-bottom: 10px;
+  }
+
+  .xs-t-buf-padding {
+    padding-top: 10px;
+  }
+  .xs-b-buf-padding {
+    padding-bottom: 10px;
+  }
 }
