@@ -56,6 +56,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -175,8 +177,7 @@ a:hover {
 }
 
 .blackbar {
-  -webkit-transition-duration: 0.2s;
-          transition-duration: 0.2s;
+  transition-duration: 0.2s;
   background-color: #111;
 }
 
@@ -259,13 +260,11 @@ a:hover {
 }
 .ghostbtn:hover {
   background: #fff;
-  -webkit-transition-duration: 0.2s;
-          transition-duration: 0.2s;
+  transition-duration: 0.2s;
 }
 .ghostbtn:hover span {
   color: #111;
-  -webkit-transition-duration: 0.2s;
-          transition-duration: 0.2s;
+  transition-duration: 0.2s;
 }
 
 .whatwedo, .culture {
@@ -314,8 +313,7 @@ a:hover {
   background: #201f1f;
   color: #fff;
   border-radius: 0;
-  -webkit-transition: all .2s ease;
-          transition: all .2s ease;
+  transition: all .2s ease;
 }
 .btn-normal:hover {
   background: #fff;
@@ -427,12 +425,9 @@ a:hover {
   left: 0;
   right: 0;
   z-index: 10;
-  -webkit-transition-duration: 0.3s;
-          transition-duration: 0.3s;
-  -webkit-transition-property: background-color;
-          transition-property: background-color;
-  -webkit-transition-timing-function: ease;
-          transition-timing-function: ease;
+  transition-duration: 0.3s;
+  transition-property: background-color;
+  transition-timing-function: ease;
 }
 
 .menuwrapper-lower {
@@ -472,20 +467,15 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  -webkit-transform: scaleY(0);
-      -ms-transform: scaleY(0);
-          transform: scaleY(0);
+  transform: scaleY(0);
   background-color: transparent;
-  -webkit-transition: all 0.2s ease;
-          transition: all 0.2s ease;
+  transition: all 0.2s ease;
   border-bottom: 3px solid #fff;
   opacity: 0;
   z-index: -1;
 }
 .topmenu ul > li:hover::before {
-  -webkit-transform: scaleY(1);
-      -ms-transform: scaleY(1);
-          transform: scaleY(1);
+  transform: scaleY(1);
   opacity: 1;
 }
 
@@ -495,10 +485,8 @@ a:hover {
   top: 100%;
   width: 200px;
   background: rgba(0, 0, 0, 0.5);
-  -webkit-transition: 0.2s;
-          transition: 0.2s;
-  -webkit-transition-delay: 0.2s;
-          transition-delay: 0.2s;
+  transition: 0.2s;
+  transition-delay: 0.2s;
 }
 .topmenu ul li .sub-menu li {
   float: none;
@@ -591,11 +579,11 @@ a:hover {
 }
 
 .lower-top {
-  height: 300px;
+  height: 400px;
   overflow: hidden;
 }
 .lower-top img {
-  height: 300px;
+  height: 400px;
   width: 100%;
 }
 
@@ -696,6 +684,13 @@ div.wpcf7 img.ajax-loader {
 }
 .align-center label .wpcf7-acceptance {
   margin-top: 0;
+}
+
+#technology {
+  background-image: url("../images/tech.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto 100%;
 }
 
 @media only screen and (max-width: 1024px) {

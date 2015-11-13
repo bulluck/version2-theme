@@ -144,6 +144,13 @@ div.wpcf7 img.ajax-loader {
   }
 }
 
+#technology {
+  background-image: url("#{$img-path}tech.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto 100%;
+}
+
 @media only screen and (max-width:1024px) {
   .contents-wrapper {
     padding-top: 90px;

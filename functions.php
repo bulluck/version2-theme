@@ -60,7 +60,7 @@ add_image_size('large_thumbnail', 120, 120, true);
 add_image_size('category_image', 658, 113, true);
 
 // モールイメージ用画像サイズ設定
-add_image_size('pickup_thumbnail', 302, 123, true);
+add_image_size('pickup_thumbnail', 303, 187, true);
 
 remove_filter('the_content', 'wpautop');// 記事の自動整形を無効にする
 remove_filter('the_excerpt', 'wpautop');// 抜粋の自動整形を無効にする
