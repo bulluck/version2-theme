@@ -2,7 +2,7 @@
 @import 'compass';
 $darktheme: #282727;
 $lightyellow: #faf2e0;
-
+$blog-buffer:20px;
 
 
 @mixin clearfix {
@@ -149,6 +149,27 @@ div.wpcf7 img.ajax-loader {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
+}
+
+#marketing {
+  @extend #technology;
+  background-image: url("#{$img-path}marketing.jpg");
+}
+
+#trend {
+  @extend #technology;
+  background-image: url("#{$img-path}trend.jpg");
+}
+#blog {
+  @extend #technology;
+  background-image: url("#{$img-path}blog.jpg");
+}
+.archive-card {
+  height: 220px;
+}
+
+.blog-top-buffer {
+  margin-top: $blog-buffer
 }
 
 @media only screen and (max-width:1024px) {

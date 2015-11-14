@@ -3,7 +3,7 @@
 <div class="section-table">
 <div class="container-fluid s-table-cell">
 	<div class="row">
-	<div class="col-xs-12">
+	<div class="col-xs-12 top-buffer">
 		<p class="small-heading lighter-gray condensed-bold">BLOGS</p>
 		<h1 class="large-heading condensed-bold">
 			Technology
@@ -16,14 +16,14 @@
 </div>
 </div>
 		</div>
-<section class="section-padding100">
+<section class="section-padding80">
 	<div class="container-center">
 		<div class="container-fluid">
 			<div class="row">
           <?php if (have_posts()) :
              while (have_posts()) :
                the_post(); ?>
-				<div class="col-xs-4 top-buffer">
+				<div class="col-xs-12 col-sm-4 top-buffer">
 					<div class="blog-thumbnail">
 					<?php
                     if (has_post_thumbnail()):?>
@@ -32,14 +32,15 @@
 					<img src="<?php bloginfo('template_directory');?>/images/thumbnail.svg" alt="thumbnail" />
 				<?php endif; ?>
 					</div>
-					<h3 class="small-heading top-buffer"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-					<div class="data top-buffer-padding"><?php the_time('Y/m/d'); ?></div>
-					<div class="entry top-buffer-padding">
-						<p class="small-text">
-						<?php the_excerpt(); ?>
-					</p>
-				</div>
-					<div class="term"><?php the_terms($post->ID, 'technology'); ?></div>
+					<div class="col-xs-12 purewhitebg parent-relative archive-card">
+						<span class="tagblue white-text condensed-bold child-absolute">Technology</span>
+						<h3 class="small-heading top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+						<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
+						<p class="small-text blog-top-buffer">
+							<?php the_excerpt(); ?>
+						</p>
+						<div class="term"><?php the_terms($post->ID, 'technology'); ?></div>
+					</div>
 				</div>
 <?php endwhile; endif; ?>
 			</div>

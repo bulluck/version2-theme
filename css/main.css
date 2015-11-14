@@ -159,6 +159,18 @@ a:hover {
   color: #111;
 }
 
+.redtext {
+  color: #d26d6d;
+}
+
+.bluetext {
+  color: #4373b1;
+}
+
+.greentext {
+  color: #55ad56;
+}
+
 .whitebg {
   background-color: #f5f5f5;
 }
@@ -291,14 +303,30 @@ a:hover {
   text-align: center;
   padding: 10px 0;
   letter-spacing: .5px;
+  transition-duration: .2s;
+}
+
+.tagred-link .tagred:hover, .tagred-link .tagblue:hover, .tagred-link .taggreen:hover {
+  background: #f2f2f2;
+  color: #d26d6d;
 }
 
 .tagblue {
   background: #4373b1;
 }
 
+.tagblue-link .tagblue:hover {
+  background: #f2f2f2;
+  color: #4373b1;
+}
+
 .taggreen {
   background: #55ad56;
+}
+
+.taggreen-link .taggreen:hover {
+  background: #f2f2f2;
+  color: #55ad56;
 }
 
 .contact-recruit {
@@ -686,11 +714,31 @@ div.wpcf7 img.ajax-loader {
   margin-top: 0;
 }
 
-#technology {
+#technology, #marketing, #trend, #blog {
   background-image: url("../images/tech.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
+}
+
+#marketing {
+  background-image: url("../images/marketing.jpg");
+}
+
+#trend {
+  background-image: url("../images/trend.jpg");
+}
+
+#blog {
+  background-image: url("../images/blog.jpg");
+}
+
+.archive-card {
+  height: 220px;
+}
+
+.blog-top-buffer {
+  margin-top: 20px;
 }
 
 @media only screen and (max-width: 1024px) {
