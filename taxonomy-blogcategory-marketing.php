@@ -34,7 +34,7 @@
 					</div>
 					<div class="col-xs-12 purewhitebg parent-relative archive-card">
 						<span class="tagred white-text condensed-bold child-absolute">Marketing</span>
-						<h3 class="small-heading top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+						<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
 						<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
 						<p class="small-text blog-top-buffer">
 							<?php the_excerpt(); ?>

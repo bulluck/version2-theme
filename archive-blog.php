@@ -50,7 +50,7 @@
 														<a class="tagred-link" href="<?php echo site_url('blog/blogcategory/marketing/');?>">
 															<span class="tagred white-text condensed-bold child-absolute">Marketing</span>
 														</a>
-														<h3 class="small-heading top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
 														<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
 														<p class="small-text blog-top-buffer">
 															<?php the_excerpt(); ?>
@@ -99,7 +99,7 @@
 														<a class="tagblue-link" href="<?php echo site_url('blog/blogcategory/technology/');?>">
 															<span class="tagblue white-text condensed-bold child-absolute">Technology</span>
 														</a>
-														<h3 class="small-heading top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
 														<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
 														<p class="small-text blog-top-buffer">
 															<?php the_excerpt(); ?>
@@ -148,7 +148,7 @@
 														<a class="taggreen-link" href="<?php echo site_url('blog/blogcategory/trend/');?>">
 															<span class="taggreen white-text condensed-bold child-absolute">Trend</span>
 														</a>
-														<h3 class="small-heading top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
 														<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
 														<p class="small-text blog-top-buffer">
 															<?php the_excerpt(); ?>
