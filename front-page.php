@@ -15,22 +15,22 @@
     <div class="section-table section-padding100  js-height">
       <div class="s-table-cell container-fluid">
         <div class="row">
-        <p class="condensed-bold lighter-gray col-xs-12 col-sm-8 col-md-8 col-lg-8">
+        <p class="condensed-bold lighter-gray col-xs-12 col-sm-6 col-md-6 col-lg-6">
           WHAT WE DO
         </p>
         </div>
         <div class="row">
-        <h2 class="condensed-bold large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
+        <h2 class="condensed-bold large-heading col-xs-12 col-sm-6 col-md-6 col-lg-6">
           Marketing and technology.
         </h2>
         </div>
         <div class="row">
-        <h3 class="margin-t80 font-bold small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
+        <h3 class="top-buffer font-bold small-heading col-xs-12 col-sm-6 col-md-6 col-lg-6">
           「受注率にコミットする」サイト/LP制作。
         </h3>
         </div>
         <div class="row">
-        <p class="white-text top-buffer small-text col-xs-12 col-sm-8 col-md-8 col-lg-8">
+        <p class="white-text top-buffer small-text col-xs-12 col-sm-6 col-md-6 col-lg-6">
           コンサルティングファームからスピンアウトした経営コンサルタントが、「受注率にコミット」したサイト/ランディングページを設計します。弊社マーケティング責任者(CMO)と、テクノロジー責任者(CTO)が責任を負って監修するサイトは受注率が一桁違います。
         </p>
         </div>
@@ -57,10 +57,9 @@
           </h2>
         </div>
         <div class="row">
-
-        <h3 class="black-text top-buffer font-bold small-heading col-xs-12 col-sm-8  col-md-8 col-lg-8">
-          圧倒的な品質と実績。
-        </h3>
+          <h3 class="black-text top-buffer font-bold small-heading col-xs-12 col-sm-8  col-md-8 col-lg-8">
+            圧倒的な品質と実績。
+          </h3>
         </div>
     </div>
     </div>
@@ -97,7 +96,7 @@
           </h2>
         </div>
         <div class="row">
-          <h3 class="margin-t80 font-bold small-heading col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
+          <h3 class="top-buffer font-bold small-heading col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
             結果のみを追求する。
           </h3>
         </div>

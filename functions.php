@@ -60,7 +60,7 @@ add_image_size('large_thumbnail', 120, 120, true);
 add_image_size('category_image', 658, 113, true);
 
 // モールイメージ用画像サイズ設定
-add_image_size('pickup_thumbnail', 302, 123, true);
+add_image_size('pickup_thumbnail', 303, 187, true);
 
 remove_filter('the_content', 'wpautop');// 記事の自動整形を無効にする
 remove_filter('the_excerpt', 'wpautop');// 抜粋の自動整形を無効にする
@@ -116,14 +116,14 @@ register_sidebar(array(
 // 抜粋文が自動的に生成される場合に最後に付与される文字列を変更します。
 function cms_excerpt_more()
 {
-    return ' ...　<a href="'. esc_url(get_permalink()) . '">' . '（続きを読む）' . '</a>';
+    return ' ... <p><a class="small-text top-buffer-padding" href="'. esc_url(get_permalink()) . '">' . '続きを読む' . '<i class="fa fa-chevron-right" style="padding-left:10px;"></i></a></p>';
 }
 add_filter('excerpt_more', 'cms_excerpt_more');
 
 // 抜粋文が自動的に生成される場合にデフォルトの文字数を変更します。
 function cms_excerpt_length()
 {
-    return 50;
+    return 55;
 }
 add_filter('excerpt_mblength', 'cms_excerpt_length');
 
