@@ -188,6 +188,60 @@ div.wpcf7 img.ajax-loader {
   margin-top: $blog-buffer
 }
 
+.sns-list {
+  li {
+    display: inline-block;
+    text-align: center;
+    background: $lighter-gray;
+    height: 30px;
+    width: 19.5%;
+    &:hover {
+      background: white;
+    }
+    a {
+      font-size: 1.5rem;
+      color: white;
+      display: block;
+      line-height: 30px;
+      i {
+        line-height: 30px;
+      }
+    }
+  }
+}
+
+.twitter {
+  a:hover{
+    color: #55acee;
+  }
+}
+
+.facebook {
+  a:hover {
+    color: #315096;
+  }
+}
+
+.googleplus {
+  a:hover {
+    color: #dd4b39;
+  }
+}
+
+.pocket {
+  a:hover {
+    color: #EE4056;
+  }
+}
+
+.rss {
+  a:hover {
+    color: #ff8c00;
+  }
+}
+
+
+
 @media only screen and (max-width:1024px) {
   .contents-wrapper {
     padding-top: 90px;
