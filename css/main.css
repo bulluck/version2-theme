@@ -594,6 +594,12 @@ a:hover {
     display: none;
   }
 }
+.wrapper {
+  max-width: 1366px;
+  width: 100%;
+  margin: 0 auto;
+}
+
 .clearfix:after {
   clear: both;
   content: '';
@@ -610,7 +616,6 @@ a:hover {
   height: 300px;
   overflow: hidden;
 }
-
 .lower-top img {
   height: 300px;
   width: 100%;

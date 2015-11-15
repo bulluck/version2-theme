@@ -83,9 +83,8 @@
 
 				</div>
 		</div>
-
+	<div class="wrapper">
 		<?php if(is_front_page()):?>
-
 			<div class="keyvisual section-padding100 js-height">
 				<div class="kv-table">
 					<div class="container-fluid kv-table-cell">
