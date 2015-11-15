@@ -718,6 +718,10 @@ div.wpcf7 img.ajax-loader {
   width: 303px;
   height: 187px;
 }
+.blog-thumbnail img {
+  width: 100%;
+  height: 100%;
+}
 
 #technology, #marketing, #trend, #blog {
   background-image: url("../images/tech.jpg");
@@ -783,7 +787,7 @@ div.wpcf7 img.ajax-loader {
 }
 .footernav ul li {
   float: left;
-  width: 25%;
+  width: 20%;
 }
 .footernav ul li .sub-menu {
   display: none;
