@@ -164,11 +164,19 @@ a:hover {
 }
 
 .bluetext {
-  color: #4373b1;
+  color: #58ADAD;
 }
 
 .greentext {
-  color: #55ad56;
+  color: #87AD5A;
+}
+
+.yellotext {
+  color: #B19051;
+}
+
+.purpletext {
+  color: #8D6DE9;
 }
 
 .whitebg {
@@ -297,7 +305,7 @@ a:hover {
   left: 20px;
 }
 
-.tagred, .tagblue, .taggreen {
+.tagred, .tagblue, .taggreen, .tagpurple, .tagyellow {
   background: #d26d6d;
   width: 100px;
   text-align: center;
@@ -306,27 +314,35 @@ a:hover {
   transition-duration: .2s;
 }
 
-.tagred-link .tagred:hover, .tagred-link .tagblue:hover, .tagred-link .taggreen:hover {
+.tagred-link .tagred:hover, .tagred-link .tagblue:hover, .tagred-link .taggreen:hover, .tagred-link .tagpurple:hover, .tagred-link .tagyellow:hover {
   background: #f2f2f2;
   color: #d26d6d;
 }
 
 .tagblue {
-  background: #4373b1;
+  background: #58ADAD;
 }
 
 .tagblue-link .tagblue:hover {
   background: #f2f2f2;
-  color: #4373b1;
+  color: #58ADAD;
 }
 
 .taggreen {
-  background: #55ad56;
+  background: #87AD5A;
 }
 
 .taggreen-link .taggreen:hover {
   background: #f2f2f2;
-  color: #55ad56;
+  color: #87AD5A;
+}
+
+.tagpurple {
+  background: #8D6DE9;
+}
+
+.tagyellow {
+  background: #B19051;
 }
 
 .contact-recruit {
@@ -794,7 +810,7 @@ div.wpcf7 img.ajax-loader {
 }
 .footernav ul li {
   float: left;
-  width: 20%;
+  width: 25%;
 }
 .footernav ul li .sub-menu {
   display: none;

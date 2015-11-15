@@ -10,8 +10,10 @@ $top-buffer: 30px;
 $gray-text: #666;
 $lighter-gray: #999;
 $tagredcolor: #d26d6d;
-$tagbluecolor: #4373b1;
-$taggreencolor: #55ad56;
+$tagbluecolor: #58ADAD;
+$taggreencolor: #87AD5A;
+$tagyellowcolor:#B19051;
+$tagpurplecolor:#8D6DE9;
 
 @mixin clearfix {
   &:after {
@@ -123,6 +125,14 @@ a {
 }
 .greentext {
   color: $taggreencolor;
+}
+
+.yellotext {
+  color: $tagyellowcolor;
+}
+
+.purpletext {
+  color: $tagpurplecolor;
 }
 
 .whitebg {
@@ -240,7 +250,7 @@ a {
   left: 20px;
 }
 .tagred {
-  background: #d26d6d;
+  background: $tagredcolor;
   width: 100px;
   text-align: center;
   padding: 10px 0;
@@ -251,31 +261,41 @@ a {
 .tagred-link {
   .tagred:hover{
     background: #f2f2f2;
-    color: #d26d6d
+    color: $tagredcolor
   }
 }
 
 .tagblue {
   @extend .tagred;
-  background: #4373b1;
+  background: $tagbluecolor;
 }
 .tagblue-link {
   .tagblue:hover {
   background: #f2f2f2;
-  color: #4373b1
+  color: $tagbluecolor
   }
 }
 
 .taggreen {
   @extend .tagred;
-  background: #55ad56;
+  background: $taggreencolor;
 }
 
 .taggreen-link {
   .taggreen:hover {
     background: #f2f2f2;
-    color: #55ad56
+    color: $taggreencolor;
   }
+}
+
+.tagpurple {
+  @extend .tagred;
+  background: $tagpurplecolor;
+}
+
+.tagyellow {
+  @extend .tagred;
+  background: $tagyellowcolor;
 }
 
 
