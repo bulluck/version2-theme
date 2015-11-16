@@ -64,7 +64,7 @@
 							<div class="container-fluid">
 								<div class="row">
 									<nav class="topmenu col-xs-6 col-sm-12 col-md-12 col-lg-12">
-										<a href="<?php  home_url('/');?>">
+										<a href="<?php echo home_url('/');?>">
 											<span class="white-text companyname condensed-bold small-heading">Bulluck</span>
 										</a>
 										<?php
