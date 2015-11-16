@@ -48,8 +48,8 @@
 } ?></a></li>
 
 <!--RSSボタン-->
-<li class="rss top-buffer">
-<a href="<?php echo home_url(); ?>/?feed=rss2"><i class="fa fa-rss"></i></a></li>
+<!-- <li class="rss top-buffer">
+<a href="<?php echo home_url(); ?>/?feed=rss2"><i class="fa fa-rss"></i></a></li> -->
 
 </ul>
 </div>
