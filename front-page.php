@@ -127,7 +127,7 @@
         <div class="container-fluid">
           <div class="row">
             <p class="condensed-bold lighter-gray col-xs-12 col-sm-6">
-              MEDIA
+              MEDIABLOG
             </p>
           </div>
           <div class="row">
