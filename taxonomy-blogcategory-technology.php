@@ -37,9 +37,13 @@
 					<div class="blog-thumbnail">
 					<?php
                     if (has_post_thumbnail()):?>
+						<a href="<?php the_permalink();?>">
 					<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
+						</a>
 				<?php else: ?>
+					<a href="<?php the_permalink();?>">
 					<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
+					</a>
 				<?php endif; ?>
 					</div>
 					<div class="col-xs-12 purewhitebg parent-relative archive-card">

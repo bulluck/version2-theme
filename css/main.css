@@ -20,10 +20,6 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-.t-05rem {
-	margin-top: 0.5rem;
-}
-
 html {
   line-height: 1;
 }
@@ -63,6 +59,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+.t-05rem {
+  margin-top: 0.5rem;
 }
 
 html {
