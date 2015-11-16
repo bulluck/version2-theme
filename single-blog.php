@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<section class="section-padding100">
+<section class="section-padding80">
 	<div class="container-c-narrow">
 		<div class="container-fluid">
 			<div class="row">
@@ -21,19 +21,18 @@
 				<div class="data top-buffer"><?php the_time('Y/m/d'); ?></div>
 				<?php get_template_part('sns'); ?>
 				<div class="entry top-buffer"><?php the_content(); ?></div>
-				<div class="nav-below top-buffer">
 					<div class="pagelink">
 <?php
 if (get_next_post()) {
-    echo '<p class="nav-previous">',next_post_link('次の記事：%link', '%title'),'</p>';
+    echo '<p class="nav-previous small-text black-text top-buffer">',next_post_link('%link', '<i class="fa fa-chevron-left" style="padding-right:10px;"></i>%title'),'</p>';
 }
 if (get_previous_post()) {
-    echo '<p class="nav-next">',previous_post_link('前の記事：%link', '%title'),'</p>';
+    echo '<p class="nav-next small-text black-text top-buffer">',previous_post_link('%link', '%title<i class="fa fa-chevron-right" style="padding-left:10px;"></i>'),'</p>';
 }
 ?>
 </div>
-        </div><!-- /.nav-below -->
 				<?php get_template_part('sns'); ?>
+
 <?php endwhile; endif; ?>
 					</article>
 				</div>
@@ -41,4 +40,16 @@ if (get_previous_post()) {
 		</div>
 	</div>
 </section>
+<section>
+<div class="container-c-narrow">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-xs-12 black-text">
+				<?php wp_related_posts()?>
+			</div>
+		</div>
+	</div>
+</div>
+</section>
+<?php get_template_part('follow-area'); ?>
 	<?php get_footer(); ?>

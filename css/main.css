@@ -768,7 +768,7 @@ div.wpcf7 img.ajax-loader {
   text-align: center;
   background: #999;
   height: 30px;
-  width: 19.5%;
+  width: 24.5%;
 }
 .sns-list li:hover {
   background: white;
@@ -800,6 +800,16 @@ div.wpcf7 img.ajax-loader {
 }
 
 .rss a:hover {
+  color: #ff8c00;
+}
+
+.rss-bg {
+  background-color: #ff8c00;
+  border: 1px solid #ff8c00;
+  transition-duration: .2s;
+}
+.rss-bg:hover {
+  background-color: #f5f5f5;
   color: #ff8c00;
 }
 

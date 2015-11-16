@@ -196,7 +196,7 @@ div.wpcf7 img.ajax-loader {
     text-align: center;
     background: $lighter-gray;
     height: 30px;
-    width: 19.5%;
+    width: 24.5%;
     &:hover {
       background: white;
     }
@@ -242,6 +242,16 @@ div.wpcf7 img.ajax-loader {
   }
 }
 
+.rss-bg {
+  background-color: #ff8c00;
+  border: 1px solid #ff8c00;
+  transition-duration: .2s;
+  &:hover {
+    background-color: $whitebg;
+    color: #ff8c00;
+  }
+}
+
 .entry p {
   font-size: 1rem;
 }
@@ -252,7 +262,6 @@ div.wpcf7 img.ajax-loader {
 .nav-next {
   float: right;
 }
-
 
 @media only screen and (max-width:1024px) {
   .contents-wrapper {
