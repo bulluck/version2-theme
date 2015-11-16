@@ -56,13 +56,7 @@
 														<?php if (has_post_thumbnail()):?>
 															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
 														<?php else: ?>
-															<div class="section-table">
-																<div class="s-table-cell blackbg">
-																	<p class="small-heading lighter-gray align-center condensed-bold">
-																		Bulluck BLOG
-																	</p>
-																</div>
-															</div>
+															<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
 														<?php endif; ?>
 													</div>
 													<div class="col-xs-12 purewhitebg parent-relative archive-card">
@@ -113,13 +107,7 @@
 														<?php if (has_post_thumbnail()):?>
 															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
 														<?php else: ?>
-															<div class="section-table">
-																<div class="s-table-cell blackbg">
-																	<p class="small-heading lighter-gray align-center condensed-bold">
-																		Bulluck BLOG
-																	</p>
-																</div>
-															</div>
+															<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
 														<?php endif; ?>
 													</div>
 													<div class="col-xs-12 purewhitebg parent-relative archive-card">
@@ -170,13 +158,7 @@
 														<?php if (has_post_thumbnail()):?>
 															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
 														<?php else: ?>
-															<div class="section-table">
-																<div class="s-table-cell blackbg">
-																	<p class="small-heading lighter-gray align-center condensed-bold">
-																		Bulluck BLOG
-																	</p>
-																</div>
-															</div>
+															<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
 														<?php endif; ?>
 													</div>
 													<div class="col-xs-12 purewhitebg parent-relative archive-card">

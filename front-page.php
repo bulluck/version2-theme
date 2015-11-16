@@ -1,12 +1,16 @@
 <?php get_header();?>
   <section class="section-padding80" id="change-menu-bg">
     <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
         <p class="condensed-normal align-center">
           Create the world <span class="font-bold">beyond your imagination</span> by marketing and technology.
         </p>
         <p class="gray-text align-center">
           マーケティングとテクノロジーであなたの想像を超える世界を創る。
         </p>
+        </div>
+      </div>
     </div>
 
 
@@ -143,9 +147,8 @@
     <div class="container-fluid margin-t80">
       <div class="row">
         <div class="col-xs-12 col-sm-4 col-lg-4">
-          <div>
+          <div class="xs-t-buffer">
             <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/f0663645c5a7ef4e3290916911fd662f.jpg">
-
           </div>
           <div class="top-buffer-padding col-lg-12 purewhitebg parent-relative bottom-buffer-padding">
             <span class="tagred white-text condensed-bold child-absolute">Marketing</span>
@@ -156,7 +159,7 @@
           </div>
         </div>
         <div class="col-xs-12 col-sm-4 col-lg-4">
-          <div>
+          <div class="xs-t-buffer">
             <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/black-and-white-cup-hand-mug.jpg">
 
           </div>
@@ -169,7 +172,7 @@
           </div>
         </div>
         <div class="col-xs-12 col-sm-4 col-lg-4">
-          <div>
+          <div class="xs-t-buffer">
             <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/city-cars-road-traffic.jpg">
 
           </div>

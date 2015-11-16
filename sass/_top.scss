@@ -378,37 +378,28 @@ a {
     padding: 30px 0;
   }
 
-  .top-buffer {
-    margin-top: 10px;
-  }
-  .top-buffer-padding {
-    padding-top: 10px;
-  }
-  .bottom-buffer {
-    margin-bottom: 10px;
-  }
-  .bottom-buffer-padding {
-    padding-bottom: 10px;
-  }
-
   .margin-t80 {
     margin-top: 30px;
   }
 
 }
 
+.js-height {
+  max-height: 768px;
+}
+
 @media only screen and (max-width:768px) {
   .xs-t-buffer {
-    margin-top: 10px
+    margin-top: 30px
   }
   .xs-b-buffer {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
   }
 
   .xs-t-buf-padding {
-    padding-top: 10px;
+    padding-top: 30px;
   }
   .xs-b-buf-padding {
-    padding-bottom: 10px;
+    padding-bottom: 30px;
   }
 }
