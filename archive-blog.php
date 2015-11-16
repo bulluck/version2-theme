@@ -21,10 +21,23 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xs-12">
+
+				<div class="breadcrumbs bottom-buffer-padding">
+    <?php if (function_exists('bcn_display')) {
+    bcn_display();
+}?>
+</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
 					<span class="small-heading lighter-gray condensed-bold">Article Categories</span>
-					<h2 class="large-heading redtext condensed-bold">Marketing</h2>
+					<a href="<?php echo home_url('/');?>blog/blogcategory/marketing/">
+						<h2 class="large-heading redtext condensed-bold">Marketing</h2>
+					</a>
 					<p class="small-text top-buffer-padding">
 						マーケティングに関する最新情報をお届けします。
+						<a class="redtext" href="<?php echo home_url('/');?>blog/blogcategory/marketing/">マーケティングに関する記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i></a>
 					</p>
 				</div>
 			</div>
@@ -43,11 +56,17 @@
 														<?php if (has_post_thumbnail()):?>
 															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
 														<?php else: ?>
-															<img src="<?php bloginfo('template_directory');?>/images/thumbnail.svg" alt="thumbnail" />
+															<div class="section-table">
+																<div class="s-table-cell blackbg">
+																	<p class="small-heading lighter-gray align-center condensed-bold">
+																		Bulluck BLOG
+																	</p>
+																</div>
+															</div>
 														<?php endif; ?>
 													</div>
 													<div class="col-xs-12 purewhitebg parent-relative archive-card">
-														<a class="tagred-link" href="<?php echo site_url('blog/blogcategory/marketing/');?>">
+														<a class="tagred-link" href="<?php echo home_url('/');?>blog/blogcategory/marketing/">
 															<span class="tagred white-text condensed-bold child-absolute">Marketing</span>
 														</a>
 														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
@@ -74,6 +93,8 @@
 					<h2 class="large-heading bluetext condensed-bold">Technology</h2>
 					<p class="small-text top-buffer-padding">
 						テクノロジーに関する最新情報をお届けします。
+						<a class="bluetext" href="<?php echo home_url('/');?>blog/blogcategory/technology/">テクノロジーに関する記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i></a>
+
 					</p>
 				</div>
 			</div>
@@ -92,11 +113,17 @@
 														<?php if (has_post_thumbnail()):?>
 															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
 														<?php else: ?>
-															<img src="<?php bloginfo('template_directory');?>/images/thumbnail.svg" alt="thumbnail" />
+															<div class="section-table">
+																<div class="s-table-cell blackbg">
+																	<p class="small-heading lighter-gray align-center condensed-bold">
+																		Bulluck BLOG
+																	</p>
+																</div>
+															</div>
 														<?php endif; ?>
 													</div>
 													<div class="col-xs-12 purewhitebg parent-relative archive-card">
-														<a class="tagblue-link" href="<?php echo site_url('blog/blogcategory/technology/');?>">
+														<a class="tagblue-link" href="<?php echo home_url('/');?>blog/blogcategory/technology/">
 															<span class="tagblue white-text condensed-bold child-absolute">Technology</span>
 														</a>
 														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
@@ -123,6 +150,8 @@
 					<h2 class="large-heading greentext condensed-bold">Trend</h2>
 					<p class="small-text top-buffer-padding">
 						ビジネストレンドに関する情報をお届けします。
+						<a class="greentext" href="<?php echo home_url('/');?>blog/blogcategory/trend/">トレンドに関する記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i></a>
+
 					</p>
 				</div>
 			</div>
@@ -141,11 +170,17 @@
 														<?php if (has_post_thumbnail()):?>
 															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
 														<?php else: ?>
-															<img src="<?php bloginfo('template_directory');?>/images/thumbnail.svg" alt="thumbnail" />
+															<div class="section-table">
+																<div class="s-table-cell blackbg">
+																	<p class="small-heading lighter-gray align-center condensed-bold">
+																		Bulluck BLOG
+																	</p>
+																</div>
+															</div>
 														<?php endif; ?>
 													</div>
 													<div class="col-xs-12 purewhitebg parent-relative archive-card">
-														<a class="taggreen-link" href="<?php echo site_url('blog/blogcategory/trend/');?>">
+														<a class="taggreen-link" href="<?php echo home_url('/');?>blog/blogcategory/trend/">
 															<span class="taggreen white-text condensed-bold child-absolute">Trend</span>
 														</a>
 														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>

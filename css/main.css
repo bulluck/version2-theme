@@ -813,6 +813,18 @@ div.wpcf7 img.ajax-loader {
   color: #ff8c00;
 }
 
+.entry p {
+  font-size: 1rem;
+}
+
+.nav-previous {
+  float: left;
+}
+
+.nav-next {
+  float: right;
+}
+
 @media only screen and (max-width: 1024px) {
   .contents-wrapper {
     padding-top: 90px;
@@ -861,6 +873,22 @@ div.wpcf7 img.ajax-loader {
   line-height: 70px;
   color: #fff;
   font-size: 1rem;
+}
+
+.follow-twitter {
+  color: #666;
+  padding: 0 10px;
+}
+.follow-twitter:hover {
+  color: #55acee;
+}
+
+.follow-fb {
+  color: #666;
+  padding: 0 10px;
+}
+.follow-fb:hover {
+  color: #315096;
 }
 
 @media only screen and (max-width: 600px) {

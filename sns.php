@@ -43,7 +43,7 @@
 
 <!--ポケットボタン-->
 <li class="pocket top-buffer">
-<a class="condensed-bold" href="http://getpocket.com/edit?url=<?php echo $url_encode;?>&title=<?php echo $title_encode;?>" target="blank">pocket&nbsp; <?php if (function_exists('scc_get_share_pocket')) {
+<a href="http://getpocket.com/edit?url=<?php echo $url_encode;?>&title=<?php echo $title_encode;?>" target="blank">pocket&nbsp; <?php if (function_exists('scc_get_share_pocket')) {
     echo (scc_get_share_pocket()==0)?'':scc_get_share_pocket();
 } ?></a></li>
 

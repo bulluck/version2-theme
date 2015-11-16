@@ -20,6 +20,16 @@
 	<div class="container-center">
 		<div class="container-fluid">
 			<div class="row">
+				<div class="col-xs-12">
+
+				<div class="breadcrumbs bottom-buffer-padding">
+    <?php if (function_exists('bcn_display')) {
+    bcn_display();
+}?>
+</div>
+				</div>
+			</div>
+			<div class="row">
           <?php if (have_posts()) :
              while (have_posts()) :
                the_post(); ?>
@@ -29,7 +39,13 @@
                     if (has_post_thumbnail()):?>
 					<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
 				<?php else: ?>
-					<img src="<?php bloginfo('template_directory');?>/images/thumbnail.svg" alt="thumbnail" />
+					<div class="section-table">
+						<div class="s-table-cell blackbg">
+							<p class="small-heading lighter-gray align-center condensed-bold">
+								Bulluck BLOG
+							</p>
+						</div>
+					</div>
 				<?php endif; ?>
 					</div>
 					<div class="col-xs-12 purewhitebg parent-relative archive-card">
