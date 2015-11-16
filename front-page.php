@@ -87,7 +87,7 @@
 
         <div class="row">
           <p class="condensed-bold lighter-gray col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
-            CULTURE
+            WHO WE ARE
           </p>
         </div>
         <div class="row">

@@ -15,7 +15,7 @@
           <div class="align-center bottom-buffer-padding top-buffer-padding">
             <a class="top-buffer btn btn-normal btn-lg" href="<?php echo site_url('/contact/');?>">
               <span class="small-text">
-                <i class="fa fa-envelope-o" style="padding-right:15px"></i>Bulluckに連絡する<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
+                <i class="fa fa-envelope-o" style="padding-right:15px"></i>まずはお問い合わせする<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
               </span>
             </a>
           </div>
