@@ -198,6 +198,6 @@
 									</div>
 								</div>
 </section>
-
+<?php get_template_part('follow-area'); ?>
 
 	<?php get_footer(); ?>
