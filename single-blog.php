@@ -21,18 +21,18 @@
 				<div class="data top-buffer"><?php the_time('Y/m/d'); ?></div>
 				<?php get_template_part('sns'); ?>
 				<div class="entry top-buffer"><?php the_content(); ?></div>
-				<?php if (is_single()): ?>
-<div class="pagelink">
-    <?php
-    if (get_next_post()) {
-        echo '<p class="pagenext">',next_post_link('次の記事：%link', '%title', true),'</p>';
-    }
-     if (get_previous_post()) {
-         echo '<p class="pageprev">',previous_post_link('前の記事：%link', '%title', true),'</p>';
-     }
-    ?>
+				<div class="nav-below top-buffer">
+					<div class="pagelink">
+<?php
+if (get_next_post()) {
+    echo '<p class="nav-previous">',next_post_link('次の記事：%link', '%title'),'</p>';
+}
+if (get_previous_post()) {
+    echo '<p class="nav-next">',previous_post_link('前の記事：%link', '%title'),'</p>';
+}
+?>
 </div>
-<?php endif; ?>
+        </div><!-- /.nav-below -->
 				<?php get_template_part('sns'); ?>
 <?php endwhile; endif; ?>
 					</article>

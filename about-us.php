@@ -1,5 +1,5 @@
 <div class="lower-top">
-  <img alt="About US Top" src="../wp-content/themes/version2-theme/images/keyvisual-pc.jpg">
+<img alt="About US Top" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/full.jpg">
 </div>
 <section class="section-padding100">
   <div class="container-center">
@@ -10,18 +10,19 @@
     </span>
     </div>
     <div class="row">
-    <h2 class="black-text large-heading condensed-bold margin-t80 col-xs-12">
-      Lorem ipsum dolor
+    <h2 class="black-text large-heading condensed-bold  col-xs-12">
+Beyond your imagination.
     </h2>
     </div>
     <div class="row">
     <h3 class="small-heading black-text margin-t80 font-bold col-xs-12">
-      ダミーテキストダミーテキスト
+     あなたの想像を超える世界を創る。
     </h3>
     </div>
     <div class="row">
-    <p class="top-buffer col-xs-12">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <p class="top-buffer col-xs-12 small-text">
+人は想像する生き物です。そして、想像は未来を作ります。一方で、想像は過去の体験から作られます。すなわち、体験を変えなければ未来は変わりません。ここで、唯一未来を変える方法があります。それは想像を超える体験をすることです。
+その体験、ブラックがご提供します。
     </p>
     </div>
   </div>
@@ -38,20 +39,20 @@
         </div>
         <div class="row">
           <h2 class="condensed-bold large-heading col-xs-12 col-sm-6">
-            Lorem ipsum dolor
+            Marketing and technology.
           </h2>
         </div>
         <div class="row">
           <h3 class="margin-t80 font-bold small-heading col-xs-12 col-sm-6">
-            ダミーテキストダミーテキストダミーテキストダミーテキスト
+            「受注率にコミットする」サイト/LP制作。
           </h3>
         </div>
         <div class="row">
           <p class="white-text top-buffer small-text col-xs-12 col-sm-6">
-            ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+            コンサルティングファームからスピンアウトした経営コンサルタントが、「受注率にコミット」したサイト/ランディングページを設計します。弊社マーケティング責任者(CMO)と、テクノロジー責任者(CTO)が責任を負って監修するサイトは受注率が一桁違います。
           </p>
         </div>
-<a class="top-buffer btn ghostbtn" href="/service/">
+<a class="top-buffer btn ghostbtn" href="../service/">
         <span class="white-text">
           サービス一覧<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
         </span>
@@ -73,24 +74,33 @@
         </div>
         <div class="row">
 
-          <h2 class="large-heading black-text margin-t80 condensed-bold col-xs-12">
-            Lorem ipsum dolor sit amet
+          <h2 class="large-heading black-text condensed-bold col-xs-12">
+                  Trust and quality.
           </h2>
         </div>
         <div class="row">
           <h3 class="black-text margin-t80 font-bold small-heading col-xs-12">
-            ダミーテキストダミーテキストダミーテキストダミーテキスト
+            信用が最重要、そして量より質に徹します。
           </h3>
         </div>
         <div class="row">
 
-          <p class="black-text col-xs-12 top-buffer">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          <p class="black-text col-xs-12 top-buffer small-text">
+            わが社の資産は、人材、資本及び信用から成ります。これらのいづれをも欠くことはできませんが、とりわけ構成要素の一つである"信用"は、ひとたび逸すれば、この回復は極めて困難です。したがって、われわれは、法律、規則及び道義の字義と精神を固く尊守することを自らに課しています。われわれのさらなる成功は、この規範を忠実に守ることにかかっていると信じています。
+<br>
+また、我々は、我々が従事するあらゆる業務において最高の結果を得るために、不退転の決意でビジネスに望んでいます。わが社の業務が多岐にわたり、取扱量が大幅に増加する場合であっても、規模において最大であるよりも質において最良であることが我々の選択であると従業員一同共有しています。
+<br>
+後悔はさせません。私が全責任を負って商品をご提供いたします。
+<br>
+<br>株式会社Bulluck代表取締役
+<br>宮川和樹
+
+
           </p>
         </div>
       </div>
         <div class="col-xs-12 col-sm-6" style="float:right;">
-          <img src="../wp-content/themes/version2-theme/images/keyvisual-pc.jpg" height="780" alt="ダミー" class="worksimg"/>
+          <img src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/3769a09030c89ec108994aff7eceae6f.jpeg" height="780" alt="宮川和樹" class="worksimg"/>
         </div>
     </div>
   </div>

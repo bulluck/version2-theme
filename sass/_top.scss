@@ -9,6 +9,11 @@ $margin-t80: 80px;
 $top-buffer: 30px;
 $gray-text: #666;
 $lighter-gray: #999;
+$tagredcolor: #d26d6d;
+$tagbluecolor: #58ADAD;
+$taggreencolor: #87AD5A;
+$tagyellowcolor:#B19051;
+$tagpurplecolor:#8D6DE9;
 
 @mixin clearfix {
   &:after {
@@ -37,7 +42,7 @@ body {
   word-wrap: break-word;
   color: #222;
   background: $whitebg;
-  font-family: '游ゴシック', 'Yu Gothic', YuGothic, 'Modern', sans-serif;
+  font-family: '游ゴシック', YuGothic, sans-serif;
 }
 h1,
 h2,
@@ -111,6 +116,25 @@ a {
 .black-text {
   color: $black;
 }
+.redtext {
+  color: $tagredcolor
+}
+
+.bluetext {
+  color: $tagbluecolor;
+}
+.greentext {
+  color: $taggreencolor;
+}
+
+.yellotext {
+  color: $tagyellowcolor;
+}
+
+.purpletext {
+  color: $tagpurplecolor;
+}
+
 .whitebg {
   background-color: $whitebg;
 }
@@ -137,12 +161,11 @@ a {
   margin-left: 50%;
 }
 .condensed-bold {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto Condensed','游ゴシック', YuGothic, sans-serif;
   font-weight: 700;
-  letter-spacing: .5px;
 }
 .condensed-normal {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto Condensed','游ゴシック', YuGothic, sans-serif;
   font-weight: 300;
 }
 .top-buffer {
@@ -186,6 +209,7 @@ a {
   margin: 0 auto;
   max-width: 1000px;
   width: 100%;
+  height: 100%;
 }
 .kv-table-cell {
   display: table-cell;
@@ -226,21 +250,55 @@ a {
   left: 20px;
 }
 .tagred {
-  background: #d26d6d;
+  background: $tagredcolor;
   width: 100px;
   text-align: center;
   padding: 10px 0;
   letter-spacing: .5px;
+  transition-duration: .2s;
 }
+
+.tagred-link {
+  .tagred:hover{
+    background: #f2f2f2;
+    color: $tagredcolor
+  }
+}
+
 .tagblue {
   @extend .tagred;
-  background: #4373b1;
-
+  background: $tagbluecolor;
 }
+.tagblue-link {
+  .tagblue:hover {
+  background: #f2f2f2;
+  color: $tagbluecolor
+  }
+}
+
 .taggreen {
   @extend .tagred;
-  background: #55ad56;
+  background: $taggreencolor;
 }
+
+.taggreen-link {
+  .taggreen:hover {
+    background: #f2f2f2;
+    color: $taggreencolor;
+  }
+}
+
+.tagpurple {
+  @extend .tagred;
+  background: $tagpurplecolor;
+}
+
+.tagyellow {
+  @extend .tagred;
+  background: $tagyellowcolor;
+}
+
+
 .contact-recruit {
   @extend .keyvisual;
   background-image: url("#{$img-path}contact-recruit.jpg");

@@ -39,22 +39,12 @@
 						</div>
 									<?php endif; ?>
 				</div>
-
 			</header>
 		</div>
 			<div>
-			<?php if (is_page('bulluck-method')):?>
-					<?php get_template_part('bulluck-method'); ?>
-				<?php elseif (is_page('board')):?>
-						<?php get_template_part('board'); ?>
-					<?php elseif (is_page('business')):?>
-							<?php get_template_part('business'); ?>
-			<?php elseif (is_page('campaign')):?>
+
+			<?php if (is_page('campaign')):?>
 					<?php get_template_part('campaign'); ?>
-				<?php elseif (is_page('feature')):?>
-					<?php get_template_part('feature'); ?>
-				<?php elseif (is_page('price')):?>
-					<?php get_template_part('price'); ?>
 				<?php else:?>
 				<?php the_content(); ?>
 			<?php endif; ?>

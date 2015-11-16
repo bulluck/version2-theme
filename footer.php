@@ -26,6 +26,9 @@
   </div>
 </section>
 <?php endif;?>
+</div>
+<!-- wrapperここまで -->
+
 <div class="blackbg clearfix">
   <nav class="footernav">
     <?php
@@ -43,15 +46,23 @@
   <div class="container-center">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+      <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 align-center">
         <span class="small-heading condensed-bold">
           Bulluck Co., Ltd.
         </span>
       </div>
-      <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 xs-t-buffer">
+      <div class="col-xs-12 col-sm-7 col-md-7 col-lg-7 xs-t-buffer">
         <p class="small-text black-text">
         サイト制作/ランディングページ制作/アプリ開発/経営コンサルティング/プリシパルインベストメント
         </p>
+      </div>
+      <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2 xs-t-buffer align-right">
+        <a class="follow-twitter" href="https://twitter.com/bulluck_media">
+            <i class="fa fa-twitter fa-2x"></i>
+        </a>
+        <a class="follow-fb" href="https://www.facebook.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-Bulluck-1057714580935389/?fref=nf">
+            <i class="fa fa-facebook-official fa-2x"></i>
+        </a>
       </div>
     </div>
     <div class="row top-buffer">

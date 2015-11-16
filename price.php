@@ -14,6 +14,81 @@
           </p>
         </div>
       </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 top-buffer">
+          <figure class="blog-thumbnail">
+            <img src="../../wp-content/themes/version2-theme/images/quickplan-img.jpg" alt="クイックプラン" />
+          </figure>
+          <div class="col-xs-12 purewhitebg parent-relative top-buffer-padding bottom-buffer-padding">
+            <span class="tagblue white-text child-absolute">Quick</span>
+            <p class="small-text font-bold">
+              クイックプラン
+            </p>
+            <p class="small-text">
+              できるだけ安価に簡単なサイトを作りたい方用のプラン。ひとまずWebサイトを立ち上げたい方にオススメです。
+            </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 top-buffer">
+          <figure class="blog-thumbnail">
+            <img src="../../wp-content/themes/version2-theme/images/homepage-img.jpg" alt="クイックプラン" />
+          </figure>
+          <div class="col-xs-12 purewhitebg parent-relative top-buffer-padding bottom-buffer-padding">
+            <span class="taggreen white-text child-absolute">Homepage</span>
+            <p class="small-text font-bold">
+              ホームページプラン
+            </p>
+            <p class="small-text">
+              パンフレット代わりに自社のホームページを作りたい方用のプラン。ページ増設も対応いたします。
+            </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 top-buffer">
+          <figure class="blog-thumbnail">
+            <img src="../../wp-content/themes/version2-theme/images/commitplan.jpg" alt="クイックプラン" />
+          </figure>
+          <div class="col-xs-12 purewhitebg parent-relative top-buffer-padding bottom-buffer-padding">
+            <span class="tagred white-text child-absolute">Conversion</span>
+            <p class="small-text font-bold">
+              受注率特化プラン
+            </p>
+            <p class="small-text">
+              商品販売も兼ねた受注率特化型のWeb集客用ホームページを作りたい方用のプラン。弊社のイチオシプランです。
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-sm-push-2 col-md-2-push col-lg-push-2 top-buffer">
+          <figure class="blog-thumbnail">
+            <img src="../../wp-content/themes/version2-theme/images/premiumplan-img.jpg" alt="クイックプラン" />
+          </figure>
+          <div class="col-xs-12 purewhitebg parent-relative top-buffer-padding bottom-buffer-padding">
+            <span class="tagpurple white-text child-absolute">Premium</span>
+            <p class="small-text font-bold">
+              プレミアムプラン
+            </p>
+            <p class="small-text">
+              デザイン重視のサイト、まとめサイト・バズサイトなど、独自の仕様にカスタマイズしたい方用のプランです。
+            </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-sm-push-2 col-md-2-push col-lg-push-2 top-buffer">
+          <figure class="blog-thumbnail">
+            <img src="../../wp-content/themes/version2-theme/images/landingplan.jpg" alt="プレミアムプラン" />
+          </figure>
+          <div class="col-xs-12 purewhitebg parent-relative top-buffer-padding bottom-buffer-padding">
+            <span class="tagyellow white-text child-absolute">Landing</span>
+            <p class="small-text font-bold">
+              ランディングページプラン
+            </p>
+            <p class="small-text">
+              リスティング広告で商品を売ることに特化した、一枚仕立てのランディングページを作りたい方用のプランです。
+            </p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>

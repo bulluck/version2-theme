@@ -64,7 +64,7 @@
 							<div class="container-fluid">
 								<div class="row">
 									<nav class="topmenu col-xs-6 col-sm-12 col-md-12 col-lg-12">
-										<a href="<?php echo site_url();?>">
+										<a href="<?php  home_url('/');?>">
 											<span class="white-text companyname condensed-bold small-heading">Bulluck</span>
 										</a>
 										<?php
@@ -83,14 +83,13 @@
 
 				</div>
 		</div>
-
+	<div class="wrapper">
 		<?php if(is_front_page()):?>
-
 			<div class="keyvisual section-padding100 js-height">
 				<div class="kv-table">
 					<div class="container-fluid kv-table-cell">
 						<div class="row">
-							<h1 class="condensed-bold top-buffer-pudding top-buffer col-xs-12 col-sm-12 col-md-12 col-lg-12">Let's Bulluck.</h1>
+							<h1 class="condensed-bold col-xs-12 col-sm-12 col-md-12 col-lg-12">Let's Bulluck.</h1>
 						</div>
 						<div class="row">
 							<h2 class="condensed-bold top-buffer small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">BullでLuckな世界をつくる。</h2>
