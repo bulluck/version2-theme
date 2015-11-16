@@ -306,7 +306,7 @@ a:hover {
 .child-absolute {
   position: absolute;
   top: -17px;
-  left: 20px;
+  right: 20px;
 }
 
 .tagred, .tagblue, .taggreen, .tagpurple, .tagyellow {
