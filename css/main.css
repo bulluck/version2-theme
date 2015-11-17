@@ -306,7 +306,7 @@ a:hover {
 .child-absolute {
   position: absolute;
   top: -17px;
-  right: 20px;
+  left: 0px;
 }
 
 .child-absolute-top {
