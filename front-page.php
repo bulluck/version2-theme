@@ -149,7 +149,7 @@
         <div class="col-xs-12 purewhitebg bottom-buffer-padding">
           <div class="top-buffer col-xs-6 col-sm-4 col-md-4 col-lg-4 parent-relative">
             <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/f0663645c5a7ef4e3290916911fd662f.jpg">
-            <span class="tagred white-text condensed-bold child-absolute">Marketing</span>
+            <span class="tagred white-text condensed-bold child-absolute-top">Marketing</span>
           </div>
           <div class="top-buffer col-xs-6 col-sm-8 col-md-8 col-lg-8">
 
@@ -169,7 +169,7 @@
         <div class="col-xs-12 purewhitebg top-buffer bottom-buffer-padding">
           <div class="top-buffer col-xs-6 col-sm-4 col-md-4 col-lg-4 parent-relative">
             <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/black-and-white-cup-hand-mug.jpg">
-            <span class="tagblue white-text condensed-bold child-absolute">Technology</span>
+            <span class="tagblue white-text condensed-bold child-absolute-top">Technology</span>
           </div>
           <div class="top-buffer col-xs-6 col-sm-8 col-md-8 col-lg-8 purewhitebg">
             <h4 class="font-bold">テクノロジーに関する情報</h4>
@@ -188,7 +188,7 @@
         <div class="col-xs-12 purewhitebg bottom-buffer-padding top-buffer">
           <div class="top-buffer col-xs-6 col-sm-4 col-md-4 col-lg-4 parent-relative">
             <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/city-cars-road-traffic.jpg">
-            <span class="taggreen white-text condensed-bold child-absolute">Trends</span>
+            <span class="taggreen white-text condensed-bold child-absolute-top">Trends</span>
           </div>
           <div class="top-buffer col-xs-6 col-sm-8 col-md-8 col-lg-8 purewhitebg">
             <h4 class="font-bold">ビジネストレンドに関する情報</h4>
