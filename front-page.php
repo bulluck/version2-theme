@@ -163,12 +163,10 @@
               <p class="small-text top-buffer-padding">
                 <a class="redtext" href="<?php echo home_url('/');?>blog/blogcategory/marketing/">マーケティングに関する記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i></a>
               </p>
-
           </div>
         </div>
         </div>
         <div class="row">
-
         <div class="col-xs-12 purewhitebg top-buffer bottom-buffer-padding">
           <div class="top-buffer col-xs-12 col-sm-4 col-md-4 col-lg-4 parent-relative">
             <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/black-and-white-cup-hand-mug.jpg">
@@ -215,4 +213,6 @@
     </div>
     </div>
   </section>
+  <?php get_template_part('follow-area'); ?>
+
 <?php get_footer();?>

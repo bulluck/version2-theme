@@ -60,7 +60,7 @@
         <a class="follow-twitter" href="https://twitter.com/bulluck_media">
             <i class="fa fa-twitter fa-2x"></i>
         </a>
-        <a class="follow-fb" href="https://www.facebook.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-Bulluck-1057714580935389/?fref=nf">
+        <a class="follow-fb" href="https://www.facebook.com/bulluck.co.jp/">
             <i class="fa fa-facebook-official fa-2x"></i>
         </a>
       </div>
