@@ -15,7 +15,7 @@
           <div class="align-center bottom-buffer-padding top-buffer-padding">
             <a class="top-buffer btn btn-normal btn-lg" href="<?php echo site_url('/contact/');?>">
               <span class="small-text">
-                <i class="fa fa-envelope-o" style="padding-right:15px"></i>Bulluckに連絡する<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
+                <i class="fa fa-envelope-o" style="padding-right:15px"></i>まずはお問い合わせする<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
               </span>
             </a>
           </div>
@@ -60,7 +60,7 @@
         <a class="follow-twitter" href="https://twitter.com/bulluck_media">
             <i class="fa fa-twitter fa-2x"></i>
         </a>
-        <a class="follow-fb" href="https://www.facebook.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-Bulluck-1057714580935389/?fref=nf">
+        <a class="follow-fb" href="https://www.facebook.com/bulluck.co.jp/">
             <i class="fa fa-facebook-official fa-2x"></i>
         </a>
       </div>

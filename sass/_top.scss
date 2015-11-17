@@ -35,6 +35,10 @@ $tagpurplecolor:#8D6DE9;
   @include box-sizing(border-box);
 }
 
+.t-05rem {
+	margin-top: 0.5rem;
+}
+
 html {
   font-size: 14px;
 }
@@ -247,8 +251,16 @@ a {
 .child-absolute {
   position: absolute;
   top: -17px;
-  left: 20px;
+  left: 0;
 }
+
+.child-absolute-top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 15px;
+}
+
 .tagred {
   background: $tagredcolor;
   width: 100px;

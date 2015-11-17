@@ -55,6 +55,14 @@
 </head>
 
 <body <?php body_class(); ?>>
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 	<?php if(is_front_page()):?>
 		<div class="menuwrapper" id="menuwrapper">
 			<?php else:?>
@@ -64,7 +72,7 @@
 							<div class="container-fluid">
 								<div class="row">
 									<nav class="topmenu col-xs-6 col-sm-12 col-md-12 col-lg-12">
-										<a href="<?php  home_url('/');?>">
+										<a href="<?php echo home_url('/');?>">
 											<span class="white-text companyname condensed-bold small-heading">Bulluck</span>
 										</a>
 										<?php
@@ -96,7 +104,7 @@
 						</div>
 						<div class="margin-t80 row">
 							<p class="white-text col-xs-12 col-sm-12 col-md-12 col-lg-12">
-								ブラックは、皆様の事業をより理想に近づけるために、マーケティングとテクノロジーを通じて新しい価値を提供する株式会社です。クライアントをリードし、費用対効果をひとつづつ改善していくことで、日本全体のポテンシャルを世界水準に引き上げます。
+								ブラックは、皆様の事業をより理想に近づけるために、マーケティングとテクノロジーを通じて新しい価値を提供する株式会社です。クライアントをリードし、費用対効果をひとつづつ改善していくことで、日本全体のポテンシャルを世界水準にBulluckします。
 							</p>
 						</div>
 					</div>
