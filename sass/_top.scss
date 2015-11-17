@@ -12,9 +12,8 @@ $lighter-gray: #999;
 $tagredcolor: #d26d6d;
 $tagbluecolor: #58ADAD;
 $taggreencolor: #87AD5A;
-$tagyellowcolor:#B19051;
-$tagpurplecolor:#8D6DE9;
-
+$tagyellowcolor: #B19051;
+$tagpurplecolor: #8D6DE9;
 @mixin clearfix {
   &:after {
     content: "";
@@ -24,21 +23,17 @@ $tagpurplecolor:#8D6DE9;
     visibility: hidden;
   }
 }
-
 @mixin box-sizing($type) {
   -webkit-box-sizing: $type;
   -moz-box-sizing: $type;
   box-sizing: $type;
 }
-
 * {
   @include box-sizing(border-box);
 }
-
 .t-05rem {
-	margin-top: 0.5rem;
+  margin-top: 0.5rem;
 }
-
 html {
   font-size: 14px;
 }
@@ -53,11 +48,9 @@ h2,
 h3 {
   color: $white;
 }
-
 h3 {
   font-size: 3rem;
 }
-
 h4 {
   font-size: 1.2rem;
 }
@@ -75,13 +68,11 @@ h1 {
   width: 100%;
   max-width: 1000px;
 }
-
 .container-c-narrow {
   margin: 0 auto;
   width: 100%;
   max-width: 720px;
 }
-
 .large-heading {
   font-size: 5rem;
 }
@@ -121,32 +112,26 @@ a {
   color: $black;
 }
 .redtext {
-  color: $tagredcolor
+  color: $tagredcolor;
 }
-
 .bluetext {
   color: $tagbluecolor;
 }
 .greentext {
   color: $taggreencolor;
 }
-
 .yellotext {
   color: $tagyellowcolor;
 }
-
 .purpletext {
   color: $tagpurplecolor;
 }
-
 .whitebg {
   background-color: $whitebg;
 }
-
 .blackbg {
   background-color: $black;
 }
-
 .purewhitebg {
   background-color: #fff;
 }
@@ -175,20 +160,20 @@ a {
 .top-buffer {
   margin-top: $top-buffer;
 }
-
 .bottom-buffer {
-  margin-bottom: $top-buffer
+  margin-bottom: $top-buffer;
 }
-
 .top-buffer-padding {
   padding-top: $top-buffer;
 }
-
 .bottom-buffer-padding {
   padding-bottom: $top-buffer;
 }
 .margin-t80 {
   margin-top: $margin-t80;
+}
+.margin-b80 {
+  margin-bottom: $margin-t80;
 }
 .width1000 {
   width: 1000px;
@@ -201,7 +186,7 @@ a {
   padding: 100px 0;
 }
 .keyvisual {
-  background-image: url("#{$img-path}keyvisual-pc.jpg");
+  background-image: url(#{$img-path}keyvisual-pc.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -239,11 +224,11 @@ a {
 }
 .whatwedo {
   @extend .keyvisual;
-  background-image: url("#{$img-path}whatwedo.jpg");
+  background-image: url(#{$img-path}whatwedo.jpg);
 }
 .culture {
   @extend .whatwedo;
-  background-image: url("#{$img-path}culture.jpg");
+  background-image: url(#{$img-path}culture.jpg);
 }
 .parent-relative {
   position: relative;
@@ -253,68 +238,57 @@ a {
   top: -17px;
   left: 0;
 }
-
 .child-absolute-top {
   position: absolute;
   top: 0;
   left: 0;
   margin-left: 15px;
 }
-
 .tagred {
   background: $tagredcolor;
   width: 100px;
   text-align: center;
   padding: 10px 0;
-  letter-spacing: .5px;
-  transition-duration: .2s;
+  letter-spacing: 0.5px;
+  transition-duration: 0.2s;
 }
-
 .tagred-link {
-  .tagred:hover{
+  .tagred:hover {
     background: #f2f2f2;
-    color: $tagredcolor
+    color: $tagredcolor;
   }
 }
-
 .tagblue {
   @extend .tagred;
   background: $tagbluecolor;
 }
 .tagblue-link {
   .tagblue:hover {
-  background: #f2f2f2;
-  color: $tagbluecolor
+    background: #f2f2f2;
+    color: $tagbluecolor;
   }
 }
-
 .taggreen {
   @extend .tagred;
   background: $taggreencolor;
 }
-
 .taggreen-link {
   .taggreen:hover {
     background: #f2f2f2;
     color: $taggreencolor;
   }
 }
-
 .tagpurple {
   @extend .tagred;
   background: $tagpurplecolor;
 }
-
 .tagyellow {
   @extend .tagred;
   background: $tagyellowcolor;
 }
-
-
 .contact-recruit {
   @extend .keyvisual;
-  background-image: url("#{$img-path}contact-recruit.jpg");
-
+  background-image: url(#{$img-path}contact-recruit.jpg);
 }
 .btn {
   border-radius: 0;
@@ -323,7 +297,7 @@ a {
   background: #201f1f;
   color: #fff;
   border-radius: 0;
-  transition: all .2s ease;
+  transition: all 0.2s ease;
   &:hover {
     background: $white;
     color: $black;
@@ -331,45 +305,72 @@ a {
     font-weight: bold;
   }
 }
-
 #engineering {
-  background-image: url('#{$img-path}engineering.jpg');
+  background-image: url(#{$img-path}engineering.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
-
 #consulting {
-  background-image: url('#{$img-path}consulting.jpg');
+  background-image: url(#{$img-path}consulting.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
-
 .xs-t-buffer {
   margin-top: 0;
 }
 .xs-b-buffer {
   margin-bottom: 0;
 }
-
 .xs-t-buf-padding {
   padding-top: 0;
 }
 .xs-b-buf-padding {
   padding-bottom: 0;
 }
+.rotate-mandt {
+  transform: rotate(90deg);
+  position: absolute;
+  top: 100px;
+  right: -75px;
+  color: rgba(255,255,255,.1);
+  font-family: serif;
+}
+
+.rotate-overwhelm {
+  transform: rotate(90deg);
+  position: absolute;
+  right: -130px;
+  top: 150px;
+  color: rgba(0,0,0,.1);
+  font-family: serif;
+}
+
+.rotate-result {
+  transform: rotate(90deg);
+  position: absolute;
+  top: 70px;
+  color: rgba(255,255,255,.1);
+  font-family: serif;
+}
+
+.rotate-mediablog {
+  transform: rotate(90deg);
+  position: absolute;
+  right: -65px;
+  top: 90px;
+  color: rgba(0,0,0,.1);
+  font-family: serif;
+}
 
 @media only screen and (max-width:1024px) {
   html {
     font-size: 12px;
   }
-
   h1 {
     font-size: 4.5rem;
   }
-
-
   p {
     line-height: 1.5;
     font-size: 1.2rem;
@@ -377,37 +378,32 @@ a {
   .large-heading {
     font-size: 4rem;
   }
-
   .small-heading {
     font-size: 1.5rem;
   }
-
   .section-padding100 {
     padding: 50px 0;
   }
-
   .section-padding80 {
     padding: 30px 0;
   }
-
   .margin-t80 {
     margin-top: 30px;
   }
-
+  .margin-b80 {
+    margin-bottom: 30px;
+  }
 }
-
 .js-height {
   max-height: 768px;
 }
-
 @media only screen and (max-width:768px) {
   .xs-t-buffer {
-    margin-top: 30px
+    margin-top: 30px;
   }
   .xs-b-buffer {
     margin-bottom: 30px;
   }
-
   .xs-t-buf-padding {
     padding-top: 30px;
   }
