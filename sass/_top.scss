@@ -250,8 +250,9 @@ a {
 }
 .child-absolute {
   position: absolute;
-  top: -17px;
-  right: 20px;
+  top: 0;
+  left: 0;
+  margin-left: 15px;
 }
 .tagred {
   background: $tagredcolor;
