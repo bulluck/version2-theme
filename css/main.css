@@ -56,8 +56,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -92,6 +90,10 @@ h4 {
 
 h1 {
   font-size: 6rem;
+}
+
+.heading-op {
+  opacity: 0.2;
 }
 
 .small-heading {
@@ -201,7 +203,8 @@ a:hover {
 }
 
 .blackbar {
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
   background-color: #111;
 }
 
@@ -243,6 +246,10 @@ a:hover {
   margin-top: 80px;
 }
 
+.margin-b80 {
+  margin-bottom: 80px;
+}
+
 .width1000 {
   width: 1000px;
   margin: 0 auto;
@@ -257,7 +264,7 @@ a:hover {
 }
 
 .keyvisual, .whatwedo, .culture, .contact-recruit {
-  background-image: url("../images/keyvisual-pc.jpg");
+  background-image: url(../images/keyvisual-pc.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -284,19 +291,21 @@ a:hover {
 }
 .ghostbtn:hover {
   background: #fff;
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
 }
 .ghostbtn:hover span {
   color: #111;
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
 }
 
 .whatwedo, .culture {
-  background-image: url("../images/whatwedo.jpg");
+  background-image: url(../images/whatwedo.jpg);
 }
 
 .culture {
-  background-image: url("../images/culture.jpg");
+  background-image: url(../images/culture.jpg);
 }
 
 .parent-relative {
@@ -321,8 +330,9 @@ a:hover {
   width: 100px;
   text-align: center;
   padding: 10px 0;
-  letter-spacing: .5px;
-  transition-duration: .2s;
+  letter-spacing: 0.5px;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
 }
 
 .tagred-link .tagred:hover, .tagred-link .tagblue:hover, .tagred-link .taggreen:hover, .tagred-link .tagpurple:hover, .tagred-link .tagyellow:hover {
@@ -357,7 +367,7 @@ a:hover {
 }
 
 .contact-recruit {
-  background-image: url("../images/contact-recruit.jpg");
+  background-image: url(../images/contact-recruit.jpg);
 }
 
 .btn {
@@ -368,7 +378,8 @@ a:hover {
   background: #201f1f;
   color: #fff;
   border-radius: 0;
-  transition: all .2s ease;
+  -webkit-transition: all 0.2s ease;
+          transition: all 0.2s ease;
 }
 .btn-normal:hover {
   background: #fff;
@@ -378,14 +389,14 @@ a:hover {
 }
 
 #engineering {
-  background-image: url("../images/engineering.jpg");
+  background-image: url(../images/engineering.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 #consulting {
-  background-image: url("../images/consulting.jpg");
+  background-image: url(../images/consulting.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -405,6 +416,49 @@ a:hover {
 
 .xs-b-buf-padding {
   padding-bottom: 0;
+}
+
+.rotate-mandt {
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+  position: absolute;
+  top: 100px;
+  right: -75px;
+  color: rgba(255, 255, 255, 0.1);
+  font-family: serif;
+}
+
+.rotate-overwhelm {
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+  position: absolute;
+  right: -130px;
+  top: 150px;
+  color: rgba(0, 0, 0, 0.1);
+  font-family: serif;
+}
+
+.rotate-result {
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+  position: absolute;
+  top: 70px;
+  color: rgba(255, 255, 255, 0.1);
+  font-family: serif;
+}
+
+.rotate-mediablog {
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+  position: absolute;
+  right: -65px;
+  top: 90px;
+  color: rgba(0, 0, 0, 0.1);
+  font-family: serif;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -440,6 +494,10 @@ a:hover {
   .margin-t80 {
     margin-top: 30px;
   }
+
+  .margin-b80 {
+    margin-bottom: 30px;
+  }
 }
 .js-height {
   max-height: 768px;
@@ -468,9 +526,12 @@ a:hover {
   left: 0;
   right: 0;
   z-index: 10;
-  transition-duration: 0.3s;
-  transition-property: background-color;
-  transition-timing-function: ease;
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+  -webkit-transition-property: background-color;
+          transition-property: background-color;
+  -webkit-transition-timing-function: ease;
+          transition-timing-function: ease;
 }
 
 .menuwrapper-lower {
@@ -510,15 +571,20 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  transform: scaleX(0);
+  -webkit-transform: scaleX(0);
+      -ms-transform: scaleX(0);
+          transform: scaleX(0);
   background-color: transparent;
-  transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+          transition: all 0.2s ease;
   border-bottom: 3px solid #fff;
   opacity: 0;
   z-index: -1;
 }
 .topmenu ul > li:hover::before {
-  transform: scaleX(1);
+  -webkit-transform: scaleX(1);
+      -ms-transform: scaleX(1);
+          transform: scaleX(1);
   opacity: 1;
 }
 
@@ -528,8 +594,10 @@ a:hover {
   top: 100%;
   width: 200px;
   background: rgba(0, 0, 0, 0.5);
-  transition: 0.2s;
-  transition-delay: 0.2s;
+  -webkit-transition: 0.2s;
+          transition: 0.2s;
+  -webkit-transition-delay: 0.2s;
+          transition-delay: 0.2s;
 }
 .topmenu ul li .sub-menu li {
   float: none;
@@ -539,7 +607,9 @@ a:hover {
   position: relative;
 }
 .topmenu ul li .sub-menu li:hover::before {
-  transform: scaleX(1);
+  -webkit-transform: scaleX(1);
+      -ms-transform: scaleX(1);
+          transform: scaleX(1);
   opacity: 1;
 }
 .topmenu ul li .sub-menu li::after {
@@ -612,6 +682,14 @@ a:hover {
   .child-menu {
     display: none;
   }
+
+  .slicknav_nav li {
+    border-top: 1px solid #ccc;
+  }
+
+  .slicknav_nav li:first-child {
+    border: 0;
+  }
 }
 .wrapper {
   max-width: 1366px;
@@ -639,6 +717,7 @@ a:hover {
 .lower-top img {
   height: 300px;
   width: 100%;
+  object-fit: cover;
 }
 
 .darktheme {
@@ -821,7 +900,8 @@ div.wpcf7 img.ajax-loader {
 .rss-bg {
   background-color: #ff8c00;
   border: 1px solid #ff8c00;
-  transition-duration: .2s;
+  -webkit-transition-duration: .2s;
+          transition-duration: .2s;
 }
 .rss-bg:hover {
   background-color: #f5f5f5;

@@ -24,19 +24,17 @@
         </p>
         </div>
         <div class="row">
-        <h2 class="condensed-bold large-heading col-xs-12 col-sm-6 col-md-6 col-lg-6">
-          Marketing and technology.
+        <h2 class="font-bold large-heading col-xs-12 col-sm-11">
+          「受注率にコミットする」サイト/LP制作。
         </h2>
         </div>
         <div class="row">
-        <h3 class="top-buffer font-bold small-heading col-xs-12 col-sm-6 col-md-6 col-lg-6">
-          「受注率にコミットする」サイト/LP制作。
-        </h3>
-        </div>
-        <div class="row">
-        <p class="white-text top-buffer small-text col-xs-12 col-sm-6 col-md-6 col-lg-6">
+        <p class="white-text top-buffer small-text col-xs-12 col-sm-3">
           コンサルティングファームからスピンアウトした経営コンサルタントが、「受注率にコミット」したサイト/ランディングページを設計します。弊社マーケティング責任者(CMO)と、テクノロジー責任者(CTO)が責任を負って監修するサイトは受注率が一桁違います。
         </p>
+        <div class="condensed-bold white-text large-heading top-buffer col-sm-9 col-md-9 col-lg-9 hidden-xs heading-op">
+          Marketing and technology.
+        </div>
         </div>
         <a class="top-buffer btn ghostbtn" href="./service/">
           <span class="white-text font-bold">
@@ -55,15 +53,15 @@
           </p>
         </div>
         <div class="row">
-
-          <h2 class="condensed-bold black-text large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-            Overwhelming quality and performance.
+          <h2 class="black-text font-bold large-heading col-xs-12">
+            圧倒的な品質と実績。
           </h2>
+
         </div>
         <div class="row">
-          <h3 class="black-text top-buffer font-bold small-heading col-xs-12 col-sm-8  col-md-8 col-lg-8">
-            圧倒的な品質と実績。
-          </h3>
+            <div class="condensed-bold black-text heading-op top-buffer large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8 hidden-xs">
+              Overwhelming quality and performance.
+            </div>
         </div>
     </div>
     </div>
@@ -72,16 +70,16 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 top-buffer">
-            <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/0d7ea804aa3d68a7bff2f6b06e4dd323.jpg">
+            <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/0d7ea804aa3d68a7bff2f6b06e4dd3231.jpg">
         </div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 top-buffer">
-          <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bbbdfc2b288ab64072f65372d03763041.jpg">
+          <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bbbdfc2b288ab64072f65372d037630411.jpg">
         </div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 top-buffer">
-          <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/8208154c429006d3213f655891e5a8cb.jpg">
+          <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/8208154c429006d3213f655891e5a8cb2.jpg">
         </div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 top-buffer">
-          <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/f197af077acfafce7dad69269bd5613c1.jpg">
+          <img class="worksimg" alt="works1" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/f197af077acfafce7dad69269bd5613c12.jpg">
         </div>
       </div>
     </div>
@@ -93,32 +91,28 @@
         <div class="container-fluid">
 
         <div class="row">
-          <p class="condensed-bold lighter-gray col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
+          <p class="condensed-bold lighter-gray col-xs-12 col-sm-6 col-md-6 col-lg-6">
             WHO WE ARE
           </p>
         </div>
         <div class="row">
-          <h2 class="condensed-bold large-heading col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
-            Only results.
+          <h2 class="top-buffer font-bold large-heading col-xs-12">
+            結果のみを追求する。
           </h2>
         </div>
         <div class="row">
-          <h3 class="top-buffer font-bold small-heading col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
-            結果のみを追求する。
-          </h3>
-        </div>
-        <div class="row">
-          <p class="white-text top-buffer small-text col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
+          <p class="white-text top-buffer small-text col-xs-12 col-sm-3 col-md-3 col-lg-3">
             ブラックが、ビジネスを遂行する上で、最優先にするべきことは結果と顧客の利益の追求です。ビジネスの成功は、顧客への貢献の結果より得られるものであり、これは世界に数多ある成功企業を見れば自明であることがわかります。
           </p>
+          <div class="condensed-bold top-buffer white-text heading-op large-heading hidden-xs col-sm-9 col-md-9 col-lg-9 ">
+            Only results.
+          </div>
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-sm-push-6 col-md-push-6 col-lg-push-6">
           <a class="top-buffer btn ghostbtn" href="<?php echo site_url('/about-us/');?>">
             <span class="white-text font-bold">
               Bulluckをもっと知る<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
             </span>
           </a>
-        </div>
 
         </div>
       </div>
@@ -134,14 +128,12 @@
             </p>
           </div>
           <div class="row">
-            <h2 class="condensed-bold black-text large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
-              Bulluck anytime.
-            </h2>
-          </div>
-          <div class="row">
-            <h3 class="black-text top-buffer font-bold small-heading col-xs-12 col-sm-8 col-md-8 col-lg-8">
+            <h2 class="black-text font-bold large-heading col-xs-12">
               いつでもブラックな情報を。
-            </h3>
+            </h2>
+            <div class="condensed-bold top-buffer black-text heading-op large-heading col-xs-12 hidden-xs">
+              Bulluck anytime.
+            </div>
           </div>
         </div>
     </div>
