@@ -1,4 +1,4 @@
-<section class="bottom-buffer-padding">
+<section class="margin-b80">
   <div class="container-center" style="border-top:1px solid #ccc;">
     <div class="container-fluid">
       <div class="row">

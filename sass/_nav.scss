@@ -102,6 +102,9 @@
     }
   }
 }
+
+
+
 .topmenu li:hover .sub-menu {
   visibility: visible;
   opacity: 1;
@@ -134,6 +137,8 @@
     position: fixed;
     z-index: 999999;
   }
+
+
   .menuwrapper,
   .menuwrapper-lower {
     height: auto;
@@ -145,4 +150,11 @@
   .child-menu {
     display: none;
   }
+
+.slicknav_nav li {
+    border-top: 1px solid #ccc;
+}
+.slicknav_nav li:first-child {
+    border: 0;
+}
 }

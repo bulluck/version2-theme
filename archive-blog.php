@@ -161,7 +161,7 @@
                         )); ?>
 							<?php if (have_posts()): ?>
 							<?php while (have_posts()):the_post(); ?>
-												<div class="col-xs-12 col-sm-4 top-buffer">
+												<div class="col-xs-12 col-sm-4 top-buffer margin-b80">
 													<div class="blog-thumbnail">
 														<?php if (has_post_thumbnail()):?>
 															<a href="<?php the_permalink();?>">
