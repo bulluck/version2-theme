@@ -22,7 +22,7 @@ function is_mobile()
     $pattern = '/'.implode('|', $useragents).'/i';
     return preg_match($pattern, $_SERVER['HTTP_USER_AGENT']);
 }
-
+add_editor_style("editor-style.css");
 
 // カスタムヘッダー
 add_theme_support('custom-header', array(
@@ -333,3 +333,9 @@ function wpcf7_text_validation_filter_extend($result, $tag)
     }
     return $result;
 }
+/** カスタム投稿タイプにもパブリサイズ共有を対応 */
+function add_jetpack_custom_post_publicize()
+{
+    add_post_type_support('blog', 'publicize');
+}
+add_action('init', 'add_jetpack_custom_post_publicize');

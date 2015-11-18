@@ -94,6 +94,10 @@ h1 {
   font-size: 6rem;
 }
 
+.heading-op {
+  opacity: 0.2;
+}
+
 .small-heading {
   font-size: 2rem;
 }
