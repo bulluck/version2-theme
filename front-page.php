@@ -63,7 +63,7 @@
               Overwhelming quality and performance.
             </div>
             <p class="small-text col-xs-12 top-buffer">
-              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              <!-- ここにテキストを入れる -->
             </p>
         </div>
     </div>
@@ -104,10 +104,10 @@
           </h2>
         </div>
         <div class="row">
-          <p class="white-text top-buffer small-text col-xs-12 col-sm-3 col-md-3 col-lg-3">
+          <p class="white-text margin-t80 small-text col-xs-12 col-sm-3 col-md-3 col-lg-3">
             ブラックが、ビジネスを遂行する上で、最優先にするべきことは結果と顧客の利益の追求です。ビジネスの成功は、顧客への貢献の結果より得られるものであり、これは世界に数多ある成功企業を見れば自明であることがわかります。
           </p>
-          <div class="condensed-bold top-buffer white-text heading-op medium-heading hidden-xs col-sm-9 col-md-9 col-lg-9 ">
+          <div class="condensed-bold margin-t80 white-text heading-op medium-heading hidden-xs col-sm-9 col-md-9 col-lg-9 ">
             Only results.
           </div>
         </div>
@@ -136,15 +136,18 @@
             </h2>
             </div>
             <div class="row">
-              <div class="condensed-bold top-buffer black-text heading-op medium-heading col-sm-9 hidden-xs">
+              <div class="condensed-bold margin-t80 black-text heading-op medium-heading col-sm-12 hidden-xs">
                 Bulluck anytime.
               </div>
+              <p class="small-text col-xs-12 top-buffer">
+                <!-- ここにテキストを入れる -->
+              </p>
           </div>
         </div>
     </div>
     </div>
     <div class="container-center">
-    <div class="container-fluid margin-t80">
+    <div class="container-fluid top-buffer">
       <div class="row">
         <div class="col-xs-12 purewhitebg bottom-buffer-padding">
           <div class="top-buffer col-xs-12 col-sm-4 col-md-4 col-lg-4 parent-relative">

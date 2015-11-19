@@ -56,8 +56,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -209,7 +207,8 @@ a:hover {
 }
 
 .blackbar {
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
   background-color: #111;
 }
 
@@ -296,11 +295,13 @@ a:hover {
 }
 .ghostbtn:hover {
   background: #fff;
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
 }
 .ghostbtn:hover span {
   color: #111;
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
 }
 
 .whatwedo, .culture {
@@ -334,7 +335,8 @@ a:hover {
   text-align: center;
   padding: 10px 0;
   letter-spacing: 0.5px;
-  transition-duration: 0.2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
 }
 
 .tagred-link .tagred:hover, .tagred-link .tagblue:hover, .tagred-link .taggreen:hover, .tagred-link .tagpurple:hover, .tagred-link .tagyellow:hover {
@@ -380,6 +382,7 @@ a:hover {
   background: #201f1f;
   color: #fff;
   border-radius: 0;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 .btn-normal:hover {
@@ -420,7 +423,9 @@ a:hover {
 }
 
 .rotate-mandt {
-  transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
   position: absolute;
   top: 100px;
   right: -75px;
@@ -429,7 +434,9 @@ a:hover {
 }
 
 .rotate-overwhelm {
-  transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
   position: absolute;
   right: -130px;
   top: 150px;
@@ -438,7 +445,9 @@ a:hover {
 }
 
 .rotate-result {
-  transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
   position: absolute;
   top: 70px;
   color: rgba(255, 255, 255, 0.1);
@@ -446,7 +455,9 @@ a:hover {
 }
 
 .rotate-mediablog {
-  transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
   position: absolute;
   right: -65px;
   top: 90px;
@@ -523,9 +534,12 @@ a:hover {
   left: 0;
   right: 0;
   z-index: 10;
-  transition-duration: 0.3s;
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+  -webkit-transition-property: background-color;
   transition-property: background-color;
-  transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+          transition-timing-function: ease;
 }
 
 .menuwrapper-lower {
@@ -565,15 +579,20 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  transform: scaleX(0);
+  -webkit-transform: scaleX(0);
+      -ms-transform: scaleX(0);
+          transform: scaleX(0);
   background-color: transparent;
+  -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
   border-bottom: 3px solid #fff;
   opacity: 0;
   z-index: -1;
 }
 .topmenu ul > li:hover::before {
-  transform: scaleX(1);
+  -webkit-transform: scaleX(1);
+      -ms-transform: scaleX(1);
+          transform: scaleX(1);
   opacity: 1;
 }
 
@@ -583,8 +602,10 @@ a:hover {
   top: 100%;
   width: 200px;
   background: rgba(0, 0, 0, 0.5);
+  -webkit-transition: 0.2s;
   transition: 0.2s;
-  transition-delay: 0.2s;
+  -webkit-transition-delay: 0.2s;
+          transition-delay: 0.2s;
 }
 .topmenu ul li .sub-menu li {
   float: none;
@@ -594,7 +615,9 @@ a:hover {
   position: relative;
 }
 .topmenu ul li .sub-menu li:hover::before {
-  transform: scaleX(1);
+  -webkit-transform: scaleX(1);
+      -ms-transform: scaleX(1);
+          transform: scaleX(1);
   opacity: 1;
 }
 .topmenu ul li .sub-menu li::after {
@@ -703,7 +726,8 @@ a:hover {
 .lower-top img {
   height: 300px;
   width: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .darktheme {
@@ -813,7 +837,8 @@ div.wpcf7 img.ajax-loader {
 .blog-thumbnail img {
   width: 100%;
   height: auto;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 #technology, #marketing, #trend, #blog {
@@ -886,7 +911,8 @@ div.wpcf7 img.ajax-loader {
 .rss-bg {
   background-color: #ff8c00;
   border: 1px solid #ff8c00;
-  transition-duration: .2s;
+  -webkit-transition-duration: .2s;
+          transition-duration: .2s;
 }
 .rss-bg:hover {
   background-color: #f5f5f5;
