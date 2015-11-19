@@ -40,16 +40,5 @@ if (get_previous_post()) {
 		</div>
 	</div>
 </section>
-<section>
-<div class="container-c-narrow">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-xs-12 black-text">
-				<?php wp_related_posts()?>
-			</div>
-		</div>
-	</div>
-</div>
-</section>
 <?php get_template_part('follow-area'); ?>
-	<?php get_footer(); ?>
+<?php get_footer(); ?>
