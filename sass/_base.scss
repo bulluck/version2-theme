@@ -266,6 +266,9 @@ div.wpcf7 img.ajax-loader {
 
 .entry {
   line-height: 1.7;
+  img {
+    max-width: 100%;
+  }
 }
 
 @media only screen and (max-width:1024px) {

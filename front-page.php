@@ -24,9 +24,9 @@
         </p>
         </div>
         <div class="row">
-        <h2 class="font-bold large-heading col-xs-12 col-sm-11">
-          「受注率にコミットする」サイト/LP制作。
-        </h2>
+          <h2 class="font-bold large-heading col-xs-12 col-sm-11">
+            「受注率にコミットする」<br>サイト/LP制作。
+          </h2>
         </div>
         <div class="row">
         <p class="white-text top-buffer small-text col-xs-12 col-sm-3">
@@ -96,7 +96,7 @@
           </p>
         </div>
         <div class="row">
-          <h2 class="top-buffer font-bold large-heading col-xs-12">
+          <h2 class="font-bold large-heading col-xs-12">
             結果のみを追求する。
           </h2>
         </div>
@@ -131,9 +131,11 @@
             <h2 class="black-text font-bold large-heading col-xs-12">
               いつでもブラックな情報を。
             </h2>
-            <div class="condensed-bold top-buffer black-text heading-op large-heading col-xs-12 hidden-xs">
-              Bulluck anytime.
             </div>
+            <div class="row">
+              <div class="condensed-bold top-buffer black-text heading-op large-heading col-sm-9 hidden-xs">
+                Bulluck anytime.
+              </div>
           </div>
         </div>
     </div>
