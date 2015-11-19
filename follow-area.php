@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 top-buffer">
           <p class="small-heading condensed-bold">
-            Follow Us.
+            Follow us.
           </p>
           <p class="small-text top-buffer">
             ブラックで配信している情報をTwitterやFacebookでご覧になれます。

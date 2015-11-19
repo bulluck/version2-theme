@@ -198,7 +198,7 @@
         </div>
       </div>
       <div class="align-center">
-        <a class="top-buffer btn btn-normal btn-lg" href="/service/">
+        <a class="top-buffer btn btn-normal btn-lg" href="/blog/">
           <span class="small-text">
             もっと記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i>
           </span>
