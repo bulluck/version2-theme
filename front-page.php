@@ -24,15 +24,15 @@
         </p>
         </div>
         <div class="row">
-          <h2 class="font-bold large-heading col-xs-12 col-sm-11">
+          <h2 class="font-bold large-heading col-xs-12 col-sm-12">
             「受注率にコミットする」<br>サイト/LP制作。
           </h2>
         </div>
         <div class="row">
-        <p class="white-text top-buffer small-text col-xs-12 col-sm-3">
+        <p class="white-text margin-t80 small-text col-xs-12 col-sm-3">
           コンサルティングファームからスピンアウトした経営コンサルタントが、「受注率にコミット」したサイト/ランディングページを設計します。弊社マーケティング責任者(CMO)と、テクノロジー責任者(CTO)が責任を負って監修するサイトは受注率が一桁違います。
         </p>
-        <div class="condensed-bold white-text large-heading top-buffer col-sm-9 col-md-9 col-lg-9 hidden-xs heading-op">
+        <div class="condensed-bold white-text medium-heading margin-t80 col-sm-6 col-md-6 col-lg-6 hidden-xs heading-op">
           Marketing and technology.
         </div>
         </div>
@@ -59,9 +59,12 @@
 
         </div>
         <div class="row">
-            <div class="condensed-bold black-text heading-op top-buffer large-heading col-xs-12 col-sm-8 col-md-8 col-lg-8 hidden-xs">
+            <div class="condensed-bold black-text heading-op margin-t80 medium-heading col-sm-12 col-md-12 col-lg-12 hidden-xs">
               Overwhelming quality and performance.
             </div>
+            <p class="small-text col-xs-12 top-buffer">
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+            </p>
         </div>
     </div>
     </div>
@@ -104,7 +107,7 @@
           <p class="white-text top-buffer small-text col-xs-12 col-sm-3 col-md-3 col-lg-3">
             ブラックが、ビジネスを遂行する上で、最優先にするべきことは結果と顧客の利益の追求です。ビジネスの成功は、顧客への貢献の結果より得られるものであり、これは世界に数多ある成功企業を見れば自明であることがわかります。
           </p>
-          <div class="condensed-bold top-buffer white-text heading-op large-heading hidden-xs col-sm-9 col-md-9 col-lg-9 ">
+          <div class="condensed-bold top-buffer white-text heading-op medium-heading hidden-xs col-sm-9 col-md-9 col-lg-9 ">
             Only results.
           </div>
         </div>
@@ -133,7 +136,7 @@
             </h2>
             </div>
             <div class="row">
-              <div class="condensed-bold top-buffer black-text heading-op large-heading col-sm-9 hidden-xs">
+              <div class="condensed-bold top-buffer black-text heading-op medium-heading col-sm-9 hidden-xs">
                 Bulluck anytime.
               </div>
           </div>
