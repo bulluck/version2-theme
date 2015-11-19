@@ -15,6 +15,50 @@ h6 {
   padding: 0;
 }
 
+
+
+
+
+.section-padding100 {
+	.	padding: 100px 0;
+}
+
+.purewhitebg {
+	.	background: white;
+}
+
+.top-buffer-padding {
+	.	padding-top: 30px;
+}
+
+.condensed-bold {
+	.	font-family: 'Roboto Condensed','游ゴシック', YuGothic, sans-serif;
+	.	font-weight: 700;
+}
+
+
+
+.col-xs-12.col-sm-12.col-lg-12 {
+	.	position: relative;
+	.	min-height: 1px;
+	.	padding-left: 15px;
+	.	padding-right: 15px;
+} 
+
+.con-size-h3 {
+	.	font-size: 3rem;
+} 
+
+
+
+
+
+
+
+
+
+
+
 .exit {
   font-size: 2rem;
   font-weight: 600;
