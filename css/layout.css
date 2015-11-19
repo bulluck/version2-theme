@@ -121,7 +121,6 @@ img {
   width: 100%;
   max-width: 980px;
   margin: 0 auto;
-  padding:0.5rem;
 }
 
 .headtitle {
@@ -220,17 +219,13 @@ img {
 /* line 175, ../sass/layout.scss */
 /* line 206, ../sass/layout.scss */
 /* line 235, ../sass/layout.scss */
-.companyname {
-  position: fixed;
-  top: 0;
-  left: 5%;
-  height: 3rem;
-  color: #fff;
-  font-size: 1.2rem;
-  line-height: 3rem;
-  font-weight: 500;
-  z-index: 9999;
+  .companyname {
+    line-height: 70px;
+    float: left;
+    color: #fff;
+    font-size: 2rem;
 }
+
 
 .kvbox,
 .kvbox-alt {
@@ -271,29 +266,6 @@ img {
   background-size: cover;
 }
 
-.topbar {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  color: white;
-  background: rgba(0, 0, 0, 0.5);
-  padding: 5px 0;
-  z-index: 999;
-}
-
-.topbar2 {
-  width: 100%;
-  max-width: 980px;
-  height: 57.778px;
-  margin: 0 auto;
-  background: transprant;
-  text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.8);
-  padding: 1rem 0;
-}
-.topbar2 .menu ul li a,
-.topbar2 .headtitle a {
-  color: #070c22;
-}
 
 .description {
   width: 100%;

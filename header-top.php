@@ -43,11 +43,8 @@
 	</p>
 		<div class="wrapnormal" style="padding:0">
 			<div class="kvbox">
-				<header class="topbar">
 					<div class="heading">
-						<h4 class="description">
-							<?php bloginfo('description');?>
-						</h4>
+
 
 						<div class="menuwrapper-lower" id="menuwrapper-lower">
 								<div class="container-center">
@@ -72,9 +69,7 @@
 								</div>
 
 						</div>
-
-					</div>
-				</header>
+				</div>
 				<div class="kvbn">
 					<?php if (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
 									<span class="consulspan">経営コンサルタントによる</span>

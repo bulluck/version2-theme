@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+
+.container-center {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 980px;
+}
+
 .menuwrapper, .menuwrapper-lower {
   height: 70px;
   position: fixed;
@@ -22,6 +29,11 @@
   height: 70px;
   margin: 0 auto;
 }
+
+a {
+text-decoration: none; 
+}
+
 .topmenu ul {
   float: right;
 }
@@ -31,6 +43,7 @@
 .topmenu ul li {
   float: left;
   margin-left: 30px;
+  list-style-type: none;
 }
 .topmenu ul li a {
   display: block;
@@ -38,7 +51,7 @@
   line-height: 70px;
   color: #fff;
   font-size: 1.2rem;
-  letter-spacing: 0.5px;
+  text-decoration: none;
 }
 
 .topmenu ul > li {
