@@ -146,58 +146,7 @@ img {
   margin-top: 10px;
 }
 
-.menu ul {
-  width: 100%;
-}
-.menu ul li {
-  display: inline-block;
-  list-style-type: none;
-}
-.menu ul li a {
-  text-align: center;
-  padding: 0 1rem;
-  display: block;
-  text-decoration: none;
-  color: white;
-}
 
-.globalNavi2 {
-  width: 100%;
-  background: #3d3d3d;
-  position: fixed;
-  z-index: 9998;
-}
-.globalNavi2 .menu {
-  height: 3rem;
-  width: 80%;
-  max-width: 1280px;
-  margin: 0 auto;
-}
-.globalNavi2 .menu ul li {
-  width: 16.6%;
-}
-.globalNavi2 .menu ul li a {
-  font-weight: 500;
-  line-height: 42px;
-  font-size: 1rem;
-}
-
-/* line 195, ../sass/layout.scss */
-/* line 200, ../sass/layout.scss */
-/* line 202, ../sass/layout.scss */
-/* line 171, ../sass/layout.scss */
-/* line 176, ../sass/layout.scss */
-/* line 178, ../sass/layout.scss */
-/* line 145, ../sass/layout.scss */
-/* line 150, ../sass/layout.scss */
-/* line 152, ../sass/layout.scss */
-/* line 116, ../sass/layout.scss */
-/* line 121, ../sass/layout.scss */
-/* line 123, ../sass/layout.scss */
-/* line 131, ../sass/layout.scss */
-/* line 165, ../sass/layout.scss */
-/* line 195, ../sass/layout.scss */
-/* line 223, ../sass/layout.scss */
 .topnav {
   width: 100%;
   max-width: 2560px;
