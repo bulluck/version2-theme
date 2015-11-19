@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+
+.container-center {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 980px;
+}
+
 .menuwrapper, .menuwrapper-lower {
   height: 70px;
   position: fixed;
@@ -22,6 +29,16 @@
   height: 70px;
   margin: 0 auto;
 }
+
+a {
+text-decoration: none;
+}
+
+.topmenu ul li a {
+  font-weight: 500;
+  text-shadow: 0;
+}
+
 .topmenu ul {
   float: right;
 }
@@ -31,6 +48,7 @@
 .topmenu ul li {
   float: left;
   margin-left: 30px;
+  list-style-type: none;
 }
 .topmenu ul li a {
   display: block;
@@ -38,7 +56,7 @@
   line-height: 70px;
   color: #fff;
   font-size: 1.2rem;
-  letter-spacing: 0.5px;
+  text-decoration: none;
 }
 
 .topmenu ul > li {
@@ -95,7 +113,7 @@
 .topmenu ul li .sub-menu li::after {
   position: absolute;
   content: "▶︎";
-  top: 33%;
+  top: 25%;
   right: 5%;
   color: #fff;
   font-weight: bold;
@@ -140,6 +158,54 @@
   line-height: 28px;
 }
 
+.footernav {
+  width: 100%;
+  max-width: 1000px;
+  height: 70px;
+  margin: 0 auto;
+}
+.footernav ul {
+  width: 100%;
+  margin: 0 auto;
+}
+.footernav ul li {
+  float: left;
+  width: 25%;
+}
+.footernav ul li .sub-menu {
+  display: none;
+}
+.footernav ul li a {
+  display: block;
+  text-align: center;
+  line-height: 70px;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.container-c-narrow {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 720px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.blackbg {
+  background-color: #111;
+}
+
+.contact-recruit {
+  background-image: url(../images/contact-recruit.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+
 @media only screen and (max-width: 600px) {
   .topmenu {
     display: inline-block;
@@ -170,5 +236,27 @@
 
   .slicknav_nav li:first-child {
     border: 0;
+  }
+
+  .footernav {
+    height: auto;
+  }
+  .footernav ul {
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .footernav ul li {
+    height: 40px;
+    float: none;
+    width: 90%;
+    margin: 0 auto;
+    border-top: 1px solid #666;
+  }
+  .footernav ul li:first-child {
+    border-top: 0;
+  }
+  .footernav ul li a {
+    line-height: 40px;
   }
 }
