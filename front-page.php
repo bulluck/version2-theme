@@ -60,7 +60,7 @@
         </div>
         <div class="row">
             <div class="condensed-bold black-text heading-op margin-t80 medium-heading col-sm-12 col-md-12 col-lg-12 hidden-xs">
-              Overwhelming quality and performance.
+              Overwhelming quality<br> and performance.
             </div>
             <p class="small-text col-xs-12 top-buffer">
               <!-- ここにテキストを入れる -->
