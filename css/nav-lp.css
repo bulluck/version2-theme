@@ -47,6 +47,12 @@
 }
 
 
+.btn-normal:hover {
+    background: #fff;
+    color: #111;
+    border: 1px solid #111;
+    font-weight: bold;
+}
 
 
 
