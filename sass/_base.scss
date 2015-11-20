@@ -195,17 +195,19 @@ div.wpcf7 img.ajax-loader {
   li {
     display: inline-block;
     text-align: center;
-    background: $lighter-gray;
-    height: 30px;
-    width: 24.5%;
+    padding: 0;
+    padding-left: 3px;
+    &:first-child {
+      padding-left: 0;
+    }
     &:hover {
       background: white;
     }
     a {
+      background: $lighter-gray;
       font-size: 1.5rem;
       color: white;
       display: block;
-      line-height: 30px;
       i {
         line-height: 30px;
       }

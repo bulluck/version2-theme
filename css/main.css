@@ -876,18 +876,20 @@ div.wpcf7 img.ajax-loader {
 .sns-list li {
   display: inline-block;
   text-align: center;
-  background: #999;
-  height: 30px;
-  width: 24.5%;
+  padding: 0;
+  padding-left: 3px;
+}
+.sns-list li:first-child {
+  padding-left: 0;
 }
 .sns-list li:hover {
   background: white;
 }
 .sns-list li a {
+  background: #999;
   font-size: 1.5rem;
   color: white;
   display: block;
-  line-height: 30px;
 }
 .sns-list li a i {
   line-height: 30px;

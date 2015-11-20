@@ -146,6 +146,7 @@
 .topmenu {
   height: 70px;
   margin: 0 auto;
+  letter-spacing: 0.5px;
 }
 
 a {

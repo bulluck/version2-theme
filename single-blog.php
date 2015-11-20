@@ -19,7 +19,7 @@
                          the_post(); ?>
 				<h1 class="condensed-bold small-heading"><a class="black-text" href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
 				<div class="data top-buffer"><?php the_time('Y/m/d'); ?></div>
-				<?php get_template_part('sns'); ?>
+					<?php get_template_part('sns'); ?>
 				<div class="entry top-buffer"><?php the_content(); ?></div>
 					<div class="pagelink">
 <?php
