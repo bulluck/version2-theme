@@ -310,8 +310,8 @@
   <?php endif; ?>
   <div class="contactbannars">
        <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-           <div class="exit">そろそろボタンの違いに
-    <br>お気づきに
+           <div class="exit">そろそろ、ボタンの
+    <br>違いにお気づきに
     <br>なりましたか？</div>
            <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
@@ -322,7 +322,7 @@
                <table class="contactbannartbl">
                    <tr style="border-top:none;">
                        <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                           そろそろボタンの違いに<br>お気づきに<br>なりましたか？
+                           そろそろ、ボタンの<br>違いにお気づきに<br>なりましたか？
                        </td>
                        <td>
                            <a href="http://bulluck.co.jp/contact/"  target="_blank">
@@ -443,8 +443,8 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">ボタンの違いの意図にも
-      <br>お気づきに
+             <div class="exit">ボタンの違いの
+      <br>意図にもお気づきに
       <br>なりましたか？</div>
              <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
@@ -455,7 +455,7 @@
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             ボタンの違いの意図にも<br>お気づきに<br>なりましたか？
+                             ボタンの違いの<br>意図にもお気づきに<br>なりましたか？
                          </td>
                          <td>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
@@ -624,9 +624,9 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">あなたは
-      <br>どちらのボタンを
-      <br>押したくなりましたか？</div>
+             <div class="exit">あなたはどちらの
+      <br>ボタンをクリック
+      <br>したくなりましたか？</div>
              <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="http://bulluck.co.jp/contact/">
@@ -636,7 +636,7 @@
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                            あなたは<br>どちらのボタンを<br>クリックしたくなりましたか？
+                            あなたはどちらの<br>ボタンをクリック<br>したくなりましたか？
                          </td>
                          <td>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
