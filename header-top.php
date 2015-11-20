@@ -90,11 +90,11 @@
 				<?php endif; ?>
 				<?php if(!wp_is_mobile()):?>
 					<a href="http://bulluck.co.jp/contact/" target="_blank">
-							<img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexitbtn.jpg" >
+							<img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexitbtn2.jpg" >
 					</a>
 				<?php else:?>
 					<a href="http://bulluck.co.jp/contact/" target="_blank">
-						<img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexitbtn.jpg">
+						<img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexitbtn2.jpg">
 					</a>
 				<?php endif;?>
 
