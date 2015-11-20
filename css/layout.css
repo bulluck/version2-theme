@@ -520,6 +520,7 @@ img {
 .arrow-down {
   position: relative;
   margin-top: 50px;
+  height: 17rem;
 }
 .arrow-down::before {
   top: -20px;
