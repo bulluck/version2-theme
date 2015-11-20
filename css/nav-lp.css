@@ -70,7 +70,11 @@
 	font-size: 14px;
 	    -webkit-user-select: none;
 	
-	}
+}
+
+.h3-v2{
+    font-size: 3rem;
+}
 
 
 
