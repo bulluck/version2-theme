@@ -90,12 +90,12 @@
                     </div>
 				<?php endif; ?>
 				<?php if(!wp_is_mobile()):?>
-					<a href="<?php echo site_url('/support/');?>" target="_blank">
-							<img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexitbtn.png" >
+					<a href="http://bulluck.co.jp/contact/" target="_blank">
+							<img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexitbtn.png" >
 					</a>
 				<?php else:?>
-					<a href="<?php echo site_url('/support/');?>" target="_blank">
-						<img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexitbtn.png">
+					<a href="http://bulluck.co.jp/contact/" target="_blank">
+						<img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexitbtn.png">
 					</a>
 				<?php endif;?>
 

@@ -8,10 +8,10 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                 <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+             <a href="http://bulluck.co.jp/contact/">
+                 <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
                  <table class="contactbannartbl">
@@ -20,11 +20,11 @@
                              経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
                              </a>
                          </td>
                      </tr>
@@ -191,9 +191,9 @@
                <div class="exit">経営コンサルタントが
 				<br>作るWebサイトは
 				<br><span class="zyutyuu">受注率</span>が違います。</div>
-               <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+               <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
-               <a href="<?php echo site_url('/support/');?>"  target="_blank">
+               <a href="http://bulluck.co.jp/contact/" >
                    <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
                </a>
                <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
@@ -203,10 +203,10 @@
                                経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                            </td>
                            <td>
-                               <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                   <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                               <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                   <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                                </a>
-                               <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                               <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                    <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
                                </a>
                            </td>
@@ -310,26 +310,26 @@
   <?php endif; ?>
   <div class="contactbannars">
        <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-           <div class="exit">経営コンサルタントが
-    <br>作るWebサイトは
-    <br><span class="zyutyuu">受注率</span>が違います。</div>
-           <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+           <div class="exit">そろそろ、ボタンの
+    <br>違いにお気づきに
+    <br>なりましたか？</div>
+           <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
-           <a href="<?php echo site_url('/support/');?>"  target="_blank">
-               <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+           <a href="http://bulluck.co.jp/contact/">
+               <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
            </a>
            <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
                <table class="contactbannartbl">
                    <tr style="border-top:none;">
                        <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                           経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
+                           そろそろ、ボタンの<br>違いにお気づきに<br>なりましたか？
                        </td>
                        <td>
-                           <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                               <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                           <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                               <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png">
                            </a>
-                           <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                               <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+                           <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                               <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
                            </a>
                        </td>
                    </tr>
@@ -443,25 +443,25 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">経営コンサルタントが
-      <br>作るWebサイトは
-      <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <div class="exit">ボタンの違いの
+      <br>意図にもお気づきに
+      <br>なりましたか？</div>
+             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+             <a href="http://bulluck.co.jp/contact/">
                  <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
+                             ボタンの違いの<br>意図にもお気づきに<br>なりましたか？
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
                              </a>
                          </td>
@@ -566,26 +566,26 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">経営コンサルタントが
-      <br>作るWebサイトは
-      <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <div class="exit">人は行動する理由を
+      <br>無意識のうちに求め
+      <br>行動しています。</div>
+             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                 <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+             <a href="http://bulluck.co.jp/contact/">
+                 <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
+                             人は、行動する理由を<br>無意識のうちに求め<br>行動しています。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
                              </a>
                          </td>
                      </tr>
@@ -624,25 +624,25 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">経営コンサルタントが
-      <br>作るWebサイトは
-      <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <div class="exit">あなたはどちらの
+      <br>ボタンをクリック
+      <br>したくなりましたか？</div>
+             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+             <a href="http://bulluck.co.jp/contact/">
                  <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
+                            あなたはどちらの<br>ボタンをクリック<br>したくなりましたか？
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
                              </a>
                          </td>
@@ -689,7 +689,7 @@
                         <td class="abst">
                             できるだけ安価に簡単なサイトを作りたい方用のプラン</td>
                         <td class="abst">
-                            パンフレット代わりに自社のホームページを作りたい方用のプラン ex)
+                            パンフレット代わりに自社のホームページを作りたい方用のプラン
                         </td>
                         <td class="standardplan abst">
                             商品販売も兼ねた受注率特化型のweb集客用ホームページを作りたい方用のプラン
@@ -715,11 +715,11 @@
                         <th><span style="font-size:1rem;font-weight:bold;">プランサポート</span><br>
                             <span style="font-size:0.6rem;">独自ドメイン・サーバー<br>・修正サポート<br>
                             (月3箇所作業1時間相当)<br>・バックアップ<br>・独自ドメインメール10アカウント付</span></th>
-                        <td  style="font-weight:bold;font-size:1.2rem;">3,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">3,980円/月</td><td class="standardplan" style="color:#E80076;font-weight:bold;font-size:1.2rem;">3,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">4,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">1,980円/月</td>
+                        <td  style="font-weight:bold;font-size:1.2rem;">3,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">3,980円/月</td><td class="standardplan" style="color:#E80076;font-weight:bold;font-size:1.2rem;">3,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">4,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">2,980円/月</td>
                     </tr>
                     <tr>
                         <th rowspan="2" style="background:#1b0bbf;" class="th_vertical">基本仕様</th>
-                        <th>ページ総数(テンプレート)</th><td>６ページまで</td><td>15ページまで</td><td class="standardplan" style="color:#E80076;font-weight:bold;font-size:1.2rem;">35ページまで</td><td>カスタム</td><td>―</td>
+                        <th>ページ総数(テンプレート)</th><td>６ページまで</td><td>15ページまで</td><td class="standardplan" style="color:#E80076;font-weight:bold;font-size:1.2rem;">30ページまで</td><td>カスタム</td><td>―</td>
                     </tr>
                     <tr>
                         <th>デザインページ</th>
@@ -780,7 +780,7 @@
                     <tr>
                         <th rowspan="19" class="th_vertical" style="background:#1b0bbf;">マlケティング<br>に必須</th>
                         <th>Wordpress実装</th>
-                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
+                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+35,000円)</small></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td>
                         <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td><td>―</td>
@@ -915,14 +915,14 @@
                         <th>「他社との違い」コンテンツ</th>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
-                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
+                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td><td>―</td>
                     </tr>
                     <tr>
                         <th>実績一覧コンテンツ</th>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
-                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
+                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td><td>―</td>
                     </tr>
 
@@ -938,9 +938,9 @@
                         <th>
                             ページフルカスタマイズ
                         </th>
-                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円/1ページ)</small></td>
-                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円/1ページ)</small></td>
-                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円/1ページ)</small></td>
+                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円/p)</small></td>
+                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円/p)</small></td>
+                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円/p)</small></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td><td>―</td>
                     </tr>
                     <tr>
@@ -965,9 +965,9 @@
                         <th>
                             スライドデザイン3枚セット
                         </th>
-                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円)</small></td>
-                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円)</small></td>
-                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円)</small></td>
+                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円)</small></td>
+                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円)</small></td>
+                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円)</small></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td><td>―</td>
                     </tr>
                     <tr>
@@ -1054,7 +1054,7 @@
                                     リスティング<br>広告運用
                                 </th>
                                 <td>
-                                    月50,000円〜
+                                    月30,000円〜
                                 </td>
                             </tr>
                             <tr>
@@ -1062,7 +1062,7 @@
                                     Facebook<br>広告運用
                                 </th>
                                 <td>
-                                    月50,000円〜
+                                    月30,000円〜
                                 </td>
                             </tr>
                             <tr>
@@ -1070,7 +1070,7 @@
                                     Youtube<br>広告運用
                                 </th>
                                 <td>
-                                    月50,000円〜
+                                    月30,000円〜
                                 </td>
                             </tr>
                             <tr>
@@ -1147,6 +1147,14 @@
                                     月4,900円〜
                                 </td>
                             </tr>
+                             <tr>
+                                <th>
+                                   独自ドメインメールアドレス
+                                </th>
+                                <td>
+                                    月1000円/5アドレス
+                                </td>
+                            </tr>
                         </table>
                     </div>
                 </div>
@@ -1162,10 +1170,10 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                 <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+             <a href="http://bulluck.co.jp/contact/" >
+                 <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
                  <table class="contactbannartbl">
@@ -1174,11 +1182,11 @@
                              経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
                              </a>
                          </td>
                      </tr>
@@ -1263,25 +1271,25 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">経営コンサルタントが
-      <br>作るWebサイトは
-      <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <div class="exit">ボタンの作りで
+      <br>クリック率は
+      <br>数倍変わります。</div>
+             <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+             <a href="http://bulluck.co.jp/contact/">
                  <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
+                           ボタンの作りで<br>クリック率は<br>数倍変わります。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
                              </a>
                          </td>
@@ -1390,10 +1398,10 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                 <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+             <a href="http://bulluck.co.jp/contact/">
+                 <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
                  <table class="contactbannartbl">
@@ -1402,11 +1410,11 @@
                              経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
                              </a>
                          </td>
                      </tr>
