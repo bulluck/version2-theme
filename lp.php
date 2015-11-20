@@ -191,7 +191,7 @@
                <div class="exit">経営コンサルタントが
 				<br>作るWebサイトは
 				<br><span class="zyutyuu">受注率</span>が違います。</div>
-               <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+               <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
                <a href="<?php echo site_url('/support/');?>"  target="_blank">
                    <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
@@ -204,7 +204,7 @@
                            </td>
                            <td>
                                <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                   <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                                   <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                                </a>
                                <a href="<?php echo site_url('/support/');?>"  target="_blank">
                                    <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
@@ -446,7 +446,7 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="<?php echo site_url('/support/');?>"  target="_blank">
                  <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
@@ -459,7 +459,7 @@
                          </td>
                          <td>
                              <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
                              <a href="<?php echo site_url('/support/');?>"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
@@ -627,7 +627,7 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="<?php echo site_url('/support/');?>"  target="_blank">
                  <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
@@ -640,7 +640,7 @@
                          </td>
                          <td>
                              <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
                              <a href="<?php echo site_url('/support/');?>"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
@@ -1274,7 +1274,7 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="<?php echo site_url('/support/');?>"  target="_blank">
                  <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
@@ -1287,7 +1287,7 @@
                          </td>
                          <td>
                              <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
                              <a href="<?php echo site_url('/support/');?>"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
@@ -1398,7 +1398,7 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png"></a>
+             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="<?php echo site_url('/support/');?>"  target="_blank">
                  <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
@@ -1411,7 +1411,7 @@
                          </td>
                          <td>
                              <a href="<?php echo site_url('/support/');?>"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_lines.png">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
                              <a href="<?php echo site_url('/support/');?>"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
