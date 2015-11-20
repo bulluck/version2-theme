@@ -6,7 +6,7 @@
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <div class="col-xs-12 col-sm-12 col-lg-12 purewhitebg">
           <h3 class="condensed-bold black-text top-buffer-padding h3-v2">Contact us</h3>
-          <h4 class="gray-text top-buffer-padding font-bold">
+          <h4 class="gray-text top-buffer-padding font-bold h4-v2">
             マーケティングとテクノロジーで新たな価値を提供します。
           </h4>
           <p class="small-text top-buffer-padding">
