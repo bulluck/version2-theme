@@ -11,7 +11,7 @@
              <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="http://bulluck.co.jp/contact/">
-                 <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+                 <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
                  <table class="contactbannartbl">
@@ -24,7 +24,7 @@
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
-                                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
                              </a>
                          </td>
                      </tr>
