@@ -310,9 +310,9 @@
   <?php endif; ?>
   <div class="contactbannars">
        <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-           <div class="exit">経営コンサルタントが
-    <br>作るWebサイトは
-    <br><span class="zyutyuu">受注率</span>が違います。</div>
+           <div class="exit">そろそろボタンの違いに
+    <br>お気づきに
+    <br>なりましたか？</div>
            <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
            <a href="http://bulluck.co.jp/contact/">
@@ -322,7 +322,7 @@
                <table class="contactbannartbl">
                    <tr style="border-top:none;">
                        <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                           経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
+                           そろそろボタンの違いに<br>お気づきに<br>なりましたか？
                        </td>
                        <td>
                            <a href="http://bulluck.co.jp/contact/"  target="_blank">
@@ -443,9 +443,9 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">経営コンサルタントが
-      <br>作るWebサイトは
-      <br><span class="zyutyuu">受注率</span>が違います。</div>
+             <div class="exit">ボタンの違いの意図にも
+      <br>お気づきに
+      <br>なりましたか？</div>
              <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="http://bulluck.co.jp/contact/">
@@ -455,7 +455,7 @@
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
+                             ボタンの違いの意図にも<br>お気づきに<br>なりましたか？
                          </td>
                          <td>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
@@ -566,9 +566,9 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">経営コンサルタントが
-      <br>作るWebサイトは
-      <br><span class="zyutyuu">受注率</span>が違います。</div>
+             <div class="exit">人は行動する理由を
+      <br>無意識のうちに求め
+      <br>行動しています。</div>
              <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
              <a href="http://bulluck.co.jp/contact/">
@@ -578,7 +578,7 @@
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
+                             人は、行動する理由を<br>無意識のうちに求め<br>行動しています。
                          </td>
                          <td>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
@@ -624,9 +624,9 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">経営コンサルタントが
-      <br>作るWebサイトは
-      <br><span class="zyutyuu">受注率</span>が違います。</div>
+             <div class="exit">あなたは
+      <br>どちらのボタンを
+      <br>押したくなりましたか？</div>
              <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="http://bulluck.co.jp/contact/">
@@ -636,7 +636,7 @@
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
+                            あなたは<br>どちらのボタンを<br>クリックしたくなりましたか？
                          </td>
                          <td>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
@@ -1271,9 +1271,9 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">経営コンサルタントが
-      <br>作るWebサイトは
-      <br><span class="zyutyuu">受注率</span>が違います。</div>
+             <div class="exit">ボタンの作りで
+      <br>クリック率は
+      <br>数倍変わります。</div>
              <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="http://bulluck.co.jp/contact/">
@@ -1283,7 +1283,7 @@
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
+                           ボタンの作りで<br>クリック率は<br>数倍変わります。
                          </td>
                          <td>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
