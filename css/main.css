@@ -93,6 +93,10 @@ h1 {
   font-size: 6rem;
 }
 
+img {
+  vertical-align: bottom;
+}
+
 .heading-op {
   opacity: 0.2;
 }

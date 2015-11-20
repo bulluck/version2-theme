@@ -26,7 +26,6 @@
 
 	<link rel="stylesheet" href="<?php bloginfo('template_url');?>/css/normalize.min.css">
 	<link href="http://fonts.googleapis.com/earlyaccess/notosansjapanese.css" rel="stylesheet" type="text/css">
-	<link href="<?php bloginfo('template_url');?>/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700,300' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="<?php bloginfo('template_directory');?>/css/layout.css" media="screen" title="no title" charset="utf-8">

@@ -1,10 +1,4 @@
 @charset "UTF-8";
-
-
-
-
-
-
 .section-padding100 {
     padding: 100px 0;
 }
@@ -57,12 +51,13 @@
 .small-text {
     font-size: 1rem;
 	    text-align: left;
+      font-family: '游ゴシック', YuGothic, sans-serif;
 }
 
 .btn {
     font-weight: normal;
     text-align: center;
-    vertical-align: middle;	
+    vertical-align: middle;
 	    touch-action: manipulation;
     cursor: pointer;
     background-image: none;
@@ -70,7 +65,7 @@
     white-space: nowrap;
 	font-size: 14px;
 	    -webkit-user-select: none;
-	
+
 }
 
 .h3-v2{
@@ -127,7 +122,7 @@
 .container-center {
   margin: 0 auto;
   width: 100%;
-  max-width: 980px;
+  max-width: 1000px;
 }
 
 .menuwrapper, .menuwrapper-lower {
@@ -158,8 +153,8 @@ text-decoration: none;
 }
 
 .topmenu ul li a {
-  font-weight: 500;
-  text-shadow: 0;
+  font-family: 'Roboto Condensed','游ゴシック', YuGothic, sans-serif;
+  font-weight: 300;
 }
 
 .topmenu ul {
@@ -304,6 +299,8 @@ text-decoration: none;
   line-height: 70px;
   color: #fff;
   font-size: 1rem;
+  font-family: 'Roboto Condensed','游ゴシック', YuGothic, sans-serif;
+  font-weight: 300;
 }
 
 .container-c-narrow {
