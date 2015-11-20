@@ -689,7 +689,7 @@
                         <td class="abst">
                             できるだけ安価に簡単なサイトを作りたい方用のプラン</td>
                         <td class="abst">
-                            パンフレット代わりに自社のホームページを作りたい方用のプラン ex)
+                            パンフレット代わりに自社のホームページを作りたい方用のプラン
                         </td>
                         <td class="standardplan abst">
                             商品販売も兼ねた受注率特化型のweb集客用ホームページを作りたい方用のプラン
@@ -715,11 +715,11 @@
                         <th><span style="font-size:1rem;font-weight:bold;">プランサポート</span><br>
                             <span style="font-size:0.6rem;">独自ドメイン・サーバー<br>・修正サポート<br>
                             (月3箇所作業1時間相当)<br>・バックアップ<br>・独自ドメインメール10アカウント付</span></th>
-                        <td  style="font-weight:bold;font-size:1.2rem;">3,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">3,980円/月</td><td class="standardplan" style="color:#E80076;font-weight:bold;font-size:1.2rem;">3,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">4,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">1,980円/月</td>
+                        <td  style="font-weight:bold;font-size:1.2rem;">3,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">3,980円/月</td><td class="standardplan" style="color:#E80076;font-weight:bold;font-size:1.2rem;">3,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">4,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">2,980円/月</td>
                     </tr>
                     <tr>
                         <th rowspan="2" style="background:#1b0bbf;" class="th_vertical">基本仕様</th>
-                        <th>ページ総数(テンプレート)</th><td>６ページまで</td><td>15ページまで</td><td class="standardplan" style="color:#E80076;font-weight:bold;font-size:1.2rem;">35ページまで</td><td>カスタム</td><td>―</td>
+                        <th>ページ総数(テンプレート)</th><td>６ページまで</td><td>15ページまで</td><td class="standardplan" style="color:#E80076;font-weight:bold;font-size:1.2rem;">30ページまで</td><td>カスタム</td><td>―</td>
                     </tr>
                     <tr>
                         <th>デザインページ</th>
@@ -915,14 +915,14 @@
                         <th>「他社との違い」コンテンツ</th>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
-                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
+                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td><td>―</td>
                     </tr>
                     <tr>
                         <th>実績一覧コンテンツ</th>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
-                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
+                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td><td>―</td>
                     </tr>
 
@@ -1054,7 +1054,7 @@
                                     リスティング<br>広告運用
                                 </th>
                                 <td>
-                                    月50,000円〜
+                                    月30,000円〜
                                 </td>
                             </tr>
                             <tr>
@@ -1062,7 +1062,7 @@
                                     Facebook<br>広告運用
                                 </th>
                                 <td>
-                                    月50,000円〜
+                                    月30,000円〜
                                 </td>
                             </tr>
                             <tr>
@@ -1070,7 +1070,7 @@
                                     Youtube<br>広告運用
                                 </th>
                                 <td>
-                                    月50,000円〜
+                                    月30,000円〜
                                 </td>
                             </tr>
                             <tr>
