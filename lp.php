@@ -8,7 +8,7 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
+             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
              <a href="http://bulluck.co.jp/contact/">
                  <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
@@ -21,7 +21,7 @@
                          </td>
                          <td>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
-                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png">
                              </a>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
