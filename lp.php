@@ -938,9 +938,9 @@
                         <th>
                             ページフルカスタマイズ
                         </th>
-                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円/1ページ)</small></td>
-                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円/1ページ)</small></td>
-                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円/1ページ)</small></td>
+                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円/p)</small></td>
+                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円/p)</small></td>
+                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円/p)</small></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td><td>―</td>
                     </tr>
                     <tr>
@@ -965,9 +965,9 @@
                         <th>
                             スライドデザイン3枚セット
                         </th>
-                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円)</small></td>
-                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円)</small></td>
-                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+20,000円)</small></td>
+                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円)</small></td>
+                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円)</small></td>
+                        <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+30,000円)</small></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td><td>―</td>
                     </tr>
                     <tr>
@@ -1145,6 +1145,14 @@
                                 </th>
                                 <td>
                                     月4,900円〜
+                                </td>
+                            </tr>
+                             <tr>
+                                <th>
+                                   独自ドメインメールアドレス
+                                </th>
+                                <td>
+                                    月1000円/5アドレス
                                 </td>
                             </tr>
                         </table>
