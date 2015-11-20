@@ -780,7 +780,7 @@
                     <tr>
                         <th rowspan="19" class="th_vertical" style="background:#1b0bbf;">マlケティング<br>に必須</th>
                         <th>Wordpress実装</th>
-                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+5,000円)</small></td>
+                        <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/crossmark.png"><br><small>(+35,000円)</small></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td>
                         <td class="standardplan"><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td>
                         <td><img alt="" src="<?php bloginfo('template_url');?>/img-lp/circlemark.png"></td><td>―</td>
