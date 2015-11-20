@@ -191,9 +191,9 @@
                <div class="exit">経営コンサルタントが
 				<br>作るWebサイトは
 				<br><span class="zyutyuu">受注率</span>が違います。</div>
-               <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
+               <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
-               <a href="<?php echo site_url('/support/');?>"  target="_blank">
+               <a href="http://bulluck.co.jp/contact/" >
                    <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
                </a>
                <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
@@ -203,10 +203,10 @@
                                経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                            </td>
                            <td>
-                               <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                               <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                    <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                                </a>
-                               <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                               <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                    <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
                                </a>
                            </td>
@@ -313,9 +313,9 @@
            <div class="exit">経営コンサルタントが
     <br>作るWebサイトは
     <br><span class="zyutyuu">受注率</span>が違います。</div>
-           <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
+           <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
-           <a href="<?php echo site_url('/support/');?>"  target="_blank">
+           <a href="http://bulluck.co.jp/contact/">
                <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
            </a>
            <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
@@ -325,10 +325,10 @@
                            経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                        </td>
                        <td>
-                           <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                           <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png">
                            </a>
-                           <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                           <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
                            </a>
                        </td>
@@ -446,9 +446,9 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
+             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+             <a href="http://bulluck.co.jp/contact/">
                  <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
@@ -458,10 +458,10 @@
                              経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
                              </a>
                          </td>
@@ -569,9 +569,9 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
+             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+             <a href="http://bulluck.co.jp/contact/">
                  <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
@@ -581,10 +581,10 @@
                              経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
                              </a>
                          </td>
@@ -627,9 +627,9 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
+             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+             <a href="http://bulluck.co.jp/contact/">
                  <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
@@ -639,10 +639,10 @@
                              経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
                              </a>
                          </td>
@@ -1170,9 +1170,9 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
+             <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+             <a href="http://bulluck.co.jp/contact/" >
                  <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
@@ -1182,10 +1182,10 @@
                              経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
                              </a>
                          </td>
@@ -1274,9 +1274,9 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
+             <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+             <a href="http://bulluck.co.jp/contact/">
                  <img class="contactbannarsimg" alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
@@ -1286,10 +1286,10 @@
                              経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
                              </a>
                          </td>
@@ -1398,9 +1398,9 @@
              <div class="exit">経営コンサルタントが
       <br>作るWebサイトは
       <br><span class="zyutyuu">受注率</span>が違います。</div>
-             <a href="<?php echo site_url('/support/');?>"  target="_blank"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
+             <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
-             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+             <a href="http://bulluck.co.jp/contact/">
                  <img class="contactbannarsimg" alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
              </a>
              <?php elseif (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
@@ -1410,10 +1410,10 @@
                              経営コンサルタントが<br>つくるWEBサイトは<br>受注率が違います。
                          </td>
                          <td>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
-                             <a href="<?php echo site_url('/support/');?>"  target="_blank">
+                             <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl2.png">
                              </a>
                          </td>
