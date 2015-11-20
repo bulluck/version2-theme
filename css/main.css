@@ -876,11 +876,7 @@ div.wpcf7 img.ajax-loader {
 .sns-list li {
   display: inline-block;
   text-align: center;
-  padding: 0;
-  padding-left: 3px;
-}
-.sns-list li:first-child {
-  padding-left: 0;
+  padding: 0 1px;
 }
 .sns-list li:hover {
   background: white;

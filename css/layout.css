@@ -180,7 +180,7 @@ img {
     float: left;
     color: #fff;
     font-size: 2rem;
-    letter-spacing: .5px;
+    letter-spacing: 1px;
 }
 
 
@@ -472,7 +472,7 @@ img {
 
 .small-case {
   display: inline-block;
-  width: 49%;
+  width: 48%;
   margin: auto;
   vertical-align: top;
 }
