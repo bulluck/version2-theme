@@ -30,7 +30,8 @@ $opacity: .2;
   -moz-box-sizing: $type;
   box-sizing: $type;
 }
-* {
+
+*, *:before, *:after {
   @include box-sizing(border-box);
 }
 .t-05rem {
@@ -38,6 +39,7 @@ $opacity: .2;
 }
 html {
   font-size: 14px;
+  @include box-sizing(border-box);
 }
 body {
   word-wrap: break-word;
