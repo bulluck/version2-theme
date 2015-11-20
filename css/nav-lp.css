@@ -1,6 +1,129 @@
 @charset "UTF-8";
 
 
+
+
+
+
+.section-padding100 {
+    padding: 100px 0;
+}
+
+
+.purewhitebg {
+    background: white;
+}
+
+.top-buffer-padding {
+    padding-top: 30px;
+}
+
+.condensed-bold {
+    font-family: 'Roboto Condensed','游ゴシック', YuGothic, sans-serif;
+    font-weight: 700;
+}
+
+
+.col-xs-12.col-sm-12.col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33333;
+    border-radius: 6px;
+}
+
+.btn-normal {
+    background: #201f1f;
+    color: #fff;
+    border-radius: 0;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+
+.btn-normal:hover {
+    background: #fff;
+    color: #111;
+    border: 1px solid #111;
+    font-weight: bold;
+}
+
+.small-text {
+    font-size: 1rem;
+	    text-align: left;
+}
+
+.btn {
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;	
+	    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+	font-size: 14px;
+	    -webkit-user-select: none;
+	
+}
+
+.h3-v2{
+    font-size: 3rem;
+	    text-align: left;
+}
+
+.h4-v2{
+    font-size: 1.2rem;
+	    text-align: left;
+}
+
+.black-text {
+    color: #111;
+}
+
+.gray-text {
+    color: #666;
+}
+
+.small-heading {
+    font-size: 2rem;
+}
+
+.section-padding80 {
+    padding: 80px 0;
+}
+
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
 .container-center {
   margin: 0 auto;
   width: 100%;
