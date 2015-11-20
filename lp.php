@@ -21,7 +21,7 @@
                          </td>
                          <td>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
-                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png">
+                                 <img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png">
                              </a>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
                                  <img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexit_mails.png">
