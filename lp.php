@@ -310,9 +310,9 @@
   <?php endif; ?>
   <div class="contactbannars">
        <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-           <div class="exit">そろそろ、ボタンの
-    <br>違いにお気づきに
-    <br>なりましたか？</div>
+           <div class="exit">実は、この２つのボタン
+    <br>には戦略的な意図が
+    <br>隠されています。</div>
            <a href="http://bulluck.co.jp/contact/" ><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_linels.png"></a>
 
            <a href="http://bulluck.co.jp/contact/">
@@ -322,7 +322,7 @@
                <table class="contactbannartbl">
                    <tr style="border-top:none;">
                        <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                           そろそろ、ボタンの<br>違いにお気づきに<br>なりましたか？
+                           実は、この２つのボタン<br>には戦略的な意図が<br>隠されています。
                        </td>
                        <td>
                            <a href="http://bulluck.co.jp/contact/"  target="_blank">
@@ -443,9 +443,9 @@
     </div>
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
-             <div class="exit">ボタンの違いの
-      <br>意図にもお気づきに
-      <br>なりましたか？</div>
+             <div class="exit">この２つのボタンには
+      <br>圧倒的な違いがあります。
+      <br>それは何かお気づきですか？</div>
              <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="http://bulluck.co.jp/contact/">
@@ -455,7 +455,7 @@
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             ボタンの違いの<br>意図にもお気づきに<br>なりましたか？
+                             この2つのボタンには<br>圧倒的な違いがあります。<br>それは何かお気づきですか？
                          </td>
                          <td>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
