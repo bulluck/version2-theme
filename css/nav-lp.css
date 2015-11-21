@@ -404,6 +404,9 @@ footer .fa::before {
     border-top: 1px solid #ccc;
     padding: 3px 0;
   }
+  .slicknav_nav li a {
+      text-align: left;
+}
 
   .slicknav_nav li:first-child {
     border: 0;
@@ -423,6 +426,7 @@ footer .fa::before {
     width: 90%;
     margin: 0 auto;
     border-top: 1px solid #666;
+    list-style-type: none;
   }
   .footernav ul li:first-child {
     border-top: 0;
