@@ -306,9 +306,12 @@ text-decoration: none;
   max-width: 720px;
 }
 
+/*
 li {
   list-style-type: none;
 }
+*/
+
 
 .blackbg {
   background-color: #111;
