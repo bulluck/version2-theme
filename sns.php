@@ -2,7 +2,7 @@
   $url_encode = urlencode(get_permalink());
   $title_encode = urlencode(get_the_title());
 ?>
-<div class="container-fluid">
+<div class="container-fluid top-buffer">
 
 <div class="row">
   <div>

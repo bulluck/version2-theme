@@ -26,9 +26,6 @@
   </div>
 </section>
 <?php endif;?>
-</div>
-<!-- wrapperここまで -->
-
 <div class="blackbg clearfix">
   <nav class="footernav">
     <?php

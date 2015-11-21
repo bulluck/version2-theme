@@ -217,7 +217,7 @@
        </div>
 
   </section>
-<section id="trouble">
+<section id="trouble" class="cream-bg">
   <?php if (!wp_is_mobile()): ?>
   <div class="trouble-alt">
       <div class="contentsbody">

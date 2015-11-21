@@ -2,7 +2,7 @@
 /* line 14, ../sass/common.scss */
 /* line 17, ../sass/common.scss */
 html {
-  font-family: 'Noto Sans Japanese', sans-serif;
+  font-family: '游ゴシック', YuGothic, sans-serif;
   font-weight: 300;
   font-size: 14px;
   color: #2d2b2b;
@@ -27,6 +27,10 @@ p {
   font-size: 1.2rem;
   line-height: 1.5;
   font-weight: 300;
+}
+
+.cream-bg {
+  background-color: #FAFBDB;
 }
 
 /* line 31, ../sass/common.scss */
