@@ -444,8 +444,8 @@
     <div class="contactbannars">
          <?php if (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
              <div class="exit">この２つのボタンには
-      <br>圧倒的な違いがあります。
-      <br>何かお気づきですか？</div>
+      <br>大きな違いがあります。
+      <br>お気づきでしょうか？</div>
              <a href="http://bulluck.co.jp/contact/"><img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexit_girl.png"></a>
 
              <a href="http://bulluck.co.jp/contact/">
@@ -455,7 +455,7 @@
                  <table class="contactbannartbl">
                      <tr style="border-top:none;">
                          <td style="font-size:2.4rem;color:#1B1464;text-align:left;font-weight:bold;padding:3rem;">
-                             この2つのボタンには<br>圧倒的な違いがあります。<br>何かお気づきですか？
+                             この2つのボタンには<br>大きな違いがあります。<br>お気づきでしょうか？
                          </td>
                          <td>
                              <a href="http://bulluck.co.jp/contact/"  target="_blank">
