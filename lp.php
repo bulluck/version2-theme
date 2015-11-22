@@ -476,7 +476,7 @@
     <div class="wrapbrown">
         <div class="contentsbody">
             <h3 class="boxtitle">経営コンサルタントが作るWebサイト</h3>
-            <h4>売上が伸びる理由：ブラックロジックとは？</h4>
+            <h4>売上が伸びる理由：ブラックメソッドとは？</h4>
         </div>
         <div class="formcontentsbody">
             <?php if (function_exists('wp_is_mobile') && !wp_is_mobile()) :?>
