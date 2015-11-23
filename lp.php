@@ -1039,7 +1039,7 @@
                   Close
                 </p>
               <div id="target" class="target-toggle">
-                <img src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/plan2.png" alt="拡大表画像" >
+                <img src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/plan3.png" alt="拡大表画像" >
               </div>
           <?php endif;?>
 
