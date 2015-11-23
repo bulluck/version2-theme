@@ -714,7 +714,7 @@
                         <th class="th_vertical" style="background:#1b0bbf;">管理費</th>
                         <th><span style="font-size:1rem;font-weight:bold;">プランサポート</span><br>
                             <span style="font-size:0.6rem;">独自ドメイン・サーバー<br>・修正サポート<br>
-                            (月3箇所作業1時間相当)<br>・バックアップ<br>・独自ドメインメール10アカウント付</span></th>
+                            (月3箇所作業1時間相当)<br>・独自ドメインメール5アカウント付</span></th>
                         <td  style="font-weight:bold;font-size:1.2rem;">3,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">3,980円/月</td><td class="standardplan" style="color:#E80076;font-weight:bold;font-size:1.2rem;">3,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">4,980円/月</td><td style="font-weight:bold;font-size:1.2rem;">2,980円/月</td>
                     </tr>
                     <tr>
