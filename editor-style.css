@@ -1,6 +1,6 @@
 @charset 'UTF-8';
 
-.heading-h2 {
+.entry h2 {
     font-size: 2rem;
       font-weight: bold;
       color: #000;
@@ -8,7 +8,7 @@
       padding: 21px 18px;
 }
 
-.heading-h3 {
+.entry h3 {
   font-size: 1.5rem;
     font-weight: bold;
     color: #000;

@@ -205,6 +205,7 @@ div.wpcf7 img.ajax-loader {
       font-size: 1.5rem;
       color: white;
       display: block;
+      padding: 0;
 
       i {
         line-height: 30px;
@@ -269,6 +270,10 @@ div.wpcf7 img.ajax-loader {
   img {
     max-width: 100%;
   }
+}
+
+.entry .jp-relatedposts-headline {
+  color: #000;
 }
 
 @media only screen and (max-width:1024px) {

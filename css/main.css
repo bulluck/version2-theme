@@ -148,7 +148,7 @@ p {
 }
 
 .small-text {
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 a {
@@ -886,6 +886,7 @@ div.wpcf7 img.ajax-loader {
   font-size: 1.5rem;
   color: white;
   display: block;
+  padding: 0;
 }
 .sns-list li a i {
   line-height: 30px;
@@ -939,6 +940,10 @@ div.wpcf7 img.ajax-loader {
 }
 .entry img {
   max-width: 100%;
+}
+
+.entry .jp-relatedposts-headline {
+  color: #000;
 }
 
 @media only screen and (max-width: 1024px) {

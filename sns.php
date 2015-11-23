@@ -9,7 +9,7 @@
 
 <div class="share">
 <div class="sns">
-<ul class="clearfix sns-list top-buffer">
+<ul class="clearfix sns-list">
 <!--ツイートボタン-->
 <li class="twitter col-xs-3 col-sm-3">
 <a class="btn btn-sm" href="http://twitter.com/intent/tweet?url=<?php echo $url_encode ?>&text=<?php echo $title_encode ?>&via=bulluck_media&tw_p=tweetbutton"><i class="fa fa-twitter"></i><?php if (function_exists('scc_get_share_twitter')) {
