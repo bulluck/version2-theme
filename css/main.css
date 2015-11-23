@@ -55,7 +55,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   display: block;
 }
 
-* {
+*, *:before, *:after {
   box-sizing: border-box;
 }
 
@@ -65,6 +65,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 html {
   font-size: 14px;
+  box-sizing: border-box;
 }
 
 body {
@@ -90,6 +91,10 @@ h4 {
 
 h1 {
   font-size: 6rem;
+}
+
+img {
+  vertical-align: bottom;
 }
 
 .heading-op {
@@ -143,7 +148,7 @@ p {
 }
 
 .small-text {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 a {
@@ -871,18 +876,16 @@ div.wpcf7 img.ajax-loader {
 .sns-list li {
   display: inline-block;
   text-align: center;
-  background: #999;
-  height: 30px;
-  width: 24.5%;
+  padding: 0 1px;
 }
 .sns-list li:hover {
   background: white;
 }
 .sns-list li a {
+  background: #999;
   font-size: 1.5rem;
   color: white;
   display: block;
-  line-height: 30px;
 }
 .sns-list li a i {
   line-height: 30px;

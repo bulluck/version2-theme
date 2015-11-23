@@ -2,29 +2,31 @@
   $url_encode = urlencode(get_permalink());
   $title_encode = urlencode(get_the_title());
 ?>
+<div class="container-fluid top-buffer">
+
 <div class="row">
-  <div class="col-xs-12">
+  <div>
 
 <div class="share">
 <div class="sns">
-<ul class="clearfix sns-list">
+<ul class="clearfix sns-list top-buffer">
 <!--ツイートボタン-->
-<li class="twitter top-buffer">
-<a href="http://twitter.com/intent/tweet?url=<?php echo $url_encode ?>&text=<?php echo $title_encode ?>&via=bulluck_media&tw_p=tweetbutton"><i class="fa fa-twitter"></i><?php if (function_exists('scc_get_share_twitter')) {
+<li class="twitter col-xs-3 col-sm-3">
+<a class="btn btn-sm" href="http://twitter.com/intent/tweet?url=<?php echo $url_encode ?>&text=<?php echo $title_encode ?>&via=bulluck_media&tw_p=tweetbutton"><i class="fa fa-twitter"></i><?php if (function_exists('scc_get_share_twitter')) {
     echo (scc_get_share_twitter() == 0) ? '' : scc_get_share_twitter();
 } ?></a>
 </li>
 
 <!--Facebookボタン-->
-<li class="facebook top-buffer">
-<a href="http://www.facebook.com/sharer.php?src=bm&u=<?php echo $url_encode;?>&t=<?php echo $title_encode;?>" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"><i class="fa fa-facebook"></i><?php if (function_exists('scc_get_share_facebook')) {
+<li class="facebook col-xs-3 col-sm-3">
+<a class="btn btn-sm" href="http://www.facebook.com/sharer.php?src=bm&u=<?php echo $url_encode;?>&t=<?php echo $title_encode;?>" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;"><i class="fa fa-facebook"></i><?php if (function_exists('scc_get_share_facebook')) {
     echo (scc_get_share_facebook() == 0) ? '' : scc_get_share_facebook();
 } ?></a>
 </li>
 
 <!--Google+1ボタン-->
-<li class="googleplus top-buffer">
-<a href="https://plus.google.com/share?url=<?php echo $url_encode;?>" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=500');return false;"><i class="fa fa-google-plus"></i><?php if (function_exists('scc_get_share_gplus')) {
+<li class="googleplus col-xs-3 col-sm-3">
+<a class="btn btn-sm" href="https://plus.google.com/share?url=<?php echo $url_encode;?>" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=500');return false;"><i class="fa fa-google-plus"></i><?php if (function_exists('scc_get_share_gplus')) {
     echo (scc_get_share_gplus() == 0) ? '' : scc_get_share_gplus();
 } ?></a>
 </li>
@@ -42,8 +44,8 @@
 </li> -->
 
 <!--ポケットボタン-->
-<li class="pocket top-buffer">
-<a href="http://getpocket.com/edit?url=<?php echo $url_encode;?>&title=<?php echo $title_encode;?>" target="blank">pocket&nbsp;
+<li class="pocket col-xs-3 col-sm-3">
+<a class="btn btn-sm" href="http://getpocket.com/edit?url=<?php echo $url_encode;?>&title=<?php echo $title_encode;?>" class="btn btn-sm" target="blank"><i>pocket</i>
   <?php if (function_exists('scc_get_share_pocket')) {
     echo (scc_get_share_pocket() == 0) ? '' : scc_get_share_pocket();
 } ?>
@@ -52,4 +54,5 @@
 </div>
 </div>
   </div>
+</div>
 </div>

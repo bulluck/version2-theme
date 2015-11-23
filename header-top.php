@@ -24,11 +24,11 @@
 		?>
 	</title>
 
-	<link rel="stylesheet" href="<?php bloginfo('template_url');?>/css/normalize.min.css">
-	<link href="http://fonts.googleapis.com/earlyaccess/notosansjapanese.css" rel="stylesheet" type="text/css">
-	<link href="<?php bloginfo('template_url');?>/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<!-- <link rel="stylesheet" href="<?php bloginfo('template_url');?>/css/normalize.min.css"> -->
 	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700,300' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<script src="<?php bloginfo('template_url');?>/js/jquery-1.11.3.min.js"></script>
+	<link rel="stylesheet" href="<?php bloginfo('template_directory');?>/css/bootstrap.min.css" media="screen" title="no title" charset="utf-8">
 	<link rel="stylesheet" href="<?php bloginfo('template_directory');?>/css/layout.css" media="screen" title="no title" charset="utf-8">
 	<link rel="stylesheet" href="<?php bloginfo('template_directory');?>/css/common.css" media="screen" title="no title" charset="utf-8">
 	<link rel="stylesheet" href="<?php bloginfo('template_directory');?>/css/nav-lp.css" media="screen" title="no title" charset="utf-8">
@@ -89,12 +89,12 @@
                     </div>
 				<?php endif; ?>
 				<?php if(!wp_is_mobile()):?>
-					<a href="<?php echo site_url('/support/');?>" target="_blank">
-							<img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexitbtn.png" >
+					<a href="http://bulluck.co.jp/contact/" target="_blank">
+							<img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexitbtn.png" >
 					</a>
 				<?php else:?>
-					<a href="<?php echo site_url('/support/');?>" target="_blank">
-						<img alt="" src="<?php bloginfo('template_url');?>/img-lp/bullexitbtn.png">
+					<a href="http://bulluck.co.jp/contact/" target="_blank">
+						<img alt="" src="http://bulluck.co.jp/version2/wp-content/uploads/2015/11/bullexitbtn.png">
 					</a>
 				<?php endif;?>
 

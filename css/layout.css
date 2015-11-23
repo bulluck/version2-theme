@@ -15,6 +15,13 @@ h6 {
   padding: 0;
 }
 
+
+
+
+
+
+
+
 .exit {
   font-size: 2rem;
   font-weight: 600;
@@ -173,6 +180,7 @@ img {
     float: left;
     color: #fff;
     font-size: 2rem;
+    letter-spacing: 1px;
 }
 
 
@@ -464,7 +472,7 @@ img {
 
 .small-case {
   display: inline-block;
-  width: 49%;
+  width: 48%;
   margin: auto;
   vertical-align: top;
 }
@@ -512,6 +520,7 @@ img {
 .arrow-down {
   position: relative;
   margin-top: 50px;
+  height: 17rem;
 }
 .arrow-down::before {
   top: -20px;

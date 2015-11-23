@@ -5,8 +5,8 @@
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <div class="col-xs-12 col-sm-12 col-lg-12 purewhitebg">
-          <h3 class="condensed-bold black-text top-buffer-padding">Contact us</h3>
-          <h4 class="gray-text top-buffer-padding font-bold">
+          <h3 class="condensed-bold black-text top-buffer-padding h3-v2">Contact us</h3>
+          <h4 class="gray-text top-buffer-padding font-bold h4-v2">
             マーケティングとテクノロジーで新たな価値を提供します。
           </h4>
           <p class="small-text top-buffer-padding">
@@ -26,9 +26,6 @@
   </div>
 </section>
 <?php endif;?>
-</div>
-<!-- wrapperここまで -->
-
 <div class="blackbg clearfix">
   <nav class="footernav">
     <?php
@@ -77,5 +74,19 @@
 <script src="<?php bloginfo('template_url');?>/js/function.js"></script>
 
 <?php wp_footer();?>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70253809-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
 </body>
 </html>
