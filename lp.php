@@ -496,7 +496,7 @@
                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/nakamoto_bulluck_logic.png">
             </div>
             <div class="box70">
-                <p class="voiceheading">2割の原因が8割に結果を生んでいる！？</p>
+                <p class="voiceheading">2割の原因が8割の結果を生んでいる！？</p>
                 <p>
                     しかし、肝心の成果、つまり売り上げは、総売上の8割がWebマーケティングの集客から成ります。
                     労力を割いているリアルマーケティングからの売上は2割にとどまります。
