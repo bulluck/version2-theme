@@ -19,9 +19,11 @@
                          the_post(); ?>
 				<h1 class="condensed-bold small-heading"><a class="black-text" href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
 				<div class="data top-buffer"><?php the_time('Y/m/d'); ?></div>
+				<div class="sns-btn clearfix">
 					<?php get_template_part('sns'); ?>
+				</div>
 				<div class="entry top-buffer"><?php the_content(); ?></div>
-					<div class="pagelink">
+					<div class="pagelink clearfix">
 <?php
 if (get_next_post()) {
     echo '<p class="nav-previous small-text black-text top-buffer">',next_post_link('%link', '<i class="fa fa-chevron-left" style="padding-right:10px;"></i>%title'),'</p>';
@@ -31,7 +33,9 @@ if (get_previous_post()) {
 }
 ?>
 </div>
+<div class="sns-btn clearfix">
 				<?php get_template_part('sns'); ?>
+</div>
 
 <?php endwhile; endif; ?>
 					</article>
