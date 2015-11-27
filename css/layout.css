@@ -240,12 +240,12 @@ img {
   text-align: right;
 }
 .kvbn .consulspan {
-  border: 3px solid #06a2ea;
+  border: 3px solid #1A1F63;
   padding: 0 5px;
   font-size: 2rem;
   position: relative;
   color: #fff;
-  background: #06a2ea;
+  background: #1A1F63;
   border-radius: 10px;
   font-weight: 700;
 }
@@ -255,7 +255,7 @@ img {
   left: 15px;
   content: "";
   border: 15px solid transparent;
-  border-top-color: #06a2ea;
+  border-top-color: #1A1F63;
 }
 .kvbn img {
   width: 40%;
