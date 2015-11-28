@@ -10,6 +10,8 @@
 <?php endif; ?>
 <?php if (is_page('lp')) :?>
 	<?php get_template_part('lp'); ?>
+<?php elseif (is_page('landing-plan')):?>
+		<?php get_template_part('newlp'); ?>
 <?php else: ?>
 	<?php
     if (have_posts()):
