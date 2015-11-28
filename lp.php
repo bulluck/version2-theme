@@ -496,7 +496,7 @@
                 <img alt="" src="<?php bloginfo('template_url');?>/img-lp/nakamoto_bulluck_logic.png">
             </div>
             <div class="box70">
-                <p class="voiceheading">2割の原因が8割に結果を生んでいる！？</p>
+                <p class="voiceheading">2割の原因が8割の結果を生んでいる！？</p>
                 <p>
                     しかし、肝心の成果、つまり売り上げは、総売上の8割がWebマーケティングの集客から成ります。
                     労力を割いているリアルマーケティングからの売上は2割にとどまります。
@@ -648,7 +648,7 @@
                          </td>
                      </tr>
                  </table>
-
+                 
                  <?php endif; ?>
      </div>
 </section>
@@ -661,6 +661,7 @@
           <?php if (!wp_is_mobile()):?>
             <div class="tablewrap">
                 <h4>プラン内訳</h4>
+                <p>是非一度、他社の見積もりと比べてみてください。ブラックの安さに気づくと思います。</p>
                 <table class="plantable" style="margin-bottom: 0;">
                     <tr style="font-size:1rem">
                         <th colspan="2"  style="font-size:1rem">
@@ -1032,6 +1033,7 @@
           <?php else:?>
 
               <p>
+                是非一度、他社の見積もりと比べてみてください。ブラックの安さに気づくと思います。
                 以下のアイコンをタッチすると、プラン表が表示されます。
               </p>
                 <img id="slide" class="slide-image" src="<?php bloginfo('template_url');?>/img-lp/tableimg.svg" alt="表リンク" >
