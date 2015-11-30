@@ -127,6 +127,7 @@ img {
 
 .medium-heading {
   font-size: 4rem;
+  line-height: 1.3;
 }
 
 .font-bold, .contact-form tr th {
@@ -761,7 +762,7 @@ a:hover {
   border-radius: 5px;
   color: #fff;
   float: right;
-  font-size: .8rem;
+  font-size: 0.8rem;
   font-weight: normal;
   letter-spacing: 1px;
   margin-left: 10px;
@@ -848,22 +849,22 @@ div.wpcf7 img.ajax-loader {
 }
 
 #technology, #marketing, #trend, #blog {
-  background-image: url("../images/tech.jpg");
+  background-image: url(../images/tech.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
 }
 
 #marketing {
-  background-image: url("../images/marketing.jpg");
+  background-image: url(../images/marketing.jpg);
 }
 
 #trend {
-  background-image: url("../images/trend.jpg");
+  background-image: url(../images/trend.jpg);
 }
 
 #blog {
-  background-image: url("../images/blog.jpg");
+  background-image: url(../images/blog.jpg);
 }
 
 .archive-card {
@@ -916,8 +917,8 @@ div.wpcf7 img.ajax-loader {
 .rss-bg {
   background-color: #ff8c00;
   border: 1px solid #ff8c00;
-  -webkit-transition-duration: .2s;
-          transition-duration: .2s;
+  -webkit-transition-duration: 0.2s;
+          transition-duration: 0.2s;
 }
 .rss-bg:hover {
   background-color: #f5f5f5;
@@ -955,6 +956,170 @@ div.wpcf7 img.ajax-loader {
   border: 0;
 }
 
+.lp-wrapper {
+  max-width: 1920px;
+  width: 100%;
+}
+
+.lpplan-top, .trouble {
+  background-image: url(http://placehold.jp/64/3d4070/ffffff/1920x600.jpg);
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+}
+
+.trouble {
+  background-image: url(http://placehold.jp/64/777777/ffffff/1920x600.jpg);
+  position: relative;
+}
+
+.seedown {
+  position: absolute;
+  bottom: -50px;
+  left: 50%;
+  margin-left: -35px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  background-color: #fff;
+  text-align: center;
+  padding: 15px;
+}
+
+.lp-table {
+  display: table;
+  width: 100%;
+}
+
+.lp-tablecell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.border-top-bottom {
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.lp-topbar {
+  width: 100%;
+  background-color: #ffc003;
+}
+
+.lp-top-text {
+  padding: 10px 0;
+}
+
+.lp-box {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.circle {
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  width: 100px;
+  height: 100px;
+}
+
+.lp-case-tab {
+  border-radius: 5px 5px 0 0;
+}
+
+.border-padding {
+  border-left: #000 solid 10px;
+  padding-left: 20px;
+}
+
+.contact-box {
+  background-image: url(http://placehold.jp/64/3d4070/ffffff/1000x425.jpg);
+  height: 425px;
+}
+
+.greenbg {
+  background-color: #54DAA3;
+}
+
+.bluebg {
+  background-color: #00d1ff;
+}
+
+.bluetext-lp {
+  color: #00d1ff;
+}
+
+.heading-circle {
+  position: relative;
+}
+
+.solve {
+  position: relative;
+  z-index: 2;
+}
+
+.solve::after {
+  content: "";
+  position: absolute;
+  background-image: url("../images/solve.svg");
+  width: 150px;
+  height: 150px;
+  z-index: -1;
+  top: -50px;
+  right: 0;
+}
+
+.good-reason {
+  position: relative;
+  z-index: 2;
+}
+.good-reason::before {
+  content: "";
+  position: absolute;
+  background-image: url("../images/good-sign.svg");
+  width: 200px;
+  height: 200px;
+  z-index: -1;
+  top: -50px;
+  left: -50px;
+}
+
+.heading-circle::after {
+  position: absolute;
+  content: "";
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  top: -41px;
+  right: 0;
+}
+
+#trouble .heading-circle::after {
+  background-image: url(../images/trouble.png);
+}
+
+#reason .heading-circle::after {
+  background-image: url(../images/reason-circle.png);
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 5px solid #eeeeee;
+}
+
+.point-list {
+  padding-left: 2rem;
+}
+.point-list li {
+  list-style-type: disc;
+}
+
+.clip-board {
+  box-shadow: 1px 1px 1px #aaa;
+}
+
 @media only screen and (max-width: 1024px) {
   .contents-wrapper {
     padding-top: 70px;
@@ -978,6 +1143,10 @@ div.wpcf7 img.ajax-loader {
     background: #111;
     width: 100%;
     color: #fff;
+  }
+
+  .heading-circle::after {
+    display: none;
   }
 }
 .footernav {
