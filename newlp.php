@@ -67,10 +67,32 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <div class="row">
+              <div class="col-xs-12 c-box-title">
+                  <div class="medium-heading font-bold white-text cb-title-height">
+                    受注率にコミットするならブラック!!
+                  </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-9 col-xs-push-3">
+                <h3 class="small-heading font-bold black-text top-buffer">
+                  価値のない投資はすぐにやめてください。
+                </h3>
+                <hr>
+                <p class="font-bold top-buffer">
+                  効果のないリスティング運用をすることは、一切ありません。
+                </p>
+                <p class="font-bold">
+                  まずは弊社コンサルタントの提案を聞いてください。
+                </p>
+              </div>
+            </div>
+            <div class="row">
 
-              <div class="col-xs-5 col-xs-push-6 top-buffer-padding bottom-buffer-padding margin-t80">
+              <div class="col-xs-5 col-xs-push-5 top-buffer-padding">
+
                 <a href="<?php echo home_url('/');?>contact/">
-                  <img src="http://placehold.jp/24/ffffff/111111/387x95.jpg" alt="お問い合わせ" class="worksimg" />
+                  <img src="<?php bloginfo('template_directory');?>/images/mail-bannar.png" alt="お問い合わせ" class="worksimg" />
                 </a>
               </div>
             </div>
@@ -149,7 +171,7 @@
             <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
               <div class="row">
                 <div class="col-xs-3">
-                  <img src="../../wp-content/themes/version2-theme/images/human-grow-logo.png" alt="ヒューマングローロゴ" />
+                  <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" />
                 </div>
                 <div class="col-xs-9">
                   <h3 class="medium-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
@@ -478,4 +500,25 @@
     </div>
 
   </section>
+  <section class="section-padding80">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 contact-box">
+            <div class="row">
+
+              <div class="col-xs-5 col-xs-push-6 top-buffer-padding bottom-buffer-padding margin-t80">
+                <a href="<?php echo home_url('/');?>contact/">
+                  <img src="http://placehold.jp/24/ffffff/111111/387x95.jpg" alt="お問い合わせ" class="worksimg" />
+                </a>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
 </article>

@@ -1,4 +1,8 @@
+<?php if (is_page('lp')):?>
+	<?php get_header('top'); ?>
+<?php else: ?>
 <?php get_header(); ?>
+<?php endif; ?>
 <?php if (is_page('contact')):?>
 	<section id="contents" class="contents-wrapper whitebg">
 <?php else: ?>

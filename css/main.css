@@ -974,6 +974,11 @@ div.wpcf7 img.ajax-loader {
   position: relative;
 }
 
+#achieve-section {
+  background-image: url("../images/lp-bg.png");
+  background-repeat: repeat;
+}
+
 .seedown {
   position: absolute;
   bottom: -50px;
@@ -1032,8 +1037,14 @@ div.wpcf7 img.ajax-loader {
 }
 
 .contact-box {
-  background-image: url(http://placehold.jp/64/3d4070/ffffff/1000x425.jpg);
+  background-image: url("../images/contact-box.png");
   height: 425px;
+  border: 1px solid #ccc;
+}
+
+.cb-title-height {
+  line-height: 100px;
+  text-align: center;
 }
 
 .greenbg {
