@@ -4,14 +4,14 @@
     《月末キャンペーン実施中！》２万円分のオプション無料券もれなくプレゼント！
     </p>
   </div>
-  <section class="container-fluid">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 lpplan-top">
         <h1 style="display:none;">80%以上のお客様の売上を3ヶ月で3倍にした「受注率にコミットする」Webサイト/LP制作</h1>
       </div>
     </div>
-  </section>
-  <section class="top-buffer-padding bottom-buffer-padding whitebg">
+  </div>
+  <!-- <section class="top-buffer-padding bottom-buffer-padding whitebg">
     <div class="container-center top-buffer-padding bottom-buffer-padding">
       <div class="container-fluid">
         <div class="row">
@@ -60,12 +60,24 @@
           </div>
         </div>
     </div>
-  </section>
+  </section> -->
   <section class="section-padding80">
     <div class="container-center">
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
+            <div class="col-xs-12 col-sm-12 hidden">
+              <h2>
+                経営コンサルタントが設計！『受注率にコミット』するならブラック!
+              </h2>
+              <h3>広告運用と同時申し込みで制作費用が半額に！</h3>
+              <p>
+                ランディングページ制作と同時申し込みで、リスティング・Facebook等の広告運用を私たち経営コンサルタントにお任せいただいた場合、<em>制作費が半額</em>になります。
+              </p>
+              <p>
+                制作数には上限があります。お早めにお問い合わせください。
+              </p>
+            </div>
             <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
