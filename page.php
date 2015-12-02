@@ -1,8 +1,8 @@
 <?php if (is_page('lp')):?>
-<?php get_header('top'); ?>
-<?php else:?>
+	<?php get_header('top'); ?>
+<?php else: ?>
 <?php get_header(); ?>
-<?php endif;?>
+<?php endif; ?>
 <?php if (is_page('contact')):?>
 	<section id="contents" class="contents-wrapper whitebg">
 <?php else: ?>
@@ -10,6 +10,8 @@
 <?php endif; ?>
 <?php if (is_page('lp')) :?>
 	<?php get_template_part('lp'); ?>
+<?php elseif (is_page('landing-plan')):?>
+		<?php get_template_part('newlp'); ?>
 <?php else: ?>
 	<?php
     if (have_posts()):
