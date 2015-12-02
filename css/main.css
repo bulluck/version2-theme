@@ -1037,9 +1037,28 @@ div.wpcf7 img.ajax-loader {
 }
 
 .contact-box {
-  background-image: url("../images/contact-box.png");
-  height: 425px;
+  background-image: url("../images/newlp_exit.png");
+  height: 530px;
   border: 1px solid #ccc;
+  position: relative;
+}
+
+.cb-btn-1 {
+  position: absolute;
+  bottom: 135px;
+  right: 39px;
+}
+.cb-btn-1:hover {
+  opacity: 0;
+}
+
+.cb-btn-2 {
+  position: absolute;
+  bottom: 33px;
+  right: 39px;
+}
+.cb-btn-2:hover {
+  opacity: 0;
 }
 
 .cb-title-height {

@@ -66,36 +66,13 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <div class="row">
-              <div class="col-xs-12 c-box-title">
-                  <div class="medium-heading font-bold white-text cb-title-height">
-                    受注率にコミットするならブラック!!
-                  </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-xs-9 col-xs-push-3">
-                <h3 class="small-heading font-bold black-text top-buffer">
-                  価値のない投資はすぐにやめてください。
-                </h3>
-                <hr>
-                <p class="font-bold top-buffer">
-                  効果のないリスティング運用をすることは、一切ありません。
-                </p>
-                <p class="font-bold">
-                  まずは弊社コンサルタントの提案を聞いてください。
-                </p>
-              </div>
-            </div>
-            <div class="row">
-
-              <div class="col-xs-5 col-xs-push-5 top-buffer-padding">
-
-                <a href="<?php echo home_url('/');?>contact/">
-                  <img src="<?php bloginfo('template_directory');?>/images/mail-bannar.png" alt="お問い合わせ" class="worksimg" />
-                </a>
-              </div>
-            </div>
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            </a>
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            </a>
+          </div>
 
           </div>
         </div>
