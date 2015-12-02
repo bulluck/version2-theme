@@ -496,7 +496,7 @@
     </div>
 
   </section>
-  <section class="section-padding80">
+  <section class="section-padding80 whitebg">
     <div class="container-center">
       <div class="container-fluid">
         <div class="row">
