@@ -7,7 +7,15 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 lpplan-top">
-        <h1 style="display:none;">80%以上のお客様の売上を3ヶ月で3倍にした「受注率にコミットする」Webサイト/LP制作</h1>
+        <header class="hidden">
+
+        <h1>経営コンサルタントによる『受注率にコミットする』ランディングページ制作</h1>
+        <ul>
+          <li>顧客満足度 98.2%</li>
+          <li>受注率特化（経営コンサルタントが設計）</li>
+          <li>日本全国47都道府県完全対応</li>
+        </ul>
+      </header>
       </div>
     </div>
   </div>
@@ -404,7 +412,7 @@
 
     </div>
   </section>
-  <section class="section-padding80 greenbg">
+  <section class="section-padding80 bluebg">
     <div class="container-center">
       <div class="container-fluid">
         <div class="row">
