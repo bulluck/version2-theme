@@ -978,7 +978,7 @@ div.wpcf7 img.ajax-loader {
   position: relative;
 }
 
-#achieve-section {
+.achieve-section {
   background-image: url("../images/lp-bg.png");
   background-repeat: repeat;
 }
@@ -1016,6 +1016,56 @@ div.wpcf7 img.ajax-loader {
   background-image: url("../images/fee-circle.png");
   background-size: cover;
   background-position: center;
+}
+
+#faq-area .heading-circle::after {
+  background-image: url("../images/faq-circle.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.faq-dl {
+  font-size: 1.3rem;
+}
+.faq-dl dt {
+  padding: 30px 10px 30px 70px;
+  border-radius: 3px;
+  background-color: #c9f3fc;
+  position: relative;
+  line-height: 1.5;
+}
+.faq-dl dt::before {
+  position: absolute;
+  border-radius: 50%;
+  color: white;
+  width: 50px;
+  height: 50px;
+  content: "Q";
+  line-height: 50px;
+  left: 10px;
+  top: 18px;
+  background-color: #00d1ff;
+  text-align: center;
+  font-weight: bold;
+}
+.faq-dl dd {
+  padding: 30px 10px 30px 70px;
+  position: relative;
+  line-height: 1.5;
+}
+.faq-dl dd::before {
+  position: absolute;
+  border-radius: 50%;
+  color: white;
+  width: 50px;
+  height: 50px;
+  content: "A";
+  line-height: 50px;
+  left: 10px;
+  top: 18px;
+  background-color: #ff0063;
+  text-align: center;
+  font-weight: bold;
 }
 
 .fee-icon {

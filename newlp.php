@@ -358,7 +358,7 @@
       </div>
     </div>
   </section>
-  <section class="section-padding100" id="achieve-section">
+  <section class="section-padding100 achieve-section">
     <div class="container-center">
       <div class="container-fluid">
         <div class="row">
@@ -510,6 +510,42 @@
           <div class="col-xs-12 col-sm-12 fee-area margin-t80">
             <div class="hidden">
 
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section-padding80 achieve-section">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12" id="faq-area">
+            <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle faq">
+              よくある質問
+            </h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 margin-t80">
+            <div class="col-xs-12 col-sm-12 purewhitebg">
+              <dl class="faq-dl">
+                <dt class="top-buffer">申し込みから納品まではどれくらいかかりますか。</dt>
+                <dd>ブラックでは、最短14日で納品いたします。ただし、お申込み状況等により、変動する場合もございます。お急ぎの方は、お問い合わせの際にその旨ご相談いただけると幸いです。</dd>
+
+                <dt class="top-buffer">納品されるファイルはどの様な形式でしょうか。</dt>
+                <dd>基本的には、データをサーバー上にアップして納品致します。デザインデータでの納品をご希望の場合は、別途2万円にてお受けしております。</dd>
+
+                <dt class="top-buffer">ドメインとサーバーは自社で取得済みなのですが、管理費はどうなりますか？</dt>
+                <dd>サーバーとドメインを自社で取得済みの会社様は、管理費であるプランサポートの月額から1000円分を差し引いたお値段でご利用いただけます。</dd>
+
+                <dt class="top-buffer">制作完了後の修正は可能でしょうか。</dt>
+                <dd>プランサポートには月に3箇所(作業1h分)の修正/更新が標準装備でついております。お気軽にご連絡ください。 また、安心サポートPro(月に5箇所作業時間3h分)などの修正更新パックもご用意しております。こちらもご検討ください。</dd>
+
+                <dt class="top-buffer">制作に関してはどこまで相談可能でしょうか。</dt>
+                <dd>マーケティングの相談からデザインに関するご要望まで、弊社の過去の実績を元に貴社に最適なサイトをご提案致します。販売数・受注率の向上にコミットしてご相談を承ります。</dd>
+
+              </dl>
             </div>
           </div>
         </div>
