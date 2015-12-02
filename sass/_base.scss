@@ -317,7 +317,7 @@ div.wpcf7 img.ajax-loader {
     border-radius: 3px;
     background-color: #c9f3fc;
     position: relative;
-    line-height: 1.5;
+    line-height: 2;
     &::before {
       position: absolute;
       border-radius: 50%;
@@ -327,7 +327,7 @@ div.wpcf7 img.ajax-loader {
       content: "Q";
       line-height: 50px;
       left: 10px;
-      top: 18px;
+      top: 24px;
       background-color: #00d1ff;
       text-align: center;
       font-weight: bold;
@@ -337,7 +337,7 @@ div.wpcf7 img.ajax-loader {
   dd {
     padding: 30px 10px 30px 70px;
     position: relative;
-    line-height: 1.5;
+    line-height: 2;
     &::before {
       position: absolute;
       border-radius: 50%;
@@ -347,7 +347,7 @@ div.wpcf7 img.ajax-loader {
       content: "A";
       line-height: 50px;
       left: 10px;
-      top: 18px;
+      top: 24px;
       background-color: #ff0063;
       text-align: center;
       font-weight: bold;
