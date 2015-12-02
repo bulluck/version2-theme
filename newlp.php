@@ -496,6 +496,26 @@
     </div>
 
   </section>
+  <section class="section-padding80 bluebg" id="fee">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12" id="fee-title">
+            <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle fee-icon">
+              料金表
+            </h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 fee-area margin-t80">
+            <div class="hidden">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <section class="section-padding80 whitebg">
     <div class="container-center">
       <div class="container-fluid">

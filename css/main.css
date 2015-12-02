@@ -966,7 +966,7 @@ div.wpcf7 img.ajax-loader {
 }
 
 .lpplan-top, .trouble {
-  background-image: url(http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/n_lptop.png);
+  background-image: url("../images/n_lptop.png");
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -1003,6 +1003,34 @@ div.wpcf7 img.ajax-loader {
 .lp-tablecell {
   display: table-cell;
   vertical-align: middle;
+}
+
+.fee-area {
+  background-image: url("../images/new_fee.png");
+  background-size: auto;
+  background-position: center;
+  height: 760px;
+}
+
+#fee-title .heading-circle::after {
+  background-image: url("../images/fee-circle.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.fee-icon {
+  position: relative;
+  z-index: 2;
+}
+.fee-icon::before {
+  content: "";
+  position: absolute;
+  background-image: url("../images/fee-icon.svg");
+  width: 200px;
+  height: 200px;
+  z-index: -1;
+  top: -20px;
+  left: -50px;
 }
 
 .border-top-bottom {
