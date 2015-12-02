@@ -378,14 +378,13 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <div class="row">
-
-              <div class="col-xs-5 col-xs-push-6 top-buffer-padding bottom-buffer-padding margin-t80">
-                <a href="<?php echo home_url('/');?>contact/">
-                  <img src="http://placehold.jp/24/ffffff/111111/387x95.jpg" alt="お問い合わせ" class="worksimg" />
-                </a>
-              </div>
-            </div>
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            </a>
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            </a>
+          </div>
 
           </div>
         </div>
@@ -482,14 +481,13 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <div class="row">
-
-              <div class="col-xs-5 col-xs-push-6 top-buffer-padding bottom-buffer-padding margin-t80">
-                <a href="<?php echo home_url('/');?>contact/">
-                  <img src="http://placehold.jp/24/ffffff/111111/387x95.jpg" alt="お問い合わせ" class="worksimg" />
-                </a>
-              </div>
-            </div>
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            </a>
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            </a>
+          </div>
 
           </div>
         </div>
