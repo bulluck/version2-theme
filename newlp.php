@@ -712,7 +712,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12" id="comparison-title">
             <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle comparison-icon">
-              他社との比較
+              集客オプション
             </h2>
           </div>
         </div>
