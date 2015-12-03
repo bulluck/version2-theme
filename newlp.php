@@ -345,10 +345,10 @@
               <div class="col-xs-6 col-sm-3">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
-                    就労支援事業のお客様
+                    IT事業の株式会社ブラック
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    問い合わせ数が1ヶ月で 脅威の<span style="color:red;">12倍</span>！
+                    このランディングぺージ、実はすごい実績を更新し続けています。詳しくはお問い合わせください。
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/human-grow-lp.png" alt="ランディングぺージヒューマングロー" />
                 </div>
@@ -360,7 +360,7 @@
                     営業代理店のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    人材採用、ランディングぺージ制作のご相談をいただきました。
+                    人材採用、ランディングぺージ型ホームページ制作のご相談をいただきました。
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
                 </div>
