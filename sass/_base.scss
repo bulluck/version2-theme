@@ -407,16 +407,14 @@ div.wpcf7 img.ajax-loader {
   padding-left: 20px;
 }
 .contact-box {
-  background-image: url("#{$img-path}newlp_exit.png");
-  height: 530px;
-  border: 1px solid #ccc;
+  height: auto;
   position: relative;
 }
 
 .cb-btn-1 {
   position: absolute;
   bottom: 135px;
-  right: 39px;
+  right: 25px;
   &:hover {
     opacity: 0;
   }
@@ -424,7 +422,7 @@ div.wpcf7 img.ajax-loader {
 .cb-btn-2 {
   position: absolute;
   bottom: 33px;
-  right: 39px;
+  right: 25px;
   &:hover {
     opacity: 0;
   }
@@ -596,7 +594,7 @@ hr {
     display: none;
   }
 
-  .solve::before, .flow-icon::before, .fee-icon::before, .good-reason::before, .flow-icon::before, .comparison-icon::before {
+  .solve::after, .flow-icon::before, .fee-icon::before, .good-reason::before, .flow-icon::before, .comparison-icon::before {
     display: none;
   }
 
@@ -604,5 +602,9 @@ hr {
 
   .achieve-section .medium-heading {
     font-size: 2.2rem;
+  }
+
+  .lpplan-top {
+    background-image: url("#{$img-path}n_kv_sp.png");
   }
 }

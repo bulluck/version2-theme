@@ -24,6 +24,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
+            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
                 経営コンサルタントが設計！『受注率にコミット』するならブラック!
@@ -36,6 +37,7 @@
                 制作数には上限があります。お早めにお問い合わせください。
               </p>
             </div>
+
             <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
@@ -155,7 +157,6 @@
                 <p class="tagyellow white-text">
                   Point
                 </p>
-                <p class="top-buffer">
                   <ul class="point-list">
                     <li class="small-heading top-buffer-padding">
                       ランディングページを作成し、リスティング広告の運用を開始
@@ -167,7 +168,6 @@
                       競合調査を行い、競合との差別化を図ったランディングページの作成
                     </li>
                   </ul>
-                </p>
               </div>
             </div>
           </div>
@@ -222,7 +222,6 @@
                 <p class="tagyellow white-text">
                   Point
                 </p>
-                <p class="top-buffer">
                   <ul class="point-list">
                     <li class="small-heading top-buffer-padding">
                       自社HPをスマホ対応にした大リニューアル
@@ -234,7 +233,6 @@
                       自社の強みを活かしたHP構成・キャッチフレーズのご提案
                     </li>
                   </ul>
-                </p>
               </div>
             </div>
           </div>
@@ -287,7 +285,6 @@
                       <p class="tagyellow white-text">
                         Point
                       </p>
-                      <p class="top-buffer">
                         <ul class="point-list">
                           <li class="small-heading top-buffer-padding">
                             法人用・エンドユーザー用のHPとは別に採用HPを作成
@@ -299,7 +296,6 @@
                             高画質写真の利用・若手スタッフの声を中心に構成
                           </li>
                         </ul>
-                      </p>
                     </div>
                   </div>
                 </div>
@@ -314,6 +310,20 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
+            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <div class="col-xs-12 col-sm-12 hidden">
+              <h2>
+                経営コンサルタントが設計！『受注率にコミット』するならブラック!
+              </h2>
+              <h3>広告運用と同時申し込みで制作費用が半額に！</h3>
+              <p>
+                ランディングページ制作と同時申し込みで、リスティング・Facebook等の広告運用を私たち経営コンサルタントにお任せいただいた場合、<em>制作費が半額</em>になります。
+              </p>
+              <p>
+                制作数には上限があります。お早めにお問い合わせください。
+              </p>
+            </div>
+
             <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
@@ -342,7 +352,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12">
             <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
-              <div class="col-xs-6 col-sm-3">
+              <div class="col-xs-12 col-sm-3">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     就労支援事業のお客様
@@ -354,7 +364,7 @@
                 </div>
 
               </div>
-              <div class="col-xs-6 col-sm-3">
+              <div class="col-xs-12 col-sm-3 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     営業支援事業のお客様
@@ -365,7 +375,7 @@
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese-lp.png" alt="" />
                 </div>
               </div>
-              <div class="col-xs-6 col-sm-3">
+              <div class="col-xs-12 col-sm-3 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     英会話教室のお客様
@@ -376,7 +386,7 @@
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/storyland-lp.png" alt="" />
                 </div>
               </div>
-              <div class="col-xs-6 col-sm-3">
+              <div class="col-xs-12 col-sm-3 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     弊社LPでABテスト
@@ -394,13 +404,13 @@
               </h3>
             </div>
             <div class="col-xs-12 col-sm-12 top-buffer">
-              <div class="col-xs-6 col-sm-4">
+              <div class="col-xs-4 col-sm-4">
                 <img src="<?php bloginfo('template_directory');?>/images/hg-sp-lp.png" class="worksimg border-container" alt="" />
               </div>
-              <div class="col-xs-6 col-sm-4">
+              <div class="col-xs-4 col-sm-4">
                 <img src="<?php bloginfo('template_directory');?>/images/onese-sp-lp.png" class="worksimg border-container" alt="" />
               </div>
-              <div class="col-xs-6 col-sm-4">
+              <div class="col-xs-4 col-sm-4">
                 <img src="<?php bloginfo('template_directory');?>/images/bulluck-sp-lp.png" class="worksimg border-container" alt="" />
               </div>
 
@@ -417,6 +427,20 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
+            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <div class="col-xs-12 col-sm-12 hidden">
+              <h2>
+                経営コンサルタントが設計！『受注率にコミット』するならブラック!
+              </h2>
+              <h3>広告運用と同時申し込みで制作費用が半額に！</h3>
+              <p>
+                ランディングページ制作と同時申し込みで、リスティング・Facebook等の広告運用を私たち経営コンサルタントにお任せいただいた場合、<em>制作費が半額</em>になります。
+              </p>
+              <p>
+                制作数には上限があります。お早めにお問い合わせください。
+              </p>
+            </div>
+
             <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
@@ -521,6 +545,20 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-12 contact-box">
+          <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+          <div class="col-xs-12 col-sm-12 hidden">
+            <h2>
+              経営コンサルタントが設計！『受注率にコミット』するならブラック!
+            </h2>
+            <h3>広告運用と同時申し込みで制作費用が半額に！</h3>
+            <p>
+              ランディングページ制作と同時申し込みで、リスティング・Facebook等の広告運用を私たち経営コンサルタントにお任せいただいた場合、<em>制作費が半額</em>になります。
+            </p>
+            <p>
+              制作数には上限があります。お早めにお問い合わせください。
+            </p>
+          </div>
+
           <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
             <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
           </a>
@@ -547,10 +585,8 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-xs-12 col-sm-12 fee-area margin-t80">
-            <div class="hidden">
-
-            </div>
+          <div class="col-xs-12 col-sm-12 margin-t80">
+            <img src="<?php bloginfo('template_directory');?>/images/new_fee.png" alt="料金表" class="worksimg" />
           </div>
         </div>
       </div>
@@ -568,7 +604,7 @@
         </div>
         <div class="row">
           <div class="col-xs-12 col-sm-12 margin-t80">
-            <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" alt="" />
+            <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="集客オプション" />
           </div>
         </div>
       </div>
@@ -579,6 +615,20 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
+            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <div class="col-xs-12 col-sm-12 hidden">
+              <h2>
+                経営コンサルタントが設計！『受注率にコミット』するならブラック!
+              </h2>
+              <h3>広告運用と同時申し込みで制作費用が半額に！</h3>
+              <p>
+                ランディングページ制作と同時申し込みで、リスティング・Facebook等の広告運用を私たち経営コンサルタントにお任せいただいた場合、<em>制作費が半額</em>になります。
+              </p>
+              <p>
+                制作数には上限があります。お早めにお問い合わせください。
+              </p>
+            </div>
+
             <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
@@ -683,6 +733,20 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
+            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <div class="col-xs-12 col-sm-12 hidden">
+              <h2>
+                経営コンサルタントが設計！『受注率にコミット』するならブラック!
+              </h2>
+              <h3>広告運用と同時申し込みで制作費用が半額に！</h3>
+              <p>
+                ランディングページ制作と同時申し込みで、リスティング・Facebook等の広告運用を私たち経営コンサルタントにお任せいただいた場合、<em>制作費が半額</em>になります。
+              </p>
+              <p>
+                制作数には上限があります。お早めにお問い合わせください。
+              </p>
+            </div>
+
             <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
@@ -738,6 +802,20 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
+            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <div class="col-xs-12 col-sm-12 hidden">
+              <h2>
+                経営コンサルタントが設計！『受注率にコミット』するならブラック!
+              </h2>
+              <h3>広告運用と同時申し込みで制作費用が半額に！</h3>
+              <p>
+                ランディングページ制作と同時申し込みで、リスティング・Facebook等の広告運用を私たち経営コンサルタントにお任せいただいた場合、<em>制作費が半額</em>になります。
+              </p>
+              <p>
+                制作数には上限があります。お早めにお問い合わせください。
+              </p>
+            </div>
+
             <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
