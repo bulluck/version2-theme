@@ -389,7 +389,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-xs-12">
+          <div class="col-xs-12 col-sm-12">
             <div class="col-xs-6 col-sm-3">
 
             </div>
@@ -402,12 +402,12 @@
             <div class="col-xs-6 col-sm-3">
 
             </div>
-          </div>
-          <div class="col-xs-12 margin-t80">
-            <h3 class="medium-heading top-buffer-padding bottom-buffer-padding black-text align-center whitebg">
-                <i class="fa fa-mobile bluetext-lp"></i>
-               <span class="agreespan font-bold">スマートフォンにも最適化！</span>
-            </h3>
+            <div class="col-xs-12 col-sm-12 margin-t80">
+              <h3 class="medium-heading top-buffer-padding bottom-buffer-padding black-text align-center whitebg">
+                  <i class="fa fa-mobile bluetext-lp"></i>
+                 <span class="agreespan font-bold">スマートフォンにも最適化！</span>
+              </h3>
+            </div>
           </div>
         </div>
       </div>
@@ -535,6 +535,108 @@
 
     </div>
   </section>
+<section class="section-padding80 bluebg">
+  <div class="container-center">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 margin-b80" id="flow">
+          <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle flow-icon">
+            制作の流れ
+          </h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+
+          <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+            <h3 class="small-heading black-text font-bold">
+              1. ヒアリング
+            </h3>
+            <div class="top-buffer align-center">
+
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-hearing.png" alt="" />
+            </div>
+            <p class="small-text top-buffer">
+              商品・サービスの魅力を引き出すヒアリング。
+              ランディングページからどんなお客様に来て欲しいか、達成したい成果は何か？ご成約後、一番最初に時間をかけてじっくり行います。高い反響を得るために、しっかりとお話をさせていただくことが重要となります。
+            </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+
+          <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+            <h3 class="small-heading black-text font-bold">
+              2. 企画・構成
+            </h3>
+            <div class="top-buffer align-center">
+
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-planning.png" alt="" />
+            </div>
+            <p class="small-text top-buffer">
+              ヒアリングを基に、ランディングページの企画構成を制作します。まずは構成案をご提出し、コンテンツの内容やコピーの確認を行います。いきなりデザインを作り込んでご提出するわけではないので、ご安心ください。
+            </p>
+          </div>
+        </div>
+
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-6 top-buffer">
+
+          <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+            <h3 class="small-heading black-text font-bold">
+              3. デザイン・サイト構築
+            </h3>
+            <div class="top-buffer align-center">
+
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-design.png" alt="" />
+            </div>
+            <p class="small-text top-buffer">
+              確認を経てランディングページのデザインに入ります。
+              ファーストビューのデザイン・ボタンの配色などでもコンバージョン率が変わってきますので、弊社のデザイナーはただキレイなだけではなく、売り上げが上がる効果的なデザインを意識した制作しております。
+            </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 top-buffer">
+
+          <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+            <h3 class="small-heading black-text font-bold">
+              4. サイト運用
+            </h3>
+            <div class="top-buffer align-center">
+
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-listing.png" alt="" />
+            </div>
+            <p class="small-text top-buffer">
+              日々の運用・改善を行います。
+              ABテスト等を行い、より効果的なランディングページの見せ方を日々追求していきます。御社の方でチェックと意思決定だけしていただければ、あとはわたし達で改善サイクルをまわしていきます。
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+<section class="section-padding80 purewhitebg">
+  <div class="container-center">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-12 contact-box">
+          <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+          </a>
+          <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+          </a>
+        </div>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
 
   <section class="section-padding80 bluebg" id="fee">
     <div class="container-center">

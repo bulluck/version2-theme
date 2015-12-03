@@ -1195,6 +1195,21 @@ div.wpcf7 img.ajax-loader {
   left: -50px;
 }
 
+.flow-icon {
+  position: relative;
+  z-index: 2;
+}
+.flow-icon::before {
+  content: "";
+  position: absolute;
+  background-image: url("../images/flow-icon.svg");
+  width: 200px;
+  height: 200px;
+  z-index: -1;
+  top: -30px;
+  left: -20px;
+}
+
 .heading-circle::after {
   position: absolute;
   content: "";
@@ -1207,11 +1222,15 @@ div.wpcf7 img.ajax-loader {
 }
 
 #trouble .heading-circle::after {
-  background-image: url(../images/trouble.png);
+  background-image: url("../images/trouble.png");
 }
 
 #reason .heading-circle::after {
-  background-image: url(../images/reason-circle.png);
+  background-image: url("../images/reason-circle.png");
+}
+
+#flow .heading-circle::after {
+  background-image: url("../images/flow-circle.png");
 }
 
 hr {

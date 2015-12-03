@@ -476,6 +476,21 @@ div.wpcf7 img.ajax-loader {
   }
 }
 
+.flow-icon {
+  position: relative;
+  z-index: 2;
+  &::before {
+    content: "";
+    position: absolute;
+    background-image: url("#{$img-path}flow-icon.svg");
+    width: 200px;
+    height: 200px;
+    z-index: -1;
+    top: -30px;
+    left: -20px;
+  }
+}
+
 
 .heading-circle::after {
   position: absolute;
@@ -488,10 +503,14 @@ div.wpcf7 img.ajax-loader {
   right: 0;
 }
 #trouble .heading-circle::after {
-  background-image: url(#{$img-path}trouble.png);
+  background-image: url("#{$img-path}trouble.png");
 }
 #reason .heading-circle::after {
-  background-image: url(#{$img-path}reason-circle.png);
+  background-image: url("#{$img-path}reason-circle.png");
+}
+
+#flow .heading-circle::after {
+  background-image: url("#{$img-path}flow-circle.png");
 }
 
 hr {
