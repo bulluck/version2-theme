@@ -390,24 +390,72 @@
         </div>
         <div class="row">
           <div class="col-xs-12 col-sm-12">
-            <div class="col-xs-6 col-sm-3">
+            <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+              <div class="col-xs-6 col-sm-3">
+                <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
+                  <h3 class="black-text small-text font-bold">
+                    就労支援事業のお客様
+                  </h3>
+                  <p class="top-buffer-padding small-text">
+                    問い合わせ数が1ヶ月で 脅威の<span style="color:red;">12倍</span>！
+                  </p>
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/human-grow-lp.png" alt="" />
+                </div>
 
-            </div>
-            <div class="col-xs-6 col-sm-3">
-
-            </div>
-            <div class="col-xs-6 col-sm-3">
-
-            </div>
-            <div class="col-xs-6 col-sm-3">
-
-            </div>
+              </div>
+              <div class="col-xs-6 col-sm-3">
+                <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
+                  <h3 class="black-text small-text font-bold">
+                    営業支援事業のお客様
+                  </h3>
+                  <p class="top-buffer-padding small-text">
+                    人材確保のため、ご相談いただきました。
+                  </p>
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese-lp.png" alt="" />
+                </div>
+              </div>
+              <div class="col-xs-6 col-sm-3">
+                <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
+                  <h3 class="black-text small-text font-bold">
+                    英会話教室のお客様
+                  </h3>
+                  <p class="top-buffer-padding small-text">
+                    サイト運用の指導をご相談いただきました。
+                  </p>
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/storyland-lp.png" alt="" />
+                </div>
+              </div>
+              <div class="col-xs-6 col-sm-3">
+                <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
+                  <h3 class="black-text small-text font-bold">
+                    弊社LPでABテスト
+                  </h3>
+                  <p class="top-buffer-padding small-text">
+                    ABテストで、最適化効果を測定しています。
+                  </p>
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck-lp.png" alt="" />
+                </div>
+              </div>
             <div class="col-xs-12 col-sm-12 margin-t80">
-              <h3 class="medium-heading top-buffer-padding bottom-buffer-padding black-text align-center whitebg">
+              <h3 class="medium-heading top-buffer-padding bottom-buffer-padding black-text align-center lightyellow-bg">
                   <i class="fa fa-mobile bluetext-lp"></i>
                  <span class="agreespan font-bold">スマートフォンにも最適化！</span>
               </h3>
             </div>
+            <div class="col-xs-12 col-sm-12 top-buffer">
+              <div class="col-xs-6 col-sm-4">
+                <img src="<?php bloginfo('template_directory');?>/images/hg-sp-lp.png" class="worksimg" alt="" />
+              </div>
+              <div class="col-xs-6 col-sm-4">
+
+              </div>
+              <div class="col-xs-6 col-sm-4">
+
+              </div>
+
+            </div>
+          </div>
+
           </div>
         </div>
       </div>
