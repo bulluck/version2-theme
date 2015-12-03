@@ -688,7 +688,7 @@
             </h3>
             <div class="top-buffer align-center">
 
-              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-hearing.png" alt="" />
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/contact2.jpg" alt="" />
             </div>
             <p class="small-text top-buffer">
               お問い合わせいただきましたら、具体的なご要望をしっかりとヒアリングさせていただきます。日本全国47都道府県、お電話にて対応しております。過去の実績より、対面で1回よりもお電話で複数回のヒアリングが最も効率的です。出張打ち合わせもございます。詳細はお問い合わせください。
@@ -699,11 +699,11 @@
 
           <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
             <h3 class="small-heading black-text font-bold">
-              2. 企画・構成
+              2. 企画・戦略
             </h3>
             <div class="top-buffer align-center">
 
-              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-planning.png" alt="" />
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/contact2.jpg" alt="ランディングぺージ設計" />
             </div>
             <p class="small-text top-buffer">
               ヒアリング内容を基に、ブラックの経営コンサルタントがターゲットの選定、ランディングページの設計を行います。進行に合わせて随時ご連絡を取らせていただきます。これも成果の出るランディングぺージを作る上では必須になります。ご要望はお気軽にお申し付けください。 </p>
@@ -716,7 +716,7 @@
 
           <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
             <h3 class="small-heading black-text font-bold">
-              3. デザイン・サイト構築
+              3. デザイン・LP構築
             </h3>
             <div class="top-buffer align-center">
 
@@ -732,7 +732,7 @@
 
           <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
             <h3 class="small-heading black-text font-bold">
-              4. サイト運用
+              4. ランディングぺージ運用
             </h3>
             <div class="top-buffer align-center">
 
