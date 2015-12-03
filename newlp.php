@@ -444,13 +444,13 @@
             </div>
             <div class="col-xs-12 col-sm-12 top-buffer">
               <div class="col-xs-6 col-sm-4">
-                <img src="<?php bloginfo('template_directory');?>/images/hg-sp-lp.png" class="worksimg" alt="" />
+                <img src="<?php bloginfo('template_directory');?>/images/hg-sp-lp.png" class="worksimg border-container" alt="" />
               </div>
               <div class="col-xs-6 col-sm-4">
-
+                <img src="<?php bloginfo('template_directory');?>/images/onese-sp-lp.png" class="worksimg border-container" alt="" />
               </div>
               <div class="col-xs-6 col-sm-4">
-
+                <img src="<?php bloginfo('template_directory');?>/images/bulluck-sp-lp.png" class="worksimg border-container" alt="" />
               </div>
 
             </div>
