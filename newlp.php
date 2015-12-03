@@ -24,7 +24,13 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php if (wp_is_mobile()):?>
+              <a href="<?php echo home_url('/');?>contact/">
+                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              </a>
+            <?php else:?>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
                 経営コンサルタントが設計！『受注率にコミット』するならブラック!
@@ -38,10 +44,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
-            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
             </a>
           </div>
@@ -310,7 +316,13 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php if (wp_is_mobile()):?>
+              <a href="<?php echo home_url('/');?>contact/">
+                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              </a>
+            <?php else:?>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
                 経営コンサルタントが設計！『受注率にコミット』するならブラック!
@@ -324,10 +336,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
-            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
             </a>
           </div>
@@ -426,7 +438,13 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php if (wp_is_mobile()):?>
+              <a href="<?php echo home_url('/');?>contact/">
+                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              </a>
+            <?php else:?>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
                 経営コンサルタントが設計！『受注率にコミット』するならブラック!
@@ -440,10 +458,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
-            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
             </a>
           </div>
@@ -544,7 +562,13 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-12 contact-box">
-          <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+          <?php if (wp_is_mobile()):?>
+            <a href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            </a>
+          <?php else:?>
+            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+          <?php endif; ?>
           <div class="col-xs-12 col-sm-12 hidden">
             <h2>
               経営コンサルタントが設計！『受注率にコミット』するならブラック!
@@ -558,10 +582,10 @@
             </p>
           </div>
 
-          <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+          <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
             <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
           </a>
-          <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+          <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
             <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
           </a>
         </div>
@@ -614,7 +638,13 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php if (wp_is_mobile()):?>
+              <a href="<?php echo home_url('/');?>contact/">
+                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              </a>
+            <?php else:?>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
                 経営コンサルタントが設計！『受注率にコミット』するならブラック!
@@ -628,10 +658,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
-            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
             </a>
           </div>
@@ -732,7 +762,13 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php if (wp_is_mobile()):?>
+              <a href="<?php echo home_url('/');?>contact/">
+                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              </a>
+            <?php else:?>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
                 経営コンサルタントが設計！『受注率にコミット』するならブラック!
@@ -746,10 +782,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
-            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
             </a>
           </div>
@@ -801,7 +837,13 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php if (wp_is_mobile()):?>
+              <a href="<?php echo home_url('/');?>contact/">
+                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              </a>
+            <?php else:?>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
                 経営コンサルタントが設計！『受注率にコミット』するならブラック!
@@ -815,10 +857,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
             </a>
-            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
             </a>
           </div>

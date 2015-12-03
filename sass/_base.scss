@@ -253,14 +253,17 @@ div.wpcf7 img.ajax-loader {
   width: 100%;
 }
 .lpplan-top {
-    background-image: url("#{$img-path}n_lptop.png");
+  background-image: url("#{$img-path}n_lptop.png");
   background-position: center center;
   background-size: cover;
   width: 100%;
   height: 700px;
 }
 .trouble {
-  @extend .lpplan-top;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 700px;
   background-image: url(http://placehold.jp/64/777777/ffffff/1920x600.jpg);
   position: relative;
 }
@@ -409,6 +412,9 @@ div.wpcf7 img.ajax-loader {
 .contact-box {
   height: auto;
   position: relative;
+  a{
+    display: block;
+  }
 }
 
 .cb-btn-1 {
@@ -606,5 +612,6 @@ hr {
 
   .lpplan-top {
     background-image: url("#{$img-path}n_kv_sp.png");
+    height: 275px;
   }
 }
