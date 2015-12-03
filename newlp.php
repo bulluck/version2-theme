@@ -45,10 +45,10 @@
             </div>
 
             <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
             <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
@@ -337,10 +337,10 @@
             </div>
 
             <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
             <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
@@ -455,10 +455,10 @@
             </div>
 
             <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
             <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
@@ -579,10 +579,10 @@
           </div>
 
           <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
           </a>
           <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
           </a>
         </div>
 
@@ -655,10 +655,10 @@
             </div>
 
             <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
             <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
@@ -776,10 +776,10 @@
             </div>
 
             <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
             <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
@@ -851,10 +851,10 @@
             </div>
 
             <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
             <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
