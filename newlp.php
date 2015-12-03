@@ -350,19 +350,19 @@
                   <p class="top-buffer-padding small-text">
                     問い合わせ数が1ヶ月で 脅威の<span style="color:red;">12倍</span>！
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/human-grow-lp.png" alt="" />
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/human-grow-lp.png" alt="ランディングぺージヒューマングロー" />
                 </div>
 
               </div>
               <div class="col-xs-6 col-sm-3">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
-                    営業支援事業のお客様
+                    営業代理店のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    人材確保のため、ご相談いただきました。
+                    人材採用のご相談をいただきました。
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese-lp.png" alt="" />
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese-lp.png" alt="ランディングぺージワンス" />
                 </div>
               </div>
               <div class="col-xs-6 col-sm-3">
@@ -371,20 +371,19 @@
                     英会話教室のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    サイト運用の指導をご相談いただきました。
+                  集客のご相談をいただきました。
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/storyland-lp.png" alt="" />
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/spartan.png" alt="ランディングぺージスパルタ" />
                 </div>
               </div>
               <div class="col-xs-6 col-sm-3">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
-                    弊社LPでABテスト
+                    新宿税理士事務所様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    ABテストで、最適化効果を測定しています。
-                  </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck-lp.png" alt="" />
+                    ランディングぺージとサイト制作、集客のご相談をいただきました。</p>
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/shinjuku.png" alt="ランディングぺージブラック" />
                 </div>
               </div>
             <div class="col-xs-12 col-sm-12 margin-t80">
