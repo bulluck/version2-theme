@@ -7,7 +7,15 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 lpplan-top">
-        <h1 style="display:none;">80%以上のお客様の売上を3ヶ月で3倍にした「受注率にコミットする」Webサイト/LP制作</h1>
+        <header class="hidden">
+
+        <h1>経営コンサルタントによる『受注率にコミットする』ランディングページ制作</h1>
+        <ul>
+          <li>顧客満足度 98.2%</li>
+          <li>受注率特化（経営コンサルタントが設計）</li>
+          <li>日本全国47都道府県完全対応</li>
+        </ul>
+      </header>
       </div>
     </div>
   </div>
@@ -108,7 +116,7 @@
         </div>
       </div>
     </div>
-    <div class="container-c-narrow">
+    <div class="container-c-narrow margin-t80">
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 top-buffer">
@@ -350,42 +358,7 @@
       </div>
     </div>
   </section>
-  <section class="section-padding100" id="achieve-section">
-    <div class="container-center">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-xs-12">
-            <h2 class="top-buffer-padding bottom-buffer-padding medium-heading align-center bluebg">
-              LP/リスティング運用の実績
-            </h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="col-xs-6 col-sm-3">
-
-            </div>
-            <div class="col-xs-6 col-sm-3">
-
-            </div>
-            <div class="col-xs-6 col-sm-3">
-
-            </div>
-            <div class="col-xs-6 col-sm-3">
-
-            </div>
-          </div>
-          <div class="col-xs-12 margin-t80">
-            <h3 class="medium-heading top-buffer-padding bottom-buffer-padding black-text align-center whitebg">
-                <i class="fa fa-mobile bluetext-lp"></i>
-               <span class="agreespan font-bold">スマートフォンにも最適化！</span>
-            </h3>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section class="section-padding80">
+  <section class="section-padding80 purewhitebg">
     <div class="container-center">
       <div class="container-fluid">
         <div class="row">
@@ -404,7 +377,110 @@
 
     </div>
   </section>
-  <section class="section-padding80 greenbg">
+
+  <section class="section-padding100 achieve-section">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12">
+            <h2 class="top-buffer-padding bottom-buffer-padding medium-heading align-center bluebg">
+              LP/リスティング運用の実績
+            </h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-12">
+            <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+              <div class="col-xs-6 col-sm-3">
+                <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
+                  <h3 class="black-text small-text font-bold">
+                    就労支援事業のお客様
+                  </h3>
+                  <p class="top-buffer-padding small-text">
+                    問い合わせ数が1ヶ月で 脅威の<span style="color:red;">12倍</span>！
+                  </p>
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/human-grow-lp.png" alt="" />
+                </div>
+
+              </div>
+              <div class="col-xs-6 col-sm-3">
+                <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
+                  <h3 class="black-text small-text font-bold">
+                    営業支援事業のお客様
+                  </h3>
+                  <p class="top-buffer-padding small-text">
+                    人材確保のため、ご相談いただきました。
+                  </p>
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese-lp.png" alt="" />
+                </div>
+              </div>
+              <div class="col-xs-6 col-sm-3">
+                <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
+                  <h3 class="black-text small-text font-bold">
+                    英会話教室のお客様
+                  </h3>
+                  <p class="top-buffer-padding small-text">
+                    サイト運用の指導をご相談いただきました。
+                  </p>
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/storyland-lp.png" alt="" />
+                </div>
+              </div>
+              <div class="col-xs-6 col-sm-3">
+                <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
+                  <h3 class="black-text small-text font-bold">
+                    弊社LPでABテスト
+                  </h3>
+                  <p class="top-buffer-padding small-text">
+                    ABテストで、最適化効果を測定しています。
+                  </p>
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck-lp.png" alt="" />
+                </div>
+              </div>
+            <div class="col-xs-12 col-sm-12 margin-t80">
+              <h3 class="medium-heading top-buffer-padding bottom-buffer-padding black-text align-center lightyellow-bg">
+                  <i class="fa fa-mobile bluetext-lp"></i>
+                 <span class="agreespan font-bold">スマートフォンにも最適化！</span>
+              </h3>
+            </div>
+            <div class="col-xs-12 col-sm-12 top-buffer">
+              <div class="col-xs-6 col-sm-4">
+                <img src="<?php bloginfo('template_directory');?>/images/hg-sp-lp.png" class="worksimg border-container" alt="" />
+              </div>
+              <div class="col-xs-6 col-sm-4">
+                <img src="<?php bloginfo('template_directory');?>/images/onese-sp-lp.png" class="worksimg border-container" alt="" />
+              </div>
+              <div class="col-xs-6 col-sm-4">
+                <img src="<?php bloginfo('template_directory');?>/images/bulluck-sp-lp.png" class="worksimg border-container" alt="" />
+              </div>
+
+            </div>
+          </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section-padding80 purewhitebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 contact-box">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            </a>
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            </a>
+          </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+  <section class="section-padding80 bluebg">
     <div class="container-center">
       <div class="container-fluid">
         <div class="row">
@@ -488,7 +564,223 @@
     </div>
 
   </section>
-  <section class="section-padding80">
+  <section class="section-padding80 purewhitebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 contact-box">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            </a>
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            </a>
+          </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+<section class="section-padding80 bluebg">
+  <div class="container-center">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 margin-b80" id="flow">
+          <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle flow-icon">
+            制作の流れ
+          </h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+
+          <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+            <h3 class="small-heading black-text font-bold">
+              1. ヒアリング
+            </h3>
+            <div class="top-buffer align-center">
+
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-hearing.png" alt="" />
+            </div>
+            <p class="small-text top-buffer">
+              商品・サービスの魅力を引き出すヒアリング。
+              ランディングページからどんなお客様に来て欲しいか、達成したい成果は何か？ご成約後、一番最初に時間をかけてじっくり行います。高い反響を得るために、しっかりとお話をさせていただくことが重要となります。
+            </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+
+          <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+            <h3 class="small-heading black-text font-bold">
+              2. 企画・構成
+            </h3>
+            <div class="top-buffer align-center">
+
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-planning.png" alt="" />
+            </div>
+            <p class="small-text top-buffer">
+              ヒアリングを基に、ランディングページの企画構成を制作します。まずは構成案をご提出し、コンテンツの内容やコピーの確認を行います。いきなりデザインを作り込んでご提出するわけではないので、ご安心ください。
+            </p>
+          </div>
+        </div>
+
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-6 top-buffer">
+
+          <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+            <h3 class="small-heading black-text font-bold">
+              3. デザイン・サイト構築
+            </h3>
+            <div class="top-buffer align-center">
+
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-design.png" alt="" />
+            </div>
+            <p class="small-text top-buffer">
+              確認を経てランディングページのデザインに入ります。
+              ファーストビューのデザイン・ボタンの配色などでもコンバージョン率が変わってきますので、弊社のデザイナーはただキレイなだけではなく、売り上げが上がる効果的なデザインを意識した制作しております。
+            </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 top-buffer">
+
+          <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+            <h3 class="small-heading black-text font-bold">
+              4. サイト運用
+            </h3>
+            <div class="top-buffer align-center">
+
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-listing.png" alt="" />
+            </div>
+            <p class="small-text top-buffer">
+              日々の運用・改善を行います。
+              ABテスト等を行い、より効果的なランディングページの見せ方を日々追求していきます。御社の方でチェックと意思決定だけしていただければ、あとはわたし達で改善サイクルをまわしていきます。
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+<section class="section-padding80 purewhitebg">
+  <div class="container-center">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-12 contact-box">
+          <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+          </a>
+          <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+          </a>
+        </div>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+  <section class="section-padding80 bluebg" id="fee">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12" id="fee-title">
+            <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle fee-icon">
+              料金表
+            </h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 fee-area margin-t80">
+            <div class="hidden">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section-padding80 bluebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12" id="comparison-title">
+            <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle comparison-icon">
+              他社との比較
+            </h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 margin-t80">
+            <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" alt="" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section-padding80 purewhitebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 contact-box">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            </a>
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            </a>
+          </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section-padding80 achieve-section">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12" id="faq-area">
+            <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle faq">
+              よくある質問
+            </h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 margin-t80">
+            <div class="col-xs-12 col-sm-12 purewhitebg">
+              <dl class="faq-dl">
+                <dt class="top-buffer">申し込みから納品まではどれくらいかかりますか。</dt>
+                <dd>ブラックでは、最短14日で納品いたします。ただし、お申込み状況等により、変動する場合もございます。お急ぎの方は、お問い合わせの際にその旨ご相談いただけると幸いです。</dd>
+
+                <dt class="top-buffer">納品されるファイルはどの様な形式でしょうか。</dt>
+                <dd>基本的には、データをサーバー上にアップして納品致します。デザインデータでの納品をご希望の場合は、別途2万円にてお受けしております。</dd>
+
+                <dt class="top-buffer">ドメインとサーバーは自社で取得済みなのですが、管理費はどうなりますか？</dt>
+                <dd>サーバーとドメインを自社で取得済みの会社様は、管理費であるプランサポートの月額から1000円分を差し引いたお値段でご利用いただけます。</dd>
+
+                <dt class="top-buffer">制作完了後の修正は可能でしょうか。</dt>
+                <dd>プランサポートには月に3箇所(作業1h分)の修正/更新が標準装備でついております。お気軽にご連絡ください。 また、安心サポートPro(月に5箇所作業時間3h分)などの修正更新パックもご用意しております。こちらもご検討ください。</dd>
+
+                <dt class="top-buffer">制作に関してはどこまで相談可能でしょうか。</dt>
+                <dd>マーケティングの相談からデザインに関するご要望まで、弊社の過去の実績を元に貴社に最適なサイトをご提案致します。販売数・受注率の向上にコミットしてご相談を承ります。</dd>
+
+              </dl>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section-padding80 whitebg">
     <div class="container-center">
       <div class="container-fluid">
         <div class="row">

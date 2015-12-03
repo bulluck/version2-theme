@@ -253,7 +253,7 @@ div.wpcf7 img.ajax-loader {
   width: 100%;
 }
 .lpplan-top {
-    background-image: url(http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/n_lptop.png);
+    background-image: url("#{$img-path}n_lptop.png");
   background-position: center center;
   background-size: cover;
   width: 100%;
@@ -265,7 +265,7 @@ div.wpcf7 img.ajax-loader {
   position: relative;
 }
 
-#achieve-section {
+.achieve-section {
   background-image: url("#{$img-path}lp-bg.png");
   background-repeat: repeat;
 
@@ -290,6 +290,88 @@ div.wpcf7 img.ajax-loader {
   display: table-cell;
   vertical-align: middle;
 }
+
+.fee-area {
+  background-image: url("#{$img-path}new_fee.png");
+  background-size: auto;
+  background-position: center;
+  height: 760px;
+}
+
+#fee-title .heading-circle::after {
+  background-image: url("#{$img-path}fee-circle.png");
+  background-size: cover;
+  background-position: center;
+}
+
+#faq-area .heading-circle::after{
+  background-image: url("#{$img-path}faq-circle.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.faq-dl {
+  font-size: 1.3rem;
+  dt {
+    padding: 30px 10px 30px 70px;
+    border-radius: 3px;
+    background-color: #c9f3fc;
+    position: relative;
+    line-height: 2;
+    &::before {
+      position: absolute;
+      border-radius: 50%;
+      color: white;
+      width: 50px;
+      height: 50px;
+      content: "Q";
+      line-height: 50px;
+      left: 10px;
+      top: 24px;
+      background-color: #00d1ff;
+      text-align: center;
+      font-weight: bold;
+    }
+  }
+
+  dd {
+    padding: 30px 10px 30px 70px;
+    position: relative;
+    line-height: 2;
+    &::before {
+      position: absolute;
+      border-radius: 50%;
+      color: white;
+      width: 50px;
+      height: 50px;
+      content: "A";
+      line-height: 50px;
+      left: 10px;
+      top: 24px;
+      background-color: #ff0063;
+      text-align: center;
+      font-weight: bold;
+    }
+  }
+}
+
+
+
+.fee-icon {
+  position: relative;
+  z-index: 2;
+  &::before{
+    content: "";
+    position: absolute;
+    background-image: url("#{$img-path}fee-icon.svg");
+    width: 200px;
+    height: 200px;
+    z-index: -1;
+    top: -20px;
+    left: -50px;
+  }
+}
+
 .border-top-bottom {
   border-top: 1px solid #fff;
   border-bottom: 1px solid #fff;
@@ -311,6 +393,10 @@ div.wpcf7 img.ajax-loader {
   border: 1px solid #ccc;
   width: 100px;
   height: 100px;
+}
+
+.border-container {
+  border: 1px solid #ccc;
 }
 
 .lp-case-tab {
@@ -357,6 +443,14 @@ div.wpcf7 img.ajax-loader {
   background-color: #00d1ff;
 }
 
+.skyblue-bg {
+  background-color: #e2faff;
+}
+
+.lightyellow-bg {
+  background-color: #feefef;
+}
+
 .bluetext-lp {
   color: #00d1ff;
 }
@@ -394,6 +488,35 @@ div.wpcf7 img.ajax-loader {
   }
 }
 
+.flow-icon {
+  position: relative;
+  z-index: 2;
+  &::before {
+    content: "";
+    position: absolute;
+    background-image: url("#{$img-path}flow-icon.svg");
+    width: 200px;
+    height: 200px;
+    z-index: -1;
+    top: -30px;
+    left: -20px;
+  }
+}
+
+.comparison-icon {
+  position: relative;
+  z-index: 2;
+  &::before {
+    content: "";
+    position: absolute;
+    background-image: url("#{$img-path}comparison-icon.svg");
+    width: 200px;
+    height: 200px;
+    z-index: -1;
+    top: -30px;
+    left: -20px;
+  }
+}
 
 .heading-circle::after {
   position: absolute;
@@ -406,10 +529,18 @@ div.wpcf7 img.ajax-loader {
   right: 0;
 }
 #trouble .heading-circle::after {
-  background-image: url(#{$img-path}trouble.png);
+  background-image: url("#{$img-path}trouble.png");
 }
 #reason .heading-circle::after {
-  background-image: url(#{$img-path}reason-circle.png);
+  background-image: url("#{$img-path}reason-circle.png");
+}
+
+#flow .heading-circle::after {
+  background-image: url("#{$img-path}flow-circle.png");
+}
+
+#comparison-title .heading-circle::after {
+  background-image: url("#{$img-path}comparison-circle.png");
 }
 
 hr {
