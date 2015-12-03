@@ -109,7 +109,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="medium-heading font-bold align-center solve xs-t-buffer">ブラックメソッドでお悩み解決！</h2>
+            <h2 class="medium-heading font-bold align-center solve top-buffer-padding">ブラックメソッドでお悩み解決！</h2>
           </div>
         </div>
         <!-- case1 -->
@@ -138,7 +138,7 @@
           </div>
           <div class="row purewhitebg bottom-buffer-padding">
             <div class="col-xs-12">
-              <div class="col-xs-12 col-sm-7">
+              <div class="col-xs-12 col-sm-6">
                   <p class="tagred white-text align-center">課題</p>
                   <p class="small-text top-buffer">
                     半年前に自社HPをリニューアルしたが、WEBからの問い合わせは、年に指折りの数しかなく、web集客が伸び悩んでいました。
@@ -156,8 +156,8 @@
                   </p>
 
               </div>
-              <div class="col-xs-12 col-sm-5 hidden-xs">
-                <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ヒューマングローLP" />
+              <div class="col-xs-12 col-sm-6 hidden-xs">
+                <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ヒューマングローLP" class="worksimg" />
               </div>
               <div class="col-xs-12 margin-t80">
                 <p class="tagyellow white-text">
@@ -206,7 +206,7 @@
           </div>
           <div class="row purewhitebg bottom-buffer-padding">
             <div class="col-xs-12">
-              <div class="col-xs-12 col-sm-7">
+              <div class="col-xs-12 col-sm-6">
                   <p class="tagred white-text align-center">課題</p>
                   <p class="small-text top-buffer">
                     以前より、HPはあったものの在庫状況やブログ等は全く更新されておらず、実質役目を果たしていない状況。時代の流れのせいもあり、10年前から比べると来店数も半減し、打開しなればならない状況でした。
@@ -221,7 +221,7 @@
                     販売台数が1.5倍に！
                   </p>
               </div>
-              <div class="col-xs-12 col-sm-5 hidden-xs">
+              <div class="col-xs-12 col-sm-6 hidden-xs">
                 <img src="" alt="ヒューマングローLP" />
               </div>
               <div class="col-xs-12 margin-t80">
@@ -269,7 +269,7 @@
                 </div>
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
-                    <div class="col-xs-12 col-sm-7">
+                    <div class="col-xs-12 col-sm-6">
                         <p class="tagred white-text align-center">課題</p>
                         <p class="small-text top-buffer">
                           かつては、人気のあった美容師でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
@@ -284,7 +284,7 @@
                           １年で新人スタッフ10名採用！
                         </p>
                     </div>
-                    <div class="col-xs-12 col-sm-5 hidden-xs">
+                    <div class="col-xs-12 col-sm-6 hidden-xs">
                       <img src="" alt="ヒューマングローLP" />
                     </div>
                     <div class="col-xs-12 margin-t80">
@@ -364,7 +364,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12">
             <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
-              <div class="col-xs-12 col-sm-3">
+              <div class="col-xs-12 col-sm-3 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     IT事業の株式会社ブラック
