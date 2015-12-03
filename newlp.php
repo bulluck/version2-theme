@@ -564,25 +564,6 @@
     </div>
 
   </section>
-  <section class="section-padding80 purewhitebg">
-    <div class="container-center">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-xs-12 contact-box">
-            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
-            </a>
-            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
-            </a>
-          </div>
-
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
 
 <section class="section-padding80 purewhitebg">
   <div class="container-center">
@@ -746,6 +727,25 @@
   </div>
 </section>
 
+ <section class="section-padding80 purewhitebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 contact-box">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            </a>
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            </a>
+          </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
   <section class="section-padding80 achieve-section">
     <div class="container-center">
       <div class="container-fluid">
