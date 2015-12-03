@@ -362,7 +362,7 @@
                   <p class="top-buffer-padding small-text">
                     人材採用、ランディングぺージ制作のご相談をいただきました。
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese-lp.png" alt="ランディングぺージワンス" />
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
                 </div>
               </div>
               <div class="col-xs-6 col-sm-3">
