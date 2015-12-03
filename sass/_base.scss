@@ -298,13 +298,10 @@ div.wpcf7 img.ajax-loader {
 }
 #fee-title .heading-circle::after {
   background-image: url(#{$img-path}fee-circle.png);
-  background-size: cover;
-  background-position: center;
+
 }
 #faq-area .heading-circle::after {
   background-image: url(#{$img-path}faq-circle.png);
-  background-size: cover;
-  background-position: center;
 }
 .faq-dl {
   font-size: 1.3rem;
@@ -504,7 +501,7 @@ div.wpcf7 img.ajax-loader {
   height: 200px;
   border-radius: 50%;
   border: 1px solid #ccc;
-  top: -15px;
+  top: -35px;
   right: 0;
   background-size: cover;
   background-position: center;
@@ -535,6 +532,7 @@ hr {
 }
 .clip-board {
   box-shadow: 1px 1px 1px #aaa;
+  background-color: $white;
   .tagred,
   .tagblue,
   .tagyellow,
@@ -552,15 +550,23 @@ hr {
   .lpplan-top {
     height: 600px;
   }
+
+  .trouble {
+    height: 450px;
+  }
+
   .heading-circle::after {
-    width: 150px;
-    height: 150px;
+    display: none;
   }
-  .solve::after {
-    width: 100px;
-    height: 100px;
-    top: -10px;
+  .solve::after,
+  .flow-icon::before,
+  .fee-icon::before,
+  .good-reason::before,
+  .flow-icon::before,
+  .comparison-icon::before {
+    display: none;
   }
+
   .seedown {
     bottom: -32px;
     padding: 5px;
@@ -573,6 +579,10 @@ hr {
   .lpplan-top {
     height: 500px;
   }
+  .trouble {
+    height: 400px;
+  }
+
 }
 @media only screen and (max-width:600px) {
   .contents-wrapper {
@@ -590,23 +600,18 @@ hr {
       color: #fff;
     }
   }
-  .heading-circle::after {
-    display: none;
-  }
-  .solve::after,
-  .flow-icon::before,
-  .fee-icon::before,
-  .good-reason::before,
-  .flow-icon::before,
-  .comparison-icon::before {
-    display: none;
-  }
+
+
   .achieve-section .medium-heading {
     font-size: 2.2rem;
   }
   .lpplan-top {
     background-image: url(#{$img-path}n_kv_sp.png);
     height: 275px;
+  }
+
+  .trouble {
+    height: 500px;
   }
 }
 @media only screen and (max-width:320px) {

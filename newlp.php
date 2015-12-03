@@ -126,10 +126,10 @@
           <div class="row">
             <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
               <div class="row">
-                <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
-                  <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" />
+                <div class="col-xs-12 col-sm-4 align-center bottom-buffer">
+                  <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
                 </div>
-                <div class="col-xs-12 col-sm-9">
+                <div class="col-xs-12 col-sm-8">
                   <h3 class="medium-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
                 </div>
               </div>
@@ -481,12 +481,12 @@
               <div class="col-xs-12 clip-board purewhitebg top-buffer-padding bottom-buffer-padding">
                 <div class="row">
                   <div class="col-xs-6 col-sm-3">
-                    <p class="blackbg font-bold white-text align-center">
+                    <div class="blackbg font-bold white-text small-heading align-center">
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：1</span>
-                    </p>
+                    </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9">
-                    <h3 class="small-heading black-text font-bold t-05rem">
+                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                    <h3 class="small-heading black-text font-bold">
                       通常の経営コンサルティングは地上戦と空中戦！？
                     </h3>
 
@@ -503,12 +503,12 @@
 
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3">
-                    <p class="blackbg font-bold white-text align-center">
+                    <div class="blackbg font-bold white-text small-heading align-center">
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：2</span>
-                    </p>
+                    </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9">
-                    <h3 class="small-heading black-text font-bold t-05rem">
+                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                    <h3 class="small-heading black-text font-bold">
                       2割の原因が8割の結果を生んでいる！？
                     </h3>
 
@@ -524,12 +524,12 @@
                 </div>
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3">
-                    <p class="blackbg font-bold white-text align-center">
+                    <div class="blackbg font-bold white-text small-heading align-center">
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：3</span>
-                    </p>
+                    </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9">
-                    <h3 class="small-heading black-text font-bold t-05rem">
+                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                    <h3 class="small-heading black-text font-bold">
                       今後のトレンドは！？
                     </h3>
 

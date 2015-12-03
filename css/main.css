@@ -1029,14 +1029,10 @@ div.wpcf7 img.ajax-loader {
 
 #fee-title .heading-circle::after {
   background-image: url(../images/fee-circle.png);
-  background-size: cover;
-  background-position: center;
 }
 
 #faq-area .heading-circle::after {
   background-image: url(../images/faq-circle.png);
-  background-size: cover;
-  background-position: center;
 }
 
 .faq-dl {
@@ -1262,7 +1258,7 @@ div.wpcf7 img.ajax-loader {
   height: 200px;
   border-radius: 50%;
   border: 1px solid #ccc;
-  top: -15px;
+  top: -35px;
   right: 0;
   background-size: cover;
   background-position: center;
@@ -1300,6 +1296,7 @@ hr {
 
 .clip-board {
   box-shadow: 1px 1px 1px #aaa;
+  background-color: #fff;
 }
 .clip-board .tagred, .clip-board .tagblue, .clip-board .taggreen, .clip-board .tagpurple, .clip-board .tagyellow,
 .clip-board .tagblue,
@@ -1321,15 +1318,21 @@ hr {
     height: 600px;
   }
 
-  .heading-circle::after {
-    width: 150px;
-    height: 150px;
+  .trouble {
+    height: 450px;
   }
 
-  .solve::after {
-    width: 100px;
-    height: 100px;
-    top: -10px;
+  .heading-circle::after {
+    display: none;
+  }
+
+  .solve::after,
+  .flow-icon::before,
+  .fee-icon::before,
+  .good-reason::before,
+  .flow-icon::before,
+  .comparison-icon::before {
+    display: none;
   }
 
   .seedown {
@@ -1344,6 +1347,10 @@ hr {
 
   .lpplan-top {
     height: 500px;
+  }
+
+  .trouble {
+    height: 400px;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -1362,19 +1369,6 @@ hr {
     color: #fff;
   }
 
-  .heading-circle::after {
-    display: none;
-  }
-
-  .solve::after,
-  .flow-icon::before,
-  .fee-icon::before,
-  .good-reason::before,
-  .flow-icon::before,
-  .comparison-icon::before {
-    display: none;
-  }
-
   .achieve-section .medium-heading {
     font-size: 2.2rem;
   }
@@ -1382,6 +1376,10 @@ hr {
   .lpplan-top {
     background-image: url(../images/n_kv_sp.png);
     height: 275px;
+  }
+
+  .trouble {
+    height: 500px;
   }
 }
 @media only screen and (max-width: 320px) {
