@@ -1222,6 +1222,21 @@ div.wpcf7 img.ajax-loader {
   left: -20px;
 }
 
+.comparison-icon {
+  position: relative;
+  z-index: 2;
+}
+.comparison-icon::before {
+  content: "";
+  position: absolute;
+  background-image: url("../images/comparison-icon.svg");
+  width: 200px;
+  height: 200px;
+  z-index: -1;
+  top: -30px;
+  left: -20px;
+}
+
 .heading-circle::after {
   position: absolute;
   content: "";
@@ -1243,6 +1258,10 @@ div.wpcf7 img.ajax-loader {
 
 #flow .heading-circle::after {
   background-image: url("../images/flow-circle.png");
+}
+
+#comparison-title .heading-circle::after {
+  background-image: url("../images/comparison-circle.png");
 }
 
 hr {

@@ -503,6 +503,20 @@ div.wpcf7 img.ajax-loader {
   }
 }
 
+.comparison-icon {
+  position: relative;
+  z-index: 2;
+  &::before {
+    content: "";
+    position: absolute;
+    background-image: url("#{$img-path}comparison-icon.svg");
+    width: 200px;
+    height: 200px;
+    z-index: -1;
+    top: -30px;
+    left: -20px;
+  }
+}
 
 .heading-circle::after {
   position: absolute;
@@ -523,6 +537,10 @@ div.wpcf7 img.ajax-loader {
 
 #flow .heading-circle::after {
   background-image: url("#{$img-path}flow-circle.png");
+}
+
+#comparison-title .heading-circle::after {
+  background-image: url("#{$img-path}comparison-circle.png");
 }
 
 hr {
