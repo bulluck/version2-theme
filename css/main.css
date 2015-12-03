@@ -533,6 +533,14 @@ a:hover {
   br {
     display: none;
   }
+
+  .clip-board .medium-heading {
+    font-size: 2.2rem;
+  }
+
+  .bluebg .medium-heading {
+    font-size: 2.2rem;
+  }
 }
 .menuwrapper, .menuwrapper-lower {
   height: 70px;
@@ -1291,6 +1299,11 @@ hr {
     display: none;
   }
 }
+@media only screen and (max-width: 768px) {
+  .lp-tablecell .medium-heading {
+    font-size: 2.2rem;
+  }
+}
 @media only screen and (max-width: 600px) {
   .contents-wrapper {
     padding-top: 0;
@@ -1309,6 +1322,14 @@ hr {
 
   .heading-circle::after {
     display: none;
+  }
+
+  .solve::before, .flow-icon::before, .fee-icon::before, .good-reason::before, .flow-icon::before, .comparison-icon::before {
+    display: none;
+  }
+
+  .achieve-section .medium-heading {
+    font-size: 2.2rem;
   }
 }
 .footernav {

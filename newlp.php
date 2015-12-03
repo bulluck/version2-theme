@@ -19,56 +19,6 @@
       </div>
     </div>
   </div>
-  <!-- <section class="top-buffer-padding bottom-buffer-padding whitebg">
-    <div class="container-center top-buffer-padding bottom-buffer-padding">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-xs-12 lp-box top-buffer-padding bottom-buffer-padding purewhitebg">
-            <div class="black-text small-heading border-padding">
-              取引先企業一覧
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-            <div class="col-xs-3 top-buffer lp-box">
-              企業名
-            </div>
-
-          </div>
-          </div>
-        </div>
-    </div>
-  </section> -->
   <section class="section-padding80">
     <div class="container-center">
       <div class="container-fluid">
@@ -151,11 +101,12 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="medium-heading font-bold align-center solve">ブラックメソッドでお悩み解決！</h2>
+            <h2 class="medium-heading font-bold align-center solve xs-t-buffer">ブラックメソッドでお悩み解決！</h2>
           </div>
         </div>
+        <!-- case1 -->
         <div class="row">
-          <div class="col-xs-7 margin-t80 blackbg lp-case-tab">
+          <div class="col-xs-12 col-sm-7 margin-t80 blackbg lp-case-tab">
             <p class="white-text small-heading condensed-bold t-05rem">
             <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 1: 就労支援事業のお客様</span>
             </p>
@@ -163,14 +114,14 @@
         </div>
         <div class="row">
 
-        <div class="col-xs-12 clip-board">
+        <div class="col-xs-12 col-sm-12 clip-board">
           <div class="row">
             <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
               <div class="row">
-                <div class="col-xs-3">
+                <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
                   <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" />
                 </div>
-                <div class="col-xs-9">
+                <div class="col-xs-12 col-sm-9">
                   <h3 class="medium-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
                 </div>
               </div>
@@ -197,7 +148,7 @@
                   </p>
 
               </div>
-              <div class="col-xs-12 col-sm-5">
+              <div class="col-xs-12 col-sm-5 hidden-xs">
                 <img src="" alt="ヒューマングローLP" />
               </div>
               <div class="col-xs-12 margin-t80">
@@ -223,9 +174,9 @@
         </div>
         </div>
 
-
+<!-- case2 -->
         <div class="row">
-          <div class="col-xs-7 margin-t80 blackbg lp-case-tab">
+          <div class="col-xs-12 col-sm-7 margin-t80 blackbg lp-case-tab">
             <p class="white-text small-heading condensed-bold t-05rem">
             <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 2: 中古自動車販売業のお客様</span>
             </p>
@@ -237,10 +188,10 @@
           <div class="row">
             <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
               <div class="row">
-                <div class="col-xs-3">
+                <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
                   <img src="" alt="自動車販売事業" />
                 </div>
-                <div class="col-xs-9">
+                <div class="col-xs-12 col-sm-9">
                   <h3 class="medium-heading black-text font-bold">自社HPリニューアルにより<span class="redtext">販売台数が1.5倍に</span></h3>
                 </div>
               </div>
@@ -264,7 +215,7 @@
                     販売台数が1.5倍に！
                   </p>
               </div>
-              <div class="col-xs-12 col-sm-5">
+              <div class="col-xs-12 col-sm-5 hidden-xs">
                 <img src="" alt="ヒューマングローLP" />
               </div>
               <div class="col-xs-12 margin-t80">
@@ -289,9 +240,9 @@
           </div>
           </div>
         </div>
-
+<!-- case3 -->
         <div class="row">
-          <div class="col-xs-7 margin-t80 blackbg lp-case-tab">
+          <div class="col-xs-12 col-sm-7 margin-t80 blackbg lp-case-tab">
             <p class="white-text small-heading condensed-bold t-05rem">
             <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 3: 美容業のお客様</span>
             </p>
@@ -302,10 +253,10 @@
                 <div class="row">
                   <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
                     <div class="row">
-                      <div class="col-xs-3">
+                      <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
                         <img src="" alt="何か画像" />
                       </div>
-                      <div class="col-xs-9">
+                      <div class="col-xs-12 col-sm-9">
                         <h3 class="medium-heading black-text font-bold">採用HP開設1年で新人スタッフ<span class="redtext">10名採用！</span></h3>
                       </div>
                     </div>
@@ -329,7 +280,7 @@
                           １年で新人スタッフ10名採用！
                         </p>
                     </div>
-                    <div class="col-xs-12 col-sm-5">
+                    <div class="col-xs-12 col-sm-5 hidden-xs">
                       <img src="" alt="ヒューマングローLP" />
                     </div>
                     <div class="col-xs-12 margin-t80">
