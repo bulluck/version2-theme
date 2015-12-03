@@ -583,6 +583,85 @@
 
     </div>
   </section>
+
+<section class="section-padding80 purewhitebg">
+  <div class="container-center">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-12 contact-box">
+          <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+          </a>
+          <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+          </a>
+        </div>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+  <section class="section-padding80 bluebg" id="fee">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12" id="fee-title">
+            <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle fee-icon">
+              料金表
+            </h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 fee-area margin-t80">
+            <div class="hidden">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section-padding80 bluebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12" id="comparison-title">
+            <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle comparison-icon">
+              集客オプション
+            </h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 margin-t80">
+            <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" alt="" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section-padding80 purewhitebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 contact-box">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            </a>
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            </a>
+          </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
 <section class="section-padding80 bluebg">
   <div class="container-center">
     <div class="container-fluid">
@@ -666,83 +745,6 @@
     </div>
   </div>
 </section>
-<section class="section-padding80 purewhitebg">
-  <div class="container-center">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-12 contact-box">
-          <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
-            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
-          </a>
-          <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
-            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
-          </a>
-        </div>
-
-        </div>
-      </div>
-    </div>
-
-  </div>
-</section>
-
-  <section class="section-padding80 bluebg" id="fee">
-    <div class="container-center">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-xs-12 col-sm-12" id="fee-title">
-            <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle fee-icon">
-              料金表
-            </h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12 col-sm-12 fee-area margin-t80">
-            <div class="hidden">
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section class="section-padding80 bluebg">
-    <div class="container-center">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-xs-12 col-sm-12" id="comparison-title">
-            <h2 class="agreespan medium-heading top-buffer-padding bottom-buffer-padding border-top-bottom heading-circle comparison-icon">
-              集客オプション
-            </h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12 col-sm-12 margin-t80">
-            <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" alt="" />
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section class="section-padding80 purewhitebg">
-    <div class="container-center">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-xs-12 contact-box">
-            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
-            </a>
-            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
-            </a>
-          </div>
-
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
 
   <section class="section-padding80 achieve-section">
     <div class="container-center">
