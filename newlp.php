@@ -149,7 +149,7 @@
 
               </div>
               <div class="col-xs-12 col-sm-5 hidden-xs">
-                <img src="" alt="ヒューマングローLP" />
+                <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ヒューマングローLP" />
               </div>
               <div class="col-xs-12 margin-t80">
                 <p class="tagyellow white-text">
