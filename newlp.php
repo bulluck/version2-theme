@@ -120,7 +120,7 @@
               </div>
               <div class="col-xs-12 col-sm-12 clip-board">
                 <div class="row">
-                  <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
+                  <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-4 col-sm-2 align-center xs-b-buffer">
                         <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
@@ -194,7 +194,7 @@
             </div>
             <div class="col-xs-12 col-sm-12 clip-board">
               <div class="row">
-                <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
+                <div class="col-xs-12 top-buffer-padding purewhitebg">
                   <div class="row">
                     <div class="col-xs-12 col-sm-12">
                       <h3 class="small-heading black-text font-bold">自社HPリニューアルにより<br><span class="redtext">販売台数が1.5倍に</span></h3>
@@ -261,7 +261,7 @@
 
             <div class="col-xs-12 col-sm-12 clip-board">
                 <div class="row">
-                  <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
+                  <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-12 col-sm-12">
                         <h3 class="small-heading black-text font-bold">採用HP開設1年で<br>新人スタッフ<span class="redtext">10名採用！</span></h3>
