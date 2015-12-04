@@ -124,7 +124,7 @@
           <div class="row">
             <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
               <div class="row">
-                <div class="col-xs-12 col-sm-2 align-center xs-b-buffer">
+                <div class="col-xs-4 col-sm-2 align-center xs-b-buffer">
                   <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
                 </div>
                 <div class="col-xs-12 col-sm-10">
@@ -612,7 +612,11 @@
         </div>
         <div class="row">
           <div class="col-xs-12 col-sm-12 margin-t80">
+            <?php if (is_mobile()):?>
+              <img src="<?php bloginfo('template_directory');?>/images/new_fee_sp.png" alt="料金表" class="worksimg" />
+            <?php else:?>
             <img src="<?php bloginfo('template_directory');?>/images/new_fee.png" alt="料金表" class="worksimg" />
+          <?php endif;?>
           </div>
         </div>
       </div>
