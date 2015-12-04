@@ -375,6 +375,7 @@
                     人材採用、ランディングぺージ型ホームページ制作のご相談です。詳しくはお問い合わせください。
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
+                  
                 </div>
               </div>
               <div class="col-xs-12 col-sm-3 xs-t-buffer">
