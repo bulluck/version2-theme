@@ -25,9 +25,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -44,10 +42,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
@@ -307,9 +305,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -326,10 +322,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
@@ -375,7 +371,7 @@
                     人材採用、ランディングぺージ型ホームページ制作のご相談です。詳しくはお問い合わせください。
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
-                  
+
                 </div>
               </div>
               <div class="col-xs-12 col-sm-3 xs-t-buffer">
@@ -426,9 +422,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -445,10 +439,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
@@ -550,9 +544,7 @@
       <div class="row">
         <div class="col-xs-12 contact-box">
           <?php if (wp_is_mobile()):?>
-            <a href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-            </a>
+              <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
           <?php else:?>
             <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
           <?php endif; ?>
@@ -569,10 +561,10 @@
             </p>
           </div>
 
-          <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+          <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
             <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
           </a>
-          <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+          <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
             <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
           </a>
         </div>
@@ -626,9 +618,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -645,10 +635,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
@@ -747,9 +737,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -766,10 +754,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
@@ -822,9 +810,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -841,10 +827,10 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
               <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>

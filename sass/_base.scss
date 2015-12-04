@@ -578,6 +578,22 @@ hr {
     bottom: -32px;
     padding: 5px;
   }
+
+  .cb-btn-1 {
+    bottom: 32%;
+    right: 15%;
+    width: 70%;
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  .cb-btn-2 {
+    bottom: 10%;
+    right: 15.1%;
+    width: 70%;
+    opacity: 1;
+  }
 }
 @media only screen and (max-width:768px) {
   .lp-tablecell .medium-heading {
@@ -589,6 +605,8 @@ hr {
   .trouble {
     height: 400px;
   }
+
+
 
 }
 @media only screen and (max-width:600px) {
@@ -620,10 +638,30 @@ hr {
   .trouble {
     height: 500px;
   }
+  .cb-btn-1 {
+    bottom: 32%;
+    right: 17.3%;
+    width: 65.5%;
+  }
+
+  .cb-btn-2 {
+    bottom: 8.5%;
+    right: 17.3%;
+    width: 65.5%;
+  }
+
+  .ms-heading {
+    font-size: 1.8rem;
+  }
 }
+
+
 @media only screen and (max-width:320px) {
   .lpplan-top {
     background-image: url(#{$img-path}n_kv_sp5.png);
     height: 225px;
   }
+
+
+
 }
