@@ -714,10 +714,6 @@ a:hover {
   .slicknav_nav li:first-child {
     border: 0;
   }
-
-  .contents-wrapper {
-    padding-top: 0;
-  }
 }
 .wrapper {
   max-width: 1366px;
@@ -1487,6 +1483,10 @@ hr {
     bottom: 7%;
     right: 9.3%;
     width: 80%;
+  }
+
+  .lpplan-top {
+    height: 275px;
   }
 }
 @media only screen and (max-width: 320px) {
