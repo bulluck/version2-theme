@@ -635,9 +635,9 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12 margin-t80">
             <?php if (is_mobile()) :?>
-                <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="集客オプション" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee_sp.png" class="worksimg" alt="集客オプション" />
             <?php else :?>
-              <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="集客オプション" />
+                <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="集客オプション" />
             <?php endif ?>
           </div>
         </div>
