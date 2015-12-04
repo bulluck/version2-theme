@@ -356,7 +356,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="top-buffer-padding bottom-buffer-padding 3rem-heading align-center bluebg">
+            <h2 class="top-buffer-padding bottom-buffer-padding ms-heading align-center bluebg">
               ランディングぺージ運用の圧倒的な実績
             </h2>
           </div>
@@ -409,7 +409,7 @@
                 </div>
               </div>
             <div class="col-xs-12 col-sm-12 margin-t80">
-              <h3 class="3rem-heading top-buffer-padding bottom-buffer-padding black-text align-center lightyellow-bg">
+              <h3 class="ms-heading top-buffer-padding bottom-buffer-padding black-text align-center lightyellow-bg">
                   <i class="fa fa-mobile bluetext-lp"></i>
                  <span class="agreespan font-bold">スマートフォンにも最適化！</span>
               </h3>
