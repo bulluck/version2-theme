@@ -284,6 +284,7 @@
                           １年で新人スタッフ10名採用！
                         </p>
                     </div>
+                    
                     <div class="col-xs-12 col-sm-6 hidden-xs">
                       <img src="" alt="ヒューマングローLP" />
                     </div>
