@@ -360,9 +360,9 @@
                     IT事業の株式会社ブラック
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    このランディングぺージ、実はすごい実績を更新し続けています。詳しくはお問い合わせください。
+                    このランディングぺージ、実はすごい実績を更新し続けています。詳しくはお問い合わせください。<br>
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/human-grow-lp.png" alt="ランディングぺージヒューマングロー" />
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck.png" alt="ランディングぺージヒューマングロー" />
                 </div>
 
               </div>
@@ -372,9 +372,10 @@
                     営業代理店のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    人材採用、ランディングぺージ型ホームページ制作のご相談をいただきました。
+                    人材採用、ランディングぺージ型ホームページ制作のご相談です。詳しくはお問い合わせください。
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
+                  
                 </div>
               </div>
               <div class="col-xs-12 col-sm-3 xs-t-buffer">
@@ -383,7 +384,7 @@
                     英会話教室のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                  集客、リスティング広告の運用指導のご相談をいただきました。
+                  集客、リスティング広告の運用指導のご相談をいただきました。詳しくはお問い合わせください。<br>
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/spartan.png" alt="ランディングぺージスパルタ" />
                 </div>
@@ -394,7 +395,7 @@
                     新宿税理士事務所様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    ランディングぺージ制作、集客のご相談をいただきました。</p>
+                    ランディングぺージ制作、集客のご相談をいただきました。詳しくはお問い合わせください。<br></p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/shinjuku.png" alt="ランディングぺージブラック" />
                 </div>
               </div>
