@@ -126,10 +126,10 @@
           <div class="row">
             <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
               <div class="row">
-                <div class="col-xs-12 col-sm-4 align-center bottom-buffer">
+                <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
                   <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
                 </div>
-                <div class="col-xs-12 col-sm-8">
+                <div class="col-xs-12 col-sm-9">
                   <h3 class="ms-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
                 </div>
               </div>
@@ -182,85 +182,76 @@
 
 <!-- case2 -->
         <div class="row">
-          <div class="col-xs-12 col-sm-7 margin-t80 blackbg lp-case-tab">
-            <p class="white-text small-heading condensed-bold t-05rem">
-            <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 2: 中古自動車販売業のお客様</span>
-            </p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12 clip-board">
+          <div class="col-xs-12 col-sm-6">
 
-          <div class="row">
-            <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
+            <div class="col-xs-12 col-sm-12 margin-t80 blackbg lp-case-tab">
+              <p class="white-text condensed-bold t-05rem">
+              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 2: 中古自動車販売業のお客様</span>
+              </p>
+            </div>
+            <div class="col-xs-12 col-sm-12 clip-board">
               <div class="row">
-                <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
-                  <img src="" alt="自動車販売事業" />
-                </div>
-                <div class="col-xs-12 col-sm-9">
-                  <h3 class="ms-heading black-text font-bold">自社HPリニューアルにより<span class="redtext">販売台数が1.5倍に</span></h3>
-                </div>
-              </div>
-              <hr>
-            </div>
-          </div>
-          <div class="row purewhitebg bottom-buffer-padding">
-            <div class="col-xs-12">
-              <div class="col-xs-12 col-sm-6">
-                  <p class="tagred white-text align-center">課題</p>
-                  <p class="small-text top-buffer">
-                    以前より、HPはあったものの在庫状況やブログ等は全く更新されておらず、実質役目を果たしていない状況。時代の流れのせいもあり、10年前から比べると来店数も半減し、打開しなればならない状況でした。
-                  </p>
+                <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-12">
+                      <h3 class="ms-heading black-text font-bold">自社HPリニューアルにより<span class="redtext">販売台数が1.5倍に</span></h3>
+                    </div>
+                  </div>
+                  <hr>
 
-                  <p class="tagblue white-text align-center top-buffer">対策</p>
-                  <p class="small-text top-buffer">
-                    VIPカーを専門に扱うという明確な特色がありました。情報発信の質と量の双方を高めた自社HPリニューアルに着手しました。以前はポータルサイトからの問い合わせのみであったが、自社HPからのメール・電話を増やしました。
-                  </p>
-                  <p class="taggreen white-text align-center top-buffer">実施後</p>
-                  <p class="small-heading top-buffer">
-                    販売台数が1.5倍に！
-                  </p>
+                </div>
               </div>
-              <div class="col-xs-12 col-sm-6 hidden-xs">
-                <img src="" alt="ヒューマングローLP" />
-              </div>
-              <div class="col-xs-12 margin-t80">
-                <p class="tagyellow white-text">
-                  Point
-                </p>
-                  <ul class="point-list">
-                    <li class="small-heading top-buffer-padding">
-                      自社HPをスマホ対応にした大リニューアル
-                    </li>
-                    <li class="small-heading top-buffer-padding">
-                      各SNSサイトとの連動
-                    </li>
-                    <li class="small-heading top-buffer-padding">
-                      自社の強みを活かしたHP構成・キャッチフレーズのご提案
-                    </li>
-                  </ul>
-              </div>
+              <div class="row purewhitebg bottom-buffer-padding">
+                <div class="col-xs-12">
+                  <div class="col-xs-12 col-sm-12">
+                      <p class="tagred white-text align-center">課題</p>
+                      <p class="small-text top-buffer">
+                        以前より、HPはあったものの在庫状況やブログ等は全く更新されておらず、実質役目を果たしていない状況。時代の流れのせいもあり、10年前から比べると来店数も半減し、打開しなればならない状況でした。
+                      </p>
+
+                      <p class="tagblue white-text align-center margin-t80">対策</p>
+                      <p class="small-text top-buffer">
+                        VIPカーを専門に扱うという明確な特色がありました。情報発信の質と量の双方を高めた自社HPリニューアルに着手しました。以前はポータルサイトからの問い合わせのみであったが、自社HPからのメール・電話を増やしました。
+                      </p>
+                      <p class="taggreen white-text align-center margin-t80">実施後</p>
+                      <p class="small-heading top-buffer">
+                        販売台数が1.5倍に！
+                      </p>
+                  </div>
+                  <div class="col-xs-12 margin-t80">
+                    <p class="tagyellow white-text">
+                      Point
+                    </p>
+                      <ul class="point-list">
+                        <li class="small-heading top-buffer-padding">
+                          自社HPをスマホ対応にした大リニューアル
+                        </li>
+                        <li class="small-heading top-buffer-padding">
+                          各SNSサイトとの連動
+                        </li>
+                        <li class="small-heading top-buffer-padding">
+                          自社の強みを活かしたHP構成・キャッチフレーズのご提案
+                        </li>
+                      </ul>
+                  </div>
+                </div>
+            </div>
             </div>
           </div>
-          </div>
-        </div>
-<!-- case3 -->
-        <div class="row">
-          <div class="col-xs-12 col-sm-7 margin-t80 blackbg lp-case-tab">
-            <p class="white-text small-heading condensed-bold t-05rem">
-            <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 3: 美容業のお客様</span>
-            </p>
-          </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-12 clip-board">
+          <div class="col-xs-12 col-sm-6">
+
+            <div class="col-xs-12 col-sm-12 margin-t80 blackbg lp-case-tab">
+              <p class="white-text condensed-bold t-05rem">
+              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 3: 美容業のお客様</span>
+              </p>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-12 clip-board">
                 <div class="row">
                   <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
                     <div class="row">
-                      <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
-                        <img src="" alt="何か画像" />
-                      </div>
-                      <div class="col-xs-12 col-sm-9">
+                      <div class="col-xs-12 col-sm-12">
                         <h3 class="ms-heading black-text font-bold">採用HP開設1年で新人スタッフ<span class="redtext">10名採用！</span></h3>
                       </div>
                     </div>
@@ -269,7 +260,7 @@
                 </div>
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
-                    <div class="col-xs-12 col-sm-6">
+                    <div class="col-xs-12 col-sm-12">
                         <p class="tagred white-text align-center">課題</p>
                         <p class="small-text top-buffer">
                           かつては、人気のあった美容師でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
@@ -284,10 +275,7 @@
                           １年で新人スタッフ10名採用！
                         </p>
                     </div>
-                    
-                    <div class="col-xs-12 col-sm-6 hidden-xs">
-                      <img src="" alt="ヒューマングローLP" />
-                    </div>
+
                     <div class="col-xs-12 top-buffer">
                       <p class="tagyellow white-text">
                         Point
@@ -307,6 +295,7 @@
                   </div>
                 </div>
             </div>
+          </div>
         </div>
 
       </div>

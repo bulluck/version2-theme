@@ -989,9 +989,9 @@ div.wpcf7 img.ajax-loader {
   background-size: cover;
   width: 100%;
   height: 700px;
-  position: relative;
   background-image: url(../images/lp-bg.png);
   background-repeat: repeat;
+  position: relative;
 }
 
 .achieve-section {
@@ -1306,6 +1306,10 @@ hr {
   padding: 5px 0;
 }
 
+.ms-heading {
+  font-size: 3rem;
+}
+
 @media only screen and (max-width: 1024px) {
   .contents-wrapper {
     padding-top: 70px;
@@ -1452,9 +1456,4 @@ hr {
   .footernav ul li a {
     line-height: 40px;
   }
-}
-
-
-.ms-heading {
-    font-size: 3rem;
 }
