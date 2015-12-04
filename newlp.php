@@ -493,7 +493,7 @@
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：1</span>
                     </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                  <div class="col-xs-12 col-sm-9">
                     <h3 class="small-heading black-text font-bold">
                       通常の経営コンサルティングは地上戦と空中戦！？
                     </h3>
@@ -515,7 +515,7 @@
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：2</span>
                     </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                  <div class="col-xs-12 col-sm-9">
                     <h3 class="small-heading black-text font-bold">
                       2割の原因が8割の結果を生んでいる！？
                     </h3>
@@ -536,7 +536,7 @@
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：3</span>
                     </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                  <div class="col-xs-12 col-sm-9">
                     <h3 class="small-heading black-text font-bold">
                       今後のトレンドは！？
                     </h3>
