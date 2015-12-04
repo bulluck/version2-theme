@@ -145,12 +145,12 @@
                     今後のことを考えると、WEBからの集客導線がないのは、致命的になると危惧されておりました。
                   </p>
 
-                  <p class="tagblue white-text align-center margin-t80">対策</p>
+                  <p class="tagblue white-text align-center top-buffer">対策</p>
                   <p class="small-text top-buffer">
                     自社の強みをヒアリング・競合調査・今後の展望をお伺いした上で、最大限、お問い合わせに繋がるお手伝いをさせていただきました。
                     WEB上からの集客導線を確立させるために自社の強みを活かしたランディグページの作成・リスティング広告の運用を開始致しました。
                   </p>
-                  <p class="taggreen white-text align-center margin-t80">実施後</p>
+                  <p class="taggreen white-text align-center top-buffer">実施後</p>
                   <p class="small-heading top-buffer">
                     問い合わせ数が1ヶ月で <span class="redtext">脅威の12倍！</span>
                   </p>
@@ -212,11 +212,11 @@
                     以前より、HPはあったものの在庫状況やブログ等は全く更新されておらず、実質役目を果たしていない状況。時代の流れのせいもあり、10年前から比べると来店数も半減し、打開しなればならない状況でした。
                   </p>
 
-                  <p class="tagblue white-text align-center margin-t80">対策</p>
+                  <p class="tagblue white-text align-center top-buffer">対策</p>
                   <p class="small-text top-buffer">
                     VIPカーを専門に扱うという明確な特色がありました。情報発信の質と量の双方を高めた自社HPリニューアルに着手しました。以前はポータルサイトからの問い合わせのみであったが、自社HPからのメール・電話を増やしました。
                   </p>
-                  <p class="taggreen white-text align-center margin-t80">実施後</p>
+                  <p class="taggreen white-text align-center top-buffer">実施後</p>
                   <p class="small-heading top-buffer">
                     販売台数が1.5倍に！
                   </p>
@@ -275,11 +275,11 @@
                           かつては、人気のあった美容師でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
                         </p>
 
-                        <p class="tagblue white-text align-center margin-t80">対策</p>
+                        <p class="tagblue white-text align-center top-buffer">対策</p>
                         <p class="small-text top-buffer">
                           現在の応募方法をヒアリングし、目標の新人採用人数までのギャップを埋めるための施策をご提案致しました。現在のHPに加え、新たに採用HPを作ることを提案し、採用媒体のみに頼らない自社オリジナルの採用媒体を構築。
                         </p>
-                        <p class="taggreen white-text align-center margin-t80">実施後</p>
+                        <p class="taggreen white-text align-center top-buffer">実施後</p>
                         <p class="small-heading top-buffer">
                           １年で新人スタッフ10名採用！
                         </p>
