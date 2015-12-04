@@ -94,7 +94,7 @@
           <div class="col-xs-12 top-buffer">
             <p class="agreespan small-heading font-bold white-text">
             <i class="fa fa-frown-o"></i>
-              失敗したくない、売れるランディングぺージを作りたい。。
+              一発で売れるランディングぺージを作りたい。。
             </p>
           </div>
         </div>
