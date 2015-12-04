@@ -124,11 +124,11 @@
           <div class="row">
             <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
               <div class="row">
-                <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
+                <div class="col-xs-12 col-sm-2 align-center xs-b-buffer">
                   <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
                 </div>
-                <div class="col-xs-12 col-sm-9">
-                  <h3 class="ms-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
+                <div class="col-xs-12 col-sm-10">
+                  <h3 class="small-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
                 </div>
               </div>
               <hr>
@@ -138,18 +138,18 @@
             <div class="col-xs-12">
               <div class="col-xs-12 col-sm-6">
                   <p class="tagred white-text align-center">課題</p>
-                  <p class="small-text top-buffer">
+                  <p class="top-buffer smaller-p">
                     半年前に自社HPをリニューアルしたが、WEBからの問い合わせは、年に指折りの数しかなく、web集客が伸び悩んでいました。
                     今後のことを考えると、WEBからの集客導線がないのは、致命的になると危惧されておりました。
                   </p>
 
                   <p class="tagblue white-text align-center top-buffer">対策</p>
-                  <p class="small-text top-buffer">
+                  <p class="top-buffer smaller-p">
                     自社の強みをヒアリング・競合調査・今後の展望をお伺いした上で、最大限、お問い合わせに繋がるお手伝いをさせていただきました。
                     WEB上からの集客導線を確立させるために自社の強みを活かしたランディグページの作成・リスティング広告の運用を開始致しました。
                   </p>
                   <p class="taggreen white-text align-center top-buffer">実施後</p>
-                  <p class="small-heading top-buffer">
+                  <p class="top-buffer smaller-p">
                     問い合わせ数が1ヶ月で <span class="redtext">脅威の12倍！</span>
                   </p>
 
@@ -161,15 +161,21 @@
                 <p class="tagyellow white-text">
                   Point
                 </p>
-                  <ul class="point-list">
-                    <li class="small-heading top-buffer-padding">
-                      ランディングページを作成し、リスティング広告の運用を開始
+                  <ul class="point-list lightyellow-bg top-buffer-padding bottom-buffer-padding smaller-p">
+                    <li>
+                      <p class="smaller-p">
+                        ランディングページを作成し、リスティング広告の運用を開始
+                      </p>
                     </li>
-                    <li class="small-heading top-buffer-padding">
-                      ターゲットを絞込んだキーワード選定、ロングテール戦略
+                    <li>
+                      <p class="smaller-p">
+                        ターゲットを絞込んだキーワード選定、ロングテール戦略
+                      </p>
                     </li>
-                    <li class="small-heading top-buffer-padding">
-                      競合調査を行い、競合との差別化を図ったランディングページの作成
+                    <li>
+                      <p class="smaller-p">
+                        競合調査を行い、競合との差別化を図ったランディングページの作成
+                      </p>
                     </li>
                   </ul>
               </div>
@@ -192,7 +198,7 @@
                 <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
                   <div class="row">
                     <div class="col-xs-12 col-sm-12">
-                      <h3 class="ms-heading black-text font-bold">自社HPリニューアルにより<span class="redtext">販売台数が1.5倍に</span></h3>
+                      <h3 class="small-heading black-text font-bold">自社HPリニューアルにより<br><span class="redtext">販売台数が1.5倍に</span></h3>
                     </div>
                   </div>
                   <hr>
@@ -202,17 +208,20 @@
               <div class="row purewhitebg bottom-buffer-padding">
                 <div class="col-xs-12">
                   <div class="col-xs-12 col-sm-12">
+                    <img src="#" alt="case2画像" />
+                  </div>
+                  <div class="col-xs-12 col-sm-12 top-buffer">
                       <p class="tagred white-text align-center">課題</p>
-                      <p class="small-text top-buffer">
+                      <p class="smaller-p top-buffer">
                         以前より、HPはあったものの在庫状況やブログ等は全く更新されておらず、実質役目を果たしていない状況。時代の流れのせいもあり、10年前から比べると来店数も半減し、打開しなればならない状況でした。
                       </p>
 
                       <p class="tagblue white-text align-center top-buffer">対策</p>
-                      <p class="small-text top-buffer">
+                      <p class="smaller-p top-buffer">
                         VIPカーを専門に扱うという明確な特色がありました。情報発信の質と量の双方を高めた自社HPリニューアルに着手しました。以前はポータルサイトからの問い合わせのみであったが、自社HPからのメール・電話を増やしました。
                       </p>
                       <p class="taggreen white-text align-center top-buffer">実施後</p>
-                      <p class="small-heading top-buffer">
+                      <p class="smaller-p top-buffer">
                         販売台数が1.5倍に！
                       </p>
                   </div>
@@ -220,15 +229,21 @@
                     <p class="tagyellow white-text">
                       Point
                     </p>
-                      <ul class="point-list">
-                        <li class="small-heading top-buffer-padding">
-                          自社HPをスマホ対応にした大リニューアル
+                      <ul class="point-list top-buffer-padding bottom-buffer-padding lightyellow-bg">
+                        <li>
+                          <p class="smaller-p">
+                            自社HPをスマホ対応にした大リニューアル
+                          </p>
                         </li>
-                        <li class="small-heading top-buffer-padding">
-                          各SNSサイトとの連動
+                        <li>
+                          <p class="smaller-p ">
+                            各SNSサイトとの連動
+                          </p>
                         </li>
-                        <li class="small-heading top-buffer-padding">
-                          自社の強みを活かしたHP構成・キャッチフレーズのご提案
+                        <li>
+                          <p class="smaller-p">
+                            自社の強みを活かしたHP構成・キャッチフレーズのご提案
+                          </p>
                         </li>
                       </ul>
                   </div>
@@ -250,7 +265,7 @@
                   <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-12 col-sm-12">
-                        <h3 class="ms-heading black-text font-bold">採用HP開設1年で新人スタッフ<span class="redtext">10名採用！</span></h3>
+                        <h3 class="small-heading black-text font-bold">採用HP開設1年で<br>新人スタッフ<span class="redtext">10名採用！</span></h3>
                       </div>
                     </div>
                     <hr>
@@ -259,17 +274,20 @@
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-12">
+                      <img src="#" alt="case3画像" />
+                    </div>
+                    <div class="col-xs-12 col-sm-12 top-buffer">
                         <p class="tagred white-text align-center">課題</p>
-                        <p class="small-text top-buffer">
+                        <p class="smaller-p top-buffer">
                           かつては、人気のあった美容師でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
                         </p>
 
                         <p class="tagblue white-text align-center top-buffer">対策</p>
-                        <p class="small-text top-buffer">
+                        <p class="smaller-p top-buffer">
                           現在の応募方法をヒアリングし、目標の新人採用人数までのギャップを埋めるための施策をご提案致しました。現在のHPに加え、新たに採用HPを作ることを提案し、採用媒体のみに頼らない自社オリジナルの採用媒体を構築。
                         </p>
                         <p class="taggreen white-text align-center top-buffer">実施後</p>
-                        <p class="small-heading top-buffer">
+                        <p class="smaller-p top-buffer">
                           １年で新人スタッフ10名採用！
                         </p>
                     </div>
@@ -278,15 +296,21 @@
                       <p class="tagyellow white-text">
                         Point
                       </p>
-                        <ul class="point-list">
-                          <li class="small-heading top-buffer-padding">
-                            法人用・エンドユーザー用のHPとは別に採用HPを作成
+                        <ul class="point-list top-buffer-padding bottom-buffer-padding lightyellow-bg">
+                          <li>
+                            <p class="smaller-p">
+                              法人用・エンドユーザー用のHPとは別に採用HPを作成
+                            </p>
                           </li>
-                          <li class="small-heading top-buffer-padding">
-                            各SNSサイトとの連動
+                          <li>
+                            <p class="smaller-p">
+                              各SNSサイトとの連動
+                            </p>
                           </li>
-                          <li class="small-heading top-buffer-padding">
-                            高画質写真の利用・若手スタッフの声を中心に構成
+                          <li>
+                            <p class="smaller-p">
+                              高画質写真の利用・若手スタッフの声を中心に構成
+                            </p>
                           </li>
                         </ul>
                     </div>
@@ -362,7 +386,7 @@
                 </div>
 
               </div>
-              <div class="col-xs-12 col-sm-3 xs-t-buffer">
+              <div class="col-xs-12 col-sm-3 hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     営業代理店のお客様
@@ -385,7 +409,7 @@
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/spartan.png" alt="ランディングぺージスパルタ" />
                 </div>
               </div>
-              <div class="col-xs-12 col-sm-3 xs-t-buffer">
+              <div class="col-xs-12 col-sm-3 hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     新宿税理士事務所様
@@ -396,7 +420,7 @@
                 </div>
               </div>
             <div class="col-xs-12 col-sm-12 margin-t80">
-              <h3 class="ms-heading top-buffer-padding bottom-buffer-padding black-text align-center lightyellow-bg">
+              <h3 class="ms-heading top-buffer-padding bottom-buffer-padding black-text align-center skyblue-bg">
                   <i class="fa fa-mobile bluetext-lp hidden-xs hidden-sm"> </i>
                  <span class="agreespan font-bold">スマートフォンにも最適化！</span>
               </h3>

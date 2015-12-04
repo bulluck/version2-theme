@@ -304,6 +304,9 @@ div.wpcf7 img.ajax-loader {
 #faq-area .heading-circle::after {
   background-image: url(#{$img-path}faq-circle.png);
 }
+.smaller-p {
+  font-size: 1.3rem;
+}
 .faq-dl {
   font-size: 1.3rem;
   dt {
@@ -431,7 +434,7 @@ div.wpcf7 img.ajax-loader {
   background-color: #e2faff;
 }
 .lightyellow-bg {
-  background-color: #feefef;
+  background-color: #FEEFDF;
 }
 .bluetext-lp {
   color: #00d1ff;
@@ -605,7 +608,9 @@ hr {
   .trouble {
     height: 400px;
   }
-
+ .clip-board br {
+   display: none;
+ }
 
 
 }
