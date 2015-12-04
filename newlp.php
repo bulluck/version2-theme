@@ -78,7 +78,7 @@
           <div class="col-xs-12 top-buffer">
             <p class="agreespan small-heading font-bold white-text">
             <i class="fa fa-frown-o"></i>
-              どんなランディングぺージを作ったらいいかわからない・・・
+              どんなランディングぺージを作ったらいいか。。
             </p>
           </div>
         </div>
@@ -86,7 +86,7 @@
           <div class="col-xs-12 top-buffer">
             <p class="agreespan small-heading font-bold white-text">
             <i class="fa fa-frown-o"></i>
-              集客をしたことがないからわからない・・・
+              集客をしたことがないからわからない。。
             </p>
           </div>
         </div>
@@ -94,7 +94,7 @@
           <div class="col-xs-12 top-buffer">
             <p class="agreespan small-heading font-bold white-text">
             <i class="fa fa-frown-o"></i>
-              コンサルに頼むほどではないけど、売れるランディングぺージを作りたい・・・
+              失敗したくない、売れるランディングぺージを作りたい。。
             </p>
           </div>
         </div>
