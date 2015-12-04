@@ -372,7 +372,7 @@
                     営業代理店のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    人材採用、ランディングぺージ型ホームページ制作のご相談をいただきました。
+                    人材採用、ランディングぺージ型ホームページ制作のご相談をいただきました。詳しくはお問い合わせください。
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
                 </div>
@@ -383,7 +383,7 @@
                     英会話教室のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                  集客、リスティング広告の運用指導のご相談をいただきました。
+                  集客、リスティング広告の運用指導のご相談をいただきました。詳しくはお問い合わせください。
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/spartan.png" alt="ランディングぺージスパルタ" />
                 </div>
@@ -394,7 +394,7 @@
                     新宿税理士事務所様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    ランディングぺージ制作、集客のご相談をいただきました。</p>
+                    ランディングぺージ制作、集客のご相談をいただきました。詳しくはお問い合わせください。</p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/shinjuku.png" alt="ランディングぺージブラック" />
                 </div>
               </div>
