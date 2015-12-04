@@ -287,7 +287,7 @@
                     <div class="col-xs-12 col-sm-6 hidden-xs">
                       <img src="" alt="ヒューマングローLP" />
                     </div>
-                    <div class="col-xs-12 margin-t80">
+                    <div class="col-xs-12 top-buffer">
                       <p class="tagyellow white-text">
                         Point
                       </p>
