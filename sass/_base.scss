@@ -239,11 +239,9 @@ div.wpcf7 img.ajax-loader {
     max-width: 100%;
   }
 }
-
 .hidden {
   display: none;
 }
-
 .entry .jp-relatedposts-headline {
   color: #000;
   border: 0;
@@ -251,11 +249,13 @@ div.wpcf7 img.ajax-loader {
 .lp-wrapper {
   max-width: 1920px;
   width: 100%;
+  line-height: normal;
 }
 .lpplan-top {
-  background-image: url("#{$img-path}n_lptop.png");
+  background-image: url(#{$img-path}n_lptop.png);
   background-position: center center;
   background-size: cover;
+  background-repeat: no-repeat;
   width: 100%;
   height: 700px;
 }
@@ -264,16 +264,14 @@ div.wpcf7 img.ajax-loader {
   background-size: cover;
   width: 100%;
   height: 700px;
-  background-image: url(http://placehold.jp/64/777777/ffffff/1920x600.jpg);
+  background-image: url(../images/lp-bg.png);
+  background-repeat: repeat;
   position: relative;
 }
-
 .achieve-section {
-  background-image: url("#{$img-path}lp-bg.png");
+  background-image: url(#{$img-path}lp-bg.png);
   background-repeat: repeat;
-
 }
-
 .seedown {
   position: absolute;
   bottom: -50px;
@@ -293,26 +291,19 @@ div.wpcf7 img.ajax-loader {
   display: table-cell;
   vertical-align: middle;
 }
-
 .fee-area {
-  background-image: url("#{$img-path}new_fee.png");
+  background-image: url(#{$img-path}new_fee.png);
   background-size: auto;
   background-position: center;
   height: 760px;
 }
-
 #fee-title .heading-circle::after {
-  background-image: url("#{$img-path}fee-circle.png");
-  background-size: cover;
-  background-position: center;
-}
+  background-image: url(#{$img-path}fee-circle.png);
 
-#faq-area .heading-circle::after{
-  background-image: url("#{$img-path}faq-circle.png");
-  background-size: cover;
-  background-position: center;
 }
-
+#faq-area .heading-circle::after {
+  background-image: url(#{$img-path}faq-circle.png);
+}
 .faq-dl {
   font-size: 1.3rem;
   dt {
@@ -336,7 +327,6 @@ div.wpcf7 img.ajax-loader {
       font-weight: bold;
     }
   }
-
   dd {
     padding: 30px 10px 30px 70px;
     position: relative;
@@ -357,16 +347,13 @@ div.wpcf7 img.ajax-loader {
     }
   }
 }
-
-
-
 .fee-icon {
   position: relative;
   z-index: 2;
-  &::before{
+  &::before {
     content: "";
     position: absolute;
-    background-image: url("#{$img-path}fee-icon.svg");
+    background-image: url(#{$img-path}fee-icon.svg);
     width: 200px;
     height: 200px;
     z-index: -1;
@@ -374,7 +361,6 @@ div.wpcf7 img.ajax-loader {
     left: -50px;
   }
 }
-
 .border-top-bottom {
   border-top: 1px solid #fff;
   border-bottom: 1px solid #fff;
@@ -390,18 +376,15 @@ div.wpcf7 img.ajax-loader {
   border: 1px solid #ccc;
   border-radius: 3px;
 }
-
 .circle {
   border-radius: 50%;
   border: 1px solid #ccc;
   width: 100px;
   height: 100px;
 }
-
 .border-container {
   border: 1px solid #ccc;
 }
-
 .lp-case-tab {
   border-radius: 5px 5px 0 0;
 }
@@ -412,53 +395,47 @@ div.wpcf7 img.ajax-loader {
 .contact-box {
   height: auto;
   position: relative;
-  a{
+  a {
     display: block;
   }
 }
-
 .cb-btn-1 {
   position: absolute;
-  bottom: 135px;
-  right: 25px;
+  bottom: 133px;
+  right: 56px;
+  width: 483px;
   &:hover {
     opacity: 0;
   }
 }
 .cb-btn-2 {
   position: absolute;
-  bottom: 33px;
-  right: 25px;
+  bottom: 34px;
+  right: 56px;
+  width: 483px;
   &:hover {
     opacity: 0;
   }
 }
-
-
 .cb-title-height {
   line-height: 100px;
   text-align: center;
 }
-
 .greenbg {
   background-color: #54DAA3;
 }
 .bluebg {
   background-color: #00d1ff;
 }
-
 .skyblue-bg {
   background-color: #e2faff;
 }
-
 .lightyellow-bg {
   background-color: #feefef;
 }
-
 .bluetext-lp {
   color: #00d1ff;
 }
-
 .heading-circle {
   position: relative;
 }
@@ -469,21 +446,20 @@ div.wpcf7 img.ajax-loader {
 .solve::after {
   content: "";
   position: absolute;
-  background-image: url("#{$img-path}solve.svg");
+  background-image: url(#{$img-path}solve.svg);
   width: 150px;
   height: 150px;
   z-index: -1;
-  top: -50px;
+  top: -20px;
   right: 0;
 }
-
 .good-reason {
   position: relative;
   z-index: 2;
   &::before {
     content: "";
     position: absolute;
-    background-image: url("#{$img-path}good-sign.svg");
+    background-image: url(#{$img-path}good-sign.svg);
     width: 200px;
     height: 200px;
     z-index: -1;
@@ -491,14 +467,13 @@ div.wpcf7 img.ajax-loader {
     left: -50px;
   }
 }
-
 .flow-icon {
   position: relative;
   z-index: 2;
   &::before {
     content: "";
     position: absolute;
-    background-image: url("#{$img-path}flow-icon.svg");
+    background-image: url(#{$img-path}flow-icon.svg);
     width: 200px;
     height: 200px;
     z-index: -1;
@@ -506,14 +481,13 @@ div.wpcf7 img.ajax-loader {
     left: -20px;
   }
 }
-
 .comparison-icon {
   position: relative;
   z-index: 2;
   &::before {
     content: "";
     position: absolute;
-    background-image: url("#{$img-path}comparison-icon.svg");
+    background-image: url(#{$img-path}comparison-icon.svg);
     width: 200px;
     height: 200px;
     z-index: -1;
@@ -521,7 +495,6 @@ div.wpcf7 img.ajax-loader {
     left: -20px;
   }
 }
-
 .heading-circle::after {
   position: absolute;
   content: "";
@@ -529,41 +502,50 @@ div.wpcf7 img.ajax-loader {
   height: 200px;
   border-radius: 50%;
   border: 1px solid #ccc;
-  top: -41px;
+  top: -35px;
   right: 0;
+  background-size: cover;
+  background-position: center;
 }
 #trouble .heading-circle::after {
-  background-image: url("#{$img-path}trouble.png");
+  background-image: url(#{$img-path}trouble.png);
 }
 #reason .heading-circle::after {
-  background-image: url("#{$img-path}reason-circle.png");
+  background-image: url(#{$img-path}reason-circle.png);
 }
-
 #flow .heading-circle::after {
-  background-image: url("#{$img-path}flow-circle.png");
+  background-image: url(#{$img-path}flow-circle.png);
 }
-
 #comparison-title .heading-circle::after {
-  background-image: url("#{$img-path}comparison-circle.png");
+  background-image: url(#{$img-path}comparison-circle.png);
 }
-
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
   border-top: 5px solid #eeeeee;
 }
-
 .point-list {
   padding-left: 2rem;
   li {
     list-style-type: disc;
   }
 }
-
 .clip-board {
   box-shadow: 1px 1px 1px #aaa;
+  background-color: $white;
+  .tagred,
+  .tagblue,
+  .tagyellow,
+  .taggreen {
+    padding: 5px 0;
+  }
 }
+
+.ms-heading {
+    font-size: 3rem;
+}
+
 
 @media only screen and (max-width:1024px) {
   .contents-wrapper {
@@ -572,14 +554,61 @@ hr {
   .owl-nav {
     display: none;
   }
-}
+  .lpplan-top {
+    height: 600px;
+  }
 
+  .trouble {
+    height: 450px;
+  }
+
+  .heading-circle::after {
+    display: none;
+  }
+  .solve::after,
+  .flow-icon::before,
+  .fee-icon::before,
+  .good-reason::before,
+  .flow-icon::before,
+  .comparison-icon::before {
+    display: none;
+  }
+
+  .seedown {
+    bottom: -32px;
+    padding: 5px;
+  }
+
+  .cb-btn-1 {
+    bottom: 32%;
+    right: 15%;
+    width: 70%;
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  .cb-btn-2 {
+    bottom: 10%;
+    right: 15.1%;
+    width: 70%;
+    opacity: 1;
+  }
+}
 @media only screen and (max-width:768px) {
   .lp-tablecell .medium-heading {
     font-size: 2.2rem;
   }
-}
+  .lpplan-top {
+    height: 500px;
+  }
+  .trouble {
+    height: 400px;
+  }
 
+
+
+}
 @media only screen and (max-width:600px) {
   .contents-wrapper {
     padding-top: 0;
@@ -596,22 +625,43 @@ hr {
       color: #fff;
     }
   }
-  .heading-circle::after {
-    display: none;
-  }
-
-  .solve::after, .flow-icon::before, .fee-icon::before, .good-reason::before, .flow-icon::before, .comparison-icon::before {
-    display: none;
-  }
-
 
 
   .achieve-section .medium-heading {
     font-size: 2.2rem;
   }
-
   .lpplan-top {
-    background-image: url("#{$img-path}n_kv_sp.png");
+    background-image: url(#{$img-path}n_kv_sp.png);
     height: 275px;
   }
+
+  .trouble {
+    height: 500px;
+  }
+  .cb-btn-1 {
+    bottom: 32%;
+    right: 17.3%;
+    width: 65.5%;
+  }
+
+  .cb-btn-2 {
+    bottom: 8.5%;
+    right: 17.3%;
+    width: 65.5%;
+  }
+
+  .ms-heading {
+    font-size: 1.8rem;
+  }
+}
+
+
+@media only screen and (max-width:320px) {
+  .lpplan-top {
+    background-image: url(#{$img-path}n_kv_sp5.png);
+    height: 225px;
+  }
+
+
+
 }

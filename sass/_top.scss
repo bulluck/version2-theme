@@ -309,7 +309,8 @@ a {
 }
 .contact-recruit {
   @extend .keyvisual;
-  background-image: url(#{$img-path}contact-recruit.jpg);
+  background-image: url("#{$img-path}contact-recruit.jpg");
+  line-height: normal;
 }
 .btn {
   border-radius: 0;

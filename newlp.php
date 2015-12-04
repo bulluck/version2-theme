@@ -25,9 +25,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -44,11 +42,11 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
@@ -109,7 +107,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="medium-heading font-bold align-center solve xs-t-buffer">ブラックメソッドでお悩み解決！</h2>
+            <h2 class="medium-heading font-bold align-center solve top-buffer-padding">ブラックメソッドでお悩み解決！</h2>
           </div>
         </div>
         <!-- case1 -->
@@ -127,10 +125,10 @@
             <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
               <div class="row">
                 <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
-                  <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" />
+                  <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
                 </div>
                 <div class="col-xs-12 col-sm-9">
-                  <h3 class="medium-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
+                  <h3 class="ms-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
                 </div>
               </div>
               <hr>
@@ -138,28 +136,28 @@
           </div>
           <div class="row purewhitebg bottom-buffer-padding">
             <div class="col-xs-12">
-              <div class="col-xs-12 col-sm-7">
+              <div class="col-xs-12 col-sm-6">
                   <p class="tagred white-text align-center">課題</p>
                   <p class="small-text top-buffer">
                     半年前に自社HPをリニューアルしたが、WEBからの問い合わせは、年に指折りの数しかなく、web集客が伸び悩んでいました。
                     今後のことを考えると、WEBからの集客導線がないのは、致命的になると危惧されておりました。
                   </p>
 
-                  <p class="tagblue white-text align-center margin-t80">対策</p>
+                  <p class="tagblue white-text align-center top-buffer">対策</p>
                   <p class="small-text top-buffer">
                     自社の強みをヒアリング・競合調査・今後の展望をお伺いした上で、最大限、お問い合わせに繋がるお手伝いをさせていただきました。
                     WEB上からの集客導線を確立させるために自社の強みを活かしたランディグページの作成・リスティング広告の運用を開始致しました。
                   </p>
-                  <p class="taggreen white-text align-center margin-t80">実施後</p>
+                  <p class="taggreen white-text align-center top-buffer">実施後</p>
                   <p class="small-heading top-buffer">
                     問い合わせ数が1ヶ月で <span class="redtext">脅威の12倍！</span>
                   </p>
 
               </div>
-              <div class="col-xs-12 col-sm-5 hidden-xs">
-                <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ヒューマングローLP" />
+              <div class="col-xs-12 col-sm-6 hidden-xs">
+                <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ヒューマングローLP" class="worksimg" />
               </div>
-              <div class="col-xs-12 margin-t80">
+              <div class="col-xs-12 top-buffer">
                 <p class="tagyellow white-text">
                   Point
                 </p>
@@ -182,86 +180,77 @@
 
 <!-- case2 -->
         <div class="row">
-          <div class="col-xs-12 col-sm-7 margin-t80 blackbg lp-case-tab">
-            <p class="white-text small-heading condensed-bold t-05rem">
-            <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 2: 中古自動車販売業のお客様</span>
-            </p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12 clip-board">
+          <div class="col-xs-12 col-sm-6">
 
-          <div class="row">
-            <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
+            <div class="col-xs-12 col-sm-12 margin-t80 blackbg lp-case-tab">
+              <p class="white-text condensed-bold t-05rem">
+              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 2: 中古自動車販売業のお客様</span>
+              </p>
+            </div>
+            <div class="col-xs-12 col-sm-12 clip-board">
               <div class="row">
-                <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
-                  <img src="" alt="自動車販売事業" />
-                </div>
-                <div class="col-xs-12 col-sm-9">
-                  <h3 class="medium-heading black-text font-bold">自社HPリニューアルにより<span class="redtext">販売台数が1.5倍に</span></h3>
-                </div>
-              </div>
-              <hr>
-            </div>
-          </div>
-          <div class="row purewhitebg bottom-buffer-padding">
-            <div class="col-xs-12">
-              <div class="col-xs-12 col-sm-7">
-                  <p class="tagred white-text align-center">課題</p>
-                  <p class="small-text top-buffer">
-                    以前より、HPはあったものの在庫状況やブログ等は全く更新されておらず、実質役目を果たしていない状況。時代の流れのせいもあり、10年前から比べると来店数も半減し、打開しなればならない状況でした。
-                  </p>
+                <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-12">
+                      <h3 class="ms-heading black-text font-bold">自社HPリニューアルにより<span class="redtext">販売台数が1.5倍に</span></h3>
+                    </div>
+                  </div>
+                  <hr>
 
-                  <p class="tagblue white-text align-center margin-t80">対策</p>
-                  <p class="small-text top-buffer">
-                    VIPカーを専門に扱うという明確な特色がありました。情報発信の質と量の双方を高めた自社HPリニューアルに着手しました。以前はポータルサイトからの問い合わせのみであったが、自社HPからのメール・電話を増やしました。
-                  </p>
-                  <p class="taggreen white-text align-center margin-t80">実施後</p>
-                  <p class="small-heading top-buffer">
-                    販売台数が1.5倍に！
-                  </p>
+                </div>
               </div>
-              <div class="col-xs-12 col-sm-5 hidden-xs">
-                <img src="" alt="ヒューマングローLP" />
-              </div>
-              <div class="col-xs-12 margin-t80">
-                <p class="tagyellow white-text">
-                  Point
-                </p>
-                  <ul class="point-list">
-                    <li class="small-heading top-buffer-padding">
-                      自社HPをスマホ対応にした大リニューアル
-                    </li>
-                    <li class="small-heading top-buffer-padding">
-                      各SNSサイトとの連動
-                    </li>
-                    <li class="small-heading top-buffer-padding">
-                      自社の強みを活かしたHP構成・キャッチフレーズのご提案
-                    </li>
-                  </ul>
-              </div>
+              <div class="row purewhitebg bottom-buffer-padding">
+                <div class="col-xs-12">
+                  <div class="col-xs-12 col-sm-12">
+                      <p class="tagred white-text align-center">課題</p>
+                      <p class="small-text top-buffer">
+                        以前より、HPはあったものの在庫状況やブログ等は全く更新されておらず、実質役目を果たしていない状況。時代の流れのせいもあり、10年前から比べると来店数も半減し、打開しなればならない状況でした。
+                      </p>
+
+                      <p class="tagblue white-text align-center top-buffer">対策</p>
+                      <p class="small-text top-buffer">
+                        VIPカーを専門に扱うという明確な特色がありました。情報発信の質と量の双方を高めた自社HPリニューアルに着手しました。以前はポータルサイトからの問い合わせのみであったが、自社HPからのメール・電話を増やしました。
+                      </p>
+                      <p class="taggreen white-text align-center top-buffer">実施後</p>
+                      <p class="small-heading top-buffer">
+                        販売台数が1.5倍に！
+                      </p>
+                  </div>
+                  <div class="col-xs-12 top-buffer">
+                    <p class="tagyellow white-text">
+                      Point
+                    </p>
+                      <ul class="point-list">
+                        <li class="small-heading top-buffer-padding">
+                          自社HPをスマホ対応にした大リニューアル
+                        </li>
+                        <li class="small-heading top-buffer-padding">
+                          各SNSサイトとの連動
+                        </li>
+                        <li class="small-heading top-buffer-padding">
+                          自社の強みを活かしたHP構成・キャッチフレーズのご提案
+                        </li>
+                      </ul>
+                  </div>
+                </div>
+            </div>
             </div>
           </div>
-          </div>
-        </div>
-<!-- case3 -->
-        <div class="row">
-          <div class="col-xs-12 col-sm-7 margin-t80 blackbg lp-case-tab">
-            <p class="white-text small-heading condensed-bold t-05rem">
-            <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 3: 美容業のお客様</span>
-            </p>
-          </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-12 clip-board">
+          <div class="col-xs-12 col-sm-6">
+
+            <div class="col-xs-12 col-sm-12 margin-t80 blackbg lp-case-tab">
+              <p class="white-text condensed-bold t-05rem">
+              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 3: 美容業のお客様</span>
+              </p>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-12 clip-board">
                 <div class="row">
                   <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
                     <div class="row">
-                      <div class="col-xs-12 col-sm-3 align-center bottom-buffer">
-                        <img src="" alt="何か画像" />
-                      </div>
-                      <div class="col-xs-12 col-sm-9">
-                        <h3 class="medium-heading black-text font-bold">採用HP開設1年で新人スタッフ<span class="redtext">10名採用！</span></h3>
+                      <div class="col-xs-12 col-sm-12">
+                        <h3 class="ms-heading black-text font-bold">採用HP開設1年で新人スタッフ<span class="redtext">10名採用！</span></h3>
                       </div>
                     </div>
                     <hr>
@@ -269,25 +258,23 @@
                 </div>
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
-                    <div class="col-xs-12 col-sm-7">
+                    <div class="col-xs-12 col-sm-12">
                         <p class="tagred white-text align-center">課題</p>
                         <p class="small-text top-buffer">
                           かつては、人気のあった美容師でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
                         </p>
 
-                        <p class="tagblue white-text align-center margin-t80">対策</p>
+                        <p class="tagblue white-text align-center top-buffer">対策</p>
                         <p class="small-text top-buffer">
                           現在の応募方法をヒアリングし、目標の新人採用人数までのギャップを埋めるための施策をご提案致しました。現在のHPに加え、新たに採用HPを作ることを提案し、採用媒体のみに頼らない自社オリジナルの採用媒体を構築。
                         </p>
-                        <p class="taggreen white-text align-center margin-t80">実施後</p>
+                        <p class="taggreen white-text align-center top-buffer">実施後</p>
                         <p class="small-heading top-buffer">
                           １年で新人スタッフ10名採用！
                         </p>
                     </div>
-                    <div class="col-xs-12 col-sm-5 hidden-xs">
-                      <img src="" alt="ヒューマングローLP" />
-                    </div>
-                    <div class="col-xs-12 margin-t80">
+
+                    <div class="col-xs-12 top-buffer">
                       <p class="tagyellow white-text">
                         Point
                       </p>
@@ -306,6 +293,7 @@
                   </div>
                 </div>
             </div>
+          </div>
         </div>
 
       </div>
@@ -317,9 +305,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -336,11 +322,11 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
@@ -356,7 +342,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="top-buffer-padding bottom-buffer-padding medium-heading align-center bluebg">
+            <h2 class="top-buffer-padding bottom-buffer-padding ms-heading align-center bluebg">
               ランディングぺージ運用の圧倒的な実績
             </h2>
           </div>
@@ -364,15 +350,15 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12">
             <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
-              <div class="col-xs-12 col-sm-3">
+              <div class="col-xs-12 col-sm-3 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     IT事業の株式会社ブラック
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    このランディングぺージ、実はすごい実績を更新し続けています。詳しくはお問い合わせください。
+                    このランディングぺージ、実はすごい実績を更新し続けています。詳しくはお問い合わせください。<br>
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/human-grow-lp.png" alt="ランディングぺージヒューマングロー" />
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck.png" alt="ランディングぺージヒューマングロー" />
                 </div>
 
               </div>
@@ -382,9 +368,10 @@
                     営業代理店のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    人材採用、ランディングぺージ型ホームページ制作のご相談をいただきました。
+                    人材採用、ランディングぺージ型ホームページ制作のご相談です。詳しくはお問い合わせください。
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
+
                 </div>
               </div>
               <div class="col-xs-12 col-sm-3 xs-t-buffer">
@@ -393,7 +380,7 @@
                     英会話教室のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                  集客、リスティング広告の運用指導のご相談をいただきました。
+                  集客、リスティング広告の運用指導のご相談をいただきました。詳しくはお問い合わせください。<br>
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/spartan.png" alt="ランディングぺージスパルタ" />
                 </div>
@@ -404,12 +391,12 @@
                     新宿税理士事務所様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    ランディングぺージ制作、集客のご相談をいただきました。</p>
+                    ランディングぺージ制作、集客のご相談をいただきました。詳しくはお問い合わせください。<br></p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/shinjuku.png" alt="ランディングぺージブラック" />
                 </div>
               </div>
             <div class="col-xs-12 col-sm-12 margin-t80">
-              <h3 class="medium-heading top-buffer-padding bottom-buffer-padding black-text align-center lightyellow-bg">
+              <h3 class="ms-heading top-buffer-padding bottom-buffer-padding black-text align-center lightyellow-bg">
                   <i class="fa fa-mobile bluetext-lp"></i>
                  <span class="agreespan font-bold">スマートフォンにも最適化！</span>
               </h3>
@@ -435,9 +422,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -454,11 +439,11 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
@@ -481,12 +466,12 @@
               <div class="col-xs-12 clip-board purewhitebg top-buffer-padding bottom-buffer-padding">
                 <div class="row">
                   <div class="col-xs-6 col-sm-3">
-                    <p class="blackbg font-bold white-text align-center">
+                    <div class="blackbg font-bold white-text small-heading align-center">
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：1</span>
-                    </p>
+                    </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9">
-                    <h3 class="small-heading black-text font-bold t-05rem">
+                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                    <h3 class="small-heading black-text font-bold">
                       通常の経営コンサルティングは地上戦と空中戦！？
                     </h3>
 
@@ -503,12 +488,12 @@
 
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3">
-                    <p class="blackbg font-bold white-text align-center">
+                    <div class="blackbg font-bold white-text small-heading align-center">
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：2</span>
-                    </p>
+                    </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9">
-                    <h3 class="small-heading black-text font-bold t-05rem">
+                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                    <h3 class="small-heading black-text font-bold">
                       2割の原因が8割の結果を生んでいる！？
                     </h3>
 
@@ -524,12 +509,12 @@
                 </div>
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3">
-                    <p class="blackbg font-bold white-text align-center">
+                    <div class="blackbg font-bold white-text small-heading align-center">
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：3</span>
-                    </p>
+                    </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9">
-                    <h3 class="small-heading black-text font-bold t-05rem">
+                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                    <h3 class="small-heading black-text font-bold">
                       今後のトレンドは！？
                     </h3>
 
@@ -559,9 +544,7 @@
       <div class="row">
         <div class="col-xs-12 contact-box">
           <?php if (wp_is_mobile()):?>
-            <a href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-            </a>
+              <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
           <?php else:?>
             <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
           <?php endif; ?>
@@ -578,11 +561,11 @@
             </p>
           </div>
 
-          <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+          <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
           </a>
-          <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+          <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+            <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
           </a>
         </div>
 
@@ -635,9 +618,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -654,11 +635,11 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
@@ -688,7 +669,7 @@
             </h3>
             <div class="top-buffer align-center">
 
-              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-hearing.png" alt="" />
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/contact1.jpg" alt="ランディングぺージ設計" />
             </div>
             <p class="small-text top-buffer">
               お問い合わせいただきましたら、具体的なご要望をしっかりとヒアリングさせていただきます。日本全国47都道府県、お電話にて対応しております。過去の実績より、対面で1回よりもお電話で複数回のヒアリングが最も効率的です。出張打ち合わせもございます。詳細はお問い合わせください。
@@ -699,14 +680,14 @@
 
           <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
             <h3 class="small-heading black-text font-bold">
-              2. 企画・構成
+              2. 企画・戦略
             </h3>
             <div class="top-buffer align-center">
 
-              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-planning.png" alt="" />
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/contact2.jpg" alt="ランディングぺージ戦略" />
             </div>
             <p class="small-text top-buffer">
-              ヒアリング内容を基にブラックの経営コンサルタントが、ターゲットの選定、ランディングページの設計を行います。進行に合わせて随時ご連絡を取らせていただきます。これも成果の出るランディングぺージを作る上では必須になります。 </p>
+              ヒアリング内容を基に、ブラックの経営コンサルタントがターゲットの選定、ランディングページの設計を行います。進行に合わせて随時ご連絡を取らせていただきます。これも成果の出るランディングぺージを作る上では必須になります。ご要望はお気軽にお申し付けください。 </p>
           </div>
         </div>
 
@@ -716,11 +697,11 @@
 
           <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
             <h3 class="small-heading black-text font-bold">
-              3. デザイン・サイト構築
+              3. デザイン・LP構築
             </h3>
             <div class="top-buffer align-center">
 
-              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-design.png" alt="" />
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-design.png" alt="ランディングぺージ構築" />
             </div>
             <p class="small-text top-buffer">
               ターゲットの選定、戦略の立案が完了しましたら、ニーズに合わせて戦略的なデザインを行っていきます。
@@ -732,14 +713,14 @@
 
           <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
             <h3 class="small-heading black-text font-bold">
-              4. サイト運用
+              4. ランディングぺージ運用
             </h3>
             <div class="top-buffer align-center">
 
-              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-listing.png" alt="" />
+              <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-listing.png" alt="ランディングぺージ運用" />
             </div>
             <p class="small-text top-buffer">
-              完成した後の運用が最も重要です。日々の運用・改善を行いPDCAサイクルを最速で回していきます（運用をご依頼の場合）。ブラックの経営コンサルタントがアナリティクス解析、Webマスターツール分析、ABテスト分析等を一社一社行い、より効果的なランディングページに仕上げていきます。皆様の意思決定が、今後の会社を左右します。ブラックにお任せください。
+              完成した後の運用が最も重要です。日々の運用・改善を行いPDCAサイクルを最速で回していきます（運用をご依頼の場合）。ブラックの経営コンサルタントがアナリティクス解析、各種分析を一社一社行い、より効果的なランディングページに仕上げていきます。皆様の意思決定が、今後の会社を左右します。ブラックにお任せください。
             </p>
           </div>
         </div>
@@ -756,9 +737,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -775,11 +754,11 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 
@@ -831,9 +810,7 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (wp_is_mobile()):?>
-              <a href="<?php echo home_url('/');?>contact/">
-                <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
-              </a>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php endif; ?>
@@ -850,11 +827,11 @@
               </p>
             </div>
 
-            <a class="cb-btn-1 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" />
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
             </a>
-            <a class="cb-btn-2 hidden-xs hidden-sm" href="<?php echo home_url('/');?>contact/">
-              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" />
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
             </a>
           </div>
 

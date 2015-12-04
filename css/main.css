@@ -377,7 +377,8 @@ a:hover {
 }
 
 .contact-recruit {
-  background-image: url(../images/contact-recruit.jpg);
+  background-image: url("../images/contact-recruit.jpg");
+  line-height: normal;
 }
 
 .btn {
@@ -971,12 +972,14 @@ div.wpcf7 img.ajax-loader {
 .lp-wrapper {
   max-width: 1920px;
   width: 100%;
+  line-height: normal;
 }
 
 .lpplan-top {
-  background-image: url("../images/n_lptop.png");
+  background-image: url(../images/n_lptop.png);
   background-position: center center;
   background-size: cover;
+  background-repeat: no-repeat;
   width: 100%;
   height: 700px;
 }
@@ -986,12 +989,13 @@ div.wpcf7 img.ajax-loader {
   background-size: cover;
   width: 100%;
   height: 700px;
-  background-image: url(http://placehold.jp/64/777777/ffffff/1920x600.jpg);
+  background-image: url(../images/lp-bg.png);
+  background-repeat: repeat;
   position: relative;
 }
 
 .achieve-section {
-  background-image: url("../images/lp-bg.png");
+  background-image: url(../images/lp-bg.png);
   background-repeat: repeat;
 }
 
@@ -1018,22 +1022,18 @@ div.wpcf7 img.ajax-loader {
 }
 
 .fee-area {
-  background-image: url("../images/new_fee.png");
+  background-image: url(../images/new_fee.png);
   background-size: auto;
   background-position: center;
   height: 760px;
 }
 
 #fee-title .heading-circle::after {
-  background-image: url("../images/fee-circle.png");
-  background-size: cover;
-  background-position: center;
+  background-image: url(../images/fee-circle.png);
 }
 
 #faq-area .heading-circle::after {
-  background-image: url("../images/faq-circle.png");
-  background-size: cover;
-  background-position: center;
+  background-image: url(../images/faq-circle.png);
 }
 
 .faq-dl {
@@ -1087,7 +1087,7 @@ div.wpcf7 img.ajax-loader {
 .fee-icon::before {
   content: "";
   position: absolute;
-  background-image: url("../images/fee-icon.svg");
+  background-image: url(../images/fee-icon.svg);
   width: 200px;
   height: 200px;
   z-index: -1;
@@ -1144,8 +1144,9 @@ div.wpcf7 img.ajax-loader {
 
 .cb-btn-1 {
   position: absolute;
-  bottom: 135px;
-  right: 25px;
+  bottom: 133px;
+  right: 56px;
+  width: 483px;
 }
 .cb-btn-1:hover {
   opacity: 0;
@@ -1153,8 +1154,9 @@ div.wpcf7 img.ajax-loader {
 
 .cb-btn-2 {
   position: absolute;
-  bottom: 33px;
-  right: 25px;
+  bottom: 34px;
+  right: 56px;
+  width: 483px;
 }
 .cb-btn-2:hover {
   opacity: 0;
@@ -1197,11 +1199,11 @@ div.wpcf7 img.ajax-loader {
 .solve::after {
   content: "";
   position: absolute;
-  background-image: url("../images/solve.svg");
+  background-image: url(../images/solve.svg);
   width: 150px;
   height: 150px;
   z-index: -1;
-  top: -50px;
+  top: -20px;
   right: 0;
 }
 
@@ -1212,7 +1214,7 @@ div.wpcf7 img.ajax-loader {
 .good-reason::before {
   content: "";
   position: absolute;
-  background-image: url("../images/good-sign.svg");
+  background-image: url(../images/good-sign.svg);
   width: 200px;
   height: 200px;
   z-index: -1;
@@ -1227,7 +1229,7 @@ div.wpcf7 img.ajax-loader {
 .flow-icon::before {
   content: "";
   position: absolute;
-  background-image: url("../images/flow-icon.svg");
+  background-image: url(../images/flow-icon.svg);
   width: 200px;
   height: 200px;
   z-index: -1;
@@ -1242,7 +1244,7 @@ div.wpcf7 img.ajax-loader {
 .comparison-icon::before {
   content: "";
   position: absolute;
-  background-image: url("../images/comparison-icon.svg");
+  background-image: url(../images/comparison-icon.svg);
   width: 200px;
   height: 200px;
   z-index: -1;
@@ -1257,24 +1259,26 @@ div.wpcf7 img.ajax-loader {
   height: 200px;
   border-radius: 50%;
   border: 1px solid #ccc;
-  top: -41px;
+  top: -35px;
   right: 0;
+  background-size: cover;
+  background-position: center;
 }
 
 #trouble .heading-circle::after {
-  background-image: url("../images/trouble.png");
+  background-image: url(../images/trouble.png);
 }
 
 #reason .heading-circle::after {
-  background-image: url("../images/reason-circle.png");
+  background-image: url(../images/reason-circle.png);
 }
 
 #flow .heading-circle::after {
-  background-image: url("../images/flow-circle.png");
+  background-image: url(../images/flow-circle.png);
 }
 
 #comparison-title .heading-circle::after {
-  background-image: url("../images/comparison-circle.png");
+  background-image: url(../images/comparison-circle.png);
 }
 
 hr {
@@ -1293,6 +1297,17 @@ hr {
 
 .clip-board {
   box-shadow: 1px 1px 1px #aaa;
+  background-color: #fff;
+}
+.clip-board .tagred, .clip-board .tagblue, .clip-board .taggreen, .clip-board .tagpurple, .clip-board .tagyellow,
+.clip-board .tagblue,
+.clip-board .tagyellow,
+.clip-board .taggreen {
+  padding: 5px 0;
+}
+
+.ms-heading {
+  font-size: 3rem;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -1303,10 +1318,60 @@ hr {
   .owl-nav {
     display: none;
   }
+
+  .lpplan-top {
+    height: 600px;
+  }
+
+  .trouble {
+    height: 450px;
+  }
+
+  .heading-circle::after {
+    display: none;
+  }
+
+  .solve::after,
+  .flow-icon::before,
+  .fee-icon::before,
+  .good-reason::before,
+  .flow-icon::before,
+  .comparison-icon::before {
+    display: none;
+  }
+
+  .seedown {
+    bottom: -32px;
+    padding: 5px;
+  }
+
+  .cb-btn-1 {
+    bottom: 32%;
+    right: 15%;
+    width: 70%;
+  }
+  .cb-btn-1:hover {
+    opacity: 1;
+  }
+
+  .cb-btn-2 {
+    bottom: 10%;
+    right: 15.1%;
+    width: 70%;
+    opacity: 1;
+  }
 }
 @media only screen and (max-width: 768px) {
   .lp-tablecell .medium-heading {
     font-size: 2.2rem;
+  }
+
+  .lpplan-top {
+    height: 500px;
+  }
+
+  .trouble {
+    height: 400px;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -1325,21 +1390,39 @@ hr {
     color: #fff;
   }
 
-  .heading-circle::after {
-    display: none;
-  }
-
-  .solve::after, .flow-icon::before, .fee-icon::before, .good-reason::before, .flow-icon::before, .comparison-icon::before {
-    display: none;
-  }
-
   .achieve-section .medium-heading {
     font-size: 2.2rem;
   }
 
   .lpplan-top {
-    background-image: url("../images/n_kv_sp.png");
+    background-image: url(../images/n_kv_sp.png);
     height: 275px;
+  }
+
+  .trouble {
+    height: 500px;
+  }
+
+  .cb-btn-1 {
+    bottom: 32%;
+    right: 17.3%;
+    width: 65.5%;
+  }
+
+  .cb-btn-2 {
+    bottom: 8.5%;
+    right: 17.3%;
+    width: 65.5%;
+  }
+
+  .ms-heading {
+    font-size: 1.8rem;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .lpplan-top {
+    background-image: url(../images/n_kv_sp5.png);
+    height: 225px;
   }
 }
 .footernav {
