@@ -112,76 +112,75 @@
         </div>
         <!-- case1 -->
         <div class="row">
-          <div class="col-xs-12 col-sm-7 margin-t80 blackbg lp-case-tab">
-            <p class="white-text small-heading condensed-bold t-05rem">
-            <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 1: 就労支援事業のお客様</span>
-            </p>
-          </div>
-        </div>
-        <div class="row">
-
-        <div class="col-xs-12 col-sm-12 clip-board">
-          <div class="row">
-            <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
-              <div class="row">
-                <div class="col-xs-4 col-sm-2 align-center xs-b-buffer">
-                  <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
-                </div>
-                <div class="col-xs-12 col-sm-10">
-                  <h3 class="small-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
-                </div>
-              </div>
-              <hr>
-            </div>
-          </div>
-          <div class="row purewhitebg bottom-buffer-padding">
-            <div class="col-xs-12">
-              <div class="col-xs-12 col-sm-6">
-                  <p class="tagred white-text align-center">課題</p>
-                  <p class="top-buffer smaller-p">
-                    半年前に自社HPをリニューアルしたが、WEBからの問い合わせは、年に指折りの数しかなく、web集客が伸び悩んでいました。
-                    今後のことを考えると、WEBからの集客導線がないのは、致命的になると危惧されておりました。
-                  </p>
-
-                  <p class="tagblue white-text align-center top-buffer">対策</p>
-                  <p class="top-buffer smaller-p">
-                    自社の強みをヒアリング・競合調査・今後の展望をお伺いした上で、最大限、お問い合わせに繋がるお手伝いをさせていただきました。
-                    WEB上からの集客導線を確立させるために自社の強みを活かしたランディグページの作成・リスティング広告の運用を開始致しました。
-                  </p>
-                  <p class="taggreen white-text align-center top-buffer">実施後</p>
-                  <p class="top-buffer smaller-p">
-                    問い合わせ数が1ヶ月で <span class="redtext">脅威の12倍！</span>
-                  </p>
-
-              </div>
-              <div class="col-xs-12 col-sm-6 hidden-xs">
-                <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ヒューマングローLP" class="worksimg" />
-              </div>
-              <div class="col-xs-12 top-buffer">
-                <p class="tagyellow white-text">
-                  Point
+          <div class="col-xs-12 col-sm-12">
+              <div class="col-xs-12 col-sm-7 margin-t80 blackbg lp-case-tab">
+                <p class="white-text condensed-bold t-05rem">
+                <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 1: 就労支援事業のお客様</span>
                 </p>
-                  <ul class="point-list lightyellow-bg top-buffer-padding bottom-buffer-padding smaller-p">
-                    <li>
-                      <p class="smaller-p">
-                        ランディングページを作成し、リスティング広告の運用を開始
-                      </p>
-                    </li>
-                    <li>
-                      <p class="smaller-p">
-                        ターゲットを絞込んだキーワード選定、ロングテール戦略
-                      </p>
-                    </li>
-                    <li>
-                      <p class="smaller-p">
-                        競合調査を行い、競合との差別化を図ったランディングページの作成
-                      </p>
-                    </li>
-                  </ul>
               </div>
-            </div>
+              <div class="col-xs-12 col-sm-12 clip-board">
+                <div class="row">
+                  <div class="col-xs-12 top-buffer-padding purewhitebg">
+                    <div class="row">
+                      <div class="col-xs-4 col-sm-2 align-center xs-b-buffer">
+                        <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
+                      </div>
+                      <div class="col-xs-12 col-sm-10">
+                        <h3 class="small-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
+                      </div>
+                    </div>
+                    <hr>
+                  </div>
+                </div>
+                <div class="row purewhitebg bottom-buffer-padding">
+                  <div class="col-xs-12">
+                    <div class="col-xs-12 col-sm-6">
+                        <p class="tagred white-text align-center">課題</p>
+                        <p class="top-buffer smaller-p">
+                          半年前に自社HPをリニューアルしたが、WEBからの問い合わせは、年に指折りの数しかなく、web集客が伸び悩んでいました。
+                          今後のことを考えると、WEBからの集客導線がないのは、致命的になると危惧されておりました。
+                        </p>
+
+                        <p class="tagblue white-text align-center top-buffer">対策</p>
+                        <p class="top-buffer smaller-p">
+                          自社の強みをヒアリング・競合調査・今後の展望をお伺いした上で、最大限、お問い合わせに繋がるお手伝いをさせていただきました。
+                          WEB上からの集客導線を確立させるために自社の強みを活かしたランディグページの作成・リスティング広告の運用を開始致しました。
+                        </p>
+                        <p class="taggreen white-text align-center top-buffer">実施後</p>
+                        <p class="top-buffer smaller-p">
+                          問い合わせ数が1ヶ月で <span class="redtext">脅威の12倍！</span>
+                        </p>
+
+                    </div>
+                    <div class="col-xs-12 col-sm-6 hidden-xs">
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ヒューマングローLP" class="worksimg" />
+                    </div>
+                    <div class="col-xs-12 top-buffer">
+                      <p class="tagyellow white-text">
+                        Point
+                      </p>
+                        <ul class="point-list lightyellow-bg top-buffer-padding bottom-buffer-padding smaller-p">
+                          <li>
+                            <p class="smaller-p">
+                              ランディングページを作成し、リスティング広告の運用を開始
+                            </p>
+                          </li>
+                          <li>
+                            <p class="smaller-p">
+                              ターゲットを絞込んだキーワード選定、ロングテール戦略
+                            </p>
+                          </li>
+                          <li>
+                            <p class="smaller-p">
+                              競合調査を行い、競合との差別化を図ったランディングページの作成
+                            </p>
+                          </li>
+                        </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
           </div>
-        </div>
         </div>
 
 <!-- case2 -->
@@ -195,7 +194,7 @@
             </div>
             <div class="col-xs-12 col-sm-12 clip-board">
               <div class="row">
-                <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
+                <div class="col-xs-12 top-buffer-padding purewhitebg">
                   <div class="row">
                     <div class="col-xs-12 col-sm-12">
                       <h3 class="small-heading black-text font-bold">自社HPリニューアルにより<br><span class="redtext">販売台数が1.5倍に</span></h3>
@@ -208,7 +207,7 @@
               <div class="row purewhitebg bottom-buffer-padding">
                 <div class="col-xs-12">
                   <div class="col-xs-12 col-sm-12">
-                    <img src="#" alt="case2画像" />
+                    <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/car.jpg" alt="case2画像" class="worksimg"/>
                   </div>
                   <div class="col-xs-12 col-sm-12 top-buffer">
                       <p class="tagred white-text align-center">課題</p>
@@ -262,7 +261,7 @@
 
             <div class="col-xs-12 col-sm-12 clip-board">
                 <div class="row">
-                  <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
+                  <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-12 col-sm-12">
                         <h3 class="small-heading black-text font-bold">採用HP開設1年で<br>新人スタッフ<span class="redtext">10名採用！</span></h3>
@@ -274,7 +273,7 @@
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-12">
-                      <img src="#" alt="case3画像" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/cut.jpg" alt="case3画像" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-12 top-buffer">
                         <p class="tagred white-text align-center">課題</p>
@@ -386,7 +385,7 @@
                 </div>
 
               </div>
-              <div class="col-xs-12 col-sm-3 hidden-xs">
+              <div class="col-xs-12 col-sm-3 xs-t-buffer hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     営業代理店のお客様
@@ -409,7 +408,7 @@
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/spartan.png" alt="ランディングぺージスパルタ" />
                 </div>
               </div>
-              <div class="col-xs-12 col-sm-3 hidden-xs">
+              <div class="col-xs-12 col-sm-3 xs-t-buffer hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     新宿税理士事務所様
@@ -494,7 +493,7 @@
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：1</span>
                     </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                  <div class="col-xs-12 col-sm-9">
                     <h3 class="small-heading black-text font-bold">
                       通常の経営コンサルティングは地上戦と空中戦！？
                     </h3>
@@ -516,7 +515,7 @@
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：2</span>
                     </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                  <div class="col-xs-12 col-sm-9">
                     <h3 class="small-heading black-text font-bold">
                       2割の原因が8割の結果を生んでいる！？
                     </h3>
@@ -537,7 +536,7 @@
                       <i class="fa fa-clipboard"></i><span class="agreespan">理由：3</span>
                     </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9 xs-t-buf-padding">
+                  <div class="col-xs-12 col-sm-9">
                     <h3 class="small-heading black-text font-bold">
                       今後のトレンドは！？
                     </h3>
@@ -635,9 +634,9 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12 margin-t80">
             <?php if (is_mobile()) :?>
-                <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="集客オプション" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee_sp.png" class="worksimg" alt="集客オプション" />
             <?php else :?>
-              <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="集客オプション" />
+                <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="集客オプション" />
             <?php endif ?>
           </div>
         </div>

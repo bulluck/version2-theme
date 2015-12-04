@@ -618,6 +618,10 @@ hr {
     width: 85%;
 }
 
+.smaller-p {
+  font-size: 1rem;
+}
+
 
 
 }
@@ -676,6 +680,10 @@ hr {
   .ms-heading {
     font-size: 1.8rem;
   }
+
+  .smaller-p {
+    font-size: 1rem;
+  }
 }
 
 @media screen and (max-width:600px) and (orientation:portrait) {
@@ -708,7 +716,6 @@ hr {
 }
 
 .lpplan-top {
-    background-image: url(../images/n_kv_sp.png);
     height: 275px;
 }
 

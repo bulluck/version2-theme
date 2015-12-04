@@ -714,10 +714,6 @@ a:hover {
   .slicknav_nav li:first-child {
     border: 0;
   }
-
-  .contents-wrapper {
-    padding-top: 0;
-  }
 }
 .wrapper {
   max-width: 1366px;
@@ -1400,6 +1396,10 @@ hr {
     right: 7.5%;
     width: 85%;
   }
+
+  .smaller-p {
+    font-size: 1rem;
+  }
 }
 @media only screen and (max-width: 767px) {
   .contents-wrapper {
@@ -1457,6 +1457,10 @@ hr {
   .ms-heading {
     font-size: 1.8rem;
   }
+
+  .smaller-p {
+    font-size: 1rem;
+  }
 }
 @media screen and (max-width: 600px) and (orientation: portrait) {
   .cb-btn-1 {
@@ -1487,6 +1491,10 @@ hr {
     bottom: 7%;
     right: 9.3%;
     width: 80%;
+  }
+
+  .lpplan-top {
+    height: 275px;
   }
 }
 @media only screen and (max-width: 320px) {
