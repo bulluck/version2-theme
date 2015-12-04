@@ -989,8 +989,9 @@ div.wpcf7 img.ajax-loader {
   background-size: cover;
   width: 100%;
   height: 700px;
-  background-image: url(http://placehold.jp/64/777777/ffffff/1920x600.jpg);
   position: relative;
+  background-image: url(../images/lp-bg.png);
+  background-repeat: repeat;
 }
 
 .achieve-section {
