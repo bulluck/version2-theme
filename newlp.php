@@ -78,7 +78,7 @@
           <div class="col-xs-12 top-buffer">
             <p class="agreespan small-heading font-bold white-text">
             <i class="fa fa-frown-o"></i>
-              費用対効果が予想より下回ってしまう…
+              どんなランディングぺージを作ったらいいか。。
             </p>
           </div>
         </div>
@@ -86,7 +86,7 @@
           <div class="col-xs-12 top-buffer">
             <p class="agreespan small-heading font-bold white-text">
             <i class="fa fa-frown-o"></i>
-              アクセス数は上がったが注文・申込が増えない…
+              集客をしたことがないからわからない。。
             </p>
           </div>
         </div>
@@ -94,7 +94,7 @@
           <div class="col-xs-12 top-buffer">
             <p class="agreespan small-heading font-bold white-text">
             <i class="fa fa-frown-o"></i>
-              どこを改善すれば成果が上がるかわからない…
+              一発で売れるランディングぺージを作りたい。。
             </p>
           </div>
         </div>
