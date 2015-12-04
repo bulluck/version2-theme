@@ -207,7 +207,7 @@
               <div class="row purewhitebg bottom-buffer-padding">
                 <div class="col-xs-12">
                   <div class="col-xs-12 col-sm-12">
-                    <img src="#" alt="case2画像" />
+                    <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/car.jpg" alt="case2画像" class="worksimg"/>
                   </div>
                   <div class="col-xs-12 col-sm-12 top-buffer">
                       <p class="tagred white-text align-center">課題</p>
@@ -273,7 +273,7 @@
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-12">
-                      <img src="#" alt="case3画像" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/cut.jpg" alt="case3画像" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-12 top-buffer">
                         <p class="tagred white-text align-center">課題</p>
