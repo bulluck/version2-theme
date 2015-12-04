@@ -617,6 +617,15 @@ hr {
     right: 7.5%;
     width: 85%;
 }
+
+
+
+}
+
+@media only screen and (max-width:767px) {
+  .contents-wrapper {
+    padding-top: 0;
+  }
 }
 
 @media only screen and (max-width:600px) {
@@ -680,7 +689,10 @@ hr {
     right: 6.5%;
     width: 47.5%;
 }
-
+.lpplan-top {
+    background-image: url(../images/n_kv_sp.png);
+    height: 400px;
+}
 }
 
 @media only screen and (max-width:414px) {

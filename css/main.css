@@ -683,7 +683,7 @@ a:hover {
   line-height: 28px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 767px) {
   .topmenu {
     display: inline-block;
     top: -10px;
@@ -713,6 +713,10 @@ a:hover {
 
   .slicknav_nav li:first-child {
     border: 0;
+  }
+
+  .contents-wrapper {
+    padding-top: 0;
   }
 }
 .wrapper {
@@ -1397,6 +1401,11 @@ hr {
     width: 85%;
   }
 }
+@media only screen and (max-width: 767px) {
+  .contents-wrapper {
+    padding-top: 0;
+  }
+}
 @media only screen and (max-width: 600px) {
   .contents-wrapper {
     padding-top: 0;
@@ -1460,6 +1469,11 @@ hr {
     bottom: 6%;
     right: 6.5%;
     width: 47.5%;
+  }
+
+  .lpplan-top {
+    background-image: url(../images/n_kv_sp.png);
+    height: 400px;
   }
 }
 @media only screen and (max-width: 414px) {
