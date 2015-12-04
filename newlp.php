@@ -24,7 +24,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <?php if (wp_is_mobile()):?>
+            <?php if (is_mobile()):?>
                 <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
@@ -229,7 +229,7 @@
                     <p class="tagyellow white-text">
                       Point
                     </p>
-                      <ul class="point-list top-buffer-padding bottom-buffer-padding lightyellow-bg">
+                      <ul class="point-list lightyellow-bg">
                         <li>
                           <p class="smaller-p">
                             自社HPをスマホ対応にした大リニューアル
@@ -296,7 +296,7 @@
                       <p class="tagyellow white-text">
                         Point
                       </p>
-                        <ul class="point-list top-buffer-padding bottom-buffer-padding lightyellow-bg">
+                        <ul class="point-list lightyellow-bg">
                           <li>
                             <p class="smaller-p">
                               法人用・エンドユーザー用のHPとは別に採用HPを作成
@@ -328,7 +328,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <?php if (wp_is_mobile()):?>
+            <?php if (is_mobile()):?>
                 <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
@@ -445,7 +445,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <?php if (wp_is_mobile()):?>
+            <?php if (is_mobile()):?>
                 <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
@@ -567,7 +567,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-12 contact-box">
-          <?php if (wp_is_mobile()):?>
+          <?php if (is_mobile()):?>
               <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
           <?php else:?>
             <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
@@ -641,7 +641,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <?php if (wp_is_mobile()):?>
+            <?php if (is_mobile()):?>
                 <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
@@ -760,7 +760,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <?php if (wp_is_mobile()):?>
+            <?php if (is_mobile()):?>
                 <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
@@ -833,7 +833,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12 contact-box">
-            <?php if (wp_is_mobile()):?>
+            <?php if (is_mobile()):?>
                 <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
             <?php else:?>
               <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>

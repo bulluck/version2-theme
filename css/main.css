@@ -1293,7 +1293,7 @@ hr {
 }
 
 .point-list {
-  padding-left: 2rem;
+  padding: 30px 10px 30px 30px;
 }
 .point-list li {
   list-style-type: disc;
@@ -1350,18 +1350,20 @@ hr {
   }
 
   .cb-btn-1 {
-    bottom: 32%;
-    right: 15%;
-    width: 70%;
+    bottom: 26%;
+    right: 6%;
+    width: 48%;
   }
   .cb-btn-1:hover {
     opacity: 1;
   }
 
   .cb-btn-2 {
-    bottom: 10%;
-    right: 15.1%;
-    width: 70%;
+    bottom: 7%;
+    right: 6%;
+    width: 48%;
+  }
+  .cb-btn-2:hover {
     opacity: 1;
   }
 }
@@ -1398,6 +1400,13 @@ hr {
     color: #fff;
   }
 
+  .point-list li {
+    margin-top: 10px;
+  }
+  .point-list li:first-child {
+    margin-top: 0;
+  }
+
   .achieve-section .medium-heading {
     font-size: 2.2rem;
   }
@@ -1412,15 +1421,15 @@ hr {
   }
 
   .cb-btn-1 {
-    bottom: 32%;
-    right: 17.3%;
-    width: 65.5%;
+    bottom: 29%;
+    right: 9%;
+    width: 82%;
   }
 
   .cb-btn-2 {
-    bottom: 8.5%;
-    right: 17.3%;
-    width: 65.5%;
+    bottom: 6%;
+    right: 9%;
+    width: 82%;
   }
 
   .ms-heading {
