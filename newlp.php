@@ -130,7 +130,7 @@
                   <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
                 </div>
                 <div class="col-xs-12 col-sm-9">
-                  <h3 class="medium-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
+                  <h3 class="ms-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
                 </div>
               </div>
               <hr>
@@ -145,12 +145,12 @@
                     今後のことを考えると、WEBからの集客導線がないのは、致命的になると危惧されておりました。
                   </p>
 
-                  <p class="tagblue white-text align-center margin-t80">対策</p>
+                  <p class="tagblue white-text align-center top-buffer">対策</p>
                   <p class="small-text top-buffer">
                     自社の強みをヒアリング・競合調査・今後の展望をお伺いした上で、最大限、お問い合わせに繋がるお手伝いをさせていただきました。
                     WEB上からの集客導線を確立させるために自社の強みを活かしたランディグページの作成・リスティング広告の運用を開始致しました。
                   </p>
-                  <p class="taggreen white-text align-center margin-t80">実施後</p>
+                  <p class="taggreen white-text align-center top-buffer">実施後</p>
                   <p class="small-heading top-buffer">
                     問い合わせ数が1ヶ月で <span class="redtext">脅威の12倍！</span>
                   </p>
@@ -194,10 +194,11 @@
                 <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
                   <div class="row">
                     <div class="col-xs-12 col-sm-12">
-                      <h3 class="small-heading black-text font-bold">自社HPリニューアルにより<span class="redtext">販売台数が1.5倍に</span></h3>
+                      <h3 class="ms-heading black-text font-bold">自社HPリニューアルにより<span class="redtext">販売台数が1.5倍に</span></h3>
                     </div>
                   </div>
                   <hr>
+
                 </div>
               </div>
               <div class="row purewhitebg bottom-buffer-padding">
@@ -243,6 +244,7 @@
               <p class="white-text condensed-bold t-05rem">
               <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 3: 美容業のお客様</span>
               </p>
+
             </div>
 
             <div class="col-xs-12 col-sm-12 clip-board">
@@ -250,7 +252,7 @@
                   <div class="col-xs-12 top-buffer-padding bottom-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-12 col-sm-12">
-                        <h3 class="small-heading black-text font-bold">採用HP開設1年で新人スタッフ<span class="redtext">10名採用！</span></h3>
+                        <h3 class="ms-heading black-text font-bold">採用HP開設1年で新人スタッフ<span class="redtext">10名採用！</span></h3>
                       </div>
                     </div>
                     <hr>
@@ -264,11 +266,11 @@
                           かつては、人気のあった美容師でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
                         </p>
 
-                        <p class="tagblue white-text align-center margin-t80">対策</p>
+                        <p class="tagblue white-text align-center top-buffer">対策</p>
                         <p class="small-text top-buffer">
                           現在の応募方法をヒアリングし、目標の新人採用人数までのギャップを埋めるための施策をご提案致しました。現在のHPに加え、新たに採用HPを作ることを提案し、採用媒体のみに頼らない自社オリジナルの採用媒体を構築。
                         </p>
-                        <p class="taggreen white-text align-center margin-t80">実施後</p>
+                        <p class="taggreen white-text align-center top-buffer">実施後</p>
                         <p class="small-heading top-buffer">
                           １年で新人スタッフ10名採用！
                         </p>
@@ -344,7 +346,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="top-buffer-padding bottom-buffer-padding medium-heading align-center bluebg">
+            <h2 class="top-buffer-padding bottom-buffer-padding ms-heading align-center bluebg">
               ランディングぺージ運用の圧倒的な実績
             </h2>
           </div>
@@ -397,7 +399,7 @@
                 </div>
               </div>
             <div class="col-xs-12 col-sm-12 margin-t80">
-              <h3 class="medium-heading top-buffer-padding bottom-buffer-padding black-text align-center lightyellow-bg">
+              <h3 class="ms-heading top-buffer-padding bottom-buffer-padding black-text align-center lightyellow-bg">
                   <i class="fa fa-mobile bluetext-lp"></i>
                  <span class="agreespan font-bold">スマートフォンにも最適化！</span>
               </h3>
