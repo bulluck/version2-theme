@@ -372,7 +372,7 @@
                     営業代理店のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    人材採用、ランディングぺージ型ホームページ制作のご相談をいただきました。詳しくはお問い合わせください。
+                    人材採用、ランディングぺージ型ホームページ制作のご相談です。詳しくはお問い合わせください。
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
                 </div>
