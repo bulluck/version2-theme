@@ -130,7 +130,7 @@
                   <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
                 </div>
                 <div class="col-xs-12 col-sm-8">
-                  <h3 class="medium-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
+                  <h3 class="ms-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
                 </div>
               </div>
               <hr>
@@ -198,7 +198,7 @@
                   <img src="" alt="自動車販売事業" />
                 </div>
                 <div class="col-xs-12 col-sm-9">
-                  <h3 class="medium-heading black-text font-bold">自社HPリニューアルにより<span class="redtext">販売台数が1.5倍に</span></h3>
+                  <h3 class="ms-heading black-text font-bold">自社HPリニューアルにより<span class="redtext">販売台数が1.5倍に</span></h3>
                 </div>
               </div>
               <hr>
@@ -261,7 +261,7 @@
                         <img src="" alt="何か画像" />
                       </div>
                       <div class="col-xs-12 col-sm-9">
-                        <h3 class="medium-heading black-text font-bold">採用HP開設1年で新人スタッフ<span class="redtext">10名採用！</span></h3>
+                        <h3 class="ms-heading black-text font-bold">採用HP開設1年で新人スタッフ<span class="redtext">10名採用！</span></h3>
                       </div>
                     </div>
                     <hr>
