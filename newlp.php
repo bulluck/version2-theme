@@ -360,7 +360,7 @@
                     IT事業の株式会社ブラック
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    このランディングぺージ、実はすごい実績を更新し続けています。詳しくはお問い合わせください。
+                    このランディングぺージ、実はすごい実績を更新し続けています。詳しくはお問い合わせください。<br>
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck.png" alt="ランディングぺージヒューマングロー" />
                 </div>
@@ -383,7 +383,7 @@
                     英会話教室のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                  集客、リスティング広告の運用指導のご相談をいただきました。詳しくはお問い合わせください。
+                  集客、リスティング広告の運用指導のご相談をいただきました。詳しくはお問い合わせください。<br>
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/spartan.png" alt="ランディングぺージスパルタ" />
                 </div>
@@ -394,7 +394,7 @@
                     新宿税理士事務所様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    ランディングぺージ制作、集客のご相談をいただきました。詳しくはお問い合わせください。</p>
+                    ランディングぺージ制作、集客のご相談をいただきました。詳しくはお問い合わせください。<br></p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/shinjuku.png" alt="ランディングぺージブラック" />
                 </div>
               </div>
