@@ -362,7 +362,7 @@
                   <p class="top-buffer-padding small-text">
                     このランディングぺージ、実はすごい実績を更新し続けています。詳しくはお問い合わせください。
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/human-grow-lp.png" alt="ランディングぺージヒューマングロー" />
+                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck.png" alt="ランディングぺージヒューマングロー" />
                 </div>
 
               </div>
