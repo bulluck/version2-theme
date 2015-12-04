@@ -159,7 +159,7 @@
               <div class="col-xs-12 col-sm-6 hidden-xs">
                 <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ヒューマングローLP" class="worksimg" />
               </div>
-              <div class="col-xs-12 margin-t80">
+              <div class="col-xs-12 top-buffer">
                 <p class="tagyellow white-text">
                   Point
                 </p>
@@ -209,16 +209,16 @@
                         以前より、HPはあったものの在庫状況やブログ等は全く更新されておらず、実質役目を果たしていない状況。時代の流れのせいもあり、10年前から比べると来店数も半減し、打開しなればならない状況でした。
                       </p>
 
-                      <p class="tagblue white-text align-center margin-t80">対策</p>
+                      <p class="tagblue white-text align-center top-buffer">対策</p>
                       <p class="small-text top-buffer">
                         VIPカーを専門に扱うという明確な特色がありました。情報発信の質と量の双方を高めた自社HPリニューアルに着手しました。以前はポータルサイトからの問い合わせのみであったが、自社HPからのメール・電話を増やしました。
                       </p>
-                      <p class="taggreen white-text align-center margin-t80">実施後</p>
+                      <p class="taggreen white-text align-center top-buffer">実施後</p>
                       <p class="small-heading top-buffer">
                         販売台数が1.5倍に！
                       </p>
                   </div>
-                  <div class="col-xs-12 margin-t80">
+                  <div class="col-xs-12 top-buffer">
                     <p class="tagyellow white-text">
                       Point
                     </p>
