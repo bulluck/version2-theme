@@ -278,7 +278,7 @@
                     <div class="col-xs-12 col-sm-12 top-buffer">
                         <p class="tagred white-text align-center">課題</p>
                         <p class="smaller-p top-buffer height-fixed-kadai">
-                          かつては、人気のあった美容師でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
+                          かつては、人気のあった美容室でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
                         </p>
 
                         <p class="tagblue white-text align-center top-buffer">対策</p>
