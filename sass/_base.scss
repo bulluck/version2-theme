@@ -291,6 +291,15 @@ div.wpcf7 img.ajax-loader {
   display: table-cell;
   vertical-align: middle;
 }
+
+.height-fixed-kadai {
+  height: 160px;
+}
+
+.pl-height-fixed {
+  height: 220px;
+}
+
 .fee-area {
   background-image: url(#{$img-path}new_fee.png);
   background-size: auto;
@@ -590,6 +599,13 @@ hr {
       opacity: 1;
     }
   }
+
+  .pl-height-fixed {
+    height: auto;
+  }
+  .height-fixed-kadai {
+    height: auto;
+  }
 }
 @media only screen and (max-width:768px) {
   .lp-tablecell .medium-heading {
@@ -603,6 +619,9 @@ hr {
   }
   .clip-board br {
     display: none;
+  }
+  .height-fixed-kadai {
+    height: 144px;
   }
 }
 
@@ -684,6 +703,13 @@ hr {
   .smaller-p {
     font-size: 1rem;
   }
+
+  .pl-height-fixed {
+    height: auto;
+  }
+  .height-fixed-kadai {
+    height: auto;
+  }
 }
 
 @media screen and (max-width:600px) and (orientation:portrait) {
@@ -701,6 +727,8 @@ hr {
     background-image: url(../images/n_kv_sp.png);
     height: 400px;
 }
+
+
 }
 
 @media only screen and (max-width:414px) {
