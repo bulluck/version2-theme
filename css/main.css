@@ -1490,10 +1490,6 @@ hr {
     font-size: 1.8rem;
   }
 
-  .sp-br br {
-    display: inline;
-  }
-
   .smaller-p {
     font-size: 1rem;
   }
@@ -1544,6 +1540,10 @@ hr {
 
   .lpplan-top {
     height: 275px;
+  }
+
+  .sp-br br {
+    display: inline;
   }
 }
 @media only screen and (max-width: 320px) {
