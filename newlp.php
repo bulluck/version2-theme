@@ -1,7 +1,7 @@
 <article class="lp-wrapper purewhitebg">
   <div class="lp-topbar align-center">
-    <p class="small-heading white-text">
-    《月末キャンペーン実施中！》２万円分のオプション無料券もれなくプレゼント！
+    <p class="white-text">
+    月末キャンペーン中！２万円分のオプションプレゼント！
     </p>
   </div>
   <div class="container-fluid">

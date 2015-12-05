@@ -1116,6 +1116,9 @@ div.wpcf7 img.ajax-loader {
   width: 100%;
   background-color: #e83343;
 }
+.lp-topbar p {
+  font-size: 2rem;
+}
 
 .lp-top-text {
   padding: 10px 0;
@@ -1382,6 +1385,11 @@ hr {
   .height-fixed-kadai {
     height: auto;
   }
+
+  .lp-topbar p {
+    font-size: 2rem;
+    padding: 3px 0;
+  }
 }
 @media only screen and (max-width: 768px) {
   .lp-tablecell .medium-heading {
@@ -1488,6 +1496,11 @@ hr {
 
   .height-fixed-kadai {
     height: auto;
+  }
+
+  .lp-topbar p {
+    font-size: 1rem;
+    padding: 3px 0;
   }
 }
 @media screen and (max-width: 600px) and (orientation: portrait) {
