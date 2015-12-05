@@ -278,7 +278,7 @@
                     <div class="col-xs-12 col-sm-12 top-buffer">
                         <p class="tagred white-text align-center">課題</p>
                         <p class="smaller-p top-buffer height-fixed-kadai">
-                          かつては、人気のあった美容師でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
+                          かつては、人気のあった美容室でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
                         </p>
 
                         <p class="tagblue white-text align-center top-buffer">対策</p>
@@ -481,7 +481,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12" id="reason">
-            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason">成果の出る理由</h2>
+            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason">ブラックメソッド:勝てる理由</h2>
           </div>
         </div>
           <div class="row">
@@ -490,7 +490,7 @@
                 <div class="row">
                   <div class="col-xs-6 col-sm-3">
                     <div class="blackbg font-bold white-text small-heading align-center">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">理由：1</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">その1</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9">
@@ -504,7 +504,7 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <p class="small-text">
-                      2時間で40万円のコンサルティングフィーを頂く経営コンサルタントが行う戦略は大きく分けて2つあり、 一つは地上戦(リアルマーケティング：チラシやDMなど)、もう一つは空中戦（Webマーケティング）です。 配分する労力でいうと、8割をリアルマーケティングに割き、残りの2割をWebマーケティングに割きます。
+                      2時間で30万円のコンサルティングフィーを頂く経営コンサルタントが行う戦略は大きく分けて2つあり、 一つは地上戦(リアルマーケティング：チラシやDMなど)、もう一つは空中戦（Webマーケティング）です。 配分する労力でいうと、8割をリアルマーケティングに割き、残りの2割をWebマーケティングに割きます。
                     </p>
                   </div>
                 </div>
@@ -512,7 +512,7 @@
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3">
                     <div class="blackbg font-bold white-text small-heading align-center">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">理由：2</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">その2</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9">
@@ -526,14 +526,14 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <p class="small-text">
-                      しかし、肝心の成果、つまり売り上げは、総売上の8割がWebマーケティングの集客から成ります。 労力を割いているリアルマーケティングからの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いのです。
+                      しかし、肝心の成果、つまり売り上げは、ほとんどの企業様は、総売上の8割がWebマーケティングの集客から成ります。 労力を割いているリアルマーケティングからの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いと言えます。
                     </p>
                   </div>
                 </div>
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3">
                     <div class="blackbg font-bold white-text small-heading align-center">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">理由：3</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">その3</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9">
@@ -547,7 +547,7 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <p class="small-text">
-                      今後、スマホシフトへの流れを加味すると、このWebへの比重はさらに増加します。 これは時代の趨勢であり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中することで、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webのマーケティング戦略の大部分はWebサイトに織り込むことが可能です。 そこで、サイト構築の段階からマーケティング戦略をHPに落とし込むことで、 低コストで成果の出易いWebサイトの制作を実現しました。
+                      今後、スマホシフトへの流れを加味すると、このWebマーケティングへの比重はさらに増加します。 これは時代のトレンドであり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中する戦略により、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webのマーケティング戦略の大部分はWebサイト・ランディングページに織り込むことが可能です。 そこで、構築の段階からマーケティング戦略を落とし込むことで、 低コストで成果の出易いWebサイト・ランディングページの制作を実現しました。
                     </p>
                   </div>
                 </div>
