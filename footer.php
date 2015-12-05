@@ -33,7 +33,7 @@
       array(
       'container'  => '',
       'container_class' => '',
-      'theme_location' => 'place_global'
+      'theme_location' => 'footer_menu'
       )
       )
     ;?>
