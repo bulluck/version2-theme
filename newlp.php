@@ -211,7 +211,7 @@
                   </div>
                   <div class="col-xs-12 col-sm-12 top-buffer">
                       <p class="tagred white-text align-center">課題</p>
-                      <p class="smaller-p top-buffer">
+                      <p class="smaller-p top-buffer height-fixed-kadai">
                         以前より、HPはあったものの在庫状況やブログ等は全く更新されておらず、実質役目を果たしていない状況。時代の流れのせいもあり、10年前から比べると来店数も半減し、打開しなればならない状況でした。
                       </p>
 
@@ -228,14 +228,14 @@
                     <p class="tagyellow white-text">
                       Point
                     </p>
-                      <ul class="point-list lightyellow-bg">
+                      <ul class="point-list lightyellow-bg pl-height-fixed">
                         <li>
                           <p class="smaller-p">
                             自社HPをスマホ対応にした大リニューアル
                           </p>
                         </li>
                         <li>
-                          <p class="smaller-p ">
+                          <p class="smaller-p">
                             各SNSサイトとの連動
                           </p>
                         </li>
@@ -277,13 +277,13 @@
                     </div>
                     <div class="col-xs-12 col-sm-12 top-buffer">
                         <p class="tagred white-text align-center">課題</p>
-                        <p class="smaller-p top-buffer">
+                        <p class="smaller-p top-buffer height-fixed-kadai">
                           かつては、人気のあった美容師でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
                         </p>
 
                         <p class="tagblue white-text align-center top-buffer">対策</p>
                         <p class="smaller-p top-buffer">
-                          現在の応募方法をヒアリングし、目標の新人採用人数までのギャップを埋めるための施策をご提案致しました。現在のHPに加え、新たに採用HPを作ることを提案し、採用媒体のみに頼らない自社オリジナルの採用媒体を構築。
+                          現在の応募方法をヒアリングし、目標の新人採用人数までのギャップを埋めるための施策をご提案致しました。現在のHPに加え、新たに採用HPを作ることを提案し、採用媒体のみに頼らない自社オリジナルの採用媒体を構築しました。
                         </p>
                         <p class="taggreen white-text align-center top-buffer">実施後</p>
                         <p class="smaller-p top-buffer">
@@ -295,7 +295,7 @@
                       <p class="tagyellow white-text">
                         Point
                       </p>
-                        <ul class="point-list lightyellow-bg">
+                        <ul class="point-list lightyellow-bg pl-height-fixed">
                           <li>
                             <p class="smaller-p">
                               法人用・エンドユーザー用のHPとは別に採用HPを作成
