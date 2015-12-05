@@ -481,7 +481,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12" id="reason">
-            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason">成果の出る理由：ブラックメソッド</h2>
+            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason">ブラックメソッド:勝つ理由</h2>
           </div>
         </div>
           <div class="row">
