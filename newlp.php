@@ -135,7 +135,7 @@
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
                     <div class="col-xs-12 visible-xs">
-                        <img src="#" alt="" class="worksimg"/>
+                        <img src="#" alt="case1スマホ画像" class="worksimg"/>
                     </div>
                     <div class="col-xs-12 col-sm-6">
                         <p class="tagred white-text align-center">課題</p>
