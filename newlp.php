@@ -107,7 +107,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="medium-heading font-bold align-center solve top-buffer-padding">ブラックメソッドでお悩み解決！</h2>
+            <h2 class="medium-heading font-bold align-center solve top-buffer-padding sp-br">ブラックメソッドで<br>お悩み解決！</h2>
           </div>
         </div>
         <!-- case1 -->
@@ -368,8 +368,8 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="top-buffer-padding bottom-buffer-padding ms-heading align-center bluebg">
-              ランディングぺージ運用の圧倒的な実績
+            <h2 class="top-buffer-padding bottom-buffer-padding ms-heading align-center bluebg sp-br">
+              ランディングぺージ運用の<br>圧倒的な実績
             </h2>
           </div>
         </div>
@@ -424,7 +424,7 @@
             <div class="col-xs-12 col-sm-12 margin-t80">
               <h3 class="ms-heading top-buffer-padding bottom-buffer-padding black-text align-center skyblue-bg">
                   <i class="fa fa-mobile bluetext-lp hidden-xs hidden-sm"> </i>
-                 <span class="agreespan font-bold">スマートフォンにも最適化！</span>
+                 <span class="agreespan font-bold sp-br">スマートフォンにも<br>最適化！</span>
               </h3>
             </div>
             <div class="col-xs-12 col-sm-12">
@@ -484,7 +484,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12" id="reason">
-            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason">ブラックメソッド:勝てる理由</h2>
+            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason sp-br">ブラックメソッド<br>:勝てる理由</h2>
           </div>
         </div>
           <div class="row">

@@ -558,6 +558,13 @@ hr {
 .ms-heading {
   font-size: 3rem;
 }
+
+.sp-br {
+  br {
+    display: none;
+  }
+}
+
 @media only screen and (max-width:1024px) {
   .contents-wrapper {
     padding-top: 70px;
@@ -707,6 +714,12 @@ hr {
 
   .ms-heading {
     font-size: 1.8rem;
+  }
+
+  .sp-br {
+    br {
+      display: inline;
+    }
   }
 
   .smaller-p {
