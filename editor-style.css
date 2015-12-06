@@ -2,19 +2,17 @@
 
 .entry h2 {
     font-size: 2rem;
-      font-weight: bold;
-      color: #000;
-      background-color: rgba(149, 149, 149, 0.45);
-      padding: 0.4rem 1rem;
-	  margin: 3rem 0 2rem 0;
-      border-bottom: 3px solid #000;
+      color:  #ffffff;
+      background-color:rgb(17, 17, 17);
+      padding: 0rem 1rem;
+	  margin: 4rem 0 2rem 0;
 }
 
 .entry h3 {
   font-size: 1.5rem;
     font-weight: bold;
     color: #000;
-    padding: 0.2rem 1rem;
+    padding: 0rem 1rem;
     border-bottom: 1px solid #000;
-	margin: 2rem 0 1rem 0;
+	margin: 3rem 0 1rem 0;
 }
