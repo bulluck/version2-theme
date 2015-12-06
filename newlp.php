@@ -25,9 +25,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
@@ -123,7 +123,7 @@
                   <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-4 col-sm-2 align-center xs-b-buffer">
-                        <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
+                        <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="LP事例" class="worksimg" />
                       </div>
                       <div class="col-xs-12 col-sm-10">
                         <h3 class="small-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
@@ -135,7 +135,7 @@
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
                     <div class="col-xs-12 visible-xs bottom-buffer-padding">
-                        <img src="<?php bloginfo('template_directory');?>/images/human2.png" alt="case1スマホ画像" class="worksimg"/>
+                        <img src="<?php bloginfo('template_directory');?>/images/human2.png" alt="case1LP画像" class="worksimg"/>
                     </div>
                     <div class="col-xs-12 col-sm-6">
                         <p class="tagred white-text align-center">課題</p>
@@ -156,7 +156,7 @@
 
                     </div>
                     <div class="col-xs-12 col-sm-6 hidden-xs">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ヒューマングローLP" class="worksimg" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ランディングページ事例" class="worksimg" />
                     </div>
                     <div class="col-xs-12 top-buffer">
                       <p class="tagyellow white-text">
@@ -210,7 +210,7 @@
               <div class="row purewhitebg bottom-buffer-padding">
                 <div class="col-xs-12">
                   <div class="col-xs-12 col-sm-12">
-                    <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/car.jpg" alt="case2画像" class="worksimg"/>
+                    <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/car.jpg" alt="ランディングページ事例2" class="worksimg"/>
                   </div>
                   <div class="col-xs-12 col-sm-12 top-buffer">
                       <p class="tagred white-text align-center">課題</p>
@@ -276,7 +276,7 @@
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-12">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/cut.jpg" alt="case3画像" class="worksimg" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/cut.jpg" alt="ランディングページ事例3" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-12 top-buffer">
                         <p class="tagred white-text align-center">課題</p>
@@ -331,9 +331,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
@@ -429,10 +429,10 @@
             </div>
             <div class="col-xs-12 col-sm-12">
               <div class="col-xs-12 col-sm-6 top-buffer">
-                <img src="http://i1.wp.com/bulluck.co.jp/version2/wp-content/uploads/2015/11/moc_hg.png" class="worksimg border-container" alt="ヒューマングロースマホ" />
+                <img src="http://i1.wp.com/bulluck.co.jp/version2/wp-content/uploads/2015/11/moc_hg.png" class="worksimg border-container" alt="スマホ版ランディングページ" />
               </div>
               <div class="col-xs-12 col-sm-6 top-buffer">
-                <img src="http://i0.wp.com/bulluck.co.jp/version2/wp-content/uploads/2015/11/moc_onese.png" class="worksimg border-container" alt="oneseスマホ" />
+                <img src="http://i0.wp.com/bulluck.co.jp/version2/wp-content/uploads/2015/11/moc_onese.png" class="worksimg border-container" alt="スマホ版ランディングページ２" />
               </div>
             </div>
           </div>
@@ -448,9 +448,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
@@ -570,9 +570,9 @@
       <div class="row">
         <div class="col-xs-12 contact-box">
           <?php if (is_mobile()):?>
-              <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
           <?php else:?>
-            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
           <?php endif; ?>
           <div class="col-xs-12 col-sm-12 hidden">
             <h2>
@@ -615,9 +615,9 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12 margin-t80">
             <?php if (is_mobile()):?>
-              <img src="<?php bloginfo('template_directory');?>/images/new_fee_sp.png" alt="料金表" class="worksimg" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_fee_sp.png" alt="ブラックランディングページ料金表" class="worksimg" />
             <?php else:?>
-            <img src="<?php bloginfo('template_directory');?>/images/new_fee.png" alt="料金表" class="worksimg" />
+            <img src="<?php bloginfo('template_directory');?>/images/new_fee.png" alt="ブラックランディングページ料金表" class="worksimg" />
           <?php endif;?>
           </div>
         </div>
@@ -637,9 +637,9 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12 margin-t80">
             <?php if (is_mobile()) :?>
-              <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee_sp.png" class="worksimg" alt="集客オプション" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee_sp.png" class="worksimg" alt="ブラック集客オプション" />
             <?php else :?>
-                <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="集客オプション" />
+                <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="ブラック集客オプション" />
             <?php endif ?>
           </div>
         </div>
@@ -652,9 +652,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
@@ -771,9 +771,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
@@ -844,9 +844,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
