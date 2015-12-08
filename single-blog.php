@@ -22,6 +22,7 @@
 				<div class="sns-btn clearfix">
 					<?php get_template_part('sns'); ?>
 				</div>
+				<div class="top-buffer">
 				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<!-- ブラックメディア広告 -->
 				<ins class="adsbygoogle"
@@ -32,7 +33,10 @@
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
+				</div>
 				<div class="entry top-buffer"><?php the_content(); ?></div>
+				<div class="top-buffer">
+
 				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<!-- ブラックメディア広告 -->
 				<ins class="adsbygoogle"
@@ -43,6 +47,7 @@
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
+				</div>
 					<div class="pagelink clearfix">
 <?php
 if (get_next_post()) {
