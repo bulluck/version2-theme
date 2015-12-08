@@ -141,7 +141,7 @@ a {
 .greentext {
   color: $taggreencolor;
 }
-.yellotext {
+.yellowtext {
   color: $tagyellowcolor;
 }
 .purpletext {
@@ -299,6 +299,21 @@ a {
     color: $taggreencolor;
   }
 }
+
+.tagyellow-link {
+  .tagyellow:hover {
+    background: #f2f2f2;
+    color: $tagyellowcolor;
+  }
+}
+
+.tagpurple-link {
+  .tagpurple:hover {
+    background: #f2f2f2;
+    color: $tagpurplecolor;
+  }
+}
+
 .tagpurple {
   @extend .tagred;
   background: $tagpurplecolor;

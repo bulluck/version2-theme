@@ -1,15 +1,15 @@
 <?php get_header(); ?>
-<div class="lower-top" id="cafe">
+<div class="lower-top" id="note">
 <div class="section-table">
 <div class="container-fluid s-table-cell">
 	<div class="row">
 	<div class="col-xs-12 top-buffer">
 		<p class="small-heading lighter-gray condensed-bold">BLOGS</p>
 		<h1 class="large-heading condensed-bold">
-			Cafe
+			Note
 		</h1>
 		<p class="top-buffer small-text white-text">
-			ノマドワーカーたちへの使えるカフェ情報を、実際に調査してお伝えいたします。
+			ブラックの考え方や日々の雑記帳をお伝えします。
 		</p>
 	</div>
 	</div>
@@ -47,13 +47,13 @@
 				<?php endif; ?>
 					</div>
 					<div class="col-xs-12 purewhitebg parent-relative archive-card">
-						<span class="tagyellow white-text condensed-bold child-absolute">Cafe</span>
+						<span class="tagpurple white-text condensed-bold child-absolute">Note</span>
 						<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
 						<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
 						<p class="small-text blog-top-buffer">
 							<?php the_excerpt(); ?>
 						</p>
-						<div class="term"><?php the_terms($post->ID, 'cafe'); ?></div>
+						<div class="term"><?php the_terms($post->ID, 'note'); ?></div>
 					</div>
 				</div>
 <?php endwhile; endif; ?>

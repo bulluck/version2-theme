@@ -187,7 +187,7 @@ a:hover {
   color: #87AD5A;
 }
 
-.yellotext {
+.yellowtext {
   color: #B19051;
 }
 
@@ -366,6 +366,16 @@ a:hover {
 .taggreen-link .taggreen:hover {
   background: #f2f2f2;
   color: #87AD5A;
+}
+
+.tagyellow-link .tagyellow:hover {
+  background: #f2f2f2;
+  color: #B19051;
+}
+
+.tagpurple-link .tagpurple:hover {
+  background: #f2f2f2;
+  color: #8D6DE9;
 }
 
 .tagpurple {
@@ -857,7 +867,7 @@ div.wpcf7 img.ajax-loader {
      object-fit: cover;
 }
 
-#technology, #marketing, #trend, #cafe, #blog {
+#technology, #marketing, #trend, #cafe, #note, #blog {
   background-image: url(../images/tech.jpg);
   background-repeat: no-repeat;
   background-position: center center;
@@ -874,6 +884,10 @@ div.wpcf7 img.ajax-loader {
 
 #cafe {
   background-image: url(../images/cafe.jpg);
+}
+
+#note {
+  background-image: url(../images/note.jpg);
 }
 
 #blog {
@@ -947,6 +961,10 @@ div.wpcf7 img.ajax-loader {
 }
 .entry ul li {
   list-style-type: disc;
+}
+.entry ul ol {
+  padding-left: 1.5rem;
+  list-style-type: decimal;
 }
 
 .nav-previous {
