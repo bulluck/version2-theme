@@ -17,7 +17,7 @@
 				<?php if (have_posts()) :
                                 while (have_posts()) :
                          the_post(); ?>
-				<h1 class="condensed-bold small-heading"><a class="black-text" href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
+				<h1 class="condensed-bold small-heading black-text"><?php the_title(); ?></h1>
 				<div class="data top-buffer"><?php the_time('Y/m/d'); ?></div>
 				<div class="sns-btn clearfix">
 					<?php get_template_part('sns'); ?>

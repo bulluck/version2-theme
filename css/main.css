@@ -857,7 +857,7 @@ div.wpcf7 img.ajax-loader {
      object-fit: cover;
 }
 
-#technology, #marketing, #trend, #blog {
+#technology, #marketing, #trend, #cafe, #blog {
   background-image: url(../images/tech.jpg);
   background-repeat: no-repeat;
   background-position: center center;
@@ -870,6 +870,10 @@ div.wpcf7 img.ajax-loader {
 
 #trend {
   background-image: url(../images/trend.jpg);
+}
+
+#cafe {
+  background-image: url(../images/cafe.jpg);
 }
 
 #blog {

@@ -154,6 +154,11 @@ div.wpcf7 img.ajax-loader {
   @extend #technology;
   background-image: url(#{$img-path}trend.jpg);
 }
+#cafe {
+  @extend #technology;
+  background-image: url(#{$img-path}cafe.jpg);
+}
+
 #blog {
   @extend #technology;
   background-image: url(#{$img-path}blog.jpg);
