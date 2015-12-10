@@ -15,7 +15,8 @@
 	</div>
 </div>
 </div>
-		</div>
+</div>
+
 <section class="section-padding80">
 	<div class="container-center">
 		<div class="container-fluid">
