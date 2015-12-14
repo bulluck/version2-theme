@@ -274,6 +274,8 @@ div.wpcf7 img.ajax-loader {
 }
 
 .entry {
+  text-align: justify;
+  line-height: 2.2;
 p {
   line-height: 2.2;
   font-size: 1.1rem;
@@ -310,6 +312,9 @@ blockquote {
     color: #ccc;
     }
 }
+img {
+  max-width: 100%;
+}
 }
 .nav-previous {
   float: left;
@@ -317,12 +322,7 @@ blockquote {
 .nav-next {
   float: right;
 }
-.entry {
-  line-height: 1.7;
-  img {
-    max-width: 100%;
-  }
-}
+
 .hidden {
   display: none;
 }
