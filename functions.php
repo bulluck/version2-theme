@@ -89,8 +89,8 @@ register_sidebar(array(
         'description' => 'サイドバー上部のウィジェットエリア',
         'before_widget' => '<aside id="%1$s" class="widget-container %2$s">',
         'after_widget' => '</aside>',
-        'before_title' => '<h2 class="widget-title">',
-        'after_title' => '</h2>'
+        'before_title' => '<div class="widget-title">',
+        'after_title' => '</div>'
 ));
 
 register_sidebar(array(

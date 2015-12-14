@@ -103,6 +103,18 @@ img {
   height: auto;
 }
 
+.breadcrumb-row {
+  padding: 10px 0;
+  background: #ededed;
+}
+
+.breadcrumbs {
+  color: $gray-text;
+  span {
+    color: $gray-text;
+  }
+}
+
 
 p {
   font-size: 1.5rem;

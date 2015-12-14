@@ -76,7 +76,8 @@
 								<?php endwhile; endif; ?>
 					</article>
 					<aside class="pull-left col-xs-12 col-sm-3 top-buffer-padding">
-						<?php get_template_part('sidebar'); ?>
+						<?php wp_list_categories(array('taxonomy' => 'trendcat', 'show_count' => 1)); ?>
+						<div class="fb-page" data-href="https://www.facebook.com/bulluck.co.jp/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bulluck.co.jp/"><a href="https://www.facebook.com/bulluck.co.jp/">Bulluck Co., Ltd.</a></blockquote></div></div>
 					</aside>
 				</div>
 			</div>

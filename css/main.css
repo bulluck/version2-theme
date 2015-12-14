@@ -139,6 +139,18 @@ img {
   height: auto;
 }
 
+.breadcrumb-row {
+  padding: 10px 0;
+  background: #ededed;
+}
+
+.breadcrumbs {
+  color: #666;
+}
+.breadcrumbs span {
+  color: #666;
+}
+
 p {
   font-size: 1.5rem;
   line-height: 1.8;
@@ -744,6 +756,12 @@ a:hover {
   padding-top: 70px;
 }
 
+.container-blog {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1240px;
+}
+
 .lower-top {
   height: 300px;
   overflow: hidden;
@@ -867,6 +885,11 @@ div.wpcf7 img.ajax-loader {
      object-fit: cover;
 }
 
+.blog-card-title {
+  height: 100px;
+  padding: 10px;
+}
+
 #technology, #marketing, #trend, #cafe, #note, #blog {
   background-image: url(../images/tech.jpg);
   background-repeat: no-repeat;
@@ -902,6 +925,28 @@ div.wpcf7 img.ajax-loader {
   margin-top: 20px;
 }
 
+.widget-title {
+  padding: 10px;
+  background: #f2f2f2;
+}
+
+.side-cat-list {
+  padding-left: 30px;
+}
+.side-cat-list li {
+  list-style-type: square;
+  padding: 10px 0;
+}
+
+.tax-list {
+  padding-top: 10px;
+  width: 90%;
+  margin: 0 auto;
+}
+.tax-list li {
+  margin-top: 1px;
+}
+
 .sns-list li {
   display: inline-block;
   text-align: center;
@@ -911,7 +956,7 @@ div.wpcf7 img.ajax-loader {
   background: white;
 }
 .sns-list li a {
-  background: #545454;
+  background: #999;
   font-size: 1.5rem;
   color: white;
   display: block;

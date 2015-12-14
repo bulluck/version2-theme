@@ -24,6 +24,13 @@ $blog-buffer: 20px;
 .contents-wrapper {
   padding-top: 70px;
 }
+
+.container-blog {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1240px;
+}
+
 .lower-top {
   height: 300px;
   overflow: hidden;
@@ -139,7 +146,14 @@ div.wpcf7 img.ajax-loader {
     height: auto;
     object-fit: cover;
   }
+
 }
+
+.blog-card-title {
+  height: 100px;
+  padding: 10px;
+}
+
 #technology {
   background-image: url(#{$img-path}tech.jpg);
   background-repeat: no-repeat;
@@ -174,6 +188,29 @@ div.wpcf7 img.ajax-loader {
 .blog-top-buffer {
   margin-top: $blog-buffer;
 }
+
+.widget-title {
+  padding: 10px;
+  background: #f2f2f2;
+}
+
+.side-cat-list {
+  padding-left: 30px;
+  li{
+    list-style-type: square;
+    padding: 10px 0;
+  }
+}
+
+.tax-list {
+  padding-top: 10px;
+  width: 90%;
+  margin: 0 auto;
+  li {
+    margin-top: 1px;
+  }
+}
+
 .sns-list {
   li {
     display: inline-block;
