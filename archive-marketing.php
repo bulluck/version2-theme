@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<div class="lower-top" id="blog">
+<div class="lower-top" id="marketing">
 <div class="section-table">
 <div class="container-fluid s-table-cell">
 	<div class="row">
@@ -16,7 +16,7 @@
 </div>
 </div>
 		</div>
-<section class="margin-t80">
+<section class="section-padding80">
 	<div class="container-center">
 		<div class="container-fluid">
 			<div class="row">
@@ -30,42 +30,48 @@
 			</div>
 			<div class="row">
 					<div class="col-xs-12 col-sm-9 pull-right">
-						<span class="small-heading lighter-gray condensed-bold">Article Categories</span>
-						<h2 class="large-heading redtext condensed-bold">Marketing Theory</h2>
-						<p class="small-text top-buffer-padding">
-							マーケティング理論に関する最新情報をお届けします。
-						</p>
-											<?php query_posts(array(
-                                'post_type' => 'marketing', //カスタム投稿名
-                                'taxonomy' => 'marketingcat',
-                                'term' => 'marketing-theory',
-                                'posts_per_page' => 3 //表示件数（ -1 = 全件 ）
-                            )); ?>
-												<?php if (have_posts()): ?>
-												<?php while (have_posts()):the_post(); ?>
-																	<div class="col-xs-12 col-sm-4 top-buffer">
-																		<div class="blog-thumbnail">
-																			<?php if (has_post_thumbnail()):?>
-																				<a href="<?php the_permalink();?>">
-																				<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
-																				</a>
-																			<?php else: ?>
-																				<a href="<?php the_permalink();?>">
-																				<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
-																				</a>
-																			<?php endif; ?>
-																		</div>
-																		<div class="col-xs-12 purewhitebg blog-card-title">
-																			<p class="small-text"><?php the_time('Y/m/d'); ?></p>
-																			<h3 class="small-text font-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-																		</div>
-																	</div>
+						<div class="col-xs-12 col-sm-12">
 
-																			<?php endwhile;
-                                                                        endif; ?>
-																			<?php wp_reset_query(); ?>
+							<span class="small-heading lighter-gray condensed-bold">Article Categories</span>
+							<h2 class="large-heading redtext condensed-bold">Marketing Theory</h2>
+							<p class="small-text top-buffer-padding">
+								マーケティング理論に関する最新情報をお届けします。
+							</p>
+												<?php query_posts(array(
+                                    'post_type' => 'marketing', //カスタム投稿名
+                                    'taxonomy' => 'marketingcat',
+                                    'term' => 'marketing-theory',
+                                    'posts_per_page' => 3 //表示件数（ -1 = 全件 ）
+                                )); ?>
+													<?php if (have_posts()): ?>
+													<?php while (have_posts()):the_post(); ?>
+																		<div class="col-xs-12 col-sm-4 top-buffer">
+																			<div class="blog-thumbnail">
+																				<?php if (has_post_thumbnail()):?>
+																					<a href="<?php the_permalink();?>">
+																					<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
+																					</a>
+																				<?php else: ?>
+																					<a href="<?php the_permalink();?>">
+																					<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
+																					</a>
+																				<?php endif; ?>
+																			</div>
+																			<div class="col-xs-12 purewhitebg blog-card-title">
+																				<p class="small-text"><?php the_time('Y/m/d'); ?></p>
+																				<h3 class="small-text font-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+																			</div>
+																		</div>
+
+																				<?php endwhile;
+                                                                            endif; ?>
+																				<?php wp_reset_query(); ?>
+
 						</div>
-						<aside class="col-xs-12 col-sm-3 purewhitebg top-buffer-padding bottom-buffer-padding">
+					</div>
+						<!-- メインコンテンツここまで -->
+
+						<aside class="col-xs-12 col-sm-3">
 							<div class="widget-title font-bold">
 								マーケティング記事カテゴリ
 							</div>

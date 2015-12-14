@@ -1,14 +1,14 @@
 <?php get_header(); ?>
-<div class="lower-top" id="blog">
+<div class="lower-top" id="trend">
 <div class="section-table">
 <div class="container-fluid s-table-cell">
 	<div class="row">
 	<div class="col-xs-12 top-buffer">
 		<h1 class="large-heading condensed-bold align-center">
-			BLOG
+			トレンド
 		</h1>
 		<p class="top-buffer small-text white-text align-center">
-			Bulluck + BLOG = Bullog. いつでもブラックな情報を。
+			追うものではなく、創るものです。
 		</p>
 
 	</div>
@@ -16,292 +16,76 @@
 </div>
 </div>
 		</div>
-<section class="margin-t80">
+<section class="section-padding80">
 	<div class="container-center">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xs-12">
-
-				<div class="breadcrumbs bottom-buffer-padding">
-    <?php if (function_exists('bcn_display')) {
+					<div class="breadcrumbs bottom-buffer-padding">
+					    <?php if (function_exists('bcn_display')) {
     bcn_display();
 }?>
-</div>
+					</div>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-xs-12">
-					<span class="small-heading lighter-gray condensed-bold">Article Categories</span>
-					<a href="<?php echo home_url('/');?>blog/blogcategory/marketing/">
-						<h2 class="large-heading redtext condensed-bold">Marketing</h2>
-					</a>
-					<p class="small-text top-buffer-padding">
-						マーケティングに関する最新情報をお届けします。
-						<a class="redtext" href="<?php echo home_url('/');?>blog/blogcategory/marketing/">マーケティングに関する記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i></a>
-					</p>
-				</div>
-			</div>
-			<div class="row">
+					<div class="col-xs-12 col-sm-9 pull-right">
+						<div class="col-xs-12 col-sm-12">
 
-										<?php query_posts(array(
-                            'post_type' => 'marketing', //カスタム投稿名
-                            'taxonomy' => 'marketingcat',
-                            'posts_per_page' => 3 //表示件数（ -1 = 全件 ）
-                        )); ?>
-							<?php if (have_posts()): ?>
-							<?php while (have_posts()):the_post(); ?>
-												<div class="col-xs-12 col-sm-4 top-buffer">
-													<div class="blog-thumbnail">
-														<?php if (has_post_thumbnail()):?>
-															<a href="<?php the_permalink();?>">
-															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
-															</a>
-														<?php else: ?>
-															<a href="<?php the_permalink();?>">
-															<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
-															</a>
-														<?php endif; ?>
-													</div>
-													<div class="col-xs-12 purewhitebg parent-relative archive-card">
-														<a class="tagred-link" href="<?php echo home_url('/');?>blog/blogcategory/marketing/">
-															<span class="tagred white-text condensed-bold child-absolute">Marketing</span>
-														</a>
-														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-														<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
-														<p class="small-text blog-top-buffer">
-															<?php the_excerpt(); ?>
-														</p>
-													</div>
-												</div>
+							<span class="small-heading lighter-gray condensed-bold">Article Categories</span>
+							<h2 class="large-heading greentext condensed-bold">Gadget</h2>
+							<p class="small-text top-buffer-padding">
+								最新のガジェットに関する情報をお届けします。
+							</p>
+												<?php query_posts(array(
+                                    'post_type' => 'trend', //カスタム投稿名
+                                    'taxonomy' => 'trendcat',
+                                    'term' => 'gadget',
+                                    'posts_per_page' => 3 //表示件数（ -1 = 全件 ）
+                                )); ?>
+													<?php if (have_posts()): ?>
+													<?php while (have_posts()):the_post(); ?>
+																		<div class="col-xs-12 col-sm-4 top-buffer">
+																			<div class="blog-thumbnail">
+																				<?php if (has_post_thumbnail()):?>
+																					<a href="<?php the_permalink();?>">
+																					<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
+																					</a>
+																				<?php else: ?>
+																					<a href="<?php the_permalink();?>">
+																					<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
+																					</a>
+																				<?php endif; ?>
+																			</div>
+																			<div class="col-xs-12 purewhitebg blog-card-title">
+																				<p class="small-text"><?php the_time('Y/m/d'); ?></p>
+																				<h3 class="small-text font-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+																			</div>
+																		</div>
 
-											<?php endwhile;
-                                        endif; ?>
-											<?php wp_reset_query(); ?>
-										</div>
-									</div>
+																				<?php endwhile;
+                                                                            endif; ?>
+																				<?php wp_reset_query(); ?>
+						</div>
+					</div>
+						<aside class="col-xs-12 col-sm-3">
+							<div class="widget-title font-bold">
+								トレンド記事カテゴリ
+							</div>
+							<ul class="side-cat-list">
+								<?php wp_list_categories(array('title_li' => '', 'taxonomy' => 'trendcat', 'show_count' => 1)); ?>
+							</ul>
+
+							<div class="fb-page top-buffer" data-href="https://www.facebook.com/bulluck.co.jp/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bulluck.co.jp/"><a href="https://www.facebook.com/bulluck.co.jp/">Bulluck Co., Ltd.</a></blockquote></div></div>
+							<div>
+								<div class="widget-title font-bold top-buffer">
+									記事カテゴリ
 								</div>
-</section>
-<section class="margin-t80">
-	<div class="container-center">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-xs-12">
-					<span class="small-heading lighter-gray condensed-bold">Article Categories</span>
-					<h2 class="large-heading bluetext condensed-bold">Technology</h2>
-					<p class="small-text top-buffer-padding">
-						テクノロジーに関する最新情報をお届けします。
-						<a class="bluetext" href="<?php echo home_url('/');?>blog/blogcategory/technology/">テクノロジーに関する記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i></a>
-
-					</p>
+								<?php get_sidebar(); ?>
+							</div>
+						</aside>
 				</div>
 			</div>
-			<div class="row">
-
-										<?php query_posts(array(
-                            'post_type' => 'blog', //カスタム投稿名
-                            'taxonomy' => 'blogcategory',
-                            'term' => 'technology',
-                            'posts_per_page' => 3 //表示件数（ -1 = 全件 ）
-                        )); ?>
-							<?php if (have_posts()): ?>
-							<?php while (have_posts()):the_post(); ?>
-												<div class="col-xs-12 col-sm-4 top-buffer">
-													<div class="blog-thumbnail">
-														<?php if (has_post_thumbnail()):?>
-															<a href="<?php the_permalink();?>">
-															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
-															</a>
-														<?php else: ?>
-															<a href="<?php the_permalink();?>">
-															<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
-															</a>
-														<?php endif; ?>
-													</div>
-													<div class="col-xs-12 purewhitebg parent-relative archive-card">
-														<a class="tagblue-link" href="<?php echo home_url('/');?>blog/blogcategory/technology/">
-															<span class="tagblue white-text condensed-bold child-absolute">Technology</span>
-														</a>
-														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-														<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
-														<p class="small-text blog-top-buffer">
-															<?php the_excerpt(); ?>
-														</p>
-													</div>
-												</div>
-
-											<?php endwhile;
-                                        endif; ?>
-											<?php wp_reset_query(); ?>
-										</div>
-									</div>
-								</div>
+		</div>
 </section>
-<section class="margin-t80">
-	<div class="container-center">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-xs-12">
-					<span class="small-heading lighter-gray condensed-bold">Article Categories</span>
-					<h2 class="large-heading greentext condensed-bold">Trend</h2>
-					<p class="small-text top-buffer-padding">
-						ビジネストレンドに関する情報をお届けします。
-						<a class="greentext" href="<?php echo home_url('/');?>blog/blogcategory/trend/">トレンドに関する記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i></a>
-
-					</p>
-				</div>
-			</div>
-			<div class="row">
-
-										<?php query_posts(array(
-                            'post_type' => 'blog', //カスタム投稿名
-                            'taxonomy' => 'blogcategory',
-                            'term' => 'trend',
-                            'posts_per_page' => 3 //表示件数（ -1 = 全件 ）
-                        )); ?>
-							<?php if (have_posts()): ?>
-							<?php while (have_posts()):the_post(); ?>
-												<div class="col-xs-12 col-sm-4 top-buffer margin-b80">
-													<div class="blog-thumbnail">
-														<?php if (has_post_thumbnail()):?>
-															<a href="<?php the_permalink();?>">
-															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
-															</a>
-														<?php else: ?>
-															<a href="<?php the_permalink();?>">
-															<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
-															</a>
-														<?php endif; ?>
-													</div>
-													<div class="col-xs-12 purewhitebg parent-relative archive-card">
-														<a class="taggreen-link" href="<?php echo home_url('/');?>blog/blogcategory/trend/">
-															<span class="taggreen white-text condensed-bold child-absolute">Trend</span>
-														</a>
-														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-														<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
-														<p class="small-text blog-top-buffer">
-															<?php the_excerpt(); ?>
-														</p>
-													</div>
-												</div>
-
-											<?php endwhile;
-                                        endif; ?>
-											<?php wp_reset_query(); ?>
-										</div>
-									</div>
-								</div>
-</section>
-<section class="margin-t80">
-	<div class="container-center">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-xs-12">
-					<span class="small-heading lighter-gray condensed-bold">Article Categories</span>
-					<h2 class="large-heading yellowtext condensed-bold">Cafe</h2>
-					<p class="small-text top-buffer-padding">
-						ノマドワーカーが使えるカフェ情報をお伝えします。
-						<a class="yellowtext" href="<?php echo home_url('/');?>blog/blogcategory/cafe/">カフェに関する記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i></a>
-
-					</p>
-				</div>
-			</div>
-			<div class="row">
-
-										<?php query_posts(array(
-                            'post_type' => 'blog', //カスタム投稿名
-                            'taxonomy' => 'blogcategory',
-                            'term' => 'cafe',
-                            'posts_per_page' => 3 //表示件数（ -1 = 全件 ）
-                        )); ?>
-							<?php if (have_posts()): ?>
-							<?php while (have_posts()):the_post(); ?>
-												<div class="col-xs-12 col-sm-4 top-buffer margin-b80">
-													<div class="blog-thumbnail">
-														<?php if (has_post_thumbnail()):?>
-															<a href="<?php the_permalink();?>">
-															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
-															</a>
-														<?php else: ?>
-															<a href="<?php the_permalink();?>">
-															<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
-															</a>
-														<?php endif; ?>
-													</div>
-													<div class="col-xs-12 purewhitebg parent-relative archive-card">
-														<a class="tagyellow-link" href="<?php echo home_url('/');?>blog/blogcategory/cafe/">
-															<span class="tagyellow white-text condensed-bold child-absolute">Cafe</span>
-														</a>
-														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-														<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
-														<p class="small-text blog-top-buffer">
-															<?php the_excerpt(); ?>
-														</p>
-													</div>
-												</div>
-
-											<?php endwhile;
-                                        endif; ?>
-											<?php wp_reset_query(); ?>
-										</div>
-									</div>
-								</div>
-</section>
-<section class="margin-t80">
-	<div class="container-center">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-xs-12">
-					<span class="small-heading lighter-gray condensed-bold">Article Categories</span>
-					<h2 class="large-heading purpletext condensed-bold">Note</h2>
-					<p class="small-text top-buffer-padding">
-						ブラックスタッフの雑記帳です。日々の考え方などをお伝えします。
-						<a class="purpletext" href="<?php echo home_url('/');?>blog/blogcategory/note/">ノートの記事を読む<i class="fa fa-chevron-right" style="padding-left:10px;"></i></a>
-
-					</p>
-				</div>
-			</div>
-			<div class="row">
-
-										<?php query_posts(array(
-                            'post_type' => 'blog', //カスタム投稿名
-                            'taxonomy' => 'blogcategory',
-                            'term' => 'note',
-                            'posts_per_page' => 3 //表示件数（ -1 = 全件 ）
-                        )); ?>
-							<?php if (have_posts()): ?>
-							<?php while (have_posts()):the_post(); ?>
-												<div class="col-xs-12 col-sm-4 top-buffer margin-b80">
-													<div class="blog-thumbnail">
-														<?php if (has_post_thumbnail()):?>
-															<a href="<?php the_permalink();?>">
-															<?php	the_post_thumbnail('pickup_thumbnail', array('alt' => the_title_attribute('echo=0'), 'title' => the_title_attribute('echo=0')));?>
-															</a>
-														<?php else: ?>
-															<a href="<?php the_permalink();?>">
-															<img class="worksimg" src="<?php bloginfo('template_directory');?>/images/default-thumbnail.jpg" alt="デフォルトイメージ" />
-															</a>
-														<?php endif; ?>
-													</div>
-													<div class="col-xs-12 purewhitebg parent-relative archive-card">
-														<a class="tagpurple-link" href="<?php echo home_url('/');?>blog/blogcategory/note/">
-															<span class="tagpurple white-text condensed-bold child-absolute">Note</span>
-														</a>
-														<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-														<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
-														<p class="small-text blog-top-buffer">
-															<?php the_excerpt(); ?>
-														</p>
-													</div>
-												</div>
-
-											<?php endwhile;
-                                        endif; ?>
-											<?php wp_reset_query(); ?>
-										</div>
-									</div>
-								</div>
-</section>
-
-<?php get_template_part('follow-area'); ?>
-
 	<?php get_footer(); ?>

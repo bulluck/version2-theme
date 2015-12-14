@@ -1,15 +1,15 @@
 <?php get_header(); ?>
-<div class="lower-top" id="marketing">
+<div class="lower-top" id="cafe">
 <div class="section-table">
 <div class="container-fluid s-table-cell">
 	<div class="row">
 	<div class="col-xs-12 top-buffer">
-		<p class="small-heading lighter-gray condensed-bold">Marketing</p>
+		<p class="small-heading lighter-gray condensed-bold">Cafe</p>
 		<h1 class="large-heading condensed-bold">
 			<?php
 
                     //記事IDとタクソノミーを指定してタームを取得
-                    $product_terms = wp_get_object_terms($post->ID, 'marketingcat');
+                    $product_terms = wp_get_object_terms($post->ID, 'cafecat');
 
                     //タームを出力
                     if (!empty($product_terms)) {
@@ -26,7 +26,7 @@
 			<?php
 
                     //記事IDとタクソノミーを指定してタームを取得
-                    $product_terms = wp_get_object_terms($post->ID, 'marketingcat');
+                    $product_terms = wp_get_object_terms($post->ID, 'cafecat');
 
                     //タームを出力
                     if (!empty($product_terms)) {
@@ -83,17 +83,17 @@
 											<p class="small-text blog-top-buffer">
 												<?php the_excerpt(); ?>
 											</p>
-											<div class="term"><?php the_terms($post->ID, 'marketing'); ?></div>
+											<div class="term"><?php the_terms($post->ID, 'cafe'); ?></div>
 										</div>
 									</div>
 								<?php endwhile; endif; ?>
 				</div>
 				<aside class="col-xs-12 col-sm-3">
 					<div class="widget-title font-bold">
-						マーケティング記事カテゴリ
+						カフェ記事カテゴリ
 					</div>
 					<ul class="side-cat-list">
-						<?php wp_list_categories(array('title_li' => '', 'taxonomy' => 'marketingcat', 'show_count' => 1)); ?>
+						<?php wp_list_categories(array('title_li' => '', 'taxonomy' => 'cafecat', 'show_count' => 1)); ?>
 					</ul>
 
 					<div class="fb-page top-buffer" data-href="https://www.facebook.com/bulluck.co.jp/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bulluck.co.jp/"><a href="https://www.facebook.com/bulluck.co.jp/">Bulluck Co., Ltd.</a></blockquote></div></div>

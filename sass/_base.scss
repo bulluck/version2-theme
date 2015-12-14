@@ -182,6 +182,13 @@ div.wpcf7 img.ajax-loader {
   @extend #technology;
   background-image: url(#{$img-path}blog.jpg);
 }
+
+#news {
+  @extend #technology;
+  background-image: url("#{$img-path}news.jpg");
+}
+
+
 .archive-card {
   height: 220px;
 }
@@ -191,7 +198,7 @@ div.wpcf7 img.ajax-loader {
 
 .widget-title {
   padding: 10px;
-  background: #f2f2f2;
+  background: #e5e5e5;
 }
 
 .side-cat-list {
@@ -265,18 +272,44 @@ div.wpcf7 img.ajax-loader {
     color: #ff8c00;
   }
 }
-.entry p {
-  font-size: 1rem;
+
+.entry {
+p {
+  line-height: 2.2;
+  font-size: 1.1rem;
+  margin-bottom: 30px;
 }
-.entry ul {
-  padding-left: 1.5rem;
+ ul {
+  padding-left: 25px;
+  margin-bottom: 30px;
   li {
     list-style-type: disc;
+    font-size: 1.1rem;
+    line-height: 2.2;
+    padding-left: 10px;
   }
   ol {
     padding-left: 1.5rem;
     list-style-type: decimal;
   }
+}
+blockquote {
+  font-size: 1.1rem;
+  border-left: 5px solid #ccc;
+    padding: 10px 30px;
+    font-style: oblique;
+    color: #777;
+    margin-bottom: 30px;
+    position: relative;
+    &::before {
+      content: '”';
+    position: absolute;
+    top: -30px;
+    left: 0;
+    font-size: 4rem;
+    color: #ccc;
+    }
+}
 }
 .nav-previous {
   float: left;
