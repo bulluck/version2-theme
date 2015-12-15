@@ -17,7 +17,7 @@
 </div>
 		</div>
 <section class="section-padding80">
-	<div class="container-center purewhitebg">
+	<div class="container-center purewhitebg bottom-buffer-padding">
 		<div class="container-fluid">
 			<div class="row breadcrumb-row">
 				<div class="col-xs-12">
@@ -37,6 +37,11 @@
                                      the_post(); ?>
 							<h1 class="font-bold small-heading black-text top-buffer-padding"><?php the_title(); ?></h1>
 							<div class="data top-buffer"><?php the_time('Y/m/d'); ?></div>
+							<div class="social top-buffer">
+								<?php if (function_exists("wp_social_bookmarking_light_output_e")) {
+    wp_social_bookmarking_light_output_e();
+}?>
+							</div>
 							<div class="top-buffer">
 							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 							<!-- ブラックメディア広告 -->
@@ -50,6 +55,11 @@
 							</script>
 							</div>
 							<div class="entry top-buffer"><?php the_content(); ?></div>
+							<div class="social top-buffer">
+								<?php if (function_exists("wp_social_bookmarking_light_output_e")) {
+    wp_social_bookmarking_light_output_e();
+}?>
+							</div>
 							<div class="top-buffer">
 
 							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -77,6 +87,12 @@
 					</article>
 					<aside class="pull-left col-xs-12 col-sm-3 top-buffer-padding">
 						<div class="fb-page" data-href="https://www.facebook.com/bulluck.co.jp/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bulluck.co.jp/"><a href="https://www.facebook.com/bulluck.co.jp/">Bulluck Co., Ltd.</a></blockquote></div></div>
+						<div>
+							<div class="widget-title font-bold top-buffer">
+								その他のカテゴリ
+							</div>
+							<?php get_sidebar(); ?>
+						</div>
 					</aside>
 				</div>
 			</div>

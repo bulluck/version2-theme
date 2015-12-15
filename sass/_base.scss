@@ -1,8 +1,10 @@
-@charset 'UTF-8';
+@charset "UTF-8";
 @import 'compass';
+
 $darktheme: #282727;
 $lightyellow: #faf2e0;
 $blog-buffer: 20px;
+
 @mixin clearfix {
   &:after {
     clear: both;
@@ -150,8 +152,11 @@ div.wpcf7 img.ajax-loader {
 }
 
 .blog-card-title {
-  height: 100px;
+  height: 120px;
   padding: 10px;
+  a {
+    line-height: normal;
+  }
 }
 
 #technology {
@@ -330,6 +335,12 @@ img {
   color: #000;
   border: 0;
 }
+
+#jp-relatedposts .jp-relatedposts-items-visual h4.jp-relatedposts-post-title {
+    border: 0;
+    padding: 5px 0;
+}
+
 .lp-wrapper {
   max-width: 1920px;
   width: 100%;

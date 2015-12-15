@@ -337,5 +337,11 @@ function wpcf7_text_validation_filter_extend($result, $tag)
 function add_jetpack_custom_post_publicize()
 {
     add_post_type_support('blog', 'publicize');
+    add_post_type_support('newspicks', 'publicize');
+    add_post_type_support('technology', 'publicize');
+    add_post_type_support('marketing', 'publicize');
+    add_post_type_support('trend', 'publicize');
+    add_post_type_support('cafe', 'publicize');
+    add_post_type_support('note', 'publicize');
 }
 add_action('init', 'add_jetpack_custom_post_publicize');
