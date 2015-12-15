@@ -31,7 +31,8 @@
 			<div class="row">
 					<div class="col-xs-12 col-sm-9 pull-right">
 						<div class="col-xs-12 col-sm-12">
-							<h2 class="large-heading navytext condensed-bold">News</h2>
+							<span class="small-heading lighter-gray condensed-bold">Recent Posts</span>
+							<h2 class="large-heading navytext condensed-bold">最近の投稿</h2>
 							<p class="small-text top-buffer-padding">
 								気になるニュースを独自の視点で切っていきます。
 							</p>

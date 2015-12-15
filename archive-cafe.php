@@ -32,16 +32,12 @@
 					<div class="col-xs-12 col-sm-9 pull-right">
 						<div class="col-xs-12 col-sm-12">
 
-							<span class="small-heading lighter-gray condensed-bold">Article Categories</span>
-							<h2 class="large-heading yellowtext condensed-bold">Nomad</h2>
-							<p class="small-text top-buffer-padding">
-								ノマドワークに適したカフェ情報をお届けします。
-							</p>
+							<span class="small-heading lighter-gray condensed-bold">Recent Posts</span>
+							<h2 class="large-heading yellowtext condensed-bold">最近の投稿</h2>
 												<?php query_posts(array(
                                     'post_type' => 'cafe', //カスタム投稿名
                                     'taxonomy' => 'cafecat',
-                                    'term' => 'nomad',
-                                    'posts_per_page' => 3 //表示件数（ -1 = 全件 ）
+                                    'posts_per_page' => 6 //表示件数（ -1 = 全件 ）
                                 )); ?>
 													<?php if (have_posts()): ?>
 													<?php while (have_posts()):the_post(); ?>
