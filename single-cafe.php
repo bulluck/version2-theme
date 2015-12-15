@@ -1,14 +1,14 @@
 <?php get_header(); ?>
-<div class="lower-top" id="blog">
+<div class="lower-top" id="cafe">
 <div class="section-table">
 <div class="container-fluid s-table-cell">
 	<div class="row">
 	<div class="col-xs-12 top-buffer">
 		<div class="large-heading condensed-bold align-center white-text">
-			Solve it
+			Cafe Article
 		</div>
 		<p class="top-buffer small-text white-text align-center">
-			わからないことを、わかることに。
+			家のような空間、オフィスのような空間、カフェという空間。
 		</p>
 
 	</div>
@@ -76,9 +76,20 @@
 								<?php endwhile; endif; ?>
 					</article>
 					<aside class="pull-left col-xs-12 col-sm-3 top-buffer-padding">
-						<?php wp_list_categories(array('taxonomy' => 'cafecat', 'show_count' => 1)); ?>
-						<div class="fb-page" data-href="https://www.facebook.com/bulluck.co.jp/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bulluck.co.jp/"><a href="https://www.facebook.com/bulluck.co.jp/">Bulluck Co., Ltd.</a></blockquote></div></div>
-					</aside>
+						<div class="widget-title font-bold">
+							マーケティング記事カテゴリ
+						</div>
+						<ul class="side-cat-list">
+							<?php wp_list_categories(array('title_li' => '', 'taxonomy' => 'cafecat', 'show_count' => 1)); ?>
+						</ul>
+
+						<div class="fb-page top-buffer" data-href="https://www.facebook.com/bulluck.co.jp/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bulluck.co.jp/"><a href="https://www.facebook.com/bulluck.co.jp/">Bulluck Co., Ltd.</a></blockquote></div></div>
+						<div>
+							<div class="widget-title font-bold top-buffer">
+								その他のカテゴリ
+							</div>
+							<?php get_sidebar(); ?>
+						</div>
 				</div>
 			</div>
 		</div>

@@ -64,7 +64,7 @@
 					          <?php if (have_posts()) :
                                  while (have_posts()) :
                                    the_post(); ?>
-									<div class="col-xs-12 col-sm-4">
+									<div class="col-xs-12 col-sm-4 bottom-buffer-padding">
 										<div class="blog-thumbnail">
 										<?php
                                         if (has_post_thumbnail()):?>
@@ -77,12 +77,9 @@
 										</a>
 									<?php endif; ?>
 										</div>
-										<div class="col-xs-12 purewhitebg archive-card">
-											<h3 class="small-text top-buffer condensed-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-											<p class="small-text lighter-gray"><?php the_time('Y/m/d'); ?></p>
-											<p class="small-text blog-top-buffer">
-												<?php the_excerpt(); ?>
-											</p>
+										<div class="col-xs-12 purewhitebg blog-card-title">
+											<p class="small-text"><?php the_time('Y/m/d'); ?></p>
+											<h3 class="small-text font-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
 											<div class="term"><?php the_terms($post->ID, 'marketing'); ?></div>
 										</div>
 									</div>

@@ -1,14 +1,14 @@
 <?php get_header(); ?>
-<div class="lower-top" id="blog">
+<div class="lower-top" id="marketing">
 <div class="section-table">
 <div class="container-fluid s-table-cell">
 	<div class="row">
 	<div class="col-xs-12 top-buffer">
 		<div class="large-heading condensed-bold align-center white-text">
-			Solve it
+			Marketing Article
 		</div>
 		<p class="top-buffer small-text white-text align-center">
-			わからないことを、わかることに。
+			経済を回そう。
 		</p>
 
 	</div>
