@@ -1,8 +1,10 @@
-@charset 'UTF-8';
+@charset "UTF-8";
 @import 'compass';
+
 $darktheme: #282727;
 $lightyellow: #faf2e0;
 $blog-buffer: 20px;
+
 @mixin clearfix {
   &:after {
     clear: both;
@@ -24,6 +26,13 @@ $blog-buffer: 20px;
 .contents-wrapper {
   padding-top: 70px;
 }
+
+.container-blog {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1240px;
+}
+
 .lower-top {
   height: 300px;
   overflow: hidden;
@@ -139,7 +148,17 @@ div.wpcf7 img.ajax-loader {
     height: auto;
     object-fit: cover;
   }
+
 }
+
+.blog-card-title {
+  height: 120px;
+  padding: 10px;
+  a {
+    line-height: normal;
+  }
+}
+
 #technology {
   background-image: url(#{$img-path}tech.jpg);
   background-repeat: no-repeat;
@@ -154,16 +173,56 @@ div.wpcf7 img.ajax-loader {
   @extend #technology;
   background-image: url(#{$img-path}trend.jpg);
 }
+#cafe {
+  @extend #technology;
+  background-image: url(#{$img-path}cafe.jpg);
+}
+
+#note {
+  @extend #technology;
+  background-image: url(#{$img-path}note.jpg);
+}
+
 #blog {
   @extend #technology;
   background-image: url(#{$img-path}blog.jpg);
 }
+
+#news {
+  @extend #technology;
+  background-image: url("#{$img-path}news.jpg");
+}
+
+
 .archive-card {
   height: 220px;
 }
 .blog-top-buffer {
   margin-top: $blog-buffer;
 }
+
+.widget-title {
+  padding: 10px;
+  background: #e5e5e5;
+}
+
+.side-cat-list {
+  padding-left: 30px;
+  li{
+    list-style-type: square;
+    padding: 10px 0;
+  }
+}
+
+.tax-list {
+  padding-top: 10px;
+  width: 90%;
+  margin: 0 auto;
+  li {
+    margin-top: 1px;
+  }
+}
+
 .sns-list {
   li {
     display: inline-block;
@@ -218,14 +277,53 @@ div.wpcf7 img.ajax-loader {
     color: #ff8c00;
   }
 }
-.entry p {
-  font-size: 1rem;
+
+.entry {
+  text-align: justify;
+  line-height: 2.2;
+  text-overflow: ellipsis;
+  overflow: auto;
+
+p {
+  line-height: 2.2;
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+  text-overflow: ellipsis;
 }
-.entry ul {
-  padding-left: 1.5rem;
+ ul {
+  padding-left: 25px;
+  margin-bottom: 30px;
   li {
     list-style-type: disc;
+    font-size: 1.1rem;
+    line-height: 2.2;
+    padding-left: 10px;
   }
+  ol {
+    padding-left: 1.5rem;
+    list-style-type: decimal;
+  }
+}
+blockquote {
+  font-size: 1.1rem;
+  border-left: 5px solid #ccc;
+    padding: 10px 30px;
+    font-style: oblique;
+    color: #777;
+    margin-bottom: 30px;
+    position: relative;
+    &::before {
+      content: '”';
+    position: absolute;
+    top: -30px;
+    left: 0;
+    font-size: 4rem;
+    color: #ccc;
+    }
+}
+img {
+  max-width: 100%;
+}
 }
 .nav-previous {
   float: left;
@@ -233,12 +331,7 @@ div.wpcf7 img.ajax-loader {
 .nav-next {
   float: right;
 }
-.entry {
-  line-height: 1.7;
-  img {
-    max-width: 100%;
-  }
-}
+
 .hidden {
   display: none;
 }
@@ -246,6 +339,12 @@ div.wpcf7 img.ajax-loader {
   color: #000;
   border: 0;
 }
+
+#jp-relatedposts .jp-relatedposts-items-visual h4.jp-relatedposts-post-title {
+    border: 0;
+    padding: 5px 0;
+}
+
 .lp-wrapper {
   max-width: 1920px;
   width: 100%;
@@ -558,6 +657,13 @@ hr {
 .ms-heading {
   font-size: 3rem;
 }
+
+.sp-br {
+  br {
+    display: none;
+  }
+}
+
 @media only screen and (max-width:1024px) {
   .contents-wrapper {
     padding-top: 70px;
@@ -709,6 +815,8 @@ hr {
     font-size: 1.8rem;
   }
 
+
+
   .smaller-p {
     font-size: 1rem;
   }
@@ -759,6 +867,12 @@ hr {
 
 .lpplan-top {
     height: 275px;
+}
+
+.sp-br {
+  br {
+    display: inline;
+  }
 }
 
 }

@@ -89,8 +89,8 @@ register_sidebar(array(
         'description' => 'サイドバー上部のウィジェットエリア',
         'before_widget' => '<aside id="%1$s" class="widget-container %2$s">',
         'after_widget' => '</aside>',
-        'before_title' => '<h2 class="widget-title">',
-        'after_title' => '</h2>'
+        'before_title' => '<div class="widget-title">',
+        'after_title' => '</div>'
 ));
 
 register_sidebar(array(
@@ -123,7 +123,7 @@ add_filter('excerpt_more', 'cms_excerpt_more');
 // 抜粋文が自動的に生成される場合にデフォルトの文字数を変更します。
 function cms_excerpt_length()
 {
-    return 55;
+    return 20;
 }
 add_filter('excerpt_mblength', 'cms_excerpt_length');
 
@@ -337,5 +337,11 @@ function wpcf7_text_validation_filter_extend($result, $tag)
 function add_jetpack_custom_post_publicize()
 {
     add_post_type_support('blog', 'publicize');
+    add_post_type_support('newspicks', 'publicize');
+    add_post_type_support('technology', 'publicize');
+    add_post_type_support('marketing', 'publicize');
+    add_post_type_support('trend', 'publicize');
+    add_post_type_support('cafe', 'publicize');
+    add_post_type_support('note', 'publicize');
 }
 add_action('init', 'add_jetpack_custom_post_publicize');

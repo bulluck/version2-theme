@@ -1,7 +1,7 @@
 <article class="lp-wrapper purewhitebg">
   <div class="lp-topbar align-center">
     <p class="white-text">
-    月末キャンペーン中！２万円分のオプションプレゼント！
+    ご新規様キャンペーン！２万円分のオプション券贈呈中！
     </p>
   </div>
   <div class="container-fluid">
@@ -25,9 +25,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
@@ -107,7 +107,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="medium-heading font-bold align-center solve top-buffer-padding">ブラックメソッドでお悩み解決！</h2>
+            <h2 class="medium-heading font-bold align-center solve top-buffer-padding sp-br">ブラックメソッドで<br>お悩み解決！</h2>
           </div>
         </div>
         <!-- case1 -->
@@ -123,7 +123,7 @@
                   <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-4 col-sm-2 align-center xs-b-buffer">
-                        <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="ヒューマングローロゴ" class="worksimg" />
+                        <img src="<?php bloginfo('template_directory');?>/images/human-grow-logo.png" alt="LP事例" class="worksimg" />
                       </div>
                       <div class="col-xs-12 col-sm-10">
                         <h3 class="small-heading black-text font-bold">《投資額9万円》問い合わせ数が1ヶ月で<span class="redtext">脅威の12倍！</span></h3>
@@ -134,6 +134,9 @@
                 </div>
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
+                    <div class="col-xs-12 visible-xs bottom-buffer-padding">
+                        <img src="<?php bloginfo('template_directory');?>/images/human2.png" alt="case1LP画像" class="worksimg"/>
+                    </div>
                     <div class="col-xs-12 col-sm-6">
                         <p class="tagred white-text align-center">課題</p>
                         <p class="top-buffer smaller-p">
@@ -153,7 +156,7 @@
 
                     </div>
                     <div class="col-xs-12 col-sm-6 hidden-xs">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ヒューマングローLP" class="worksimg" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="ランディングページ事例" class="worksimg" />
                     </div>
                     <div class="col-xs-12 top-buffer">
                       <p class="tagyellow white-text">
@@ -207,7 +210,7 @@
               <div class="row purewhitebg bottom-buffer-padding">
                 <div class="col-xs-12">
                   <div class="col-xs-12 col-sm-12">
-                    <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/car.jpg" alt="case2画像" class="worksimg"/>
+                    <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/car.jpg" alt="ランディングページ事例2" class="worksimg"/>
                   </div>
                   <div class="col-xs-12 col-sm-12 top-buffer">
                       <p class="tagred white-text align-center">課題</p>
@@ -273,12 +276,12 @@
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-12">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/cut.jpg" alt="case3画像" class="worksimg" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/cut.jpg" alt="ランディングページ事例3" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-12 top-buffer">
                         <p class="tagred white-text align-center">課題</p>
                         <p class="smaller-p top-buffer height-fixed-kadai">
-                          かつては、人気のあった美容師でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
+                          かつては、人気のあった美容室でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
                         </p>
 
                         <p class="tagblue white-text align-center top-buffer">対策</p>
@@ -328,9 +331,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
@@ -365,8 +368,8 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="top-buffer-padding bottom-buffer-padding ms-heading align-center bluebg">
-              ランディングぺージ運用の圧倒的な実績
+            <h2 class="top-buffer-padding bottom-buffer-padding ms-heading align-center bluebg sp-br">
+              ランディングぺージ運用の<br>圧倒的な実績
             </h2>
           </div>
         </div>
@@ -421,15 +424,15 @@
             <div class="col-xs-12 col-sm-12 margin-t80">
               <h3 class="ms-heading top-buffer-padding bottom-buffer-padding black-text align-center skyblue-bg">
                   <i class="fa fa-mobile bluetext-lp hidden-xs hidden-sm"> </i>
-                 <span class="agreespan font-bold">スマートフォンにも最適化！</span>
+                 <span class="agreespan font-bold sp-br">スマートフォンにも<br>最適化！</span>
               </h3>
             </div>
             <div class="col-xs-12 col-sm-12">
               <div class="col-xs-12 col-sm-6 top-buffer">
-                <img src="http://i1.wp.com/bulluck.co.jp/version2/wp-content/uploads/2015/11/moc_hg.png" class="worksimg border-container" alt="ヒューマングロースマホ" />
+                <img src="http://i1.wp.com/bulluck.co.jp/version2/wp-content/uploads/2015/11/moc_hg.png" class="worksimg border-container" alt="スマホ版ランディングページ" />
               </div>
               <div class="col-xs-12 col-sm-6 top-buffer">
-                <img src="http://i0.wp.com/bulluck.co.jp/version2/wp-content/uploads/2015/11/moc_onese.png" class="worksimg border-container" alt="oneseスマホ" />
+                <img src="http://i0.wp.com/bulluck.co.jp/version2/wp-content/uploads/2015/11/moc_onese.png" class="worksimg border-container" alt="スマホ版ランディングページ２" />
               </div>
             </div>
           </div>
@@ -445,9 +448,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
@@ -481,7 +484,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12" id="reason">
-            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason">成果の出る理由</h2>
+            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason sp-br">ブラックメソッド<br>:勝てる理由</h2>
           </div>
         </div>
           <div class="row">
@@ -490,7 +493,7 @@
                 <div class="row">
                   <div class="col-xs-6 col-sm-3">
                     <div class="blackbg font-bold white-text small-heading align-center">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">理由：1</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">その1</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9">
@@ -504,7 +507,7 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <p class="small-text">
-                      2時間で40万円のコンサルティングフィーを頂く経営コンサルタントが行う戦略は大きく分けて2つあり、 一つは地上戦(リアルマーケティング：チラシやDMなど)、もう一つは空中戦（Webマーケティング）です。 配分する労力でいうと、8割をリアルマーケティングに割き、残りの2割をWebマーケティングに割きます。
+                      2時間で30万円のコンサルティングフィーを頂く経営コンサルタントが行う戦略は大きく分けて2つあり、 一つは地上戦(リアルマーケティング：チラシやDMなど)、もう一つは空中戦（Webマーケティング）です。 配分する労力でいうと、8割をリアルマーケティングに割き、残りの2割をWebマーケティングに割きます。
                     </p>
                   </div>
                 </div>
@@ -512,7 +515,7 @@
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3">
                     <div class="blackbg font-bold white-text small-heading align-center">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">理由：2</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">その2</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9">
@@ -526,14 +529,14 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <p class="small-text">
-                      しかし、肝心の成果、つまり売り上げは、総売上の8割がWebマーケティングの集客から成ります。 労力を割いているリアルマーケティングからの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いのです。
+                      しかし、肝心の成果、つまり売り上げは、ほとんどの企業様は、総売上の8割がWebマーケティングの集客から成ります。 労力を割いているリアルマーケティングからの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いと言えます。
                     </p>
                   </div>
                 </div>
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3">
                     <div class="blackbg font-bold white-text small-heading align-center">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">理由：3</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">その3</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9">
@@ -547,7 +550,7 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <p class="small-text">
-                      今後、スマホシフトへの流れを加味すると、このWebへの比重はさらに増加します。 これは時代の趨勢であり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中することで、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webのマーケティング戦略の大部分はWebサイトに織り込むことが可能です。 そこで、サイト構築の段階からマーケティング戦略をHPに落とし込むことで、 低コストで成果の出易いWebサイトの制作を実現しました。
+                      今後、スマホシフトへの流れを加味すると、このWebマーケティングへの比重はさらに増加します。 これは時代のトレンドであり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中する戦略により、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webのマーケティング戦略の大部分はWebサイト・ランディングページに織り込むことが可能です。 そこで、構築の段階からマーケティング戦略を落とし込むことで、 低コストで成果の出易いWebサイト・ランディングページの制作を実現しました。
                     </p>
                   </div>
                 </div>
@@ -567,9 +570,9 @@
       <div class="row">
         <div class="col-xs-12 contact-box">
           <?php if (is_mobile()):?>
-              <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
           <?php else:?>
-            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+            <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
           <?php endif; ?>
           <div class="col-xs-12 col-sm-12 hidden">
             <h2>
@@ -612,9 +615,9 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12 margin-t80">
             <?php if (is_mobile()):?>
-              <img src="<?php bloginfo('template_directory');?>/images/new_fee_sp.png" alt="料金表" class="worksimg" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_fee_sp.png" alt="ブラックランディングページ料金表" class="worksimg" />
             <?php else:?>
-            <img src="<?php bloginfo('template_directory');?>/images/new_fee.png" alt="料金表" class="worksimg" />
+            <img src="<?php bloginfo('template_directory');?>/images/new_fee.png" alt="ブラックランディングページ料金表" class="worksimg" />
           <?php endif;?>
           </div>
         </div>
@@ -634,9 +637,9 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12 margin-t80">
             <?php if (is_mobile()) :?>
-              <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee_sp.png" class="worksimg" alt="集客オプション" />
+              <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee_sp.png" class="worksimg" alt="ブラック集客オプション" />
             <?php else :?>
-                <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="集客オプション" />
+                <img src="<?php bloginfo('template_directory');?>/images/new_ad_fee.png" class="worksimg" alt="ブラック集客オプション" />
             <?php endif ?>
           </div>
         </div>
@@ -649,9 +652,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
@@ -703,7 +706,7 @@
               <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/contact1.jpg" alt="ランディングぺージ設計" />
             </div>
             <p class="small-text top-buffer">
-              お問い合わせいただきましたら、具体的なご要望をしっかりとヒアリングさせていただきます。日本全国47都道府県、お電話にて対応しております。過去の実績より、対面で1回よりもお電話で複数回のヒアリングが最も効率的です。出張打ち合わせもございます。詳細はお問い合わせください。
+              お問い合わせいただきましたら、具体的なご要望をしっかりとヒアリングさせていただきます。日本全国47都道府県、お電話にて対応しております。過去の実績より、対面で1回の打ち合わせよりもお電話で複数回のヒアリングが最も効率的です。出張打ち合わせもございます。詳細はお問い合わせください。
             </p>
           </div>
         </div>
@@ -736,7 +739,7 @@
             </div>
             <p class="small-text top-buffer">
               ターゲットの選定、戦略の立案が完了しましたら、ニーズに合わせて戦略的なデザインを行っていきます。
-              ファーストビューのデザイン・ボタンの配色だけでも受注率が圧倒的に変わります。そのためブラックでは、デザイン性のみならず、商業性を踏まえた戦略的デザインを経営コンサルタント共に行います。
+              ファーストビューのデザイン・ボタンの配色だけでも受注率が圧倒的に変わります。そのため、ブラックではデザイン性のみならず、商業性を踏まえた戦略的デザインを経営コンサルタントと共に行います。
             </p>
           </div>
         </div>
@@ -768,9 +771,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>
@@ -841,9 +844,9 @@
         <div class="row">
           <div class="col-xs-12 contact-box">
             <?php if (is_mobile()):?>
-                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="エグジット画像" class="worksimg"/>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料見積もり" class="worksimg"/>
             <?php else:?>
-              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="エグジット画像" class="worksimg"/>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料問い合わせ" class="worksimg"/>
             <?php endif; ?>
             <div class="col-xs-12 col-sm-12 hidden">
               <h2>

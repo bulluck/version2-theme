@@ -78,14 +78,14 @@
                       <h3>
 												<span class="kvspanstrong">80%</span>以上のお客様の売上を<span class="kvspanstrong">3ヶ月</span>で<span class="kvspanstrong">3倍</span>にした
                       </h3>
-											<h3><span class="kvtexth3">「</span><span class="kvtexth3 kvstrong">受注率</span><span class="kvtexth3">にコミットする」</span></h3><h3 class="kvtexth3">Webサイト/LP制作</h3>
+											<h3><span class="kvtexth3">「</span><span class="kvtexth3 kvstrong">受注率</span><span class="kvtexth3">にコミットする」</span></h3><h3 class="kvtexth3">Webサイト制作</h3>
                     </div>
 				<?php elseif (function_exists('wp_is_mobile') && wp_is_mobile()) :?>
 					<div class="kvbntext_sp">
 						<h3>
 							<span class="kvspanstrong">80%</span>以上のお客様の売上を<span class="kvspanstrong">3ヶ月</span>で<span class="kvspanstrong">3倍</span>にした
 						</h3>
-						<h3><span class="kvtexth3">「</span><span class="kvtexth3 kvstrong">受注率</span><span class="kvtexth3">にコミットする」</span></h3><h3 class="kvtexth3">Webサイト/LP制作</h3>
+						<h3><span class="kvtexth3">「</span><span class="kvtexth3 kvstrong">受注率</span><span class="kvtexth3">にコミットする」</span></h3><h3 class="kvtexth3">Webサイト制作</h3>
                     </div>
 				<?php endif; ?>
 				<?php if(!wp_is_mobile()):?>

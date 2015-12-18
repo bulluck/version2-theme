@@ -14,6 +14,7 @@ $tagbluecolor: #58ADAD;
 $taggreencolor: #87AD5A;
 $tagyellowcolor: #B19051;
 $tagpurplecolor: #8D6DE9;
+$navy-text: #15274D;
 $opacity: .2;
 
 @mixin clearfix {
@@ -103,6 +104,18 @@ img {
   height: auto;
 }
 
+.breadcrumb-row {
+  padding: 10px 0;
+  background: #ededed;
+}
+
+.breadcrumbs {
+  color: $gray-text;
+  span {
+    color: $gray-text;
+  }
+}
+
 
 p {
   font-size: 1.5rem;
@@ -138,10 +151,15 @@ a {
 .bluetext {
   color: $tagbluecolor;
 }
+
+.navytext {
+  color: $navy-text;
+}
+
 .greentext {
   color: $taggreencolor;
 }
-.yellotext {
+.yellowtext {
   color: $tagyellowcolor;
 }
 .purpletext {
@@ -299,6 +317,21 @@ a {
     color: $taggreencolor;
   }
 }
+
+.tagyellow-link {
+  .tagyellow:hover {
+    background: #f2f2f2;
+    color: $tagyellowcolor;
+  }
+}
+
+.tagpurple-link {
+  .tagpurple:hover {
+    background: #f2f2f2;
+    color: $tagpurplecolor;
+  }
+}
+
 .tagpurple {
   @extend .tagred;
   background: $tagpurplecolor;

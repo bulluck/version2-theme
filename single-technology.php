@@ -1,23 +1,22 @@
 <?php get_header(); ?>
-<div class="lower-top" id="blog">
+<div class="lower-top" id="technology">
 <div class="section-table">
 <div class="container-fluid s-table-cell">
 	<div class="row">
 	<div class="col-xs-12 top-buffer">
 		<div class="large-heading condensed-bold align-center white-text">
-			Solve it
+			Tech Article
 		</div>
 		<p class="top-buffer small-text white-text align-center">
-			わからないことを、わかることに。
+			生活を変える力。
 		</p>
-
 	</div>
 	</div>
 </div>
 </div>
 		</div>
 <section class="section-padding80">
-	<div class="container-center purewhitebg">
+	<div class="container-center purewhitebg bottom-buffer-padding">
 		<div class="container-fluid">
 			<div class="row breadcrumb-row">
 				<div class="col-xs-12">
@@ -37,6 +36,9 @@
                                      the_post(); ?>
 							<h1 class="font-bold small-heading black-text top-buffer-padding"><?php the_title(); ?></h1>
 							<div class="data top-buffer"><?php the_time('Y/m/d'); ?></div>
+							<div class="social top-buffer">
+								<?php if(function_exists("wp_social_bookmarking_light_output_e")){wp_social_bookmarking_light_output_e();}?>
+							</div>
 							<div class="top-buffer">
 							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 							<!-- ブラックメディア広告 -->
@@ -50,6 +52,9 @@
 							</script>
 							</div>
 							<div class="entry top-buffer"><?php the_content(); ?></div>
+							<div class="social top-buffer">
+								<?php if(function_exists("wp_social_bookmarking_light_output_e")){wp_social_bookmarking_light_output_e();}?>
+							</div>
 							<div class="top-buffer">
 
 							<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -76,8 +81,20 @@
 								<?php endwhile; endif; ?>
 					</article>
 					<aside class="pull-left col-xs-12 col-sm-3 top-buffer-padding">
-						<?php get_template_part('sidebar'); ?>
-					</aside>
+						<div class="widget-title font-bold">
+							テクノロジー記事カテゴリ
+						</div>
+						<ul class="side-cat-list">
+							<?php wp_list_categories(array('title_li' => '', 'taxonomy' => 'technologycat', 'show_count' => 1)); ?>
+						</ul>
+
+						<div class="fb-page top-buffer" data-href="https://www.facebook.com/bulluck.co.jp/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bulluck.co.jp/"><a href="https://www.facebook.com/bulluck.co.jp/">Bulluck Co., Ltd.</a></blockquote></div></div>
+						<div>
+							<div class="widget-title font-bold top-buffer">
+								その他のカテゴリ
+							</div>
+							<?php get_sidebar(); ?>
+						</div>
 				</div>
 			</div>
 		</div>
