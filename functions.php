@@ -123,7 +123,7 @@ add_filter('excerpt_more', 'cms_excerpt_more');
 // 抜粋文が自動的に生成される場合にデフォルトの文字数を変更します。
 function cms_excerpt_length()
 {
-    return 55;
+    return 20;
 }
 add_filter('excerpt_mblength', 'cms_excerpt_length');
 

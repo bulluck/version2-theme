@@ -281,10 +281,14 @@ div.wpcf7 img.ajax-loader {
 .entry {
   text-align: justify;
   line-height: 2.2;
+  text-overflow: ellipsis;
+  overflow: auto;
+
 p {
   line-height: 2.2;
   font-size: 1.1rem;
   margin-bottom: 30px;
+  text-overflow: ellipsis;
 }
  ul {
   padding-left: 25px;

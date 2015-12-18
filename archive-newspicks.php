@@ -56,7 +56,7 @@
 																			</div>
 																			<div class="col-xs-12 purewhitebg blog-card-title">
 																				<p class="small-text"><?php the_time('Y/m/d'); ?></p>
-																				<h3 class="small-text font-bold"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+																				<h3 class="small-text font-bold"><a href="<?php the_permalink(); ?>"><?php the_excerpt(); ?></a></h3>
 																			</div>
 																		</div>
 
