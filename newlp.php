@@ -385,7 +385,6 @@
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck.png" alt="ランディングぺージヒューマングロー" />
                 </div>
-
               </div>
               <div class="col-xs-12 col-sm-3 xs-t-buffer hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
