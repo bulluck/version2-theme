@@ -82,6 +82,7 @@ function change_child_pages_shortcode_css()
 }
 add_filter('child-pages-shortcode-stylesheet', 'change_child_pages_shortcode_css');
 
+
 // ウィジェット
 register_sidebar(array(
         'name' => 'サイドバーウィジェットエリア（上）',

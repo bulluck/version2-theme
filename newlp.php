@@ -165,7 +165,7 @@
                         <ul class="point-list lightyellow-bg top-buffer-padding bottom-buffer-padding smaller-p">
                           <li>
                             <p class="smaller-p">
-                              ランディングページを作成し、リスティング広告の運用を開始
+                             ターゲットに刺さるデザインでランディングページを作成し、リスティング広告を開始
                             </p>
                           </li>
                           <li>

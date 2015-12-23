@@ -281,14 +281,10 @@ div.wpcf7 img.ajax-loader {
 .entry {
   text-align: justify;
   line-height: 2.2;
-  text-overflow: ellipsis;
-  overflow: auto;
-
 p {
   line-height: 2.2;
   font-size: 1.1rem;
   margin-bottom: 30px;
-  text-overflow: ellipsis;
 }
  ul {
   padding-left: 25px;
@@ -321,6 +317,28 @@ blockquote {
     color: #ccc;
     }
 }
+
+.read::after {
+    content: ">";
+    padding-left: 5px;
+}
+.read {
+    display: block;
+    width: 50%;
+    padding: 10px 0;
+    background: #15274D;
+    color: white;
+    text-align: center;
+    margin: 15px auto 50px;
+    transition-duration: .2s;
+    border: 1px solid #15274D;
+    font-weight: bold;
+    &:hover {
+      color: #15274D;
+      background-color: white;
+    }
+}
+
 img {
   max-width: 100%;
 }
@@ -346,8 +364,9 @@ img {
 }
 
 .lp-wrapper {
-  max-width: 1920px;
+  max-width: 2560px;
   width: 100%;
+  margin: 0 auto;
   line-height: normal;
 }
 .lpplan-top {
@@ -832,6 +851,11 @@ hr {
     font-size: 1rem;
     padding: 3px 0;
 }
+
+.entry {
+  margin-top: 80px;
+}
+
 }
 
 @media screen and (max-width:600px) and (orientation:portrait) {
