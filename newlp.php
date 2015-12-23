@@ -210,7 +210,7 @@
               <div class="row purewhitebg bottom-buffer-padding">
                 <div class="col-xs-12">
                   <div class="col-xs-12 col-sm-12">
-                    <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/car.jpg" alt="ランディングページ事例2" class="worksimg"/>
+                    <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/car.png" alt="ランディングページ事例2" class="worksimg"/>
                   </div>
                   <div class="col-xs-12 col-sm-12 top-buffer">
                       <p class="tagred white-text align-center">課題</p>
