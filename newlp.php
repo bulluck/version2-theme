@@ -197,10 +197,11 @@
                   <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-4 col-sm-2 align-center xs-b-buffer">
+                        <img src="http://bulluck.co.jp/version2/wp-content/uploads/2015/12/bulluck-top-e1450957358113.png" alt="bulluck-logo" class="worksimg" />
 
                       </div>
                       <div class="col-xs-12 col-sm-10">
-                        <h3 class="small-heading black-text font-bold">A/Bテスト（分析）により<br><span class="redtext">問い合わせ率が2.3倍に！</span></h3>
+                        <h3 class="small-heading black-text font-bold t-05rem">A/Bテスト（分析）により<span class="redtext">問い合わせ率が2.3倍に！</span></h3>
                       </div>
                     </div>
                     <hr>
