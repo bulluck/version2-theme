@@ -185,6 +185,85 @@
               </div>
           </div>
         </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-12">
+              <div class="col-xs-12 col-sm-7 margin-t80 blackbg lp-case-tab">
+                <p class="white-text condensed-bold t-05rem">
+                <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 2: IT企業のブラック</span>
+                </p>
+              </div>
+              <div class="col-xs-12 col-sm-12 clip-board">
+                <div class="row">
+                  <div class="col-xs-12 top-buffer-padding purewhitebg">
+                    <div class="row">
+                      <div class="col-xs-4 col-sm-2 align-center xs-b-buffer">
+
+                      </div>
+                      <div class="col-xs-12 col-sm-10">
+                        <h3 class="small-heading black-text font-bold">A/Bテスト（分析）により<br><span class="redtext">問い合わせ率が2.3倍に！</span></h3>
+                      </div>
+                    </div>
+                    <hr>
+                  </div>
+                </div>
+                <div class="row purewhitebg bottom-buffer-padding">
+                  <div class="col-xs-12">
+                    <div class="col-xs-12 visible-xs bottom-buffer-padding">
+                        <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/bulluck-mihon.png" alt="ランディングページ事例3" class="worksimg" />
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <p class="tagred white-text align-center">課題</p>
+                        <p class="top-buffer smaller-p">
+                          ブラックではお客様にご提供するランディングページを最高品質、そして、実績あるものに保つために、常に自社の製品・資本でテストを繰り返しております。
+                          A/Bテスト(分析)を絶えず繰り返していたところ、想像を超える結果が出ました。
+                        </p>
+
+                        <p class="tagblue white-text align-center top-buffer">対策</p>
+                        <p class="top-buffer smaller-p">
+                          ブラックのお客様は男性の割合が70%を超えているため、男性のお客様に訴求しやすくする必要がありました。そこで、男性
+                          受けの良い女性モデルを全面に押し出し、アイキャッチ効果を誘い、その下の実績・料金などの詳細への流れを構築。 黒背景に白字のインパクトを演出しています。 。
+                        </p>
+                        <p class="taggreen white-text align-center top-buffer">実施後</p>
+                        <p class="top-buffer smaller-p">
+                          問い合わせ数が1ヶ月で <span class="redtext">問い合わせ率が2.3倍に！</span>
+                        </p>
+
+                    </div>
+                    <div class="col-xs-12 col-sm-6 hidden-xs">
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/bulluck-mihon.png" alt="ランディングページ事例3" class="worksimg" />
+                    </div>
+                    <div class="col-xs-12 top-buffer">
+                      <p class="tagyellow white-text">
+                        Point
+                      </p>
+                        <ul class="point-list lightyellow-bg top-buffer-padding bottom-buffer-padding smaller-p">
+                            <li>
+                              <p class="smaller-p">
+                                ターゲットを釘付けにするアイキャッチ
+                              </p>
+                            </li>
+                            <li>
+                              <p class="smaller-p">
+                                ファーストインプレッションのインパクト
+                              </p>
+                            </li>
+                            <li>
+                              <p class="smaller-p">
+                               問い合わせまでの受注導線の強化
+                              </p>
+                            </li>
+                            <li>
+                              <p class="smaller-p">
+                               明朗な料金体系の表示
+                              </p>
+                            </li>
+                        </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
 
 <!-- case2 -->
         <div class="row">
@@ -192,7 +271,7 @@
 
             <div class="col-xs-12 col-sm-12 margin-t80 blackbg lp-case-tab">
               <p class="white-text condensed-bold t-05rem">
-              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 2: 英会話事業のお客様</span>
+              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 3: 英会話事業のお客様</span>
               </p>
             </div>
             <div class="col-xs-12 col-sm-12 clip-board">
@@ -256,7 +335,7 @@
 
             <div class="col-xs-12 col-sm-12 margin-t80 blackbg lp-case-tab">
               <p class="white-text condensed-bold t-05rem">
-              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 3: IT事業のブラック</span>
+              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 4: 営業代行業のお客様</span>
               </p>
 
             </div>
@@ -280,14 +359,14 @@
                     <div class="col-xs-12 col-sm-12 top-buffer">
                         <p class="tagred white-text align-center">背景</p>
                         <p class="smaller-p top-buffer height-fixed-kadai">
-                         ブラックではお客様にご提供するランディングページを最高品質、そして、実績あるものに保つために、常に自社の製品・資本でテストを繰り返しております。 
-A/Bテスト(分析)を絶えず繰り返していたところ、想像を超える結果が出ました。
+                         ブラックではお客様にご提供するランディングページを最高品質、そして、実績あるものに保つために、常に自社の製品・資本でテストを繰り返しております。
+                         A/Bテスト(分析)を絶えず繰り返していたところ、想像を超える結果が出ました。
                         </p>
 
                         <p class="tagblue white-text align-center top-buffer">対策</p>
                         <p class="smaller-p top-buffer">
-                          ブラックのお客様は男性の割合が70%を超えているため、男性のお客様に訴求しやすくする必要がありました。そこで、男性 
-受けの良い女性モデルを全面に押し出し、アイキャッチ効果を誘い、その下の実績・料金などの詳細への流れを構築。 黒背景に白字のインパクトを演出しています。 
+                          ブラックのお客様は男性の割合が70%を超えているため、男性のお客様に訴求しやすくする必要がありました。そこで、男性
+                          受けの良い女性モデルを全面に押し出し、アイキャッチ効果を誘い、その下の実績・料金などの詳細への流れを構築。 黒背景に白字のインパクトを演出しています。
 
                         </p>
                         <p class="taggreen white-text align-center top-buffer">実施後</p>
