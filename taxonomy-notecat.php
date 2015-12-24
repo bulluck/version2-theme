@@ -8,36 +8,11 @@
 		<h1 class="large-heading condensed-bold">
 			<?php
 
-                    //記事IDとタクソノミーを指定してタームを取得
-                    $product_terms = wp_get_object_terms($post->ID, 'notecat');
-
-                    //タームを出力
-                    if (!empty($product_terms)) {
-                        if (!is_wp_error($product_terms)) {
-                            foreach ($product_terms as $term) {
-                                echo $term->name;
-                            }
-                        }
-                    }
-
-                ?>
+                                $term_info = get_term_by('slug', $term, 'notecat');
+                                                                echo $term_info->name;
+                                ?>
 		</h1>
 		<p class="top-buffer small-text white-text">
-			<?php
-
-                    //記事IDとタクソノミーを指定してタームを取得
-                    $product_terms = wp_get_object_terms($post->ID, 'notecat');
-
-                    //タームを出力
-                    if (!empty($product_terms)) {
-                        if (!is_wp_error($product_terms)) {
-                            foreach ($product_terms as $term) {
-                                echo $term->name;
-                            }
-                        }
-                    }
-
-                ?>
 			に関する情報をお届けします。
 		</p>
 	</div>
