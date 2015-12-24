@@ -200,7 +200,7 @@
                 <div class="col-xs-12 top-buffer-padding purewhitebg">
                   <div class="row">
                     <div class="col-xs-12 col-sm-12">
-                      <h3 class="small-heading black-text font-bold">LPリニューアルにより<br><span class="redtext">受注率が1.9倍に</span></h3>
+                      <h3 class="small-heading black-text font-bold">ランディングページリニューアルにより<span class="redtext">受注率が1.9倍に</span></h3>
                     </div>
                   </div>
                   <hr>
@@ -266,7 +266,7 @@
                   <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-12 col-sm-12">
-                        <h3 class="small-heading black-text font-bold">A/Bテスト（分析）により<br>問い合わせ率が<span class="redtext">3倍に！</span></h3>
+                        <h3 class="small-heading black-text font-bold">A/Bテスト（分析）により<br>問い合わせ率が<span class="redtext">2.3倍に！</span></h3>
                       </div>
                     </div>
                     <hr>
@@ -292,7 +292,7 @@ A/Bテスト(分析)を絶えず繰り返していたところ、想像を超え
                         </p>
                         <p class="taggreen white-text align-center top-buffer">実施後</p>
                         <p class="smaller-p top-buffer">
-                          問い合わせ率が3倍に！
+                          問い合わせ率が2.3倍に！
                         </p>
                     </div>
 
