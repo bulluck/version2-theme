@@ -222,7 +222,7 @@
                         <p class="tagblue white-text align-center top-buffer">対策</p>
                         <p class="top-buffer smaller-p">
                           ブラックのお客様は男性の割合が70%を超えているため、男性のお客様に訴求しやすくする必要がありました。そこで、男性
-                          受けの良い女性モデルを全面に押し出し、アイキャッチ効果を誘い、その下の実績・料金などの詳細への流れを構築。 黒背景に白字のインパクトを演出しています。 。
+                          受けの良い女性モデルを全面に押し出し、アイキャッチ効果を誘い、その下の実績・料金などの詳細への流れを構築。 黒背景に白字のインパクトを演出しています。
                         </p>
                         <p class="taggreen white-text align-center top-buffer">実施後</p>
                         <p class="top-buffer smaller-p">
@@ -303,7 +303,7 @@
                       </p>
                       <p class="taggreen white-text align-center top-buffer">実施後</p>
                       <p class="smaller-p top-buffer">
-                        受注率が1.9倍に！
+                       <span class="redtext">受注率が1.9倍に</span>
                       </p>
                   </div>
                   <div class="col-xs-12 top-buffer">
@@ -372,7 +372,7 @@
                         </p>
                         <p class="taggreen white-text align-center top-buffer">実施後</p>
                         <p class="smaller-p top-buffer">
-                          LP単体に比べ信頼性UP！
+                          <span class="redtext">LP単体に比べ信頼性UP！</span>
                         </p>
                     </div>
 
