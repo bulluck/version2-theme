@@ -135,7 +135,7 @@
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
                     <div class="col-xs-12 visible-xs bottom-buffer-padding">
-                        <img src="<?php bloginfo('template_directory');?>/images/human2.png" alt="case1LP画像" class="worksimg"/>
+                        <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="case1LP画像" class="worksimg"/>
                     </div>
                     <div class="col-xs-12 col-sm-6">
                         <p class="tagred white-text align-center">課題</p>
@@ -165,7 +165,7 @@
                         <ul class="point-list lightyellow-bg top-buffer-padding bottom-buffer-padding smaller-p">
                           <li>
                             <p class="smaller-p">
-                              ランディングページを作成し、リスティング広告の運用を開始
+                             ターゲットに刺さるデザインでランディングページを作成し、リスティング広告を開始
                             </p>
                           </li>
                           <li>
@@ -192,7 +192,7 @@
 
             <div class="col-xs-12 col-sm-12 margin-t80 blackbg lp-case-tab">
               <p class="white-text condensed-bold t-05rem">
-              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 2: 中古自動車販売業のお客様</span>
+              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 2: 英会話事業のお客様</span>
               </p>
             </div>
             <div class="col-xs-12 col-sm-12 clip-board">
@@ -200,7 +200,7 @@
                 <div class="col-xs-12 top-buffer-padding purewhitebg">
                   <div class="row">
                     <div class="col-xs-12 col-sm-12">
-                      <h3 class="small-heading black-text font-bold">自社HPリニューアルにより<br><span class="redtext">販売台数が1.5倍に</span></h3>
+                      <h3 class="small-heading black-text font-bold">ランディングページリニューアルにより<span class="redtext">受注率が1.9倍に</span></h3>
                     </div>
                   </div>
                   <hr>
@@ -210,21 +210,20 @@
               <div class="row purewhitebg bottom-buffer-padding">
                 <div class="col-xs-12">
                   <div class="col-xs-12 col-sm-12">
-                    <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/car.jpg" alt="ランディングページ事例2" class="worksimg"/>
+                    <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/spartan-mihon.png" alt="ランディングページ事例2" class="worksimg"/>
                   </div>
                   <div class="col-xs-12 col-sm-12 top-buffer">
                       <p class="tagred white-text align-center">課題</p>
                       <p class="smaller-p top-buffer height-fixed-kadai">
-                        以前より、HPはあったものの在庫状況やブログ等は全く更新されておらず、実質役目を果たしていない状況。時代の流れのせいもあり、10年前から比べると来店数も半減し、打開しなればならない状況でした。
+                        以前よりランディングページはあったものの、ターゲットに刺させるデザイン、受注導線のブラッシュアップが行われておらず、費用対効果がいまいち優れませんでした。そのため、事業拡大の資金も集まらず、会社として停滞していました。
                       </p>
-
                       <p class="tagblue white-text align-center top-buffer">対策</p>
                       <p class="smaller-p top-buffer">
-                        VIPカーを専門に扱うという明確な特色がありました。情報発信の質と量の双方を高めた自社HPリニューアルに着手しました。以前はポータルサイトからの問い合わせのみであったが、自社HPからのメール・電話を増やしました。
+                        ターゲットの明確化、ターゲット特化型のデザイン設計、自社特徴の見える化を行い、全面に打ち出しました。英会話を習う潜在顧客は、海外や外国人に意識が向いており、外資イメージに反応が良い傾向があるので、外国人のモデルを多く出現させたランディングページを制作しました。
                       </p>
                       <p class="taggreen white-text align-center top-buffer">実施後</p>
                       <p class="smaller-p top-buffer">
-                        販売台数が1.5倍に！
+                        受注率が1.9倍に！
                       </p>
                   </div>
                   <div class="col-xs-12 top-buffer">
@@ -234,17 +233,17 @@
                       <ul class="point-list lightyellow-bg pl-height-fixed">
                         <li>
                           <p class="smaller-p">
-                            自社HPをスマホ対応にした大リニューアル
+                            ターゲットの絞り込み
                           </p>
                         </li>
                         <li>
                           <p class="smaller-p">
-                            各SNSサイトとの連動
+                            ターゲットが思わず反応したくなるデザイン設計
                           </p>
                         </li>
                         <li>
                           <p class="smaller-p">
-                            自社の強みを活かしたHP構成・キャッチフレーズのご提案
+                            自社強みの明確化と全面的な打ち出し
                           </p>
                         </li>
                       </ul>
@@ -257,7 +256,7 @@
 
             <div class="col-xs-12 col-sm-12 margin-t80 blackbg lp-case-tab">
               <p class="white-text condensed-bold t-05rem">
-              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 3: 美容業のお客様</span>
+              <i class="fa fa-tags lighter-gray"></i><span class="agreespan">CASE 3: IT事業のブラック</span>
               </p>
 
             </div>
@@ -267,7 +266,7 @@
                   <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-12 col-sm-12">
-                        <h3 class="small-heading black-text font-bold">採用HP開設1年で<br>新人スタッフ<span class="redtext">10名採用！</span></h3>
+                        <h3 class="small-heading black-text font-bold">A/Bテスト（分析）により<br><span class="redtext">問い合わせ率が2.3倍に！</span></h3>
                       </div>
                     </div>
                     <hr>
@@ -276,21 +275,24 @@
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-12">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/cut.jpg" alt="ランディングページ事例3" class="worksimg" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/bulluck-mihon.png" alt="ランディングページ事例3" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-12 top-buffer">
-                        <p class="tagred white-text align-center">課題</p>
+                        <p class="tagred white-text align-center">背景</p>
                         <p class="smaller-p top-buffer height-fixed-kadai">
-                          かつては、人気のあった美容室でしたが、ここ数年は常に人手不足に陥っています。求人サイトや求人誌に掲載してもなかなか採用できない年が続いて降り、募集の仕方にも悩んでいました。
+                         ブラックではお客様にご提供するランディングページを最高品質、そして、実績あるものに保つために、常に自社の製品・資本でテストを繰り返しております。 
+A/Bテスト(分析)を絶えず繰り返していたところ、想像を超える結果が出ました。
                         </p>
 
                         <p class="tagblue white-text align-center top-buffer">対策</p>
                         <p class="smaller-p top-buffer">
-                          現在の応募方法をヒアリングし、目標の新人採用人数までのギャップを埋めるための施策をご提案致しました。現在のHPに加え、新たに採用HPを作ることを提案し、採用媒体のみに頼らない自社オリジナルの採用媒体を構築しました。
+                          ブラックのお客様は男性の割合が70%を超えているため、男性のお客様に訴求しやすくする必要がありました。そこで、男性 
+受けの良い女性モデルを全面に押し出し、アイキャッチ効果を誘い、その下の実績・料金などの詳細への流れを構築。 黒背景に白字のインパクトを演出しています。 
+
                         </p>
                         <p class="taggreen white-text align-center top-buffer">実施後</p>
                         <p class="smaller-p top-buffer">
-                          １年で新人スタッフ10名採用！
+                          問い合わせ率が2.3倍に！
                         </p>
                     </div>
 
@@ -301,17 +303,22 @@
                         <ul class="point-list lightyellow-bg pl-height-fixed">
                           <li>
                             <p class="smaller-p">
-                              法人用・エンドユーザー用のHPとは別に採用HPを作成
+                              ターゲットを釘付けにするアイキャッチ
                             </p>
                           </li>
                           <li>
                             <p class="smaller-p">
-                              各SNSサイトとの連動
+                              ファーストインプレッションのインパクト
                             </p>
                           </li>
                           <li>
                             <p class="smaller-p">
-                              高画質写真の利用・若手スタッフの声を中心に構成
+                             問い合わせまでの受注導線の強化
+                            </p>
+                          </li>
+                          <li>
+                            <p class="smaller-p">
+                             明朗な料金体系の表示
                             </p>
                           </li>
                         </ul>
@@ -386,7 +393,6 @@
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck.png" alt="ランディングぺージヒューマングロー" />
                 </div>
-
               </div>
               <div class="col-xs-12 col-sm-3 xs-t-buffer hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
