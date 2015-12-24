@@ -135,7 +135,7 @@
                 <div class="row purewhitebg bottom-buffer-padding">
                   <div class="col-xs-12">
                     <div class="col-xs-12 visible-xs bottom-buffer-padding">
-                        <img src="<?php bloginfo('template_directory');?>/images/human2.png" alt="case1LP画像" class="worksimg"/>
+                        <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="case1LP画像" class="worksimg"/>
                     </div>
                     <div class="col-xs-12 col-sm-6">
                         <p class="tagred white-text align-center">課題</p>
