@@ -346,7 +346,7 @@
                   <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-12 col-sm-12">
-                        <h3 class="small-heading black-text font-bold">LPをHPに組み込むことで販売力UP!</h3>
+                        <h3 class="small-heading black-text font-bold">LPをHPに組み込むことで<span class="redtext">販売力UP!</span></h3>
                       </div>
                     </div>
                     <hr>
