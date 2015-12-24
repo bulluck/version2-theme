@@ -266,7 +266,7 @@
                   <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-12 col-sm-12">
-                        <h3 class="small-heading black-text font-bold">A/Bテスト（分析）により<br>問い合わせ率が<span class="redtext">2.3倍に！</span></h3>
+                        <h3 class="small-heading black-text font-bold">A/Bテスト（分析）により<br><span class="redtext">問い合わせ率が2.3倍に！</span></h3>
                       </div>
                     </div>
                     <hr>
