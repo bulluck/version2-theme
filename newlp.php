@@ -266,7 +266,7 @@
                   <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-12 col-sm-12">
-                        <h3 class="small-heading black-text font-bold">A/Bテス（分析）トにより<br>問い合わせ率が<span class="redtext">3倍に！</span></h3>
+                        <h3 class="small-heading black-text font-bold">A/Bテスト（分析）により<br>問い合わせ率が<span class="redtext">3倍に！</span></h3>
                       </div>
                     </div>
                     <hr>
@@ -278,17 +278,17 @@
                       <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/bulluck-mihon.png" alt="ランディングページ事例3" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-12 top-buffer">
-                        <p class="tagred white-text align-center">課題</p>
+                        <p class="tagred white-text align-center">背景</p>
                         <p class="smaller-p top-buffer height-fixed-kadai">
                          ブラックではお客様にご提供するランディングページを最高品質、そして、実績あるものに保つために、常に自社の製品・資本でテストを繰り返しております。 
-A/Bテスト(分析)を絶えず繰り返していたところ、このランディングページで想像を超える結果を出すことができました。 
+A/Bテスト(分析)を絶えず繰り返していたところ、想像を超える結果が出ました。
                         </p>
 
                         <p class="tagblue white-text align-center top-buffer">対策</p>
                         <p class="smaller-p top-buffer">
                           ブラックのお客様は男性の割合が70%を超えているため、男性のお客様に訴求しやすくする必要がありました。そこで、男性 
 受けの良い女性モデルを全面に押し出し、アイキャッチ効果を誘い、その下の実績・料金などの詳細への流れを構築しました。 
-またファーストインプレッションのインパクトが重要であるため、あえて黒背景に白字を使うことで、強調させています。 
+あえて黒背景に白字のインパクトを作り出しています。 
 
                         </p>
                         <p class="taggreen white-text align-center top-buffer">実施後</p>
