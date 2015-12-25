@@ -138,7 +138,7 @@
                         <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/human.png" alt="case1LP画像" class="worksimg"/>
                     </div>
                     <div class="col-xs-12 col-sm-6">
-                        <p class="tagred white-text align-center">課題</p>
+                        <p class="tagred white-text align-center">背景</p>
                         <p class="top-buffer smaller-p">
                           半年前に自社HPをリニューアルしたが、WEBからの問い合わせは、年に指折りの数しかなく、web集客が伸び悩んでいました。
                           今後のことを考えると、WEBからの集客導線がないのは、致命的になると危惧されておりました。
@@ -213,7 +213,7 @@
                         <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/bulluck-mihon.png" alt="ランディングページ事例3" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-6">
-                        <p class="tagred white-text align-center">課題</p>
+                        <p class="tagred white-text align-center">背景</p>
                         <p class="top-buffer smaller-p">
                           ブラックではお客様にご提供するランディングページを最高品質、そして、実績あるものに保つために、常に自社の製品・資本でテストを繰り返しております。
                           A/Bテスト(分析)を絶えず繰り返していたところ、想像を超える結果が出ました。
@@ -226,7 +226,7 @@
                         </p>
                         <p class="taggreen white-text align-center top-buffer">実施後</p>
                         <p class="top-buffer smaller-p">
-                          問い合わせ数が1ヶ月で <span class="redtext">問い合わせ率が2.3倍に！</span>
+                           <span class="redtext">問い合わせ率が2.3倍に！</span>
                         </p>
 
                     </div>
@@ -293,7 +293,7 @@
                     <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/spartan-mihon.png" alt="ランディングページ事例2" class="worksimg"/>
                   </div>
                   <div class="col-xs-12 col-sm-12 top-buffer">
-                      <p class="tagred white-text align-center">課題</p>
+                      <p class="tagred white-text align-center">背景</p>
                       <p class="smaller-p top-buffer height-fixed-kadai">
                         以前よりランディングページはあったものの、ターゲットに刺させるデザイン、受注導線のブラッシュアップが行われておらず、費用対効果がいまいち優れませんでした。そのため、事業拡大の資金も集まらず、会社として停滞していました。
                       </p>
