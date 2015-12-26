@@ -459,47 +459,43 @@
         <div class="row">
           <div class="col-xs-12 col-sm-12">
             <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
-              <div class="col-xs-12 col-sm-3 xs-t-buffer">
+              <div class="col-xs-12 col-sm-6 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     IT事業の株式会社ブラック
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    このランディングぺージ、実はすごい実績を更新し続けています。詳しくはお問い合わせください。<br>
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck.png" alt="ランディングぺージヒューマングロー" />
                 </div>
               </div>
-              <div class="col-xs-12 col-sm-3 xs-t-buffer hidden-xs">
+              <div class="col-xs-12 col-sm-6 xs-t-buffer hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     営業代理店のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    人材採用、ランディングぺージ型ホームページ制作のご相談です。詳しくはお問い合わせください。
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
 
                 </div>
               </div>
-              <div class="col-xs-12 col-sm-3 xs-t-buffer">
+              <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     英会話教室のお客様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                  集客、リスティング広告の運用指導のご相談をいただきました。詳しくはお問い合わせください。<br>
                   </p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/spartan.png" alt="ランディングぺージスパルタ" />
                 </div>
               </div>
-              <div class="col-xs-12 col-sm-3 xs-t-buffer hidden-xs">
+              <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
                     新宿税理士事務所様
                   </h3>
                   <p class="top-buffer-padding small-text">
-                    ランディングぺージ制作、集客のご相談をいただきました。詳しくはお問い合わせください。<br></p>
                   <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/shinjuku.png" alt="ランディングぺージブラック" />
                 </div>
               </div>
@@ -588,10 +584,15 @@
                   <hr>
                 <div class="row">
                   <div class="col-xs-12">
-                    <p class="small-text">
-                      2時間で30万円のコンサルティングフィーを頂く経営コンサルタントが行う戦略は大きく分けて2つあり、 一つは地上戦(リアルマーケティング：チラシやDMなど)、もう一つは空中戦（Webマーケティング）です。 配分する労力でいうと、8割をリアルマーケティングに割き、残りの2割をWebマーケティングに割きます。
-                    </p>
-                  </div>
+                      <div class="col-xs-12 col-sm-3">
+                        <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic1.png" alt="地上戦vs空中戦" class="worksimg"/>
+                      </div>
+                      <div class="col-xs-12 col-sm-9">
+                        <p class="small-text top-buffer-padding">
+                          2時間で30万円のコンサルティングフィーを頂く経営コンサルタントが行う戦略は大きく分けて2つあり、 一つは地上戦(リアルマーケティング：チラシやDMなど)、もう一つは空中戦（Webマーケティング）です。 配分する労力でいうと、8割をリアルマーケティングに割き、残りの2割をWebマーケティングに割きます。
+                        </p>
+                      </div>
+                    </div>
                 </div>
 
                 <div class="row margin-t80">
@@ -610,10 +611,15 @@
                   <hr>
                 <div class="row">
                   <div class="col-xs-12">
-                    <p class="small-text">
-                      しかし、肝心の成果、つまり売り上げは、ほとんどの企業様は、総売上の8割がWebマーケティングの集客から成ります。 労力を割いているリアルマーケティングからの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いと言えます。
-                    </p>
-                  </div>
+                    <div class="col-xs-12 col-sm-3">
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic.png" alt=""  class="worksimg"/>
+                    </div>
+                    <div class="col-xs-12 col-sm-9">
+                      <p class="small-text top-buffer-padding">
+                        しかし、肝心の成果、つまり売り上げは、ほとんどの企業様は、総売上の8割がWebマーケティングの集客から成ります。 労力を割いているリアルマーケティングからの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いと言えます。
+                      </p>
+                    </div>
+                </div>
                 </div>
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3">
@@ -631,10 +637,15 @@
                   <hr>
                 <div class="row">
                   <div class="col-xs-12">
-                    <p class="small-text">
-                      今後、スマホシフトへの流れを加味すると、このWebマーケティングへの比重はさらに増加します。 これは時代のトレンドであり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中する戦略により、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webのマーケティング戦略の大部分はWebサイト・ランディングページに織り込むことが可能です。 そこで、構築の段階からマーケティング戦略を落とし込むことで、 低コストで成果の出易いWebサイト・ランディングページの制作を実現しました。
-                    </p>
-                  </div>
+                    <div class="col-xs-12 col-sm-3">
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic3.png" alt="今後のトレンド" class="worksimg" />
+                    </div>
+                    <div class="col-xs-12 col-sm-9">
+                      <p class="small-text">
+                        今後、スマホシフトへの流れを加味すると、このWebマーケティングへの比重はさらに増加します。 これは時代のトレンドであり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中する戦略により、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webのマーケティング戦略の大部分はWebサイト・ランディングページに織り込むことが可能です。 そこで、構築の段階からマーケティング戦略を落とし込むことで、 低コストで成果の出易いWebサイト・ランディングページの制作を実現しました。
+                      </p>
+                    </div>
+                </div>
                 </div>
 
               </div>
