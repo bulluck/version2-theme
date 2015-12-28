@@ -461,7 +461,7 @@
             <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
               <div class="col-xs-12 col-sm-6 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="black-text small-text font-bold">
+                  <h3 class="small-heading black-text font-bold">
                     英会話属性ターゲティングの例
                   </h3>
                   <p class="top-buffer-padding small-text">
@@ -471,8 +471,8 @@
               </div>
               <div class="col-xs-12 col-sm-6 xs-t-buffer hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="black-text small-text font-bold">
-                    サイト制作用ランディングページの例
+                  <h3 class="small-heading black-text font-bold">
+                    サイト制作用LPの例
                   </h3>
                   <p class="top-buffer-padding small-text">
                   </p>
@@ -482,7 +482,7 @@
               </div>
               <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="black-text small-text font-bold">
+                  <h3 class="small-heading black-text font-bold">
                     戦略的デザイン設計の例
                   </h3>
                   <p class="top-buffer-padding small-text">
@@ -492,8 +492,8 @@
               </div>
               <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="black-text small-text font-bold">
-                    HP付加型ランディングページの例
+                  <h3 class="small-heading black-text font-bold">
+                    HP付加型LPの例
                   </h3>
                   <p class="top-buffer-padding small-text">
                   <img class="worksimg top-buffer" src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/shinjuku-mihon.png" alt="ランディングぺージブラック" />
