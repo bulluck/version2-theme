@@ -452,7 +452,7 @@
         <div class="row">
           <div class="col-xs-12">
             <h2 class="top-buffer-padding bottom-buffer-padding ms-heading align-center bluebg sp-br">
-              ランディングぺージ運用の<br>圧倒的な実績
+              ターゲットに合わせた<br>変幻自在な戦略的デザイン
             </h2>
           </div>
         </div>
@@ -461,42 +461,42 @@
             <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
               <div class="col-xs-12 col-sm-6 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="black-text small-text font-bold">
-                    IT事業の株式会社ブラック
+                  <h3 class="small-heading black-text font-bold">
+                    英会話属性ターゲティングの例
                   </h3>
                   <p class="top-buffer-padding small-text">
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck.png" alt="ランディングぺージヒューマングロー" />
+                  <img class="worksimg top-buffer" src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/spartan2-mihon.png" alt="ランディングぺージヒューマングロー" />
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 xs-t-buffer hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="black-text small-text font-bold">
-                    営業代理店のお客様
+                  <h3 class="small-heading black-text font-bold">
+                    サイト制作用LPの例
                   </h3>
                   <p class="top-buffer-padding small-text">
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
+                  <img class="worksimg top-buffer" src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/bulluck2-mihon.png" alt="ランディングぺージワンス" />
 
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="black-text small-text font-bold">
-                    英会話教室のお客様
+                  <h3 class="small-heading black-text font-bold">
+                    戦略的デザイン設計の例
                   </h3>
                   <p class="top-buffer-padding small-text">
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/spartan.png" alt="ランディングぺージスパルタ" />
+                  <img class="worksimg top-buffer" src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/spartan3-mihon.png" alt="ランディングぺージスパルタ" />
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="black-text small-text font-bold">
-                    新宿税理士事務所様
+                  <h3 class="small-heading black-text font-bold">
+                    HP付加型LPの例
                   </h3>
                   <p class="top-buffer-padding small-text">
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/shinjuku.png" alt="ランディングぺージブラック" />
+                  <img class="worksimg top-buffer" src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/shinjuku-mihon.png" alt="ランディングぺージブラック" />
                 </div>
               </div>
             <div class="col-xs-12 col-sm-12 margin-t80">
