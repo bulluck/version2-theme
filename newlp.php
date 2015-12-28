@@ -483,7 +483,7 @@
               <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="small-heading black-text font-bold">
-                    英会話属性ターゲティングLPの例
+                    英会話教室のLP事例
                   </h3>
                   <p class="top-buffer-padding small-text">
                   </p>
@@ -493,7 +493,7 @@
               <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="small-heading black-text font-bold">
-                    HP付加型LPの例
+                    HP付加型のLP事例
                   </h3>
                   <p class="top-buffer-padding small-text">
                   <img class="worksimg top-buffer" src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/shinjuku-mihon.png" alt="ランディングぺージブラック" />
