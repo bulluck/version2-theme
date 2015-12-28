@@ -452,7 +452,7 @@
         <div class="row">
           <div class="col-xs-12">
             <h2 class="top-buffer-padding bottom-buffer-padding ms-heading align-center bluebg sp-br">
-              ランディングぺージの<br>圧倒的な実績
+              ターゲットに合わせた<br>変幻自在な戦略的デザイン設計
             </h2>
           </div>
         </div>
