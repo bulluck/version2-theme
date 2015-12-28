@@ -462,41 +462,41 @@
               <div class="col-xs-12 col-sm-6 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
-                    IT事業の株式会社ブラック
+                    英会話属性ターゲティングのランディングページ
                   </h3>
                   <p class="top-buffer-padding small-text">
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/bulluck.png" alt="ランディングぺージヒューマングロー" />
+                  <img class="worksimg top-buffer" src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/spartan2-mihon.png" alt="ランディングぺージヒューマングロー" />
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 xs-t-buffer hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
-                    営業代理店のお客様
+                    戦略的サイト制作用ランディングページ
                   </h3>
                   <p class="top-buffer-padding small-text">
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/onese.png" alt="ランディングぺージワンス" />
+                  <img class="worksimg top-buffer" src="<http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/bulluck2-mihon.png" alt="ランディングぺージワンス" />
 
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
-                    英会話教室のお客様
+                    戦略的デザイン設計
                   </h3>
                   <p class="top-buffer-padding small-text">
                   </p>
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/spartan.png" alt="ランディングぺージスパルタ" />
+                  <img class="worksimg top-buffer" src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/spartan3-mihon.png" alt="ランディングぺージスパルタ" />
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
                   <h3 class="black-text small-text font-bold">
-                    新宿税理士事務所様
+                    HP付加型ランディングページ
                   </h3>
                   <p class="top-buffer-padding small-text">
-                  <img class="worksimg top-buffer" src="<?php bloginfo('template_directory');?>/images/shinjuku.png" alt="ランディングぺージブラック" />
+                  <img class="worksimg top-buffer" src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/shinjuku-mihon.png" alt="ランディングぺージブラック" />
                 </div>
               </div>
             <div class="col-xs-12 col-sm-12 margin-t80">
