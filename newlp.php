@@ -476,7 +476,7 @@
                   </h3>
                   <p class="top-buffer-padding small-text">
                   </p>
-                  <img class="worksimg top-buffer" src="<http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/bulluck2-mihon.png" alt="ランディングぺージワンス" />
+                  <img class="worksimg top-buffer" src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/bulluck2-mihon.png" alt="ランディングぺージワンス" />
 
                 </div>
               </div>
