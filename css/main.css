@@ -1785,3 +1785,16 @@ hr {
     line-height: 40px;
   }
 }
+
+.border-white {
+    background-color: #FFF;
+    padding: 0 1rem;
+    border-left: #00D1FF;
+    border-style: solid;
+    border-left-width: thick;
+}
+
+
+
+
+

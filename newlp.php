@@ -791,7 +791,7 @@
         <div class="col-xs-12 col-sm-6 xs-t-buffer">
 
           <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
-            <h3 class="small-heading black-text font-bold">
+            <h3 class="small-heading black-text font-bold border-white">
               1. ヒアリング
             </h3>
             <div class="top-buffer align-center">
@@ -806,7 +806,7 @@
         <div class="col-xs-12 col-sm-6 xs-t-buffer">
 
           <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
-            <h3 class="small-heading black-text font-bold">
+            <h3 class="small-heading black-text font-bold border-white">
               2. 企画・戦略
             </h3>
             <div class="top-buffer align-center">
@@ -823,7 +823,7 @@
         <div class="col-xs-12 col-sm-6 top-buffer">
 
           <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
-            <h3 class="small-heading black-text font-bold">
+            <h3 class="small-heading black-text font-bold border-white">
               3. デザイン・LP構築
             </h3>
             <div class="top-buffer align-center">
@@ -839,7 +839,7 @@
         <div class="col-xs-12 col-sm-6 top-buffer">
 
           <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
-            <h3 class="small-heading black-text font-bold">
+            <h3 class="small-heading black-text font-bold border-white">
               4. ランディングぺージ運用
             </h3>
             <div class="top-buffer align-center">
