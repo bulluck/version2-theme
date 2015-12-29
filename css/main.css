@@ -1153,6 +1153,14 @@ div.wpcf7 img.ajax-loader {
   height: 200px;
 }
 
+.height-fixed-taisaku {
+  height: auto;
+}
+
+.flow-textarea {
+  height: auto;
+}
+
 .pl-height-fixed {
   height: 200px;
 }
@@ -1527,6 +1535,10 @@ hr {
     height: auto;
   }
 
+  .flow-textarea {
+    height: 90px;
+  }
+
   .lp-topbar p {
     font-size: 2rem;
     padding: 3px 0;
@@ -1550,7 +1562,15 @@ hr {
   }
 
   .height-fixed-kadai {
-    height: 144px;
+    height: 170px;
+  }
+
+  .height-fixed-taisaku {
+    height: 200px;
+  }
+
+  .flow-textarea {
+    height: 110px;
   }
 }
 @media only screen and (max-width: 768px) and (orientation: landscape) {
@@ -1636,6 +1656,14 @@ hr {
   }
 
   .height-fixed-kadai {
+    height: auto;
+  }
+
+  .height-fixed-taisaku {
+    height: auto;
+  }
+
+  .flow-textarea {
     height: auto;
   }
 

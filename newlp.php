@@ -298,7 +298,7 @@
                         以前よりランディングページはあったものの、ターゲットに刺させるデザイン、受注導線のブラッシュアップが行われておらず、費用対効果がいまいち優れませんでした。そのため、事業拡大の資金も集まらず、会社として停滞していました。
                       </p>
                       <p class="tagblue white-text align-center top-buffer">対策</p>
-                      <p class="smaller-p top-buffer">
+                      <p class="smaller-p top-buffer height-fixed-taisaku">
                         ターゲットの明確化、ターゲット特化型のデザイン設計、自社特徴の見える化を行い、全面に打ち出しました。英会話を習う潜在顧客は、海外や外国人に意識が向いており、外資イメージに反応が良い傾向があるので、外国人のモデルを多く出現させたランディングページを制作しました。
                       </p>
                       <p class="taggreen white-text align-center top-buffer">実施後</p>
@@ -365,7 +365,7 @@
                         </p>
 
                         <p class="tagblue white-text align-center top-buffer">対策</p>
-                        <p class="smaller-p top-buffer">
+                        <p class="smaller-p top-buffer height-fixed-taisaku">
                           制作コストと管理費用を抑えるために、ホームページの一部にランディングページを付加するご提案をさせていただきました。
                           こうすることで制作費用を大幅に低減させることが可能となります。
                           また、デザイン性に優れた画像などを選別にご提供させていただきました。
@@ -798,7 +798,7 @@
 
               <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/contact1.jpg" alt="ランディングぺージ設計" />
             </div>
-            <p class="small-text top-buffer">
+            <p class="small-text top-buffer flow-textarea">
               お問い合わせいただきましたら、具体的なご要望をしっかりとヒアリングさせていただきます。日本全国47都道府県、お電話にて対応しております。過去の実績より、対面で1回の打ち合わせよりもお電話で複数回のヒアリングが最も効率的です。出張打ち合わせもございます。詳細はお問い合わせください。
             </p>
           </div>
@@ -813,7 +813,7 @@
 
               <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/contact2.jpg" alt="ランディングぺージ戦略" />
             </div>
-            <p class="small-text top-buffer">
+            <p class="small-text top-buffer flow-textarea">
               ヒアリング内容を基に、ブラックの経営コンサルタントがターゲットの選定、ランディングページの設計を行います。進行に合わせて随時ご連絡を取らせていただきます。これも成果の出るランディングぺージを作る上では必須になります。ご要望はお気軽にお申し付けください。 </p>
           </div>
         </div>
@@ -830,7 +830,7 @@
 
               <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-design.png" alt="ランディングぺージ構築" />
             </div>
-            <p class="small-text top-buffer">
+            <p class="small-text top-buffer flow-textarea">
               ターゲットの選定、戦略の立案が完了しましたら、ニーズに合わせて戦略的なデザインを行っていきます。
               ファーストビューのデザイン・ボタンの配色だけでも受注率が圧倒的に変わります。そのため、ブラックではデザイン性のみならず、商業性を踏まえた戦略的デザインを経営コンサルタントと共に行います。
             </p>
@@ -846,7 +846,7 @@
 
               <img class="worksimg" src="<?php bloginfo('template_directory');?>/images/flow-listing.png" alt="ランディングぺージ運用" />
             </div>
-            <p class="small-text top-buffer">
+            <p class="small-text top-buffer flow-textarea">
               完成した後の運用が最も重要です。日々の運用・改善を行いPDCAサイクルを最速で回していきます（運用をご依頼の場合）。ブラックの経営コンサルタントがアナリティクス解析、各種分析を一社一社行い、より効果的なランディングページに仕上げていきます。皆様の意思決定が、今後の会社を左右します。ブラックにお任せください。
             </p>
           </div>
