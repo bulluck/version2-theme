@@ -1748,8 +1748,13 @@ hr {
     line-height: 40px;
   }
 }
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+.border {
+    background-color: black;
+    padding: 0 1rem;
+    border-left: #00D1FF;
+    border-style: solid;
+    border-left-width: thick;
+}
+
+
