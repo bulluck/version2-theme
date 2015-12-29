@@ -1458,6 +1458,14 @@ hr {
   display: none;
 }
 
+.border {
+  background-color: black;
+  padding: 0 1rem;
+  border-left: #00D1FF;
+  border-style: solid;
+  border-left-width: thick;
+}
+
 @media only screen and (max-width: 1024px) {
   .contents-wrapper {
     padding-top: 70px;
