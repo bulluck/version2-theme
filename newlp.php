@@ -346,7 +346,7 @@
                   <div class="col-xs-12 top-buffer-padding purewhitebg">
                     <div class="row">
                       <div class="col-xs-12 col-sm-12">
-                        <h3 class="small-heading black-text font-bold">LPをHPに組み込むことで<span class="redtext">販売力UP!</span></h3>
+                        <h3 class="small-heading black-text font-bold">LPをHPに組み込むことで<br><span class="redtext">販売力UP!</span></h3>
                       </div>
                     </div>
                     <hr>
@@ -461,8 +461,8 @@
             <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
               <div class="col-xs-12 col-sm-6 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="small-heading whiter-text border">
-                    ラグジュアリーデザイン設計
+                  <h3 class="small-heading whiter-text border sp-br">
+                    ラグジュアリー<br>デザイン設計
                   </h3>
                   <p class="top-buffer-padding small-text">
                   </p>
