@@ -569,12 +569,12 @@
             <div class="col-xs-12 margin-t80">
               <div class="col-xs-12 clip-board purewhitebg top-buffer-padding bottom-buffer-padding">
                 <div class="row">
-                  <div class="col-xs-6 col-sm-3">
+                  <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center">
                       <i class="fa fa-clipboard"></i><span class="agreespan">その1</span>
                     </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9">
+                  <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
                       通常の経営コンサルティングは地上戦と空中戦！？
                     </h3>
@@ -584,10 +584,10 @@
                   <hr>
                 <div class="row">
                   <div class="col-xs-12">
-                      <div class="col-xs-12 col-sm-3">
+                      <div class="col-xs-12 col-sm-3 top-buffer">
                         <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic1.png" alt="地上戦vs空中戦" class="worksimg"/>
                       </div>
-                      <div class="col-xs-12 col-sm-9">
+                      <div class="col-xs-12 col-sm-9 top-buffer">
                         <p class="smaller-p">
                           2時間で30万円のコンサルティングフィーを頂く経営コンサルタントが行う戦略は大きく分けて2つあり、 一つは地上戦(リアルマーケティング：チラシやDMなど)、もう一つは空中戦（Webマーケティング）です。 配分する労力でいうと、8割をリアルマーケティングに割き、残りの2割をWebマーケティングに割きます。
                         </p>
@@ -596,12 +596,12 @@
                 </div>
 
                 <div class="row margin-t80">
-                  <div class="col-xs-6 col-sm-3">
+                  <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center">
                       <i class="fa fa-clipboard"></i><span class="agreespan">その2</span>
                     </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9">
+                  <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
                       2割の原因が8割の結果を生んでいる！？
                     </h3>
@@ -611,10 +611,10 @@
                   <hr>
                 <div class="row">
                   <div class="col-xs-12">
-                    <div class="col-xs-12 col-sm-3">
+                    <div class="col-xs-12 col-sm-3 top-buffer">
                       <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic.png" alt=""  class="worksimg"/>
                     </div>
-                    <div class="col-xs-12 col-sm-9">
+                    <div class="col-xs-12 col-sm-9 top-buffer">
                       <p class="smaller-p">
                         しかし、肝心の成果、つまり売り上げは、ほとんどの企業様は、総売上の8割がWebマーケティングの集客から成ります。 労力を割いているリアルマーケティングからの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いと言えます。
                       </p>
@@ -622,12 +622,12 @@
                 </div>
                 </div>
                 <div class="row margin-t80">
-                  <div class="col-xs-6 col-sm-3">
+                  <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center">
                       <i class="fa fa-clipboard"></i><span class="agreespan">その3</span>
                     </div>
                   </div>
-                  <div class="col-xs-12 col-sm-9">
+                  <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
                       今後のトレンドは！？
                     </h3>
@@ -637,10 +637,10 @@
                   <hr>
                 <div class="row">
                   <div class="col-xs-12">
-                    <div class="col-xs-12 col-sm-3">
+                    <div class="col-xs-12 col-sm-3 top-buffer">
                       <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic3.png" alt="今後のトレンド" class="worksimg" />
                     </div>
-                    <div class="col-xs-12 col-sm-9">
+                    <div class="col-xs-12 col-sm-9 top-buffer">
                       <p class="smaller-p">
                         今後、スマホシフトへの流れを加味すると、このWebマーケティングへの比重はさらに増加します。 これは時代のトレンドであり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中する戦略により、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webのマーケティング戦略の大部分はWebサイト・ランディングページに織り込むことが可能です。 そこで、構築の段階からマーケティング戦略を落とし込むことで、 低コストで成果の出易いWebサイト・ランディングページの制作を実現しました。
                       </p>
