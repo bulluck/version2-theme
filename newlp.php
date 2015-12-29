@@ -461,7 +461,7 @@
             <div class="col-xs-12 col-sm-12 purewhitebg top-buffer-padding bottom-buffer-padding">
               <div class="col-xs-12 col-sm-6 xs-t-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="small-heading black-text font-bold">
+                  <h3 class="small-heading whiter-text border">
                     ラグジュアリーデザイン設計
                   </h3>
                   <p class="top-buffer-padding small-text">
@@ -471,7 +471,7 @@
               </div>
               <div class="col-xs-12 col-sm-6 xs-t-buffer hidden-xs">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="small-heading black-text font-bold">
+                  <h3 class="small-heading whiter-text border">
                     初心者向けデザイン設計
                   </h3>
                   <p class="top-buffer-padding small-text">
@@ -482,7 +482,7 @@
               </div>
               <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="small-heading black-text font-bold">
+                  <h3 class="small-heading whiter-text border">
                     英会話教室のLP事例
                   </h3>
                   <p class="top-buffer-padding small-text">
@@ -492,7 +492,7 @@
               </div>
               <div class="col-xs-12 col-sm-6 top-buffer">
                 <div class="col-xs-12 col-sm-12 skyblue-bg top-buffer-padding bottom-buffer-padding">
-                  <h3 class="small-heading black-text font-bold">
+                  <h3 class="small-heading whiter-text border">
                     HP付加型のLP事例
                   </h3>
                   <p class="top-buffer-padding small-text">
