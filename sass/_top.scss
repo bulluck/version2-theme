@@ -453,18 +453,7 @@ a {
   max-height: 768px;
 }
 @media only screen and (max-width:768px) {
-  .xs-t-buffer {
-    margin-top: 30px;
-  }
-  .xs-b-buffer {
-    margin-bottom: 30px;
-  }
-  .xs-t-buf-padding {
-    padding-top: 30px;
-  }
-  .xs-b-buf-padding {
-    padding-bottom: 30px;
-  }
+
   br {
     display: none;
   }
@@ -477,4 +466,19 @@ a {
     font-size: 2.2rem;
   }
 
+}
+
+@media only screen and (max-width:600px) {
+  .xs-t-buffer {
+    margin-top: 30px;
+  }
+  .xs-b-buffer {
+    margin-bottom: 30px;
+  }
+  .xs-t-buf-padding {
+    padding-top: 30px;
+  }
+  .xs-b-buf-padding {
+    padding-bottom: 30px;
+  }
 }

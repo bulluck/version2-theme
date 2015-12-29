@@ -541,6 +541,19 @@ a:hover {
 }
 
 @media only screen and (max-width: 768px) {
+  br {
+    display: none;
+  }
+
+  .clip-board .medium-heading {
+    font-size: 2.2rem;
+  }
+
+  .bluebg .medium-heading {
+    font-size: 2.2rem;
+  }
+}
+@media only screen and (max-width: 600px) {
   .xs-t-buffer {
     margin-top: 30px;
   }
@@ -555,18 +568,6 @@ a:hover {
 
   .xs-b-buf-padding {
     padding-bottom: 30px;
-  }
-
-  br {
-    display: none;
-  }
-
-  .clip-board .medium-heading {
-    font-size: 2.2rem;
-  }
-
-  .bluebg .medium-heading {
-    font-size: 2.2rem;
   }
 }
 .menuwrapper, .menuwrapper-lower {
@@ -1537,7 +1538,7 @@ hr {
   }
 
   .clip-board br {
-    display: none;
+    display: inherit;
   }
 
   .height-fixed-kadai {
@@ -1748,13 +1749,3 @@ hr {
     line-height: 40px;
   }
 }
-
-.border {
-    background-color: black;
-    padding: 0 1rem;
-    border-left: #00D1FF;
-    border-style: solid;
-    border-left-width: thick;
-}
-
-
