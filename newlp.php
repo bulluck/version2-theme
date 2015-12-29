@@ -570,7 +570,7 @@
               <div class="col-xs-12 clip-board purewhitebg top-buffer-padding bottom-buffer-padding">
                 <div class="row">
                   <div class="col-xs-6 col-sm-3 top-buffer">
-                    <div class="blackbg font-bold white-text small-heading align-center">
+                    <div class="blackbg font-bold white-text small-heading align-center border">
                       <i class="fa fa-clipboard"></i><span class="agreespan">その1</span>
                     </div>
                   </div>
@@ -597,7 +597,7 @@
 
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3 top-buffer">
-                    <div class="blackbg font-bold white-text small-heading align-center">
+                    <div class="blackbg font-bold white-text small-heading align-center border">
                       <i class="fa fa-clipboard"></i><span class="agreespan">その2</span>
                     </div>
                   </div>
@@ -623,7 +623,7 @@
                 </div>
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3 top-buffer">
-                    <div class="blackbg font-bold white-text small-heading align-center">
+                    <div class="blackbg font-bold white-text small-heading align-center border">
                       <i class="fa fa-clipboard"></i><span class="agreespan">その3</span>
                     </div>
                   </div>
