@@ -280,7 +280,7 @@
                 <div class="col-xs-12 top-buffer-padding purewhitebg">
                   <div class="row">
                     <div class="col-xs-12 col-sm-12">
-                      <h3 class="small-heading black-text font-bold">ランディングページリニューアルにより<span class="redtext">受注率が1.9倍に</span></h3>
+                      <h3 class="small-heading black-text font-bold">LPリニューアルにより<br><span class="redtext">受注率が1.9倍に</span></h3>
                     </div>
                   </div>
                   <hr>
