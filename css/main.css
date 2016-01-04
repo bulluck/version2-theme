@@ -225,7 +225,6 @@ a:hover {
 
 .companyname {
   line-height: 70px;
-  letter-spacing: 1px;
 }
 
 .blackbar {
@@ -591,6 +590,27 @@ a:hover {
 .topmenu {
   height: 70px;
   margin: 0 auto;
+  position: relative;
+}
+.topmenu .cc-1 {
+  position: absolute;
+  top: 3px;
+  left: 15px;
+  font-size: 5px;
+  letter-spacing: .5px;
+}
+.topmenu .cc-2 {
+  position: absolute;
+  bottom: 4px;
+  left: 15px;
+  font-size: 5px;
+  letter-spacing: .5px;
+}
+.topmenu .bybulluck {
+  position: absolute;
+  top: 32px;
+  left: 170px;
+  white-space: nowrap;
 }
 .topmenu ul {
   float: right;
@@ -710,6 +730,11 @@ a:hover {
   line-height: 28px;
 }
 
+@media only screen and (max-width: 1024px) {
+  .topmenu .bybulluck {
+    left: 110px;
+  }
+}
 @media only screen and (max-width: 767px) {
   .topmenu {
     display: inline-block;
@@ -717,6 +742,9 @@ a:hover {
     left: 0;
     position: fixed;
     z-index: 999999;
+  }
+  .topmenu .bybulluck {
+    left: 110px;
   }
 
   .menuwrapper, .menuwrapper-lower,
@@ -1785,16 +1813,3 @@ hr {
     line-height: 40px;
   }
 }
-
-.border-white {
-    background-color: #FFF;
-    padding: 0 1rem;
-    border-left: #00D1FF;
-    border-style: solid;
-    border-left-width: thick;
-}
-
-
-
-
-

@@ -17,6 +17,27 @@
 .topmenu {
   height: 70px;
   margin: 0 auto;
+  position: relative;
+  .cc-1{
+    position: absolute;
+    top: 3px;
+    left: 15px;
+    font-size: 5px;
+    letter-spacing: .5px;
+  }
+  .cc-2{
+    position: absolute;
+    bottom: 4px;
+    left: 15px;
+    font-size: 5px;
+    letter-spacing: .5px;
+  }
+  .bybulluck{
+    position: absolute;
+    top: 32px;
+    left: 170px;
+    white-space: nowrap;
+  }
   ul {
     float: right;
     .current-menu-item {
@@ -130,6 +151,14 @@
   }
 }
 
+@media only screen and (max-width:1024px) {
+  .topmenu {
+    .bybulluck {
+      left: 110px;
+    }
+  }
+}
+
 @media only screen and (max-width:767px)  {
   .topmenu {
     display: inline-block;
@@ -137,6 +166,9 @@
     left: 0;
     position: fixed;
     z-index: 999999;
+    .bybulluck {
+      left: 110px;
+    }
   }
 
 
