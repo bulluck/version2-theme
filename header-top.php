@@ -57,7 +57,7 @@
 												<a href="<?php echo home_url('/');?>">
 												<span class="black-text companyname purewhitebg condensed-bold top-heading" style="padding:0 5px">Web</span>
 		 										 <span class="white-text companyname top-heading">戦略室</span>
-		 										 <span class="white-text agreespan bybulluck">produced by Bulluck </span>
+		 										 <span class="white-text top-agreespan bybulluck">produced by Bulluck </span>
 												</a>
 												<?php
 																wp_nav_menu(

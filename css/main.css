@@ -874,8 +874,12 @@ a:hover {
   line-height: 150%;
 }
 
-.agreespan {
+.top-agreespan {
   padding-left: 43px;
+}
+
+.agreespan {
+  padding-left: 10px;
 }
 
 div.wpcf7 img.ajax-loader {
