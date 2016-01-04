@@ -51,6 +51,9 @@
 									<div class="container-fluid">
 										<div class="row">
 											<nav class="topmenu col-xs-6 col-sm-12 col-md-12 col-lg-12">
+												<span class="white-text cc-1 hidden-xs">
+													経営コンサルタントによる サイト / LP制作 / SEO対策 / 広告運用
+												</span>
 												<a href="<?php echo home_url('/');?>">
 												<span class="black-text companyname purewhitebg condensed-bold small-heading" style="padding:0 5px">Web</span>
 		 										 <span class="white-text companyname condensed-bold small-heading">戦略室</span>
@@ -65,9 +68,6 @@
 																	)
 																	)
 																;?>
-																<span class="white-text cc-2 hidden-xs">
-																	『広告費を無駄にしていませんか？』 サイト / LP制作 / SEO対策 / 広告運用
-																</span>
 											</nav>
 										</div>
 									</div>
