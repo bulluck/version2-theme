@@ -611,7 +611,7 @@ a:hover {
 }
 .topmenu .bybulluck {
   position: absolute;
-  top: 45px;
+  top: 48px;
   left: 170px;
   white-space: nowrap;
 }
@@ -875,7 +875,7 @@ a:hover {
 }
 
 .agreespan {
-  padding-left: 10px;
+  padding-left: 46px;
 }
 
 div.wpcf7 img.ajax-loader {
@@ -1826,3 +1826,10 @@ hr {
     line-height: 40px;
   }
 }
+
+.top-heading {
+    font-size: 2.7rem;
+}
+
+
+
