@@ -159,6 +159,14 @@ div.wpcf7 img.ajax-loader {
   }
 }
 
+.border-white {
+    background-color: #FFF;
+    padding: 0 1rem;
+    border-left: #00D1FF;
+    border-style: solid;
+    border-left-width: thick;
+}
+
 #technology {
   background-image: url(#{$img-path}tech.jpg);
   background-repeat: no-repeat;

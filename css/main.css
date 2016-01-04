@@ -926,6 +926,14 @@ div.wpcf7 img.ajax-loader {
   line-height: normal;
 }
 
+.border-white {
+  background-color: #FFF;
+  padding: 0 1rem;
+  border-left: #00D1FF;
+  border-style: solid;
+  border-left-width: thick;
+}
+
 #technology, #marketing, #trend, #cafe, #note, #blog, #news {
   background-image: url(../images/tech.jpg);
   background-repeat: no-repeat;
