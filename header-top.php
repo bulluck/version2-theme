@@ -55,9 +55,9 @@
 													経営コンサルタントによる サイト / LP制作 / SEO対策 / 広告運用
 												</span>
 												<a href="<?php echo home_url('/');?>">
-												<span class="black-text companyname purewhitebg condensed-bold small-heading" style="padding:0 5px">Web</span>
-		 										 <span class="white-text companyname condensed-bold small-heading">戦略室</span>
-		 										 <span class="white-text condensed-normal agreespan bybulluck">produced by Bulluck </span>
+												<span class="black-text companyname purewhitebg condensed-bold top-heading" style="padding:0 5px">Web</span>
+		 										 <span class="white-text companyname top-heading">戦略室</span>
+		 										 <span class="white-text agreespan bybulluck">produced by Bulluck </span>
 												</a>
 												<?php
 																wp_nav_menu(
