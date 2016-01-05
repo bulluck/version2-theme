@@ -150,12 +150,20 @@
   }
 }
 
+.top-agreespan {
+  padding-left: 43px;
+}
+
+
 @media only screen and (max-width:1024px) {
   .topmenu {
     .bybulluck {
       left: 110px;
       top: 43px;
     }
+  }
+  .top-heading {
+    font-size: 2rem;
   }
 }
 

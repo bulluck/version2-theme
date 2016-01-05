@@ -611,7 +611,7 @@ a:hover {
 }
 .topmenu .bybulluck {
   position: absolute;
-  top: 47px;
+  top: 45px;
   left: 170px;
   white-space: nowrap;
 }
@@ -733,10 +733,18 @@ a:hover {
   line-height: 28px;
 }
 
+.top-agreespan {
+  padding-left: 43px;
+}
+
 @media only screen and (max-width: 1024px) {
   .topmenu .bybulluck {
     left: 110px;
     top: 43px;
+  }
+
+  .top-heading {
+    font-size: 2rem;
   }
 }
 @media only screen and (max-width: 767px) {
@@ -872,10 +880,6 @@ a:hover {
   width: 100%;
   border: 0;
   line-height: 150%;
-}
-
-.top-agreespan {
-  padding-left: 43px;
 }
 
 .agreespan {
@@ -1830,10 +1834,3 @@ hr {
     line-height: 40px;
   }
 }
-
-.top-heading {
-    font-size: 2.6rem;
-}
-
-
-
