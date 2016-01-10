@@ -452,7 +452,7 @@
         <div class="row">
           <div class="col-xs-12">
             <h2 class="top-buffer-padding bottom-buffer-padding ms-heading align-center bluebg sp-br">
-              ターゲティング：<br>変幻自在な戦略的デザイン
+              業種/目的に合わせた戦略的デザイン
             </h2>
           </div>
         </div>
@@ -562,7 +562,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12" id="reason">
-            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason sp-br">Web戦略室メソッド<br>:選択と集中</h2>
+            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason sp-br">Web戦略室メソッド</h2>
           </div>
         </div>
           <div class="row">
