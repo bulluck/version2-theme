@@ -107,7 +107,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12">
-            <h2 class="medium-heading font-bold align-center solve top-buffer-padding sp-br">ブラックメソッドで<br>お悩み解決！</h2>
+            <h2 class="medium-heading font-bold align-center solve top-buffer-padding sp-br">経営コンサルタントが<br>お悩み解決！</h2>
           </div>
         </div>
         <!-- case1 -->
@@ -562,7 +562,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12" id="reason">
-            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason sp-br">ブラックメソッド<br>:勝てる理由</h2>
+            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason sp-br">Web戦略室メソッド<br>:選択と集中</h2>
           </div>
         </div>
           <div class="row">
@@ -589,7 +589,7 @@
                       </div>
                       <div class="col-xs-12 col-sm-9 top-buffer">
                         <p class="smaller-p">
-                          2時間で30万円のコンサルティングフィーを頂く経営コンサルタントが行う戦略は大きく分けて2つあり、 一つは地上戦(リアルマーケティング：チラシやDMなど)、もう一つは空中戦（Webマーケティング）です。 配分する労力でいうと、8割をリアルマーケティングに割き、残りの2割をWebマーケティングに割きます。
+                          通常の、2時間で20~50万円のコンサルティングフィーを頂く経営コンサルタントが行う戦略は大きく分けて2つあり、 一つは地上戦(リアルマーケティング：チラシやDMなど)、もう一つは空中戦（Webマーケティング）です。 配分する労力でいうと、8割をリアルマーケティングに割き、残りの2割をWebマーケティングに割いています。
                         </p>
                       </div>
                     </div>
@@ -616,7 +616,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
                       <p class="smaller-p">
-                        しかし、肝心の成果、つまり売り上げは、ほとんどの企業様は、総売上の8割がWebマーケティングの集客から成ります。 労力を割いているリアルマーケティングからの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いと言えます。
+                        しかし、肝心の成果、つまり売り上げは、ほとんどの企業様の場合、総売上の8割がWebマーケティングの集客から成ります。 労力を割いている地上戦(チラシやDMなど)からの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いと言えます。
                       </p>
                     </div>
                 </div>
@@ -642,7 +642,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
                       <p class="smaller-p">
-                        今後、スマホシフトへの流れを加味すると、このWebマーケティングへの比重はさらに増加します。 これは時代のトレンドであり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中する戦略により、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webのマーケティング戦略の大部分はWebサイト・ランディングページに織り込むことが可能です。 そこで、構築の段階からマーケティング戦略を落とし込むことで、 低コストで成果の出易いWebサイト・ランディングページの制作を実現しました。
+                        今後、スマホシフトへの流れを加味すると、このWebマーケティングへの比重はさらに増加します。 これは時代のトレンドであり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中する戦略により、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webマーケティング戦略の大部分はWebサイト・ランディングページに織り込むことが可能です。 そこで、ランディングページ構築・設計の段階から経営コンサルタントがマーケティング戦略を落とし込むことで、 低コストで成果の出易いWebサイト・ランディングページの制作を実現しました。
                       </p>
                     </div>
                 </div>
