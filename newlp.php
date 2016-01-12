@@ -783,7 +783,7 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-3 top-buffer">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic3.png" alt="今後のトレンド" class="worksimg" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/paso.png" alt="今後のトレンド" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
                       <p class="smaller-p">
