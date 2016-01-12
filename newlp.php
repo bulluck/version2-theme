@@ -474,7 +474,7 @@
                 <div class="row">
                   <div class="col-xs-12">
                       <div class="col-xs-12 col-sm-3 top-buffer">
-                        <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic1.png" alt="地上戦vs空中戦" class="worksimg"/>
+                        <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/batu1.png" alt="地上戦vs空中戦" class="worksimg"/>
                       </div>
                       <div class="col-xs-12 col-sm-9 top-buffer">
                         <p class="smaller-p">
@@ -492,7 +492,7 @@
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
-                      売れるランディングページはデザインだけではない！？
+                      売れるランディングページはデザイン性！？
                     </h3>
 
                   </div>
@@ -501,7 +501,7 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-3 top-buffer">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic.png" alt=""  class="worksimg"/>
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/batu2.png" alt=""  class="worksimg"/>
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
                       <p class="smaller-p">
@@ -527,7 +527,7 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-3 top-buffer">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic3.png" alt="今後のトレンド" class="worksimg" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/maru.png" alt="今後のトレンド" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
                       <p class="smaller-p">
