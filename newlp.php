@@ -973,7 +973,7 @@
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
-                      2割の原因が8割の結果を生んでいる！？
+                     20万円ほどの投資でしたが、2ヶ月で投資回収に成功しました
                     </h3>
 
                   </div>
@@ -982,11 +982,17 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-3 top-buffer">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic.png" alt=""  class="worksimg"/>
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/boy2.png" alt=""  class="worksimg"/>
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
-                      <p class="smaller-p">
-                        しかし、肝心の成果、つまり売り上げは、ほとんどの企業様の場合、総売上の8割がWebマーケティングの集客から成ります。 労力を割いている地上戦(チラシやDMなど)からの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いと言えます。
+                    <p class="p">
+                         株式会社ハウスリンク
+                       <br>代表取締役社長　谷川茂様
+                        </p>
+                      <p class="smaller-p top-buffer">
+                        以前は、高額な割に、効果の薄いリスティング広告を行っていました。 Web戦略室さんに相談したところ、ターゲットユーザーの選定が甘いことが原因でした。 その際、効果的なランディングページと運用をご提案いただきましたが、やはり出費は抑えたい気持ちもありました。
+Web戦略室さんの強みとして、コンサルタントによる提案力があることだと思います。 制作費・運用費に投資をすることにより、売上アップへの効果を丁寧に説明していただき、納得しました。 また、ランディングページにおいても、バナーの意味や画像配置の根拠を一つ一つ説明してくださり、納得の行くものを作っていただけました。 その結果、問い合わせ数が2.5倍に増えるという劇的な効果がありました。
+ただのWeb制作会社とは全く違います。 本当に相談して良かったと思います。
                       </p>
                     </div>
                 </div>
