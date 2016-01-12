@@ -554,7 +554,7 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-3 top-buffer">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/batu2.png" alt=""  class="worksimg"/>
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/maru2.png" alt=""  class="worksimg"/>
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
                       <p class="smaller-p">
