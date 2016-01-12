@@ -928,7 +928,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-xs-12" id="reason">
-            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason sp-br">Web戦略室メソッド</h2>
+            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason sp-br">お客様の声</h2>
           </div>
         </div>
           <div class="row">
@@ -942,7 +942,7 @@
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
-                      通常の経営コンサルティングは地上戦と空中戦！？
+                      創業1年、依頼開始から半年で、月商1000万の壁を突破できました。
                     </h3>
 
                   </div>
@@ -955,7 +955,7 @@
                       </div>
                       <div class="col-xs-12 col-sm-9 top-buffer">
                         <p class="smaller-p">
-                          通常の、2時間で20~50万円のコンサルティングフィーを頂く経営コンサルタントが行う戦略は大きく分けて2つあり、 一つは地上戦(リアルマーケティング：チラシやDMなど)、もう一つは空中戦（Webマーケティング）です。 配分する労力でいうと、8割をリアルマーケティングに割き、残りの2割をWebマーケティングに割いています。
+                         正直、最初は不安でした。本当に売り上げが上がるのか、そもそも投資した分を回収できるのかはかなり考えました。しかし、経営コンサルタントが丁寧に説明してくれたので、決断しました。弊社の場合は、0からコンセプトメイク、設計、制作、広告運用までを行っていただきました。初期費用は戦略・制作もやっていただいて15万円のみの投資でしたのですぐに回収でき、リターンも得ることができました。非常に安くて結果に結びつくのでオススメです。
                         </p>
                       </div>
                     </div>
