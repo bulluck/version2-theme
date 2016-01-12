@@ -408,6 +408,154 @@
       </div>
     </div>
   </section>
+  
+   <section class="section-padding80 purewhitebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 contact-box">
+            <?php if (is_mobile()):?>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料問い合わせ" class="worksimg"/>
+            <?php else:?>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料見積もり" class="worksimg"/>
+            <?php endif; ?>
+            <div class="col-xs-12 col-sm-12 hidden">
+              <h2>
+                経営コンサルタントが設計！『受注率にコミット』するならブラック!
+              </h2>
+              <h3>広告運用と同時申し込みで制作費用が半額に！</h3>
+              <p>
+                ランディングページ制作と同時申し込みで、リスティング・Facebook等の広告運用を私たち経営コンサルタントにお任せいただいた場合、<em>制作費が半額</em>になります。
+              </p>
+              <p>
+                制作数には上限があります。お早めにお問い合わせください。
+              </p>
+            </div>
+
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
+            </a>
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
+            </a>
+          </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+  <section class="section-padding80 bluebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12" id="reason">
+            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason sp-br">ランディングページ制作会社との違い</h2>
+          </div>
+        </div>
+          <div class="row">
+            <div class="col-xs-12 margin-t80">
+              <div class="col-xs-12 clip-board purewhitebg top-buffer-padding bottom-buffer-padding">
+                <div class="row">
+                  <div class="col-xs-6 col-sm-3 top-buffer">
+                    <div class="blackbg font-bold white-text small-heading align-center border">
+                      <i class="fa fa-clipboard"></i><span class="agreespan">その1</span>
+                    </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-9 top-buffer">
+                    <h3 class="small-heading black-text font-bold">
+                      通常の経営コンサルティングは地上戦と空中戦！？
+                    </h3>
+
+                  </div>
+                </div>
+                  <hr>
+                <div class="row">
+                  <div class="col-xs-12">
+                      <div class="col-xs-12 col-sm-3 top-buffer">
+                        <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic1.png" alt="地上戦vs空中戦" class="worksimg"/>
+                      </div>
+                      <div class="col-xs-12 col-sm-9 top-buffer">
+                        <p class="smaller-p">
+                          通常の制作会社では、クライアントが依頼したランディングページをデザイナー、エンジニアが言われた通りに作るだけです。デザイナー、エンジニアは、経営や投資対効果、マーケティングに関することは当然専門外であるので、クライアントに言われた通りのものを作ります。したがって、売り上げがどうなろうと、受注率がどうなろうと知る由もありません。
+                          ここにランディングページ制作における大きな落とし穴があると考えています。マーケティングに詳しいクライアント様であれば、依頼された通りのものを作るだけでも問題ありませんが、制作に関する知識、マーケティングに関する知識を持ち合わせたクライアント様は少ない印象を受けます。どうしても、売り上げ、受注率よりもデザインに偏りがちになってしまします。
+                          そこで、弊社の経営コンサルタントが、戦略的なデザイン、戦略的なランディングページを設計し、より売り上げに貢献できるような商品をお作りいたします。
+                          これが皆様に選ばれている理由の一つです。
+                        </p>
+                      </div>
+                    </div>
+                </div>
+
+                <div class="row margin-t80">
+                  <div class="col-xs-6 col-sm-3 top-buffer">
+                    <div class="blackbg font-bold white-text small-heading align-center border">
+                      <i class="fa fa-clipboard"></i><span class="agreespan">その2</span>
+                    </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-9 top-buffer">
+                    <h3 class="small-heading black-text font-bold">
+                      2割の原因が8割の結果を生んでいる！？
+                    </h3>
+
+                  </div>
+                </div>
+                  <hr>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="col-xs-12 col-sm-3 top-buffer">
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic.png" alt=""  class="worksimg"/>
+                    </div>
+                    <div class="col-xs-12 col-sm-9 top-buffer">
+                      <p class="smaller-p">
+                        しかし、肝心の成果、つまり売り上げは、ほとんどの企業様の場合、総売上の8割がWebマーケティングの集客から成ります。 労力を割いている地上戦(チラシやDMなど)からの売上は2割にとどまります。 つまり、2割の原因(Webマーケティング)が8割の結果(売上)を生んでいることになります。 これはパレートの法則でも説明されますが、非常に効率が悪いと言えます。
+                      </p>
+                    </div>
+                </div>
+                </div>
+                <div class="row margin-t80">
+                  <div class="col-xs-6 col-sm-3 top-buffer">
+                    <div class="blackbg font-bold white-text small-heading align-center border">
+                      <i class="fa fa-clipboard"></i><span class="agreespan">その3</span>
+                    </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-9 top-buffer">
+                    <h3 class="small-heading black-text font-bold">
+                      今後のトレンドは！？
+                    </h3>
+
+                  </div>
+                </div>
+                  <hr>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="col-xs-12 col-sm-3 top-buffer">
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic3.png" alt="今後のトレンド" class="worksimg" />
+                    </div>
+                    <div class="col-xs-12 col-sm-9 top-buffer">
+                      <p class="smaller-p">
+                        今後、スマホシフトへの流れを加味すると、このWebマーケティングへの比重はさらに増加します。 これは時代のトレンドであり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中する戦略により、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webマーケティング戦略の大部分はWebサイト・ランディングページに織り込むことが可能です。 そこで、ランディングページ構築・設計の段階から経営コンサルタントがマーケティング戦略を落とし込むことで、 低コストで成果の出易いWebサイト・ランディングページの制作を実現しました。
+                      </p>
+                    </div>
+                </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+      </div>
+
+    </div>
+
+  </section>
+
+  
+  
+  
+  
+  
+  
+  
   <section class="section-padding80 purewhitebg">
     <div class="container-center">
       <div class="container-fluid">
