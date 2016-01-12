@@ -1,7 +1,7 @@
 <article class="lp-wrapper purewhitebg">
   <div class="lp-topbar align-center">
     <p class="white-text">
-    ご新規様キャンペーン！２万円分のオプション券贈呈中！
+    半額キャンペーン！広告運用と同時申込で制作費が半額！
     </p>
   </div>
   <div class="container-fluid">
