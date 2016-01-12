@@ -951,11 +951,15 @@
                 <div class="row">
                   <div class="col-xs-12">
                       <div class="col-xs-12 col-sm-3 top-buffer">
-                        <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/nakamoto_bulluck_logic1.png" alt="地上戦vs空中戦" class="worksimg"/>
+                        <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/ogu.png" alt="地上戦vs空中戦" class="worksimg"/>
                       </div>
                       <div class="col-xs-12 col-sm-9 top-buffer">
-                        <p class="smaller-p">
-                         正直、最初は不安でした。本当に売り上げが上がるのか、そもそも投資した分を回収できるのかはかなり考えました。しかし、経営コンサルタントが丁寧に説明してくれたので、決断しました。弊社の場合は、0からコンセプトメイク、設計、制作、広告運用までを行っていただきました。初期費用は戦略・制作もやっていただいて15万円のみの投資でしたのですぐに回収でき、リターンも得ることができました。非常に安くて結果に結びつくのでオススメです。
+                        <p class="p">
+                         株式会社ストーリーランド
+                       <br>代表取締役社長　小倉進太郎様
+                        </p>
+                        <p class="smaller-p top-buffer">
+                         正直、最初は不安でした。本当に売り上げが上がるのか、そもそも投資した分を回収できるのかはかなり考えました。しかし、経営コンサルタントが丁寧に説明してくれたので、決断できました。弊社の場合は、0からコンセプトメイク、設計、制作、広告運用までを行っていただきました。初期費用は戦略・制作もやっていただいて15万円のみの投資でしたのですぐに回収でき、リターンも得ることができました。非常に安くて結果に結びつくのでオススメです。
                         </p>
                       </div>
                     </div>
