@@ -1,7 +1,7 @@
 <article class="lp-wrapper purewhitebg">
   <div class="lp-topbar align-center">
     <p class="white-text">
-    半額キャンペーン！広告運用と同時申込で制作費が半額！
+    広告運用と同時申込で制作費が半額キャンペーン実施中！
     </p>
   </div>
   <div class="container-fluid">
