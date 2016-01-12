@@ -518,7 +518,7 @@
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
-                      経営コンサルタントが設計するから〇〇！？
+                      経営コンサルタントが〇〇するから結果が出る！？
                     </h3>
 
                   </div>
@@ -537,6 +537,32 @@
                 </div>
                 </div>
 
+                <div class="row margin-t80">
+                  <div class="col-xs-6 col-sm-3 top-buffer">
+                    <div class="blackbg font-bold white-text small-heading align-center border">
+                      <i class="fa fa-clipboard"></i><span class="agreespan">その4</span>
+                    </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-9 top-buffer">
+                    <h3 class="small-heading black-text font-bold">
+                      どうしてそんなに安いの！？
+                    </h3>
+
+                  </div>
+                </div>
+                  <hr>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="col-xs-12 col-sm-3 top-buffer">
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/batu2.png" alt=""  class="worksimg"/>
+                    </div>
+                    <div class="col-xs-12 col-sm-9 top-buffer">
+                      <p class="smaller-p">
+                    通常、経営コンサルティング会社にマーケティングを依頼した場合、毎月25万円ほどのコンサルティング費用がかかります。一方、制作会社に依頼すると、マーケティングに関しては一切触れてもらえません。予算の少ない会社様にとっては、どうすることもできない状況となり、ここに大きな問題があると感じていました。そこで、高額な経営コンサルティングのノウハウを、ランディングページにすべて落とし込んでしまえば、後々にかかるコストを極限まで抑えることができ、加えて売り上げもUPさせることができると言う「web戦略室メソッド」を活用することで、安くすることができます。
+                      </p>
+                    </div>
+                </div>
+                </div>
               </div>
             </div>
           </div>
