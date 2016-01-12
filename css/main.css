@@ -1743,7 +1743,7 @@ hr {
   }
 
   .lpplan-top {
-    background-image: url(../images/n_kv_sp2.png);
+    background-image: url(../images/n_kv_sp_3.png);
     height: 400px;
   }
 }
@@ -1770,7 +1770,7 @@ hr {
 }
 @media only screen and (max-width: 320px) {
   .lpplan-top {
-    background-image: url(../images/n_kv_sp52.png);
+    background-image: url(../images/n_kv_sp5_3.png);
     height: 325px;
   }
 }
