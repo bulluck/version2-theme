@@ -937,7 +937,7 @@
                 <div class="row">
                   <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center border">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">その1</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">社長様</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
@@ -956,7 +956,7 @@
                       <div class="col-xs-12 col-sm-9 top-buffer">
                         <p class="p">
                          株式会社ストーリーランド
-                       <br>代表取締役社長　小倉進太郎様
+                       <br>29歳　代表取締役社長　小倉進太郎様
                         </p>
                         <p class="smaller-p top-buffer">
                          正直、最初は不安でした。本当に売り上げが上がるのか、そもそも投資した分を回収できるのかはかなり考えました。しかし、経営コンサルタントが丁寧に説明してくれたので、決断できました。弊社の場合は、0からコンセプトメイク、設計、制作、広告運用までを行っていただきました。初期費用は戦略・制作もやっていただいて15万円のみの投資でしたのですぐに回収でき、リターンも得ることができました。非常に安くて結果に結びつくのでオススメです。
@@ -968,12 +968,12 @@
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center border">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">その2</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">社長様</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
-                     20万円ほどの投資でしたが、2ヶ月で投資回収に成功しました
+                     20万円ほどの投資でしたが、2ヶ月で投資回収に成功しました。
                     </h3>
 
                   </div>
@@ -986,8 +986,8 @@
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
                     <p class="p">
-                         株式会社ハウスリンク
-                       <br>代表取締役社長　谷川茂様
+                         株式会社北国物流
+                       <br>38歳　代表取締役社長　松田茂輝様
                         </p>
                       <p class="smaller-p top-buffer">
                         以前は、高額な割に、効果の薄いリスティング広告を行っていました。 Web戦略室さんに相談したところ、ターゲットユーザーの選定が甘いことが原因でした。 その際、効果的なランディングページと運用をご提案いただきましたが、やはり出費は抑えたい気持ちもありました。
@@ -1000,12 +1000,12 @@ Web戦略室さんの強みとして、コンサルタントによる提案力�
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center border">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">その3</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">営業企画部長</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
-                      今後のトレンドは！？
+                      低コストでコンサルティング会社並のサポートがあり、助かっています。
                     </h3>
 
                   </div>
@@ -1014,11 +1014,16 @@ Web戦略室さんの強みとして、コンサルタントによる提案力�
                 <div class="row">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-3 top-buffer">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/paso.png" alt="今後のトレンド" class="worksimg" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/boy2.png" alt="今後のトレンド" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
-                      <p class="smaller-p">
-                        今後、スマホシフトへの流れを加味すると、このWebマーケティングへの比重はさらに増加します。 これは時代のトレンドであり、流れに抗うことはすなわち会社の死を意味します。 そこで、成果の薄い8割の地上戦を廃止し、成果の出易い2割のWebマーケティングに資金を集中する戦略により、 効率性と売り上げの向上を図ることに成功しました。さらに、 Webマーケティング戦略の大部分はWebサイト・ランディングページに織り込むことが可能です。 そこで、ランディングページ構築・設計の段階から経営コンサルタントがマーケティング戦略を落とし込むことで、 低コストで成果の出易いWebサイト・ランディングページの制作を実現しました。
+                    
+                     <p class="p">
+                        株式会社HG
+                       <br>40歳　営業企画部長　田中敏夫様(仮名)
+                        </p>
+                      <p class="smaller-p top-buffer">
+                        卸では割とうまく行っていたのですが、会社の方針として、ネット上での小売販売にも進出することが決まり、私が戦略企画を担当することになりました。ネット集客等の経験は皆無でしたが、予算が限られていたので、経営コンサルティング会社には依頼できませんでした。そこでランディングページと広告運用代行を探していたところ、web戦略室さんを見つけました。設計と運用だけ経営コンサルタントがしてくれるということで、低価格で集客を依頼することができました。実際結果も出ているので、とても助かっています。
                       </p>
                     </div>
                 </div>
