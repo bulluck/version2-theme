@@ -175,12 +175,15 @@ img {
 /* line 175, ../sass/layout.scss */
 /* line 206, ../sass/layout.scss */
 /* line 235, ../sass/layout.scss */
-  .companyname {
-    line-height: 70px;
-    float: left;
-    color: #fff;
-    font-size: 2rem;
-    letter-spacing: 1px;
+    .companyname {
+    line-height: 90px;
+}
+
+.bybulluck {
+    position: absolute;
+    top: 45px;
+    left: 170px;
+    white-space: nowrap;
 }
 
 

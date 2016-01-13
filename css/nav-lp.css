@@ -17,6 +17,16 @@
     font-weight: 700;
 }
 
+.white-text {
+  color: #fff;
+}
+
+.cc-1 {
+  position: absolute;
+    top: 6px;
+    left: 15px;
+    letter-spacing: 0.5px;
+}
 
 .col-xs-12.col-sm-12.col-lg-12 {
     position: relative;
