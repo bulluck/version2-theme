@@ -378,7 +378,7 @@ img {
   line-height: normal;
 }
 .lpplan-top {
-  background-image: url(#{$img-path}n_lptop.png);
+  background-image: url(#{$img-path}n_lptop5.png);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -916,7 +916,7 @@ hr {
     width: 47.5%;
 }
 .lpplan-top {
-    background-image: url(../images/n_kv_sp.png);
+    background-image: url(../images/n_kv_sp_3.png);
     height: 400px;
 }
 
@@ -936,7 +936,7 @@ hr {
 }
 
 .lpplan-top {
-    height: 275px;
+    height: 375px;
 }
 
 .sp-br {
@@ -949,7 +949,7 @@ hr {
 
 @media only screen and (max-width:320px) {
   .lpplan-top {
-    background-image: url(#{$img-path}n_kv_sp5.png);
-    height: 225px;
+    background-image: url(#{$img-path}n_kv_sp5_3.png);
+    height: 325px;
   }
 }

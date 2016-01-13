@@ -21,11 +21,16 @@
   color: #fff;
 }
 
-.cc-1 {
+.topmenu .cc-1 {
   position: absolute;
     top: 6px;
     left: 15px;
     letter-spacing: 0.5px;
+    line-height: .8;
+}
+
+.top-agreespan {
+  padding-left: 43px;
 }
 
 .col-xs-12.col-sm-12.col-lg-12 {
@@ -152,8 +157,9 @@
 .topmenu {
   height: 70px;
   margin: 0 auto;
-  letter-spacing: 0.5px;
+  position: relative;
 }
+
 
 a {
 text-decoration: none;

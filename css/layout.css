@@ -179,11 +179,15 @@ img {
     line-height: 90px;
 }
 
-.bybulluck {
+.topmenu .bybulluck {
     position: absolute;
     top: 45px;
     left: 170px;
     white-space: nowrap;
+}
+
+.top-heading {
+  font-size: 2.6rem;
 }
 
 
@@ -1717,6 +1721,10 @@ img.ajax-loader {
     background-image: url("../img-lp/toptab.png");
   }
 
+  .top-heading {
+    font-size: 2.4rem;
+  }
+
   .kvbn {
     padding-top: 100px;
   }
@@ -1724,6 +1732,8 @@ img.ajax-loader {
     width: 260px;
     margin-top: 0;
   }
+
+
 
   .linebannar {
     display: inline-block;
@@ -1764,6 +1774,8 @@ img.ajax-loader {
     margin-left: 15px;
   }
 }
+
+
 @media screen and (max-width: 768px) {
   .tokutyouheadding {
     font-size: 1.4rem;
@@ -1837,8 +1849,44 @@ img.ajax-loader {
   }
 }
 
+@media only screen and (max-width: 767px){
+
+.hidden-xs {
+    display: none !important;
+}
+
+.topmenu .bybulluck {
+    left: 110px;
+    top: 29px;
+    font-size: 12px;
+}
+}
+
+
+@media screen and (max-width:600px) {
+  .companyname {
+    line-height: 70px;
+  }
+
+
+  .top-heading {
+    font-size: 1.7rem;
+  }
+
+
+}
 
 @media screen and (max-width: 414px) {
+
+  .topmenu .bybulluck {
+    left: 110px;
+    top: 29px;
+  }
+
+  .top-heading {
+    font-size: 2.4rem;
+  }
+
   .kvbox,
   .kvbox-alt {
     height: 450px;
