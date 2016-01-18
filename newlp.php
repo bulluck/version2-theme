@@ -801,7 +801,7 @@
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
-                      今後のトレンドは！？
+                      ノウハウを制作時に落とし込むことで、コスト低減&効果倍増！
                     </h3>
 
                   </div>
