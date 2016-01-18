@@ -1009,11 +1009,11 @@
                 <div class="row">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-3 top-buffer">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/boy2.png" alt=""  class="worksimg"/>
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/workman2.png" alt=""  class="worksimg"/>
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
                     <p class="p">
-                         横浜法律事務所
+                         松田法律事務所
                        <br>38歳　弁護士　松田茂様(仮名)
                         </p>
                       <p class="smaller-p top-buffer">
@@ -1040,7 +1040,7 @@ Web戦略室様は、ただ制作するだけでなく、コンサルタント�
                 <div class="row">
                   <div class="col-xs-12">
                     <div class="col-xs-12 col-sm-3 top-buffer">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/img-lp/boy2.png" alt="今後のトレンド" class="worksimg" />
+                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/workman1.png" alt="今後のトレンド" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
                     
