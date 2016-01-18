@@ -963,7 +963,7 @@
                 <div class="row">
                   <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center border">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">社長様</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">サービス</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
@@ -985,7 +985,7 @@
                        <br>29歳　代表取締役社長　小倉進太郎様
                         </p>
                         <p class="smaller-p top-buffer">
-                         正直、最初は不安でした。本当に売り上げが上がるのか、そもそも投資した分を回収できるのかはかなり考えました。しかし、経営コンサルタントが親身に戦略を立ててくれたので、意思決定ができました。弊社の場合は、0からコンセプトメイク、設計、制作、広告運用までを行っていただきました。初期費用は戦略・制作もやっていただいて15万円のみの投資でしたのですぐに回収でき、リターンも得ることができました。非常に安くて結果に結びつくのでオススメです。
+                        webからの集客を検討しているときに、リスティングでの集客についてお手伝いいただきました。中小企業では、経営コンサルティングへの敷居が高いですが、制作時に売り上げにつながるノウハウを組み込むことでコストを下げているとのことで、とてもお安く依頼できました。現在も会社の方は順調に成長しており、今後もお付き合いさせていただきたいと思っています。
                         </p>
                       </div>
                     </div>
@@ -994,7 +994,7 @@
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center border">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">社長様</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">法律</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
@@ -1012,12 +1012,12 @@
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
                     <p class="p">
-                         株式会社北国物流
-                       <br>38歳　代表取締役社長　松田茂輝様
+                         横浜法律事務所
+                       <br>38歳　弁護士　松田茂様(仮名)
                         </p>
                       <p class="smaller-p top-buffer">
-                        以前は、高額な割に、効果の薄いリスティング広告を行っていました。 Web戦略室さんに相談したところ、ターゲットユーザーの選定が甘いことが原因でした。 その際、効果的なランディングページと運用をご提案いただきましたが、やはり出費は抑えたい気持ちもありました。
-Web戦略室さんの良いところは、コンサルタントによる提案力があり、集客に関することをなんでも質問できることだと思います。 制作・運用に投資をすることに関して、売上アップへの効果を丁寧に説明していただき、納得できました。 また、ランディングページも、納得のゆくものを作っていただけました。 その結果、問い合わせ数が2.5倍に増えるという劇的な効果がありました。ただの制作会社とは違います。 対応もよく相談して良かったと思います。
+                        以前は、高額な割に、効果の薄いリスティング広告を行っておりました。 Web戦略室様に相談したところ、ターゲットユーザーの選定が甘いことが判明しました。 その際、効果的な集客サイトとその運用のご提案をいただきました。
+Web戦略室様は、ただ制作するだけでなく、コンサルタントによる提案力があり、集客に関する疑問を解消してくださるところに強みがあると思います。 制作・運用に投資をすることに関して、売上への効果を丁寧に説明いただき、納得できました。 また、ランディングページも、納得のゆくものを作っていただけました。 その結果、問い合わせ数が2.5倍に増えるという劇的な効果がありました。提案力という点で、Web戦略室様を選びましたが、相談して良かったと思います。
                       </p>
                     </div>
                 </div>
@@ -1025,7 +1025,7 @@ Web戦略室さんの良いところは、コンサルタントによる提案�
                 <div class="row margin-t80">
                   <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center border">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">企画部長様</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">卸売</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
