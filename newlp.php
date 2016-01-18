@@ -964,7 +964,7 @@
                 <div class="row">
                   <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center border">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">サービス</span>
+                      <i class="fa fa-clipboard"></i><span class="agreespan">英語</span>
                     </div>
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
