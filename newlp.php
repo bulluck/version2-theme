@@ -299,7 +299,7 @@
                       </p>
                       <p class="tagblue white-text align-center top-buffer">対策</p>
                       <p class="smaller-p top-buffer height-fixed-taisaku">
-                        ターゲットの明確化、ターゲット特化型のデザイン設計、自社特徴の見える化を行い、全面に打ち出しました。英会話を習う潜在顧客は、海外や外国人に意識が向いており、外資イメージに反応が良い傾向があるので、外国人のモデルを多く出現させたランディングページを制作しました。
+                        ターゲットの明確化、ターゲット特化型のデザイン設計、自社特徴の見える化を行い、全面に打ち出しました。英会話を習う潜在顧客は、海外や外国人に意識が向いており、外資イメージに反応が良い傾向があるので、外国人のモデルを多く出現させたランディングページを制作。
                       </p>
                       <p class="taggreen white-text align-center top-buffer">実施後</p>
                       <p class="smaller-p top-buffer">
