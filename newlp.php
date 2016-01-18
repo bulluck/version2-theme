@@ -458,7 +458,7 @@
             <div class="col-xs-12 margin-t80">
               <div class="col-xs-12 clip-board purewhitebg top-buffer-padding bottom-buffer-padding">
                 <div class="row">
-                <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/position2.png" alt="経営コンサルタントがいることの違い" class="worksimg" scale="0">
+                <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/position3.png" alt="経営コンサルタントがいることの違い" class="worksimg" scale="0">
                   <div class="col-xs-6 col-sm-3 top-buffer">
                     <div class="blackbg font-bold white-text small-heading align-center border">
                       <i class="fa fa-clipboard"></i><span class="agreespan">その1</span>
