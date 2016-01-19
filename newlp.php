@@ -408,7 +408,7 @@
       </div>
     </div>
   </section>
-  
+
    <section class="section-padding80 purewhitebg">
     <div class="container-center">
       <div class="container-fluid">
@@ -573,13 +573,13 @@
 
   </section>
 
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
   <section class="section-padding80 purewhitebg">
     <div class="container-center">
       <div class="container-fluid">
@@ -878,12 +878,49 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-xs-12 col-sm-12 margin-t80">
+          <div class="col-xs-12 col-sm-12 margin-t80 parent-relative">
             <?php if (is_mobile()):?>
               <img src="<?php bloginfo('template_directory');?>/images/new_fee_sp.png" alt="ブラックランディングページ料金表" class="worksimg" />
             <?php else:?>
             <img src="<?php bloginfo('template_directory');?>/images/new_fee.png" alt="ブラックランディングページ料金表" class="worksimg" />
+            <div class="link-sankou1">
+              <div>
+                <a href="http://www.care-cure.jp/item/crystalrose/index_list.html" target="_blank">
+                  参考例1
+                </a>
+              </div>
+              <div>
+                <a href="http://www.funabashiya.jp/SHOP/53708/list.html?gclid=CjwKEAiAt_K0BRCzjtv92_HGoR0SJAA9QNn_UIqbzlHGPhJs25bdfDdo8BTdT71bwh1NdoJ3iRTWeBoCiN7w_wcB" target="_blank">
+                  参考例2
+                </a>
+              </div>
+            </div>
+            <div class="link-sankou2">
+              <div>
+                <a href="http://www.fracora.com/kk/pt/1512pc?xadid=dasg0000426&gclid=CjwKEAiAt_K0BRCzjtv92_HGoR0SJAA9QNn_W7UcvsSJXmQPv8ZvHxBOTVrbC6ZKHhlDtRaCxDUByxoCqQTw_wcB" target="_blank">
+                  参考例1
+                </a>
+              </div>
+              <div>
+                <a href="http://campaign.ajinomoto-kenko.com/cp/ag007cp/index.html?adid=g100000029oo" target="_blank">
+                  参考例2
+                </a>
+              </div>
+            </div>
+            <div class="link-sankou3">
+              <div>
+                <a href="http://lp.midomo.jp/" target="_blank">
+                  参考例1
+                </a>
+              </div>
+              <div>
+                <a href="http://www.lalabeauty.net/mpv/" target="_blank">
+                  参考例2
+                </a>
+              </div>
+            </div>
           <?php endif;?>
+
           </div>
         </div>
       </div>
@@ -911,8 +948,8 @@
       </div>
     </div>
   </section>
-  
-  
+
+
   <section class="section-padding80 purewhitebg">
     <div class="container-center">
       <div class="container-fluid">
@@ -1043,7 +1080,7 @@ Web戦略室様は、ただ制作するだけでなく、コンサルタント�
                       <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/workman1.png" alt="今後のトレンド" class="worksimg" />
                     </div>
                     <div class="col-xs-12 col-sm-9 top-buffer">
-                    
+
                      <p class="p">
                         株式会社HG
                        <br>40歳　営業企画部長　田中敏夫様(仮名)
@@ -1064,11 +1101,11 @@ Web戦略室様は、ただ制作するだけでなく、コンサルタント�
 
   </section>
 
-  
-  
-  
-  
-  
+
+
+
+
+
   <section class="section-padding80 purewhitebg">
     <div class="container-center">
       <div class="container-fluid">
@@ -1257,7 +1294,7 @@ Web戦略室様は、ただ制作するだけでなく、コンサルタント�
 
                 <dt class="top-buffer">制作に関してはどこまで相談可能でしょうか？</dt>
                 <dd>マーケティングの相談からデザインに関するご要望まで、弊社の過去の実績を元に貴社に最適なランディングページをご提案致します。販売数・受注率の向上に特化してご相談を承ります。</dd>
-                
+
                 <dt class="top-buffer">ひとまずお話だけお聞きしたいのですが可能ですか？</dt>
                 <dd>大歓迎です。Web集客に強い経営コンサルタントがご対応しますので、無料相談だけでも価値を感じていただけると思います。どんな些細なことでもご相談ください。</dd>
                  <dt class="top-buffer">どんなランディングページが出来上がるか不安です。</dt>

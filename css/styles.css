@@ -6328,7 +6328,6 @@ button.close {
   /* line 32, ../sass/bootstrap/_modals.scss */
   .modal.fade .modal-dialog {
     -webkit-transform: translate(0, -25%);
-    -ms-transform: translate(0, -25%);
     transform: translate(0, -25%);
     -webkit-transition: -webkit-transform 0.3s ease-out;
     transition: -webkit-transform 0.3s ease-out;
@@ -6337,7 +6336,6 @@ button.close {
   /* line 36, ../sass/bootstrap/_modals.scss */
   .modal.in .modal-dialog {
     -webkit-transform: translate(0, 0);
-    -ms-transform: translate(0, 0);
     transform: translate(0, 0); }
 
 /* line 38, ../sass/bootstrap/_modals.scss */
