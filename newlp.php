@@ -493,7 +493,7 @@
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
-                      売れるランディングページはデザイン性！？
+                      売れるランディングページはデザイン性だけじゃない！？
                     </h3>
 
                   </div>
