@@ -1153,122 +1153,19 @@ Web戦略室様は、ただ制作するだけでなく、コンサルタント�
               <div class="col-xs-12 clip-board purewhitebg top-buffer-padding bottom-buffer-padding">
                 <div class="row">
                 <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/lppro.png" alt="信念自己紹介" class="worksimg" scale="0">
-                  <div class="col-xs-6 col-sm-3 top-buffer">
-                    <div class="blackbg font-bold white-text small-heading align-center border">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">代表</span>
-                    </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-9 top-buffer">
-                    <h3 class="small-heading black-text font-bold">
-                     結果と信頼性の追求が最重要
-                    </h3>
-
-                  </div>
-                </div>
-                  <hr>
-                <div class="row">
-                  <div class="col-xs-12">
-                      <div class="col-xs-12 col-sm-3 top-buffer">
-                        <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/ogu.png" alt="地上戦vs空中戦" class="worksimg"/>
-                      </div>
-                      <div class="col-xs-12 col-sm-9 top-buffer">
-                        <p class="p">
-                         株式会社Bulluck
-                       <br>代表取締役社長(CEO&CMO)　宮川和樹
-                        </p>
-                        <p class="smaller-p top-buffer">
-                        ＜経歴＞<br>
-                       早稲田大学基幹理工学部卒業<br>
-                       早稲田大学大学院基幹理工学研究科修士課程修了<br> 
-                       東証一部上場経営コンサルティングファーム入社 <br>
-                       株式会社Bulluck創業<br>
-                       ＜経営コンサルティング実績＞<br>
-                       ・オートビジネス(車販、保険、板金、車検など)(年商80億円前後)名古屋、愛知、岩手、他<br>
-・法律事務所(年商5000万円前後)数社<br>
-・司法書士事務所(年商4000万円前後)数社<br> 
-・社労士事務所(年商4000万円前後)数社<br> 
-・税理士事務所(年商4000万円前後)数社<br> 
-・就労移行支援事業会社(年商1億前後)<br> 
-・新宿英会話学校(年商1億円前後)<br>
-・他実績多数あり<br> 
-                        </p>
-                        <p class="smaller-p top-buffer">
-                        わが社の資産は、人材、資本及び信用から成ります。これらのいづれをも欠くことはできませんが、とりわけ構成要素の一つである”信用”は、ひとたび逸すれば、この回復は極めて困難です。したがって、われわれは、法律、規則及び道義の字義と精神を固く尊守することを自らに課しています。われわれのさらなる成功は、この規範を忠実に守ることにかかっていると信じています。 また、我々は、我々が従事するあらゆる業務において最高の結果を得るために、不退転の決意でビジネスに望んでいます。わが社の業務が多岐にわたり、取扱量が大幅に増加する場合であっても、規模において最大であるよりも質において最良であることが我々の選択であることを従業員一同共有しています。 後悔はさせません。私が全責任を負って最高の商品をご提供いたします。
-                        </p>
-                      </div>
-                    </div>
-                </div>
-
-                <div class="row margin-t80">
-                  <div class="col-xs-6 col-sm-3 top-buffer">
-                    <div class="blackbg font-bold white-text small-heading align-center border">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">法律</span>
-                    </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-9 top-buffer">
-                    <h3 class="small-heading black-text font-bold">
-                     20万円ほどの投資でしたが、2ヶ月で投資回収に成功しました。
-                    </h3>
-
-                  </div>
-                </div>
-                  <hr>
-                <div class="row">
-                  <div class="col-xs-12">
-                    <div class="col-xs-12 col-sm-3 top-buffer">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/workman2.png" alt=""  class="worksimg"/>
-                    </div>
-                    <div class="col-xs-12 col-sm-9 top-buffer">
-                    <p class="p">
-                         松田法律事務所
-                       <br>38歳　弁護士　松田茂様(仮名)
-                        </p>
-                      <p class="smaller-p top-buffer">
-                        以前は、高額な割に、効果の薄いリスティング広告を行っておりました。 Web戦略室様に相談したところ、ターゲットユーザーの選定が甘いことが判明しました。 その際、効果的な集客サイトとその運用のご提案をいただきました。
-Web戦略室様は、ただ制作するだけでなく、コンサルタントによる提案力があり、集客に関する疑問を解消してくださるところに強みがあると思います。 制作・運用に投資をすることに関して、売上への効果を丁寧に説明いただき、納得できました。 また、ランディングページも、納得のゆくものを作っていただけました。 その結果、問い合わせ数が2.5倍に増えるという劇的な効果がありました。提案力という点で、Web戦略室様を選びましたが、相談して良かったと思います。
-                      </p>
-                    </div>
-                </div>
-                </div>
-                <div class="row margin-t80">
-                  <div class="col-xs-6 col-sm-3 top-buffer">
-                    <div class="blackbg font-bold white-text small-heading align-center border">
-                      <i class="fa fa-clipboard"></i><span class="agreespan">卸売</span>
-                    </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-9 top-buffer">
-                    <h3 class="small-heading black-text font-bold">
-                      低コストでコンサルティング会社並のサポートがあり、助かっています。
-                    </h3>
-
-                  </div>
-                </div>
-                  <hr>
-                <div class="row">
-                  <div class="col-xs-12">
-                    <div class="col-xs-12 col-sm-3 top-buffer">
-                      <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/workman1.png" alt="今後のトレンド" class="worksimg" />
-                    </div>
-                    <div class="col-xs-12 col-sm-9 top-buffer">
-
-                     <p class="p">
-                        株式会社HG
-                       <br>40歳　営業企画部長　田中敏夫様(仮名)
-                        </p>
-                      <p class="smaller-p top-buffer">
-                        卸では割とうまく行っていたのですが、会社の方針として、ネット上での小売販売にも進出することが決まり、私が戦略企画を担当することになりました。ネット集客等の経験は皆無でしたが、予算が限られていたので、経営コンサルティング会社には依頼できませんでした。そこでランディングページと広告運用代行を探していたところ、web戦略室さんを見つけました。設計と運用を経営コンサルタントがしてくれるということで、低価格で集客を依頼することができました。実際結果も出ているので、とても助かっています。
-                      </p>
-                    </div>
-                </div>
-                </div>
-
+                  
+            
+            
+            
+            
+                
               </div>
             </div>
           </div>
       </div>
 
     </div>
-
+</div>
   </section>
 
 
