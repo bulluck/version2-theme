@@ -1150,15 +1150,95 @@ Web戦略室様は、ただ制作するだけでなく、コンサルタント�
         </div>
           <div class="row">
             <div class="col-xs-12 margin-t80">
-              <div class="col-xs-12 clip-board purewhitebg top-buffer-padding bottom-buffer-padding">
+              <div class="col-xs-12 lighter-dark-bg top-buffer-padding bottom-buffer-padding">
                 <div class="row">
-                <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/lppro.png" alt="信念自己紹介" class="worksimg" scale="0">
-                  
-            
-            
-            
-            
-                
+                  <div class="col-xs-12 col-sm-5">
+                    <img src="<?php bloginfo('template_directory');?>/images/daihyouphoto.png" alt="代表写真" class="worksimg"/>
+                    <p class="smaller-p font-bold t-05rem" style="text-align:right">
+                      株式会社 Bulluck
+                    </p>
+                    <p class="smaller-p" style="text-align:right">
+                      代表取締役社長 宮川和樹
+                    </p>
+
+                  </div>
+                  <div class="col-xs-12 col-sm-7">
+                    <h3 class="medium-heading font-bold black-text xs-t-buffer">結果と信頼性の追求が最重要</h3>
+                    <p class="smaller-p top-buffer">
+                      わが社の資産は、人材、資本及び信用から成ります。これらのいづれをも欠くことはできませ
+                      んが、とりわけ構成要素の一つである”信用”
+                      は、ひとたび逸すれば、この回復は極めて困難
+                      です。
+                      したがって、我々は、法律、規則及び道義の字
+                      義と精神を固く尊守することを自らに課してい
+                      ます。我々のさらなる成功は、この規範を忠実
+                      に守ることにかかっていると信じています。
+                    </p>
+                    <p class="smaller-p top-buffer">
+                      また、我々は、我々が従事するあらゆる業務に
+                      おいて最高の結果を得るために、不退転の決意
+                      でビジネスに望んでいます。
+                      わが社の業務が多岐にわたり、取扱量が大幅に
+                      増加する場合であっても、規模において最大で
+                      あるよりも質において最良であることが我々の
+                      選択であることを従業員一同共有しています。
+                      私が全責任を負って最高の商品をご提供いたし
+                      ます。
+                    </p>
+                  </div>
+              </div>
+              <div class="row top-buffer">
+                <div class="col-xs-12">
+                  <div class="col-xs-12 purewhitebg top-buffer-padding bottom-buffer-padding">
+
+
+                <div class="col-xs-12 col-sm-6">
+                  <h4 class="border-white font-bold">経歴</h4>
+                  <ul class="t-05rem career-list">
+                    <li>早稲田大学基幹理工学部卒業</li>
+                    <li>
+                      早稲田大学大学院基幹理工学研究科修士課程修了
+                    </li>
+                    <li>
+                      東証一部上場経営コンサルティングファーム入社
+                    </li>
+                    <li>
+                      株式会社Bulluck創業
+                    </li>
+                  </ul>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                  <h4 class="font-bold border-white xs-t-buffer">経営コンサルティング実績</h4>
+                  <ul class="t-05rem career-list">
+                    <li>
+                      法律事務所(年商5000万円前後)数社
+                    </li>
+                    <li>
+                      司法書士事務所(年商4000万円前後)数社
+                    </li>
+                    <li>
+
+                      社労士事務所(年商4000万円前後)数社
+                    </li>
+                    <li>
+                      税理士事務所(年商4000万円前後)数社
+                    </li>
+                    <li>
+                      就労移行支援事業会社(年商1億前後)
+                    </li>
+                    <li>
+                      新宿英会話学校(年商1億円前後)
+                    </li>
+                    <li>
+                      オートビジネス：車販/保険/板金/
+                      車検(年商80億円前後)愛知県/岩手県/新潟県、他
+                    </li>
+
+                  </ul>
+                </div>
+              </div>
+            </div>
+
               </div>
             </div>
           </div>

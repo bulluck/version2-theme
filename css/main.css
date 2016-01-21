@@ -820,6 +820,18 @@ a:hover {
   background-color: #282727;
 }
 
+.lighter-dark-bg {
+  background-color: #E6E6E6;
+}
+
+.career-list {
+  padding-left: 1.5rem;
+}
+.career-list li {
+  list-style-type: disc;
+  line-height: 2;
+}
+
 .right-buffer {
   margin-right: 10px;
 }
