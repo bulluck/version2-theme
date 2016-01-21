@@ -493,7 +493,7 @@
                   </div>
                   <div class="col-xs-12 col-sm-9 top-buffer">
                     <h3 class="small-heading black-text font-bold">
-                      売れるランディングページはデザイン性！？
+                      売れるランディングページはデザイン性だけじゃない！？
                     </h3>
 
                   </div>
@@ -1102,6 +1102,71 @@ Web戦略室様は、ただ制作するだけでなく、コンサルタント�
   </section>
 
 
+
+  <section class="section-padding80 purewhitebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 contact-box">
+            <?php if (is_mobile()):?>
+                <img src="<?php bloginfo('template_directory');?>/images/b_sp_exit.png" alt="無料問い合わせ" class="worksimg"/>
+            <?php else:?>
+              <img src="<?php bloginfo('template_directory');?>/images/newlp_exit.png" alt="無料見積もり" class="worksimg"/>
+            <?php endif; ?>
+            <div class="col-xs-12 col-sm-12 hidden">
+              <h2>
+                経営コンサルタントが設計！『受注率にコミット』するならブラック!
+              </h2>
+              <h3>広告運用と同時申し込みで制作費用が半額に！</h3>
+              <p>
+                ランディングページ制作と同時申し込みで、リスティング・Facebook等の広告運用を私たち経営コンサルタントにお任せいただいた場合、<em>制作費が半額</em>になります。
+              </p>
+              <p>
+                制作数には上限があります。お早めにお問い合わせください。
+              </p>
+            </div>
+
+            <a class="cb-btn-1" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_red.png" alt="無料見積もりボタン" class="worksimg" />
+            </a>
+            <a class="cb-btn-2" href="<?php echo home_url('/');?>contact/">
+              <img src="<?php bloginfo('template_directory');?>/images/new_exitbtn_blue.png" alt="お問い合わせボタン" class="worksimg" />
+            </a>
+          </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+  <section class="section-padding80 bluebg">
+    <div class="container-center">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12" id="reason">
+            <h2 class="medium-heading agreespan border-top-bottom bottom-buffer-padding top-buffer-padding heading-circle good-reason sp-br">Web戦略室の信念</h2>
+          </div>
+        </div>
+          <div class="row">
+            <div class="col-xs-12 margin-t80">
+              <div class="col-xs-12 clip-board purewhitebg top-buffer-padding bottom-buffer-padding">
+                <div class="row">
+                <img src="http://bulluck.co.jp/version2/wp-content/themes/version2-theme/images/lppro.png" alt="信念自己紹介" class="worksimg" scale="0">
+                  
+            
+            
+            
+            
+                
+              </div>
+            </div>
+          </div>
+      </div>
+
+    </div>
+</div>
+  </section>
 
 
 
