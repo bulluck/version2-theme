@@ -1008,7 +1008,6 @@
                     <h3 class="small-heading black-text font-bold">
                       依頼開始から半年で、月商3倍突破へ。
                     </h3>
-
                   </div>
                 </div>
                   <hr>
