@@ -1,3 +1,5 @@
+<?php dynamic_sidebar('primary-widget-area'); ?>
+<div class="fb-page top-buffer" data-href="https://www.facebook.com/bulluck.co.jp/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bulluck.co.jp/"><a href="https://www.facebook.com/bulluck.co.jp/">Bulluck Co., Ltd.</a></blockquote></div></div>
 <ul class="tax-list">
   <li>
     <a href="<?php echo home_url('/');?>marketing/">
