@@ -303,9 +303,9 @@ function catch_that_image() {
     ob_end_clean();
     $output = preg_match_all('/<img.+src=[\'"]([^\'"]+)[\'"].*>/i', $post->post_content, $matches);
     $first_img = $matches [1] [0];
-  
+
 if(empty($first_img)){ //Defines a default image
-        $first_img = "/images/default-thumbnail.jpg";
+        $first_img = "http://bulluck.co.jp/version2/wp-content/uploads/2015/11/default-img.jpg";
     }
     return $first_img;
 }
@@ -415,10 +415,10 @@ function custom_taxonomies_terms_links(){
     $terms = get_the_terms( $post->ID, $taxonomy_slug );
 
     if ( !empty( $terms ) ) {
-      $out[] = '<ul class="termlist mt-15">';
+      $out[] = '<ul class="termlist mt-10">';
       foreach ( $terms as $term ) {
         $out[] =
-          '  <li class="termtag mr-5"><a href="'
+          '  <li class="termtag mr-5 mt-5"><a href="'
         .    get_term_link( $term->slug, $taxonomy_slug ) .'">'
         .    $term->name
         . "</a></li>\n";

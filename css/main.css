@@ -999,6 +999,7 @@ div.wpcf7 img.ajax-loader {
   padding: 10px;
   background: #e5e5e5;
   font-weight: bolder;
+  color: #111;
 }
 
 .side-cat-list {
@@ -1076,6 +1077,16 @@ div.wpcf7 img.ajax-loader {
   line-height: 2.2;
   font-size: 1.1rem;
   margin-bottom: 30px;
+}
+.entry ol {
+  padding-left: 25px;
+  margin-bottom: 30px;
+}
+.entry ol li {
+  list-style-type: decimal;
+  font-size: 1.1rem;
+  line-height: 2.2;
+  padding-left: 10px;
 }
 .entry ul {
   padding-left: 25px;
@@ -2225,8 +2236,8 @@ hr {
 }
 
 .blog-list {
-  border: 1px solid #ccc;
   border-top: 0;
+  box-shadow: -3px 0px 5px 0px #ddd, 3px 0px 5px 0px #ddd;
 }
 .blog-list:first-child {
   border-top: 1px solid #ccc;
@@ -2293,7 +2304,7 @@ hr {
   border-radius: 3px;
   color: #FFFFFF;
   cursor: not-allowed;
-  padding: 10px 20px;
+  padding: 10px 10px;
 }
 
 .pagenation li a {
@@ -2301,7 +2312,7 @@ hr {
   border-radius: 3px;
   color: #FFFFFF;
   display: block;
-  padding: 10px 20px;
+  padding: 10px 10px;
   text-decoration: none;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
 }
@@ -2318,12 +2329,9 @@ hr {
           transition-timing-function: ease;
 }
 
-#lct-widget-blogcategory > .cat-item {
-  margin-top: 10px;
-}
-
 .cat-item {
   border-bottom: 1px solid #ccc;
+  margin-top: 10px;
 }
 .cat-item a {
   display: block;
@@ -2358,6 +2366,10 @@ hr {
 .termlist .termtag a {
   color: white;
   font-size: .8rem;
+}
+
+.widget-container {
+  margin-bottom: 80px;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -2576,6 +2588,12 @@ hr {
 
   .entry {
     margin-top: 80px;
+  }
+  .entry img {
+    width: 100%;
+    height: auto;
+    -o-object-fit: contain;
+       object-fit: contain;
   }
 }
 @media screen and (max-width: 600px) and (orientation: portrait) {

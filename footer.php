@@ -70,10 +70,8 @@
   </div>
   </div>
 </footer>
-<script src="<?php bloginfo('template_url');?>/js/bootstrap.offcanvas.js"></script>
 <script src="<?php bloginfo('template_url');?>/js/function.js"></script>
 
-<?php wp_footer();?>
 
 
 <script>
@@ -88,5 +86,6 @@
 </script>
 
 
+<?php wp_footer();?>
 </body>
 </html>

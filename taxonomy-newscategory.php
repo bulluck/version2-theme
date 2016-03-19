@@ -5,11 +5,16 @@
     <div class="row">
     <div class="col-xs-12 top-buffer">
         <h1 class="large-heading condensed-bold align-center">
-            BLOG
+            <?php
+            $blogtitle = wp_title ( '｜', false, 'right' );
+            list($ttl,$blgcat) = explode('｜', $blogtitle);
+            echo $ttl;
+           ?>
         </h1>
         <p class="top-buffer small-text white-text align-center">
-            Bulluck + BLOG = Bullog. いつでもブラックな情報を。
-        </p>
+        ホットなニュース。
+</p>
+
     </div>
     </div>
 </div>
@@ -37,7 +42,7 @@ $i=0;
 while (have_posts()):
     $i++;
 the_post(); ?>
-<article class="col-xs-12 purewhitebg blog-list blglist-hv pt-15 pb-15">
+<article class="col-xs-12 purewhitebg blog-list blglist-hv pt-15 pb-15 pr-10 pl-10 ">
 
     <div class="col-xs-5 col-sm-3">
         <a href="<?php the_permalink();?>">
@@ -53,9 +58,9 @@ the_post(); ?>
     </div>
 </article>
 <?php if($i == 10):?>
-<div class="col-xs-12 blog-list lighter-dark-bg pl-10 pr-10">
+<div class="col-xs-12 blog-list lighter-dark-bg pr-10 pl-10">
 
-                            <div class="col-xs-12 col-md-6 mt-50 mb-50 pr-0 pl-0 ">
+                            <div class="col-xs-6 mt-50 mb-50 pl-0 pr-0">
                             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                             <!-- ブラックメディア広告 -->
                             <ins class="adsbygoogle"
@@ -67,7 +72,7 @@ the_post(); ?>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
                             </div>
-                            <div class="col-md-6 hidden-xs hidden-sm mt-50 mb-50 pl-5 pr-0 ">
+                            <div class="col-sm-6 hidden-xs mt-50 mb-50 pl-5 pr-0">
                             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                             <!-- ブラックメディア広告 -->
                             <ins class="adsbygoogle"
@@ -86,7 +91,7 @@ the_post(); ?>
 endif; ?>
 <div class="col-xs-12">
 <?php
-//Pagenation
+//Pagenation 
 if (function_exists("pagination")) {
     pagination($additional_loop->max_num_pages);
 }

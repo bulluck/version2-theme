@@ -13,12 +13,12 @@
 			else :
 			wp_title ( '｜', true, 'right' );
 			endif;
-			bloginfo ( 'name' );
-			if (is_front_page ()) :
+            bloginfo ( 'name' );
+            if (is_front_page ()) :
 			echo '｜';
 			bloginfo ( 'description' );
 			endif;
-			if ($paged >= 2 || $page >= 2) :
+            if ($paged >= 2 || $page >= 2) :
 			echo '｜' . sprintf ( '%sページ', max ( $paged, $page ) );
 			endif;
 		?>

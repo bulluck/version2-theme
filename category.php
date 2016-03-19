@@ -5,11 +5,17 @@
     <div class="row">
     <div class="col-xs-12 top-buffer">
         <h1 class="large-heading condensed-bold align-center">
-            BLOG
+            <?php 
+            
+            $blogtitle = wp_title ( '｜', false, 'right' );
+            list($ttl,$blgcat) = explode('｜', $blogtitle);
+            echo $ttl;
+           ?>
         </h1>
         <p class="top-buffer small-text white-text align-center">
             Bulluck + BLOG = Bullog. いつでもブラックな情報を。
         </p>
+
     </div>
     </div>
 </div>
@@ -30,7 +36,7 @@ bcn_display();
             </div>
             <div class="row">
 
-                <div class="col-xs-12 col-sm-8 col-sm-push-4">
+                <div class="col-xs-12 col-sm-9 col-sm-push-3">
 <?php if (have_posts()): ?>
 <?php
 $i=0;
@@ -53,9 +59,9 @@ the_post(); ?>
     </div>
 </article>
 <?php if($i == 10):?>
-<div class="col-xs-12 blog-list lighter-dark-bg pl-10 pr-10">
+<div class="col-xs-12 blog-list lighter-dark-bg">
 
-                            <div class="col-xs-12 col-md-6 mt-50 mb-50 pr-0 pl-0 ">
+                            <div class="col-xs-6 mt-50 mb-50">
                             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                             <!-- ブラックメディア広告 -->
                             <ins class="adsbygoogle"
@@ -67,7 +73,7 @@ the_post(); ?>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
                             </div>
-                            <div class="col-md-6 hidden-xs hidden-sm mt-50 mb-50 pl-5 pr-0 ">
+                            <div class="col-xs-6 mt-50 mb-50">
                             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                             <!-- ブラックメディア広告 -->
                             <ins class="adsbygoogle"
@@ -81,19 +87,19 @@ the_post(); ?>
                             </div>
 <?php $i=0;?>
 </div>
-<?php endif; ?>
+<?php endif ;?>
 <?php endwhile;
 endif; ?>
 <div class="col-xs-12">
 <?php
-//Pagenation
+//Pagenation 
 if (function_exists("pagination")) {
     pagination($additional_loop->max_num_pages);
 }
 ?>
 </div>
 </div>
-<div class="col-xs-12 col-sm-4 col-sm-pull-8 pr-10 pl-10">
+<div class="col-xs-12 col-sm-3 col-sm-pull-9">
 <?php get_template_part('sidebar');?>
 </div>
                                         </div>
